@@ -1,1 +1,1 @@
-# 2020_Polyp_SCRNASeq
+# 2020_Regeneration_Induction
