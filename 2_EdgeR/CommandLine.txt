@@ -1,0 +1,101 @@
+# mTOR = XLOC_029150
+ 
+############################################
+# Differential expression analysis in EdgeR
+############################################
+
+#############
+# All vs all
+#############
+
+/usr/local/Cellar/trinity/2.8.3_1/libexec/Analysis/DifferentialExpression/run_DE_analysis.pl \
+--matrix genes.count_table \
+--method edgeR \
+--samples_file samples_file.txt
+
+# Example samples_file.txt
+
+3mL_27hr	3mL_27hr_2	
+3mL_27hr	3mL_27hr_3	
+NoFood_27hr	NoFood_27hr_0	
+NoFood_27hr	NoFood_27hr_1	
+WT	WT_0	
+WT	WT_1
+
+# Create differential expression matrix
+
+cd edgeR.all_vs_all.dir
+/usr/local/Cellar/trinity/2.8.3_1/libexec/Analysis/DifferentialExpression/analyze_diff_expr.pl \
+--matrix ../genes.fpkm_table \
+--samples ../samples_file.txt
+
+# GoSeq
+
+/usr/local/Cellar/trinity/2.8.3_1/libexec/Analysis/DifferentialExpression/run_GOseq.pl \
+--genes_single_factor  GoSeq_List_p12_subclust50.txt \
+--GO_assignments  ../../../2_Trinotate/go_annotations.txt \
+--lengths ../../../2_Trinotate/Trinity.gene_lengths.txt \
+--background GoSeq_Background.txt
+                       
+/usr/local/Cellar/trinity/2.8.3_1/libexec/Analysis/DifferentialExpression/run_GOseq.pl \
+--genes_single_factor  GoSeq_List_p15_subclust9.txt \
+--GO_assignments  ../../../2_Trinotate/go_annotations.txt \
+--lengths ../../../2_Trinotate/Trinity.gene_lengths.txt \
+--background GoSeq_Background.txt
+
+/usr/local/Cellar/trinity/2.8.3_1/libexec/Analysis/DifferentialExpression/run_GOseq.pl \
+--genes_single_factor  GOSeq_List_27hrFed_vs_unfed.txt \
+--GO_assignments  ../../../2_Trinotate/go_annotations.txt \
+--lengths ../../../2_Trinotate/Trinity.gene_lengths.txt \
+--background GoSeq_Background.txt
+
+###########################################################################
+# Gene Ontology (GO) Enrichment Analysis on Differentially Expressed Genes
+###########################################################################
+
+cd edgeR.all_vs_all.dir
+/usr/local/Cellar/trinity/2.8.3_1/libexec/Analysis/DifferentialExpression/analyze_diff_expr.pl \
+-P 0.05 --max_genes_clust 12000 --matrix ../genes.fpkm_table \
+--samples ../samples_file.txt \
+--examine_GO_enrichment  --GO_annots ../../../2_Trinotate/go_annotations.txt --gene_lengths ../../../2_Trinotate/Trinity.gene_lengths.txt
+
+############################################################
+# Automatically Partitioning Genes into Expression Clusters
+############################################################
+
+/usr/local/Cellar/trinity/2.8.3_1/libexec/Analysis/DifferentialExpression/define_clusters_by_cutting_tree.pl \
+-R  diffExpr.P0.05_C2.matrix.RData --Ptree 12
+
+#############################
+#############################
+# Final Analysis -- no 51 hr
+#############################
+#############################
+
+# Partition tree
+
+/usr/local/Cellar/trinity/2.8.3_1/libexec/Analysis/DifferentialExpression/define_clusters_by_cutting_tree.pl \
+-R  diffExpr.P0.001_C2.matrix.RData --Ptree 15
+
+# GoSeq
+	# Background list generated from "diffExpr.P0.001_C2.matrix"
+
+/usr/local/Cellar/trinity/2.8.3_1/libexec/Analysis/DifferentialExpression/run_GOseq.pl \
+--genes_single_factor  GoSeq_List.P10.subcluster_7.txt \
+--GO_assignments  ../../../2_Trinotate/go_annotations.txt \
+--lengths ../../../2_Trinotate/Trinity.gene_lengths.txt \
+--background GoSeq_Background.txt
+
+/usr/local/Cellar/trinity/2.8.3_1/libexec/Analysis/DifferentialExpression/run_GOseq.pl \
+--genes_single_factor  GoSeq_List.P15.subcluster_6_.txt \
+--GO_assignments  ../../../2_Trinotate/go_annotations.txt \
+--lengths ../../../2_Trinotate/Trinity.gene_lengths.txt \
+--background GoSeq_Background.txt
+
+# GoSeq (all DE Genes)
+
+/usr/local/Cellar/trinity/2.8.3_1/libexec/Analysis/DifferentialExpression/run_GOseq.pl \
+--genes_single_factor  GoSeq_Background.txt \
+--GO_assignments  ../../../2_Trinotate/go_annotations.txt \
+--lengths ../../../2_Trinotate/Trinity.gene_lengths.txt \
+--background GO_List.Background.Min5FPKM.txt
