@@ -1,0 +1,12 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0010870	0.000471244877686138	1	1	1	positive regulation of receptor biosynthetic process	BP	0.9999999999	BP positive regulation of receptor biosynthetic process	XLOC_072582
+GO:0010984	0.000471244877686138	1	1	1	regulation of lipoprotein particle clearance	BP	0.9999999999	BP regulation of lipoprotein particle clearance	XLOC_072582
+GO:0010988	0.000471244877686138	1	1	1	regulation of low-density lipoprotein particle clearance	BP	0.9999999999	BP regulation of low-density lipoprotein particle clearance	XLOC_072582
+GO:0045716	0.000471244877686138	1	1	1	positive regulation of low-density lipoprotein particle receptor biosynthetic process	BP	0.9999999999	BP positive regulation of low-density lipoprotein particle receptor biosynthetic process	XLOC_072582
+GO:0010869	0.000976662529161269	0.999999880701383	1	2	regulation of receptor biosynthetic process	BP	0.9999999999	BP regulation of receptor biosynthetic process	XLOC_072582
+GO:0045714	0.000976662529161269	0.999999880701383	1	2	regulation of low-density lipoprotein particle receptor biosynthetic process	BP	0.9999999999	BP regulation of low-density lipoprotein particle receptor biosynthetic process	XLOC_072582
+GO:0005783	0.0363280185313125	0.999667111986718	1	106	endoplasmic reticulum	CC	0.9999999999	CC endoplasmic reticulum	XLOC_072582
+GO:0010629	0.0400276434126522	0.999594638791171	1	120	negative regulation of gene expression	BP	0.9999999999	BP negative regulation of gene expression	XLOC_072582
+GO:0010557	0.0414948675320028	0.999563928637149	1	124	positive regulation of macromolecule biosynthetic process	BP	0.9999999999	BP positive regulation of macromolecule biosynthetic process	XLOC_072582
+GO:0009891	0.0448402510709913	0.99948958999811	1	134	positive regulation of biosynthetic process	BP	0.9999999999	BP positive regulation of biosynthetic process	XLOC_072582
+GO:0051247	0.0455058671443122	0.999474029890655	1	138	positive regulation of protein metabolic process	BP	0.9999999999	BP positive regulation of protein metabolic process	XLOC_072582

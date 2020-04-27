@@ -1,0 +1,14 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0030433	0.00718283115676813	0.999981026998025	1	5	ubiquitin-dependent ERAD pathway	BP	0.9999999999	BP ubiquitin-dependent ERAD pathway	XLOC_037966
+GO:0045229	0.00761666736964785	0.999982211661502	1	3	external encapsulating structure organization	BP	0.9999999999	BP external encapsulating structure organization	XLOC_012343
+GO:0071555	0.00761666736964785	0.999982211661502	1	3	cell wall organization	BP	0.9999999999	BP cell wall organization	XLOC_012343
+GO:0036503	0.00824544436234566	0.99997394689651	1	6	ERAD pathway	BP	0.9999999999	BP ERAD pathway	XLOC_037966
+GO:0071554	0.0150616093910811	0.999921499514191	1	4	cell wall organization or biogenesis	BP	0.9999999999	BP cell wall organization or biogenesis	XLOC_012343
+GO:0006986	0.019069066643276	0.999847366405341	1	11	response to unfolded protein	BP	0.9999999999	BP response to unfolded protein	XLOC_037966
+GO:0035966	0.019069066643276	0.999847366405341	1	11	response to topologically incorrect protein	BP	0.9999999999	BP response to topologically incorrect protein	XLOC_037966
+GO:0004181	0.0286332377767952	0.999683078265439	1	6	metallocarboxypeptidase activity	MF	0.9999999999	MF metallocarboxypeptidase activity	XLOC_012343
+GO:0050773	0.0289065248262132	0.999631277667485	1	21	regulation of dendrite development	BP	0.9999999999	BP regulation of dendrite development	XLOC_006515
+GO:0004180	0.0313292479812605	0.999595081997715	1	9	carboxypeptidase activity	MF	0.9999999999	MF carboxypeptidase activity	XLOC_012343
+GO:0034976	0.0384571592472492	0.99933688214535	1	28	response to endoplasmic reticulum stress	BP	0.9999999999	BP response to endoplasmic reticulum stress	XLOC_037966
+GO:0006508	0.0419781773244183	0.996172827477937	2	192	proteolysis	BP	0.9999999999	BP proteolysis	XLOC_012343, XLOC_037966
+GO:0008235	0.045720852035243	0.999094369951137	1	14	metalloexopeptidase activity	MF	0.9999999999	MF metalloexopeptidase activity	XLOC_012343

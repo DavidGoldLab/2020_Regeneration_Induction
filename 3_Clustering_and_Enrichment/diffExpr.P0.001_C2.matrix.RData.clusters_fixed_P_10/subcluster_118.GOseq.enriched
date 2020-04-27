@@ -1,0 +1,117 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0004152	0.000249961907948136	1	1	1	dihydroorotate dehydrogenase activity	MF	0.305625842272616	MF dihydroorotate dehydrogenase activity	XLOC_040618
+GO:0007565	0.000249961907948136	1	1	1	female pregnancy	BP	0.305625842272616	BP female pregnancy	XLOC_040618
+GO:0031000	0.000249961907948136	1	1	1	response to caffeine	BP	0.305625842272616	BP response to caffeine	XLOC_040618
+GO:0044205	0.000249961907948136	1	1	1	'de novo' UMP biosynthetic process	BP	0.305625842272616	BP 'de novo' UMP biosynthetic process	XLOC_040618
+GO:0044706	0.000249961907948136	1	1	1	multi-multicellular organism process	BP	0.305625842272616	BP multi-multicellular organism process	XLOC_040618
+GO:0090140	0.000249961907948136	1	1	1	regulation of mitochondrial fission	BP	0.305625842272616	BP regulation of mitochondrial fission	XLOC_040618
+GO:1903576	0.000249961907948136	1	1	1	response to L-arginine	BP	0.305625842272616	BP response to L-arginine	XLOC_040618
+GO:0006222	0.000408482428414974	1	1	2	UMP biosynthetic process	BP	0.305625842272616	BP UMP biosynthetic process	XLOC_040618
+GO:0009129	0.000408482428414974	1	1	2	pyrimidine nucleoside monophosphate metabolic process	BP	0.305625842272616	BP pyrimidine nucleoside monophosphate metabolic process	XLOC_040618
+GO:0009130	0.000408482428414974	1	1	2	pyrimidine nucleoside monophosphate biosynthetic process	BP	0.305625842272616	BP pyrimidine nucleoside monophosphate biosynthetic process	XLOC_040618
+GO:0009173	0.000408482428414974	1	1	2	pyrimidine ribonucleoside monophosphate metabolic process	BP	0.305625842272616	BP pyrimidine ribonucleoside monophosphate metabolic process	XLOC_040618
+GO:0009174	0.000408482428414974	1	1	2	pyrimidine ribonucleoside monophosphate biosynthetic process	BP	0.305625842272616	BP pyrimidine ribonucleoside monophosphate biosynthetic process	XLOC_040618
+GO:0046049	0.000408482428414974	1	1	2	UMP metabolic process	BP	0.305625842272616	BP UMP metabolic process	XLOC_040618
+GO:0016635	0.000473742211581124	1	1	2	oxidoreductase activity, acting on the CH-CH group of donors, quinone or related compound as acceptor	MF	0.305625842272616	MF oxidoreductase activity, acting on the CH-CH group of donors, quinone or related compound as acceptor	XLOC_040618
+GO:0006221	0.000566054498953376	1	1	3	pyrimidine nucleotide biosynthetic process	BP	0.305625842272616	BP pyrimidine nucleotide biosynthetic process	XLOC_040618
+GO:0009218	0.000566054498953376	1	1	3	pyrimidine ribonucleotide metabolic process	BP	0.305625842272616	BP pyrimidine ribonucleotide metabolic process	XLOC_040618
+GO:0009220	0.000566054498953376	1	1	3	pyrimidine ribonucleotide biosynthetic process	BP	0.305625842272616	BP pyrimidine ribonucleotide biosynthetic process	XLOC_040618
+GO:0046132	0.000566054498953376	1	1	3	pyrimidine ribonucleoside biosynthetic process	BP	0.305625842272616	BP pyrimidine ribonucleoside biosynthetic process	XLOC_040618
+GO:0046134	0.000566054498953376	1	1	3	pyrimidine nucleoside biosynthetic process	BP	0.305625842272616	BP pyrimidine nucleoside biosynthetic process	XLOC_040618
+GO:0048039	0.000571851140934823	1	1	3	ubiquinone binding	MF	0.305625842272616	MF ubiquinone binding	XLOC_040618
+GO:0006213	0.000724173063486553	1	1	4	pyrimidine nucleoside metabolic process	BP	0.32391805213179	BP pyrimidine nucleoside metabolic process	XLOC_040618
+GO:0046131	0.000724173063486553	1	1	4	pyrimidine ribonucleoside metabolic process	BP	0.32391805213179	BP pyrimidine ribonucleoside metabolic process	XLOC_040618
+GO:0006220	0.000746608412716555	1	1	4	pyrimidine nucleotide metabolic process	BP	0.32391805213179	BP pyrimidine nucleotide metabolic process	XLOC_040618
+GO:0044703	0.000783251640680743	1	1	4	multi-organism reproductive process	BP	0.32391805213179	BP multi-organism reproductive process	XLOC_040618
+GO:0006207	0.000787900585220931	1	1	4	'de novo' pyrimidine nucleobase biosynthetic process	BP	0.32391805213179	BP 'de novo' pyrimidine nucleobase biosynthetic process	XLOC_040618
+GO:0019856	0.000787900585220931	1	1	4	pyrimidine nucleobase biosynthetic process	BP	0.32391805213179	BP pyrimidine nucleobase biosynthetic process	XLOC_040618
+GO:0010181	0.000855393610101573	1	1	4	FMN binding	MF	0.338640825865767	MF FMN binding	XLOC_040618
+GO:0048038	0.000923525195512056	1	1	5	quinone binding	MF	0.352555743386727	MF quinone binding	XLOC_040618
+GO:0009163	0.00105296000375769	1	1	6	nucleoside biosynthetic process	BP	0.361666543405198	BP nucleoside biosynthetic process	XLOC_040618
+GO:0042455	0.00105296000375769	1	1	6	ribonucleoside biosynthetic process	BP	0.361666543405198	BP ribonucleoside biosynthetic process	XLOC_040618
+GO:0007595	0.00108261477329276	1	1	6	lactation	BP	0.361666543405198	BP lactation	XLOC_040618
+GO:0006206	0.00110414810657177	1	1	6	pyrimidine nucleobase metabolic process	BP	0.361666543405198	BP pyrimidine nucleobase metabolic process	XLOC_040618
+GO:0046112	0.00111656805429615	1	1	6	nucleobase biosynthetic process	BP	0.361666543405198	BP nucleobase biosynthetic process	XLOC_040618
+GO:1901659	0.00121118959903312	1	1	7	glycosyl compound biosynthetic process	BP	0.37474201102713	BP glycosyl compound biosynthetic process	XLOC_040618
+GO:0007589	0.00123960349701876	1	1	7	body fluid secretion	BP	0.37474201102713	BP body fluid secretion	XLOC_040618
+GO:0072528	0.00126211174075935	1	1	7	pyrimidine-containing compound biosynthetic process	BP	0.37474201102713	BP pyrimidine-containing compound biosynthetic process	XLOC_040618
+GO:0009116	0.00140534405834351	1	1	8	nucleoside metabolic process	BP	0.395308490516678	BP nucleoside metabolic process	XLOC_040618
+GO:0009119	0.00140534405834351	1	1	8	ribonucleoside metabolic process	BP	0.395308490516678	BP ribonucleoside metabolic process	XLOC_040618
+GO:0009124	0.00174313744375377	1	1	10	nucleoside monophosphate biosynthetic process	BP	0.458561535046594	BP nucleoside monophosphate biosynthetic process	XLOC_040618
+GO:0009156	0.00174313744375377	1	1	10	ribonucleoside monophosphate biosynthetic process	BP	0.458561535046594	BP ribonucleoside monophosphate biosynthetic process	XLOC_040618
+GO:0072527	0.00175891317587336	1	1	10	pyrimidine-containing compound metabolic process	BP	0.458561535046594	BP pyrimidine-containing compound metabolic process	XLOC_040618
+GO:1901657	0.00201272564419167	1	1	11	glycosyl compound metabolic process	BP	0.512238676446781	BP glycosyl compound metabolic process	XLOC_040618
+GO:0009260	0.00237454887892517	1	1	14	ribonucleotide biosynthetic process	BP	0.576853476518891	BP ribonucleotide biosynthetic process	XLOC_040618
+GO:0046390	0.00237454887892517	1	1	14	ribose phosphate biosynthetic process	BP	0.576853476518891	BP ribose phosphate biosynthetic process	XLOC_040618
+GO:0016627	0.00246808167790798	1	1	14	oxidoreductase activity, acting on the CH-CH group of donors	MF	0.586251667892409	MF oxidoreductase activity, acting on the CH-CH group of donors	XLOC_040618, XLOC_040618
+GO:0009112	0.00258644228375685	1	1	14	nucleobase metabolic process	BP	0.601010468936456	BP nucleobase metabolic process	XLOC_040618
+GO:0009165	0.00272351259014771	1	1	16	nucleotide biosynthetic process	BP	0.608940992998532	BP nucleotide biosynthetic process	XLOC_040618
+GO:0010821	0.00273450909008603	1	1	15	regulation of mitochondrion organization	BP	0.608940992998532	BP regulation of mitochondrion organization	XLOC_040618
+GO:0008144	0.00286440191044498	1	1	16	drug binding	MF	0.624848816749926	MF drug binding	XLOC_040618
+GO:0043279	0.00292328284921239	1	1	16	response to alkaloid	BP	0.624939407504626	BP response to alkaloid	XLOC_040618
+GO:1901293	0.00327348966475755	1	1	19	nucleoside phosphate biosynthetic process	BP	0.686084922090069	BP nucleoside phosphate biosynthetic process	XLOC_040618
+GO:0014074	0.00361446149127186	1	1	20	response to purine-containing compound	BP	0.742980363080864	BP response to purine-containing compound	XLOC_040618
+GO:0043200	0.00387101656802543	1	1	22	response to amino acid	BP	0.78070369991743	BP response to amino acid	XLOC_040618
+GO:0009123	0.00408791268882995	1	1	23	nucleoside monophosphate metabolic process	BP	0.794467249652787	BP nucleoside monophosphate metabolic process	XLOC_040618
+GO:0009161	0.00408791268882995	1	1	23	ribonucleoside monophosphate metabolic process	BP	0.794467249652787	BP ribonucleoside monophosphate metabolic process	XLOC_040618
+GO:0042594	0.00443736568396349	1	1	25	response to starvation	BP	0.846982174926531	BP response to starvation	XLOC_040618
+GO:1901137	0.00522845538850686	1	1	30	carbohydrate derivative biosynthetic process	BP	0.980472976276313	BP carbohydrate derivative biosynthetic process	XLOC_040618
+GO:0009259	0.00541550302412444	1	1	31	ribonucleotide metabolic process	BP	0.98112392923502	BP ribonucleotide metabolic process	XLOC_040618
+GO:0019693	0.00541550302412444	1	1	31	ribose phosphate metabolic process	BP	0.98112392923502	BP ribose phosphate metabolic process	XLOC_040618
+GO:0050878	0.00583869507532167	1	1	33	regulation of body fluid levels	BP	0.9999999999	BP regulation of body fluid levels	XLOC_040618
+GO:0001101	0.00617905593395395	1	1	35	response to acid chemical	BP	0.9999999999	BP response to acid chemical	XLOC_040618
+GO:0090407	0.00625121172168338	1	1	35	organophosphate biosynthetic process	BP	0.9999999999	BP organophosphate biosynthetic process	XLOC_040618
+GO:0019866	0.00662462938190445	1	1	38	organelle inner membrane	CC	0.9999999999	CC organelle inner membrane	XLOC_040618
+GO:0005743	0.00665183588057965	1	1	37	mitochondrial inner membrane	CC	0.9999999999	CC mitochondrial inner membrane	XLOC_040618
+GO:0031667	0.00687157813559171	1	1	39	response to nutrient levels	BP	0.9999999999	BP response to nutrient levels	XLOC_040618
+GO:0006753	0.00802666634976048	1	1	46	nucleoside phosphate metabolic process	BP	0.9999999999	BP nucleoside phosphate metabolic process	XLOC_040618
+GO:0009117	0.00802666634976048	1	1	46	nucleotide metabolic process	BP	0.9999999999	BP nucleotide metabolic process	XLOC_040618
+GO:0009991	0.00808561213075869	1	1	46	response to extracellular stimulus	BP	0.9999999999	BP response to extracellular stimulus	XLOC_040618
+GO:0043065	0.00818950829936513	1	1	45	positive regulation of apoptotic process	BP	0.9999999999	BP positive regulation of apoptotic process	XLOC_040618
+GO:0043068	0.00818950829936513	1	1	45	positive regulation of programmed cell death	BP	0.9999999999	BP positive regulation of programmed cell death	XLOC_040618
+GO:0031966	0.00905723166752847	1	1	51	mitochondrial membrane	CC	0.9999999999	CC mitochondrial membrane	XLOC_040618
+GO:0010942	0.00906568375647192	1	1	50	positive regulation of cell death	BP	0.9999999999	BP positive regulation of cell death	XLOC_040618
+GO:0055086	0.0103871987935444	1	1	59	nucleobase-containing small molecule metabolic process	BP	0.9999999999	BP nucleobase-containing small molecule metabolic process	XLOC_040618
+GO:0043025	0.0106857861401867	1	1	60	neuronal cell body	CC	0.9999999999	CC neuronal cell body	XLOC_040618
+GO:0034654	0.011211912111523	1	1	66	nucleobase-containing compound biosynthetic process	BP	0.9999999999	BP nucleobase-containing compound biosynthetic process	XLOC_040618
+GO:0044297	0.0116581561851414	1	1	65	cell body	CC	0.9999999999	CC cell body	XLOC_040618
+GO:0048037	0.0127100419071057	1	1	72	cofactor binding	MF	0.9999999999	MF cofactor binding	XLOC_040618
+GO:0019438	0.0127193700838446	1	1	74	aromatic compound biosynthetic process	BP	0.9999999999	BP aromatic compound biosynthetic process	XLOC_040618
+GO:0018130	0.013205391309118	1	1	77	heterocycle biosynthetic process	BP	0.9999999999	BP heterocycle biosynthetic process	XLOC_040618
+GO:1901135	0.0138957335298189	1	1	78	carbohydrate derivative metabolic process	BP	0.9999999999	BP carbohydrate derivative metabolic process	XLOC_040618
+GO:0014070	0.0142948423638647	1	1	82	response to organic cyclic compound	BP	0.9999999999	BP response to organic cyclic compound	XLOC_040618
+GO:0019637	0.0149317570065809	1	1	83	organophosphate metabolic process	BP	0.9999999999	BP organophosphate metabolic process	XLOC_040618
+GO:1901362	0.0157283137879041	1	1	91	organic cyclic compound biosynthetic process	BP	0.9999999999	BP organic cyclic compound biosynthetic process	XLOC_040618
+GO:1901566	0.0172954371021833	1	1	96	organonitrogen compound biosynthetic process	BP	0.9999999999	BP organonitrogen compound biosynthetic process	XLOC_040618
+GO:0046903	0.0181503021117819	1	1	100	secretion	BP	0.9999999999	BP secretion	XLOC_040618
+GO:0022603	0.0184824459424786	1	1	105	regulation of anatomical structure morphogenesis	BP	0.9999999999	BP regulation of anatomical structure morphogenesis	XLOC_040618
+GO:0044429	0.0196433536182482	1	1	107	mitochondrial part	CC	0.9999999999	CC mitochondrial part	XLOC_040618
+GO:0010243	0.0197622432660296	1	1	112	response to organonitrogen compound	BP	0.9999999999	BP response to organonitrogen compound	XLOC_040618
+GO:0044711	0.020203748859394	1	1	113	NA	NA	0.9999999999	none	XLOC_040618
+GO:0042981	0.0202494541576734	1	1	113	regulation of apoptotic process	BP	0.9999999999	BP regulation of apoptotic process	XLOC_040618
+GO:0044271	0.0205127556885486	1	1	116	cellular nitrogen compound biosynthetic process	BP	0.9999999999	BP cellular nitrogen compound biosynthetic process	XLOC_040618
+GO:0043067	0.020789746623804	1	1	116	regulation of programmed cell death	BP	0.9999999999	BP regulation of programmed cell death	XLOC_040618
+GO:1901698	0.0213184838610321	1	1	121	response to nitrogen compound	BP	0.9999999999	BP response to nitrogen compound	XLOC_040618
+GO:0055114	0.0223116143253965	1	1	125	oxidation-reduction process	BP	0.9999999999	BP oxidation-reduction process	XLOC_040618
+GO:0010941	0.0224045527301633	1	1	124	regulation of cell death	BP	0.9999999999	BP regulation of cell death	XLOC_040618
+GO:0051704	0.0225155020057264	1	1	128	multi-organism process	BP	0.9999999999	BP multi-organism process	XLOC_040618
+GO:1901700	0.023105804107651	1	1	132	response to oxygen-containing compound	BP	0.9999999999	BP response to oxygen-containing compound	XLOC_040618
+GO:0006796	0.0265494240069535	1	1	150	phosphate-containing compound metabolic process	BP	0.9999999999	BP phosphate-containing compound metabolic process	XLOC_040618
+GO:0005739	0.026580663284026	1	1	147	mitochondrion	CC	0.9999999999	CC mitochondrion	XLOC_040618
+GO:0006793	0.0281844112842045	1	1	159	phosphorus metabolic process	BP	0.9999999999	BP phosphorus metabolic process	XLOC_040618
+GO:0016491	0.0283191019080005	1	1	159	oxidoreductase activity	MF	0.9999999999	MF oxidoreductase activity	XLOC_040618
+GO:0033043	0.0290254893392886	1	1	167	regulation of organelle organization	BP	0.9999999999	BP regulation of organelle organization	XLOC_040618
+GO:0022414	0.0291029660172354	1	1	160	reproductive process	BP	0.9999999999	BP reproductive process	XLOC_040618
+GO:0009605	0.0292218974416563	1	1	166	response to external stimulus	BP	0.9999999999	BP response to external stimulus	XLOC_040618
+GO:0010033	0.0350563918147589	1	1	199	response to organic substance	BP	0.9999999999	BP response to organic substance	XLOC_040618
+GO:0097458	0.035171296095336	1	1	199	neuron part	CC	0.9999999999	CC neuron part	XLOC_040618
+GO:0044281	0.037970988546253	1	1	214	small molecule metabolic process	BP	0.9999999999	BP small molecule metabolic process	XLOC_040618
+GO:0044249	0.038402998486267	1	1	216	cellular biosynthetic process	BP	0.9999999999	BP cellular biosynthetic process	XLOC_040618
+GO:1901576	0.0397986504750287	1	1	223	organic substance biosynthetic process	BP	0.9999999999	BP organic substance biosynthetic process	XLOC_040618
+GO:0005654	0.040629713363304	1	1	232	nucleoplasm	CC	0.9999999999	CC nucleoplasm	XLOC_040618
+GO:0009058	0.0416898371987659	1	1	234	biosynthetic process	BP	0.9999999999	BP biosynthetic process	XLOC_040618
+GO:0050793	0.0424356732026129	1	1	240	regulation of developmental process	BP	0.9999999999	BP regulation of developmental process	XLOC_040618
+GO:0042221	0.0456589502179886	1	1	258	response to chemical	BP	0.9999999999	BP response to chemical	XLOC_040618
+GO:0044765	0.0488821459592426	1	1	276	NA	NA	0.9999999999	none	XLOC_040618
+GO:0031090	0.0490152170631529	1	1	277	organelle membrane	CC	0.9999999999	CC organelle membrane	XLOC_040618
+GO:0051128	0.0499219194906678	1	1	284	regulation of cellular component organization	BP	0.9999999999	BP regulation of cellular component organization	XLOC_040618

@@ -1,0 +1,27 @@
+if (! require(edgeR)) {
+   source("https://bioconductor.org/biocLite.R")
+   biocLite("edgeR")
+   library(edgeR)
+}
+
+data = read.table("/Users/davidgold/git/2020_Regeneration_Induction/2_EdgeR/genes.count_table", header=T, row.names=1, com='')
+col_ordering = c(4,3,9,10)
+rnaseqMatrix = data[,col_ordering]
+rnaseqMatrix = round(rnaseqMatrix)
+rnaseqMatrix = rnaseqMatrix[rowSums(cpm(rnaseqMatrix) > 1) >= 2,]
+conditions = factor(c(rep("3mL_27hr", 2), rep("WT", 2)))
+
+exp_study = DGEList(counts=rnaseqMatrix, group=conditions)
+exp_study = calcNormFactors(exp_study)
+exp_study = estimateDisp(exp_study)
+et = exactTest(exp_study, pair=c("3mL_27hr", "WT"))
+tTags = topTags(et,n=NULL)
+result_table = tTags$table
+result_table = data.frame(sampleA="3mL_27hr", sampleB="WT", result_table)
+result_table$logFC = -1 * result_table$logFC
+write.table(result_table, file='genes.count_table.3mL_27hr_vs_WT.edgeR.DE_results', sep='	', quote=F, row.names=T)
+write.table(rnaseqMatrix, file='genes.count_table.3mL_27hr_vs_WT.edgeR.count_matrix', sep='	', quote=F, row.names=T)
+source("/usr/local/Cellar/trinity/2.8.3_1/libexec/Analysis/DifferentialExpression/R/rnaseq_plot_funcs.R")
+pdf("genes.count_table.3mL_27hr_vs_WT.edgeR.DE_results.MA_n_Volcano.pdf")
+plot_MA_and_Volcano(rownames(result_table), result_table$logCPM, result_table$logFC, result_table$FDR)
+dev.off()

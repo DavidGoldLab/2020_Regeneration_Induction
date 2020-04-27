@@ -1,0 +1,2 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0003682	0.0209113854143217	0.999891222942439	1	65	chromatin binding	MF	0.9999999999	MF chromatin binding	XLOC_068478

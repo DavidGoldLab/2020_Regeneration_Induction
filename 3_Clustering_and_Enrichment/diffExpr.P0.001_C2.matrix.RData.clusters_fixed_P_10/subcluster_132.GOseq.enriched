@@ -1,0 +1,64 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0005307	0.000755364764027186	0.999999928651037	1	2	choline:sodium symporter activity	MF	0.9999999999	MF choline:sodium symporter activity	XLOC_048615
+GO:0008291	0.000755364764027186	0.999999928651037	1	2	acetylcholine metabolic process	BP	0.9999999999	BP acetylcholine metabolic process	XLOC_048615
+GO:0008292	0.000755364764027186	0.999999928651037	1	2	acetylcholine biosynthetic process	BP	0.9999999999	BP acetylcholine biosynthetic process	XLOC_048615
+GO:0015220	0.000755364764027186	0.999999928651037	1	2	choline transmembrane transporter activity	MF	0.9999999999	MF choline transmembrane transporter activity	XLOC_048615
+GO:0015871	0.000755364764027186	0.999999928651037	1	2	choline transport	BP	0.9999999999	BP choline transport	XLOC_048615
+GO:0033265	0.000755364764027186	0.999999928651037	1	2	choline binding	MF	0.9999999999	MF choline binding	XLOC_048615
+GO:1900619	0.000755364764027186	0.999999928651037	1	2	acetate ester metabolic process	BP	0.9999999999	BP acetate ester metabolic process	XLOC_048615
+GO:1900620	0.000755364764027186	0.999999928651037	1	2	acetate ester biosynthetic process	BP	0.9999999999	BP acetate ester biosynthetic process	XLOC_048615
+GO:0015101	0.00113232779008445	0.999999786184512	1	3	organic cation transmembrane transporter activity	MF	0.9999999999	MF organic cation transmembrane transporter activity	XLOC_048615
+GO:0007274	0.00186660427745006	0.999999302507838	1	5	neuromuscular synaptic transmission	BP	0.9999999999	BP neuromuscular synaptic transmission	XLOC_048615
+GO:0042136	0.00188694680891578	0.999999287213537	1	5	neurotransmitter biosynthetic process	BP	0.9999999999	BP neurotransmitter biosynthetic process	XLOC_048615
+GO:0007271	0.00225832389224115	0.99999893629326	1	6	synaptic transmission, cholinergic	BP	0.9999999999	BP synaptic transmission, cholinergic	XLOC_048615
+GO:0015695	0.00226195628851325	0.999998932866409	1	6	organic cation transport	BP	0.9999999999	BP organic cation transport	XLOC_048615
+GO:0007269	0.00226489551983504	0.99999893008946	1	6	neurotransmitter secretion	BP	0.9999999999	BP neurotransmitter secretion	XLOC_048615
+GO:0008519	0.00263756282803588	0.999998507301368	1	7	ammonium transmembrane transporter activity	MF	0.9999999999	MF ammonium transmembrane transporter activity	XLOC_048615
+GO:0042133	0.00264034647874638	0.999998504146571	1	7	neurotransmitter metabolic process	BP	0.9999999999	BP neurotransmitter metabolic process	XLOC_048615
+GO:0015370	0.00339035122787833	0.999997441331686	1	9	solute:sodium symporter activity	MF	0.9999999999	MF solute:sodium symporter activity	XLOC_048615
+GO:0015696	0.00339073583617461	0.999997440750584	1	9	ammonium transport	BP	0.9999999999	BP ammonium transport	XLOC_048615
+GO:0099643	0.0045192762685558	0.999995308926635	1	12	signal release from synapse	BP	0.9999999999	BP signal release from synapse	XLOC_048615
+GO:0015294	0.00489570064570156	0.999994455369108	1	13	solute:cation symporter activity	MF	0.9999999999	MF solute:cation symporter activity	XLOC_048615
+GO:0006836	0.00489734697977291	0.999994451634429	1	13	neurotransmitter transport	BP	0.9999999999	BP neurotransmitter transport	XLOC_048615
+GO:0023061	0.00526907707729224	0.999993537942722	1	14	signal release	BP	0.9999999999	BP signal release	XLOC_048615
+GO:0031594	0.00562260804591253	0.999992602660722	1	15	neuromuscular junction	CC	0.9999999999	CC neuromuscular junction	XLOC_048615
+GO:0070405	0.0056450953581835	0.999992543282074	1	15	ammonium ion binding	MF	0.9999999999	MF ammonium ion binding	XLOC_048615
+GO:0099531	0.00602256278795068	0.999991473227578	1	16	presynaptic process involved in chemical synaptic transmission	BP	0.9999999999	BP presynaptic process involved in chemical synaptic transmission	XLOC_048615
+GO:0015293	0.00602400341703605	0.999991469141232	1	16	symporter activity	MF	0.9999999999	MF symporter activity	XLOC_048615
+GO:0001701	0.00667009649318196	0.999989460223733	1	18	in utero embryonic development	BP	0.9999999999	BP in utero embryonic development	XLOC_048615
+GO:0015081	0.00677254178599396	0.999989133388314	1	18	sodium ion transmembrane transporter activity	MF	0.9999999999	MF sodium ion transmembrane transporter activity	XLOC_048615
+GO:0043009	0.00704582004393571	0.999988200738777	1	19	chordate embryonic development	BP	0.9999999999	BP chordate embryonic development	XLOC_048615
+GO:0043204	0.00714041349741745	0.999987881184139	1	19	perikaryon	CC	0.9999999999	CC perikaryon	XLOC_048615
+GO:0009792	0.00742272301543407	0.999986865749432	1	20	embryo development ending in birth or egg hatching	BP	0.9999999999	BP embryo development ending in birth or egg hatching	XLOC_048615
+GO:0009790	0.0077970491096666	0.999985468574695	1	21	embryo development	BP	0.9999999999	BP embryo development	XLOC_048615
+GO:0097164	0.00790669893472093	0.99998505612681	1	21	ammonium ion metabolic process	BP	0.9999999999	BP ammonium ion metabolic process	XLOC_048615
+GO:0098793	0.0090231653624343	0.999980405220213	1	24	presynapse	CC	0.9999999999	CC presynapse	XLOC_048615
+GO:0015291	0.00939681938503244	0.999978707794852	1	25	secondary active transmembrane transporter activity	MF	0.9999999999	MF secondary active transmembrane transporter activity	XLOC_048615
+GO:0001505	0.0105274099089514	0.999973141370352	1	28	regulation of neurotransmitter levels	BP	0.9999999999	BP regulation of neurotransmitter levels	XLOC_048615
+GO:0007268	0.0142440280183558	0.999950256851105	1	38	chemical synaptic transmission	BP	0.9999999999	BP chemical synaptic transmission	XLOC_048615
+GO:0098916	0.0142440280183558	0.999950256851105	1	38	anterograde trans-synaptic signaling	BP	0.9999999999	BP anterograde trans-synaptic signaling	XLOC_048615
+GO:0022804	0.014645103923995	0.9999473690006	1	39	active transmembrane transporter activity	MF	0.9999999999	MF active transmembrane transporter activity	XLOC_048615
+GO:0099536	0.0153636495430743	0.999941982330551	1	41	synaptic signaling	BP	0.9999999999	BP synaptic signaling	XLOC_048615
+GO:0099537	0.0153636495430743	0.999941982330551	1	41	trans-synaptic signaling	BP	0.9999999999	BP trans-synaptic signaling	XLOC_048615
+GO:0015077	0.018765114617083	0.999912909198723	1	50	monovalent inorganic cation transmembrane transporter activity	MF	0.9999999999	MF monovalent inorganic cation transmembrane transporter activity	XLOC_048615
+GO:0030425	0.0198533553213677	0.999902348543491	1	53	dendrite	CC	0.9999999999	CC dendrite	XLOC_048615
+GO:0030424	0.0205781199171433	0.999894976713809	1	55	axon	CC	0.9999999999	CC axon	XLOC_048615
+GO:0007267	0.021326395067817	0.99988708378359	1	57	cell-cell signaling	BP	0.9999999999	BP cell-cell signaling	XLOC_048615
+GO:0046873	0.0213528660090432	0.999886801750353	1	57	metal ion transmembrane transporter activity	MF	0.9999999999	MF metal ion transmembrane transporter activity	XLOC_048615
+GO:0023052	0.0220729195557546	0.999878921065572	1	59	signaling	BP	0.9999999999	BP signaling	XLOC_048615
+GO:0044700	0.0220729195557546	0.999878921065572	1	59	NA	NA	0.9999999999	none	XLOC_048615
+GO:0022890	0.0287978270120778	0.999792363248054	1	77	inorganic cation transmembrane transporter activity	MF	0.9999999999	MF inorganic cation transmembrane transporter activity	XLOC_048615
+GO:0032940	0.0302072802847079	0.999771227964963	1	81	secretion by cell	BP	0.9999999999	BP secretion by cell	XLOC_048615
+GO:0007275	0.0305769065471865	0.999765514973962	1	82	multicellular organism development	BP	0.9999999999	BP multicellular organism development	XLOC_048615
+GO:0006812	0.032880632911365	0.999728301984561	1	88	cation transport	BP	0.9999999999	BP cation transport	XLOC_048615
+GO:0008324	0.0339916490166988	0.999709355164493	1	91	cation transmembrane transporter activity	MF	0.9999999999	MF cation transmembrane transporter activity	XLOC_048615
+GO:0007154	0.0354230499260483	0.999683981711445	1	95	cell communication	BP	0.9999999999	BP cell communication	XLOC_048615
+GO:0046903	0.0372479273752748	0.999650068660853	1	100	secretion	BP	0.9999999999	BP secretion	XLOC_048615
+GO:0045202	0.0376619850558002	0.999642133472168	1	101	synapse	CC	0.9999999999	CC synapse	XLOC_048615
+GO:0043005	0.0416832872957102	0.999560291428092	1	112	neuron projection	CC	0.9999999999	CC neuron projection	XLOC_048615
+GO:0044711	0.0421455768664587	0.999550340802797	1	113	NA	NA	0.9999999999	none	XLOC_048615
+GO:0055085	0.0425063885033997	0.999542487657707	1	114	transmembrane transport	BP	0.9999999999	BP transmembrane transport	XLOC_048615
+GO:0015075	0.0428531055506908	0.999534874484856	1	115	ion transmembrane transporter activity	MF	0.9999999999	MF ion transmembrane transporter activity	XLOC_048615
+GO:0044456	0.0446206191764105	0.999495068820625	1	120	synapse part	CC	0.9999999999	CC synapse part	XLOC_048615
+GO:0022891	0.0457997062866548	0.999467596878459	1	123	NA	NA	0.9999999999	none	XLOC_048615
+GO:0030054	0.0498021805833407	0.999368743941801	1	134	cell junction	CC	0.9999999999	CC cell junction	XLOC_048615

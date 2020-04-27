@@ -1,0 +1,91 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0004222	0.00141923883243375	0.999980809787917	2	51	metalloendopeptidase activity	MF	0.9999999999	MF metalloendopeptidase activity	XLOC_032384, XLOC_072223
+GO:0070002	0.00281210809623241	0.999998303030883	1	2	glutamic-type peptidase activity	MF	0.9999999999	MF glutamic-type peptidase activity	XLOC_032384
+GO:0008237	0.00296326125555122	0.999941175415635	2	70	metallopeptidase activity	MF	0.9999999999	MF metallopeptidase activity	XLOC_032384, XLOC_072223
+GO:0060467	0.00335306459468482	0.999996782826727	1	3	negative regulation of fertilization	BP	0.9999999999	BP negative regulation of fertilization	XLOC_032384
+GO:0060468	0.00335306459468482	0.999996782826727	1	3	prevention of polyspermy	BP	0.9999999999	BP prevention of polyspermy	XLOC_032384
+GO:2000359	0.00335306459468482	0.999996782826727	1	3	regulation of binding of sperm to zona pellucida	BP	0.9999999999	BP regulation of binding of sperm to zona pellucida	XLOC_032384
+GO:2000360	0.00335306459468482	0.999996782826727	1	3	negative regulation of binding of sperm to zona pellucida	BP	0.9999999999	BP negative regulation of binding of sperm to zona pellucida	XLOC_032384
+GO:0005579	0.00398872875690673	0.999996583576504	1	2	membrane attack complex	CC	0.9999999999	CC membrane attack complex	XLOC_004856
+GO:0046930	0.00398872875690673	0.999996583576504	1	2	pore complex	CC	0.9999999999	CC pore complex	XLOC_004856
+GO:2000242	0.00399887038197806	0.99999485120732	1	4	negative regulation of reproductive process	BP	0.9999999999	BP negative regulation of reproductive process	XLOC_032384
+GO:0006957	0.00499860790951712	0.999992844287259	1	3	complement activation, alternative pathway	BP	0.9999999999	BP complement activation, alternative pathway	XLOC_004856
+GO:0010575	0.00553854761981551	0.999990115787254	1	4	positive regulation of vascular endothelial growth factor production	BP	0.9999999999	BP positive regulation of vascular endothelial growth factor production	XLOC_004856
+GO:0006958	0.00556478733751152	0.999990021784265	1	4	complement activation, classical pathway	BP	0.9999999999	BP complement activation, classical pathway	XLOC_004856
+GO:0080154	0.00576605407858005	0.999989285918011	1	4	regulation of fertilization	BP	0.9999999999	BP regulation of fertilization	XLOC_032384
+GO:0010574	0.00607823623629632	0.999987300230507	1	5	regulation of vascular endothelial growth factor production	BP	0.9999999999	BP regulation of vascular endothelial growth factor production	XLOC_004856
+GO:0090196	0.00626817194323333	0.999987335628309	1	4	regulation of chemokine secretion	BP	0.9999999999	BP regulation of chemokine secretion	XLOC_004856
+GO:0090197	0.00626817194323333	0.999987335628309	1	4	positive regulation of chemokine secretion	BP	0.9999999999	BP positive regulation of chemokine secretion	XLOC_004856
+GO:0019835	0.00674308910479005	0.999983250942564	1	7	cytolysis	BP	0.9999999999	BP cytolysis	XLOC_004856
+GO:0002689	0.00675711109190586	0.999986912204737	1	3	negative regulation of leukocyte chemotaxis	BP	0.9999999999	BP negative regulation of leukocyte chemotaxis	XLOC_004856
+GO:0010758	0.00675711109190586	0.999986912204737	1	3	regulation of macrophage chemotaxis	BP	0.9999999999	BP regulation of macrophage chemotaxis	XLOC_004856
+GO:0010760	0.00675711109190586	0.999986912204737	1	3	negative regulation of macrophage chemotaxis	BP	0.9999999999	BP negative regulation of macrophage chemotaxis	XLOC_004856
+GO:1905522	0.00675711109190586	0.999986912204737	1	3	negative regulation of macrophage migration	BP	0.9999999999	BP negative regulation of macrophage migration	XLOC_004856
+GO:0002686	0.00729623276707754	0.999982832269807	1	4	negative regulation of leukocyte migration	BP	0.9999999999	BP negative regulation of leukocyte migration	XLOC_004856
+GO:1905521	0.00729623276707754	0.999982832269807	1	4	regulation of macrophage migration	BP	0.9999999999	BP regulation of macrophage migration	XLOC_004856
+GO:0010954	0.0080127173242713	0.99997633679498	1	7	positive regulation of protein processing	BP	0.9999999999	BP positive regulation of protein processing	XLOC_032384
+GO:1903319	0.0080127173242713	0.99997633679498	1	7	positive regulation of protein maturation	BP	0.9999999999	BP positive regulation of protein maturation	XLOC_032384
+GO:0006956	0.00825559380835307	0.999975573854661	1	6	complement activation	BP	0.9999999999	BP complement activation	XLOC_004856
+GO:0019538	0.00825899822707331	0.999434570119274	3	418	protein metabolic process	BP	0.9999999999	BP protein metabolic process	XLOC_004856, XLOC_032384, XLOC_072223
+GO:0072376	0.00879401841683292	0.999971487369081	1	7	protein activation cascade	BP	0.9999999999	BP protein activation cascade	XLOC_004856
+GO:0060473	0.00880052495861784	0.999972236047352	1	6	cortical granule	CC	0.9999999999	CC cortical granule	XLOC_032384
+GO:0004175	0.0088349589497983	0.999688067164109	2	146	endopeptidase activity	MF	0.9999999999	MF endopeptidase activity	XLOC_032384, XLOC_072223
+GO:0050922	0.00897470383907279	0.999974004093705	1	4	negative regulation of chemotaxis	BP	0.9999999999	BP negative regulation of chemotaxis	XLOC_004856
+GO:0002688	0.0104757497678509	0.999960630492817	1	6	regulation of leukocyte chemotaxis	BP	0.9999999999	BP regulation of leukocyte chemotaxis	XLOC_004856
+GO:0032642	0.0105302161472309	0.999959086399949	1	7	regulation of chemokine production	BP	0.9999999999	BP regulation of chemokine production	XLOC_004856
+GO:0032722	0.0105302161472309	0.999959086399949	1	7	positive regulation of chemokine production	BP	0.9999999999	BP positive regulation of chemokine production	XLOC_004856
+GO:0008270	0.0106733948544032	0.99958348926117	2	165	zinc ion binding	MF	0.9999999999	MF zinc ion binding	XLOC_032384, XLOC_072223
+GO:0006959	0.0117486609557623	0.999946505681099	1	10	humoral immune response	BP	0.9999999999	BP humoral immune response	XLOC_004856
+GO:2000241	0.0129710368150629	0.999934105385897	1	11	regulation of reproductive process	BP	0.9999999999	BP regulation of reproductive process	XLOC_032384
+GO:0070011	0.013459821773665	0.999406273055722	2	175	peptidase activity, acting on L-amino acid peptides	MF	0.9999999999	MF peptidase activity, acting on L-amino acid peptides	XLOC_032384, XLOC_072223
+GO:0043901	0.0137440520958515	0.999924860283774	1	13	negative regulation of multi-organism process	BP	0.9999999999	BP negative regulation of multi-organism process	XLOC_032384
+GO:0008233	0.0138421975511144	0.999380220570418	2	178	peptidase activity	MF	0.9999999999	MF peptidase activity	XLOC_032384, XLOC_072223
+GO:0050715	0.0145645223806086	0.999915092858931	1	14	positive regulation of cytokine secretion	BP	0.9999999999	BP positive regulation of cytokine secretion	XLOC_004856
+GO:0002685	0.0152482687395002	0.999908849979148	1	11	regulation of leukocyte migration	BP	0.9999999999	BP regulation of leukocyte migration	XLOC_004856
+GO:0046914	0.0160538690438598	0.999221819288299	2	200	transition metal ion binding	MF	0.9999999999	MF transition metal ion binding	XLOC_032384, XLOC_072223
+GO:0050707	0.0170905276628194	0.999880976871755	1	18	regulation of cytokine secretion	BP	0.9999999999	BP regulation of cytokine secretion	XLOC_004856
+GO:0009566	0.0176179370199914	0.999879407466629	1	10	fertilization	BP	0.9999999999	BP fertilization	XLOC_032384
+GO:0006508	0.0187239972645689	0.999015266398009	2	192	proteolysis	BP	0.9999999999	BP proteolysis	XLOC_032384, XLOC_072223
+GO:0001701	0.0192072276028753	0.999849538902925	1	18	in utero embryonic development	BP	0.9999999999	BP in utero embryonic development	XLOC_004856
+GO:1901564	0.0192564577734914	0.998179667182141	3	577	organonitrogen compound metabolic process	BP	0.9999999999	BP organonitrogen compound metabolic process	XLOC_004856, XLOC_032384, XLOC_072223
+GO:0005615	0.0194771463839949	0.998953375630423	2	205	extracellular space	CC	0.9999999999	CC extracellular space	XLOC_004856, XLOC_072223
+GO:0050920	0.019633624420359	0.999843905021604	1	16	regulation of chemotaxis	BP	0.9999999999	BP regulation of chemotaxis	XLOC_004856
+GO:0043009	0.0197405525472207	0.999840544041992	1	19	chordate embryonic development	BP	0.9999999999	BP chordate embryonic development	XLOC_004856
+GO:0045766	0.0205618783662885	0.999826941551156	1	19	positive regulation of angiogenesis	BP	0.9999999999	BP positive regulation of angiogenesis	XLOC_004856
+GO:0030336	0.021936974714641	0.99980494712719	1	16	negative regulation of cell migration	BP	0.9999999999	BP negative regulation of cell migration	XLOC_004856
+GO:0040013	0.021936974714641	0.99980494712719	1	16	negative regulation of locomotion	BP	0.9999999999	BP negative regulation of locomotion	XLOC_004856
+GO:0051271	0.021936974714641	0.99980494712719	1	16	negative regulation of cellular component movement	BP	0.9999999999	BP negative regulation of cellular component movement	XLOC_004856
+GO:2000146	0.021936974714641	0.99980494712719	1	16	negative regulation of cell motility	BP	0.9999999999	BP negative regulation of cell motility	XLOC_004856
+GO:0030141	0.0219386834074668	0.999803483057331	1	18	secretory granule	CC	0.9999999999	CC secretory granule	XLOC_032384
+GO:0009792	0.0223618843917596	0.99979460154317	1	20	embryo development ending in birth or egg hatching	BP	0.9999999999	BP embryo development ending in birth or egg hatching	XLOC_004856
+GO:1904018	0.0225338560200451	0.999790897179361	1	21	positive regulation of vasculature development	BP	0.9999999999	BP positive regulation of vasculature development	XLOC_004856
+GO:0009790	0.0228937387681851	0.99978413327911	1	21	embryo development	BP	0.9999999999	BP embryo development	XLOC_004856
+GO:0070001	0.0256225248086483	0.999723120255716	1	39	aspartic-type peptidase activity	MF	0.9999999999	MF aspartic-type peptidase activity	XLOC_032384
+GO:0098797	0.0257293950044065	0.99972928563669	1	18	plasma membrane protein complex	CC	0.9999999999	CC plasma membrane protein complex	XLOC_004856
+GO:0050714	0.0263078549137245	0.99971229179619	1	25	positive regulation of protein secretion	BP	0.9999999999	BP positive regulation of protein secretion	XLOC_004856
+GO:0002793	0.0281464368095169	0.999669421124525	1	27	positive regulation of peptide secretion	BP	0.9999999999	BP positive regulation of peptide secretion	XLOC_004856
+GO:0002253	0.0281500962820917	0.999669334670526	1	27	activation of immune response	BP	0.9999999999	BP activation of immune response	XLOC_004856
+GO:0006954	0.0308644422323661	0.999601013209148	1	29	inflammatory response	BP	0.9999999999	BP inflammatory response	XLOC_004856
+GO:0070613	0.0312205109859226	0.999595455887633	1	23	regulation of protein processing	BP	0.9999999999	BP regulation of protein processing	XLOC_032384
+GO:1903317	0.0312205109859226	0.999595455887633	1	23	regulation of protein maturation	BP	0.9999999999	BP regulation of protein maturation	XLOC_032384
+GO:0045862	0.031317151178619	0.999587390347858	1	33	positive regulation of proteolysis	BP	0.9999999999	BP positive regulation of proteolysis	XLOC_032384
+GO:0001819	0.0337136953973732	0.999520929354483	1	34	positive regulation of cytokine production	BP	0.9999999999	BP positive regulation of cytokine production	XLOC_004856
+GO:0004866	0.0339601808590623	0.999515789802992	1	30	endopeptidase inhibitor activity	MF	0.9999999999	MF endopeptidase inhibitor activity	XLOC_004856
+GO:0061135	0.0339601808590623	0.999515789802992	1	30	endopeptidase regulator activity	MF	0.9999999999	MF endopeptidase regulator activity	XLOC_004856
+GO:0032102	0.0339771567573328	0.999515871294912	1	29	negative regulation of response to external stimulus	BP	0.9999999999	BP negative regulation of response to external stimulus	XLOC_004856
+GO:0043900	0.0349357622469228	0.999484876390111	1	35	regulation of multi-organism process	BP	0.9999999999	BP regulation of multi-organism process	XLOC_032384
+GO:1903532	0.0352266663465116	0.999477122114605	1	33	positive regulation of secretion by cell	BP	0.9999999999	BP positive regulation of secretion by cell	XLOC_004856
+GO:0030414	0.0356323086969952	0.999465438889668	1	32	peptidase inhibitor activity	MF	0.9999999999	MF peptidase inhibitor activity	XLOC_004856
+GO:0043170	0.0363081938345197	0.995583519513928	3	765	macromolecule metabolic process	BP	0.9999999999	BP macromolecule metabolic process	XLOC_004856, XLOC_032384, XLOC_072223
+GO:0050708	0.0364375126622832	0.999437631874606	1	39	regulation of protein secretion	BP	0.9999999999	BP regulation of protein secretion	XLOC_004856
+GO:0099503	0.0377907447175975	0.999398191516356	1	32	secretory vesicle	CC	0.9999999999	CC secretory vesicle	XLOC_032384
+GO:0061134	0.0386633997531671	0.999369248018641	1	33	peptidase regulator activity	MF	0.9999999999	MF peptidase regulator activity	XLOC_004856
+GO:0002683	0.0397569964945678	0.999329607611435	1	39	negative regulation of immune system process	BP	0.9999999999	BP negative regulation of immune system process	XLOC_004856
+GO:0045087	0.0411457853772076	0.999281086980869	1	40	innate immune response	BP	0.9999999999	BP innate immune response	XLOC_004856
+GO:0050778	0.0420677826855949	0.999246905017626	1	43	positive regulation of immune response	BP	0.9999999999	BP positive regulation of immune response	XLOC_004856
+GO:0002791	0.0439139262977832	0.999177891897695	1	45	regulation of peptide secretion	BP	0.9999999999	BP regulation of peptide secretion	XLOC_004856
+GO:0051047	0.0439691989536467	0.999177599790215	1	41	positive regulation of secretion	BP	0.9999999999	BP positive regulation of secretion	XLOC_004856
+GO:0045765	0.045179511232351	0.999131811529017	1	40	regulation of angiogenesis	BP	0.9999999999	BP regulation of angiogenesis	XLOC_004856
+GO:1901342	0.0466224153642951	0.999073823264389	1	42	regulation of vasculature development	BP	0.9999999999	BP regulation of vasculature development	XLOC_004856
+GO:0004857	0.0496325327300986	0.998947415229134	1	45	enzyme inhibitor activity	MF	0.9999999999	MF enzyme inhibitor activity	XLOC_004856
+GO:0048523	0.0497926444586461	0.995524016519996	2	364	negative regulation of cellular process	BP	0.9999999999	BP negative regulation of cellular process	XLOC_004856, XLOC_032384

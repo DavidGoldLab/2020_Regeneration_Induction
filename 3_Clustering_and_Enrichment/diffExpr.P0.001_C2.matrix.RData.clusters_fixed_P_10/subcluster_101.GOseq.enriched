@@ -1,0 +1,65 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0043434	0.00162089043948234	0.999974122235552	2	42	response to peptide hormone	BP	0.9999999999	BP response to peptide hormone	XLOC_003876, XLOC_020076
+GO:1901652	0.00213558996614873	0.999960581703385	2	48	response to peptide	BP	0.9999999999	BP response to peptide	XLOC_003876, XLOC_020076
+GO:0009725	0.00321023781086377	0.999926437988544	2	64	response to hormone	BP	0.9999999999	BP response to hormone	XLOC_003876, XLOC_020076
+GO:0045663	0.00346515320505486	0.999997266417554	1	2	positive regulation of myoblast differentiation	BP	0.9999999999	BP positive regulation of myoblast differentiation	XLOC_020076
+GO:2000271	0.00346515320505486	0.999997266417554	1	2	positive regulation of fibroblast apoptotic process	BP	0.9999999999	BP positive regulation of fibroblast apoptotic process	XLOC_020076
+GO:0045661	0.00409718633051528	0.99999490388097	1	3	regulation of myoblast differentiation	BP	0.9999999999	BP regulation of myoblast differentiation	XLOC_020076
+GO:2000269	0.0041105097021226	0.999994870650374	1	3	regulation of fibroblast apoptotic process	BP	0.9999999999	BP regulation of fibroblast apoptotic process	XLOC_020076
+GO:0004818	0.00541902168347115	0.999993307420909	1	2	glutamate-tRNA ligase activity	MF	0.9999999999	MF glutamate-tRNA ligase activity	XLOC_003876
+GO:0004827	0.00541902168347115	0.999993307420909	1	2	proline-tRNA ligase activity	MF	0.9999999999	MF proline-tRNA ligase activity	XLOC_003876
+GO:0006424	0.00541902168347115	0.999993307420909	1	2	glutamyl-tRNA aminoacylation	BP	0.9999999999	BP glutamyl-tRNA aminoacylation	XLOC_003876
+GO:0006433	0.00541902168347115	0.999993307420909	1	2	prolyl-tRNA aminoacylation	BP	0.9999999999	BP prolyl-tRNA aminoacylation	XLOC_003876
+GO:0044539	0.00541902168347115	0.999993307420909	1	2	long-chain fatty acid import	BP	0.9999999999	BP long-chain fatty acid import	XLOC_003876
+GO:0140212	0.00541902168347115	0.999993307420909	1	2	regulation of long-chain fatty acid import into cell	BP	0.9999999999	BP regulation of long-chain fatty acid import into cell	XLOC_003876
+GO:0097452	0.00677857188390966	0.999984290061469	1	4	GAIT complex	CC	0.9999999999	CC GAIT complex	XLOC_003876
+GO:0051149	0.00731728936216128	0.999979659281337	1	6	positive regulation of muscle cell differentiation	BP	0.9999999999	BP positive regulation of muscle cell differentiation	XLOC_020076
+GO:0045603	0.00733504255019273	0.999980376142709	1	5	positive regulation of endothelial cell differentiation	BP	0.9999999999	BP positive regulation of endothelial cell differentiation	XLOC_020076
+GO:0036157	0.00876065335880879	0.999970825306142	1	6	outer dynein arm	CC	0.9999999999	CC outer dynein arm	XLOC_036256
+GO:0009719	0.00928213862381755	0.999628493171449	2	108	response to endogenous stimulus	BP	0.9999999999	BP response to endogenous stimulus	XLOC_003876, XLOC_020076
+GO:0035613	0.00967554524683502	0.999962625168434	1	8	RNA stem-loop binding	MF	0.9999999999	MF RNA stem-loop binding	XLOC_003876
+GO:0045601	0.0110812082551921	0.999950948287313	1	8	regulation of endothelial cell differentiation	BP	0.9999999999	BP regulation of endothelial cell differentiation	XLOC_020076
+GO:0010243	0.0117966937657657	0.9994645704083	2	112	response to organonitrogen compound	BP	0.9999999999	BP response to organonitrogen compound	XLOC_003876, XLOC_020076
+GO:0030858	0.0122016209789884	0.999941709809444	1	7	positive regulation of epithelial cell differentiation	BP	0.9999999999	BP positive regulation of epithelial cell differentiation	XLOC_020076
+GO:0051147	0.012644518894593	0.999933611102783	1	11	regulation of muscle cell differentiation	BP	0.9999999999	BP regulation of muscle cell differentiation	XLOC_020076
+GO:1901698	0.013453407201588	0.999345126390361	2	121	response to nitrogen compound	BP	0.9999999999	BP response to nitrogen compound	XLOC_003876, XLOC_020076
+GO:0034341	0.0136448477355966	0.99992554792152	1	8	response to interferon-gamma	BP	0.9999999999	BP response to interferon-gamma	XLOC_003876
+GO:0071346	0.0136448477355966	0.99992554792152	1	8	cellular response to interferon-gamma	BP	0.9999999999	BP cellular response to interferon-gamma	XLOC_003876
+GO:0032869	0.0141702218495774	0.999916572449675	1	11	cellular response to insulin stimulus	BP	0.9999999999	BP cellular response to insulin stimulus	XLOC_003876
+GO:0017101	0.0142231440755065	0.999917805557588	1	9	aminoacyl-tRNA synthetase multienzyme complex	CC	0.9999999999	CC aminoacyl-tRNA synthetase multienzyme complex	XLOC_003876
+GO:1901700	0.0147846163202903	0.999242912089452	2	132	response to oxygen-containing compound	BP	0.9999999999	BP response to oxygen-containing compound	XLOC_003876, XLOC_020076
+GO:0036158	0.0173577262968889	0.999877427476045	1	9	outer dynein arm assembly	BP	0.9999999999	BP outer dynein arm assembly	XLOC_036256
+GO:0060294	0.0176138270546382	0.999873770631032	1	9	cilium movement involved in cell motility	BP	0.9999999999	BP cilium movement involved in cell motility	XLOC_036256
+GO:0005858	0.0177489538027542	0.999867837582512	1	12	axonemal dynein complex	CC	0.9999999999	CC axonemal dynein complex	XLOC_036256
+GO:0006479	0.0198130882788891	0.999833048258008	1	14	protein methylation	BP	0.9999999999	BP protein methylation	XLOC_020076
+GO:0008213	0.0198130882788891	0.999833048258008	1	14	protein alkylation	BP	0.9999999999	BP protein alkylation	XLOC_020076
+GO:0030856	0.0224582030578121	0.999783222170773	1	16	regulation of epithelial cell differentiation	BP	0.9999999999	BP regulation of epithelial cell differentiation	XLOC_020076
+GO:0070286	0.0238172841385631	0.99975836541611	1	14	axonemal dynein complex assembly	BP	0.9999999999	BP axonemal dynein complex assembly	XLOC_036256
+GO:0015909	0.0247556533964462	0.999740385343646	1	13	long-chain fatty acid transport	BP	0.9999999999	BP long-chain fatty acid transport	XLOC_003876
+GO:0044447	0.0266392574058231	0.999691305798206	1	19	axoneme part	CC	0.9999999999	CC axoneme part	XLOC_036256
+GO:0071375	0.0267398359484963	0.999688102272625	1	20	cellular response to peptide hormone stimulus	BP	0.9999999999	BP cellular response to peptide hormone stimulus	XLOC_003876
+GO:0045930	0.0272322142356054	0.999674248300138	1	23	negative regulation of mitotic cell cycle	BP	0.9999999999	BP negative regulation of mitotic cell cycle	XLOC_020076
+GO:0032868	0.0285551130276102	0.999642380119833	1	22	response to insulin	BP	0.9999999999	BP response to insulin	XLOC_003876
+GO:0043414	0.0297521929714969	0.99961158716262	1	22	macromolecule methylation	BP	0.9999999999	BP macromolecule methylation	XLOC_020076
+GO:0045766	0.0303573917381026	0.999598538656203	1	19	positive regulation of angiogenesis	BP	0.9999999999	BP positive regulation of angiogenesis	XLOC_020076
+GO:1901653	0.0307008745211475	0.999585422615906	1	23	cellular response to peptide	BP	0.9999999999	BP cellular response to peptide	XLOC_003876
+GO:0019899	0.0310705818842241	0.997628499529105	2	178	enzyme binding	MF	0.9999999999	MF enzyme binding	XLOC_003876, XLOC_020076
+GO:0032259	0.0321817652735565	0.999542562493196	1	25	methylation	BP	0.9999999999	BP methylation	XLOC_020076
+GO:1904018	0.0330393202326781	0.999521482123027	1	21	positive regulation of vasculature development	BP	0.9999999999	BP positive regulation of vasculature development	XLOC_020076
+GO:0010033	0.0342033654936693	0.997247506779514	2	199	response to organic substance	BP	0.9999999999	BP response to organic substance	XLOC_003876, XLOC_020076
+GO:0007286	0.035235433301836	0.999468740815169	1	14	spermatid development	BP	0.9999999999	BP spermatid development	XLOC_020076
+GO:0015908	0.0355987560412195	0.999450378516227	1	17	fatty acid transport	BP	0.9999999999	BP fatty acid transport	XLOC_003876
+GO:0030286	0.0397064805422329	0.999298529464014	1	28	dynein complex	CC	0.9999999999	CC dynein complex	XLOC_036256
+GO:0004812	0.0399790386323177	0.999303220579324	1	18	aminoacyl-tRNA ligase activity	MF	0.9999999999	MF aminoacyl-tRNA ligase activity	XLOC_003876
+GO:0016875	0.0399790386323177	0.999303220579324	1	18	ligase activity, forming carbon-oxygen bonds	MF	0.9999999999	MF ligase activity, forming carbon-oxygen bonds	XLOC_003876
+GO:0016876	0.0399790386323177	0.999303220579324	1	18	NA	NA	0.9999999999	none	XLOC_003876
+GO:0017148	0.0403653319372394	0.999278048788778	1	25	negative regulation of translation	BP	0.9999999999	BP negative regulation of translation	XLOC_003876
+GO:0034249	0.0403653319372394	0.999278048788778	1	25	negative regulation of cellular amide metabolic process	BP	0.9999999999	BP negative regulation of cellular amide metabolic process	XLOC_003876
+GO:0045786	0.0416633818479038	0.999222120945483	1	34	negative regulation of cell cycle	BP	0.9999999999	BP negative regulation of cell cycle	XLOC_020076
+GO:0006418	0.0418814103320711	0.999232422175003	1	19	tRNA aminoacylation for protein translation	BP	0.9999999999	BP tRNA aminoacylation for protein translation	XLOC_003876
+GO:0043039	0.0418814103320711	0.999232422175003	1	19	tRNA aminoacylation	BP	0.9999999999	BP tRNA aminoacylation	XLOC_003876
+GO:0043038	0.0424908948468667	0.999207566777097	1	20	amino acid activation	BP	0.9999999999	BP amino acid activation	XLOC_003876
+GO:0015718	0.0446733906873067	0.999119189937723	1	22	monocarboxylic acid transport	BP	0.9999999999	BP monocarboxylic acid transport	XLOC_003876
+GO:0007281	0.045472354178783	0.999085256693823	1	23	germ cell development	BP	0.9999999999	BP germ cell development	XLOC_020076
+GO:0032870	0.04876958898926	0.99893120654939	1	34	cellular response to hormone stimulus	BP	0.9999999999	BP cellular response to hormone stimulus	XLOC_003876
+GO:0051020	0.0497726303998708	0.998884516926572	1	36	GTPase binding	MF	0.9999999999	MF GTPase binding	XLOC_003876

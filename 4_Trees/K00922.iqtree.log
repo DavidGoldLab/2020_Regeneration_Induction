@@ -1,0 +1,468 @@
+IQ-TREE multicore version 1.6.12 for Mac OS X 64-bit built Aug 15 2019
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    Davids-MacBook-Air-2.local (AVX2, FMA3, 8 GB RAM)
+Command: iqtree -s K00922.muscle
+Seed:    724573 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Mon Mar 16 14:09:10 2020
+Kernel:  AVX+FMA - 1 threads (4 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 4 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file K00922.muscle ... Fasta format detected
+Alignment most likely contains protein sequences
+Alignment has 23 sequences with 1861 columns, 1198 distinct patterns
+955 parsimony-informative, 130 singleton sites, 776 constant sites
+WARNING: Some sequence names are changed as follows:
+K00922|Aurelia|XLOC_025671|TCONS_00036333|Seg2077.3.p1 -> K00922_Aurelia_XLOC_025671_TCONS_00036333_Seg2077.3.p1
+K00922|Aurelia|XLOC_041039|TCONS_00058306|Seg335.13.p1 -> K00922_Aurelia_XLOC_041039_TCONS_00058306_Seg335.13.p1
+K00922|Aurelia|XLOC_027259|TCONS_00038581.p1 -> K00922_Aurelia_XLOC_027259_TCONS_00038581.p1
+K00922|Aurelia|XLOC_035445|TCONS_00050357.p1 -> K00922_Aurelia_XLOC_035445_TCONS_00050357.p1
+K00922|Helobdella|hro:HELRODRAFT_155850_K00922_phosphatidylinositol-4,5-bisphosphate_3-kinase_catalytic_subunit_alpha/beta/delta_[EC:2.7.1.153]_|_(RefSeq)_hypothetical_protein_(A) -> K00922_Helobdella_hro_HELRODRAFT_155850_K00922_phosphatidylinositol-4_5-bisphosphate_3-kinase_catalytic_subunit_alpha_beta_delta__EC_2.7.1.153_____RefSeq__hypothetical_protein__A_
+K00922|Helobdella|hro:HELRODRAFT_96068_K00922_phosphatidylinositol-4,5-bisphosphate_3-kinase_catalytic_subunit_alpha/beta/delta_[EC:2.7.1.153]_|_(RefSeq)_hypothetical_protein_(A) -> K00922_Helobdella_hro_HELRODRAFT_96068_K00922_phosphatidylinositol-4_5-bisphosphate_3-kinase_catalytic_subunit_alpha_beta_delta__EC_2.7.1.153_____RefSeq__hypothetical_protein__A_
+K00922|Daphnia|dpx:DAPPUDRAFT_300912_K00922_phosphatidylinositol-4,5-bisphosphate_3-kinase_catalytic_subunit_alpha/beta/delta_[EC:2.7.1.153]_|_(GenBank)_hypothetical_protein_(A) -> K00922_Daphnia_dpx_DAPPUDRAFT_300912_K00922_phosphatidylinositol-4_5-bisphosphate_3-kinase_catalytic_subunit_alpha_beta_delta__EC_2.7.1.153_____GenBank__hypothetical_protein__A_
+K00922|Daphnia|dpx:DAPPUDRAFT_333863_K00922_phosphatidylinositol-4,5-bisphosphate_3-kinase_catalytic_subunit_alpha/beta/delta_[EC:2.7.1.153]_|_(GenBank)_hypothetical_protein_(A) -> K00922_Daphnia_dpx_DAPPUDRAFT_333863_K00922_phosphatidylinositol-4_5-bisphosphate_3-kinase_catalytic_subunit_alpha_beta_delta__EC_2.7.1.153_____GenBank__hypothetical_protein__A_
+K00922|Homo|hsa:5290_K00922_phosphatidylinositol-4,5-bisphosphate_3-kinase_catalytic_subunit_alpha/beta/delta_[EC:2.7.1.153]_|_(RefSeq)_PIK3CA,_CLAPO,_CLOVE,_CWS5,_MCAP,_MCM,_MCMTC,_PI3K,_PI3K-alpha,_p110-alpha;_phosphatidylinositol-4,5-bisphosphate_3-kinase_catalytic_subunit_alpha_(A) -> K00922_Homo_hsa_5290_K00922_phosphatidylinositol-4_5-bisphosphate_3-kinase_catalytic_subunit_alpha_beta_delta__EC_2.7.1.153_____RefSeq__PIK3CA__CLAPO__CLOVE__CWS5__MCAP__MCM__MCMTC__PI3K__PI3K-alpha__p110-alpha__phosphatidylinositol-4_5-bisphosphate_3-kinase_catalytic_subunit_alpha__A_
+K00922|Mus|mmu:18706_K00922_phosphatidylinositol-4,5-bisphosphate_3-kinase_catalytic_subunit_alpha/beta/delta_[EC:2.7.1.153]_|_(RefSeq)_Pik3ca,_6330412C24Rik,_caPI3K,_p110,_p110alpha;_phosphatidylinositol-4,5-bisphosphate_3-kinase_catalytic_subunit_alpha_(A) -> K00922_Mus_mmu_18706_K00922_phosphatidylinositol-4_5-bisphosphate_3-kinase_catalytic_subunit_alpha_beta_delta__EC_2.7.1.153_____RefSeq__Pik3ca__6330412C24Rik__caPI3K__p110__p110alpha__phosphatidylinositol-4_5-bisphosphate_3-kinase_catalytic_subunit_alpha__A_
+K00922|Daphnia|dpx:DAPPUDRAFT_117886_K00922_phosphatidylinositol-4,5-bisphosphate_3-kinase_catalytic_subunit_alpha/beta/delta_[EC:2.7.1.153]_|_(GenBank)_phosphatidylinositol_3-kinase_(A) -> K00922_Daphnia_dpx_DAPPUDRAFT_117886_K00922_phosphatidylinositol-4_5-bisphosphate_3-kinase_catalytic_subunit_alpha_beta_delta__EC_2.7.1.153_____GenBank__phosphatidylinositol_3-kinase__A_
+K00922|Amphimedon|aqu:100640192_K00922_phosphatidylinositol-4,5-bisphosphate_3-kinase_catalytic_subunit_alpha/beta/delta_[EC:2.7.1.153]_|_(RefSeq)_phosphatidylinositol_4,5-bisphosphate_3-kinase_catalytic_subunit_alpha_isoform-like_(A) -> K00922_Amphimedon_aqu_100640192_K00922_phosphatidylinositol-4_5-bisphosphate_3-kinase_catalytic_subunit_alpha_beta_delta__EC_2.7.1.153_____RefSeq__phosphatidylinositol_4_5-bisphosphate_3-kinase_catalytic_subunit_alpha_isoform-like__A_
+K00922|Homo|hsa:5291_K00922_phosphatidylinositol-4,5-bisphosphate_3-kinase_catalytic_subunit_alpha/beta/delta_[EC:2.7.1.153]_|_(RefSeq)_PIK3CB,_P110BETA,_PI3K,_PI3KBETA,_PIK3C1;_phosphatidylinositol-4,5-bisphosphate_3-kinase_catalytic_subunit_beta_(A) -> K00922_Homo_hsa_5291_K00922_phosphatidylinositol-4_5-bisphosphate_3-kinase_catalytic_subunit_alpha_beta_delta__EC_2.7.1.153_____RefSeq__PIK3CB__P110BETA__PI3K__PI3KBETA__PIK3C1__phosphatidylinositol-4_5-bisphosphate_3-kinase_catalytic_subunit_beta__A_
+K00922|Mus|mmu:74769_K00922_phosphatidylinositol-4,5-bisphosphate_3-kinase_catalytic_subunit_alpha/beta/delta_[EC:2.7.1.153]_|_(RefSeq)_Pik3cb,_1110001J02Rik,_AI447572,_p110beta;_phosphatidylinositol-4,5-bisphosphate_3-kinase_catalytic_subunit_beta_(A) -> K00922_Mus_mmu_74769_K00922_phosphatidylinositol-4_5-bisphosphate_3-kinase_catalytic_subunit_alpha_beta_delta__EC_2.7.1.153_____RefSeq__Pik3cb__1110001J02Rik__AI447572__p110beta__phosphatidylinositol-4_5-bisphosphate_3-kinase_catalytic_subunit_beta__A_
+K00922|Homo|hsa:5293_K00922_phosphatidylinositol-4,5-bisphosphate_3-kinase_catalytic_subunit_alpha/beta/delta_[EC:2.7.1.153]_|_(RefSeq)_PIK3CD,_APDS,_IMD14,_P110DELTA,_PI3K,_p110D;_phosphatidylinositol-4,5-bisphosphate_3-kinase_catalytic_subunit_delta_(A) -> K00922_Homo_hsa_5293_K00922_phosphatidylinositol-4_5-bisphosphate_3-kinase_catalytic_subunit_alpha_beta_delta__EC_2.7.1.153_____RefSeq__PIK3CD__APDS__IMD14__P110DELTA__PI3K__p110D__phosphatidylinositol-4_5-bisphosphate_3-kinase_catalytic_subunit_delta__A_
+K00922|Mus|mmu:18707_K00922_phosphatidylinositol-4,5-bisphosphate_3-kinase_catalytic_subunit_alpha/beta/delta_[EC:2.7.1.153]_|_(RefSeq)_Pik3cd,_2410099E07Rik,_2610208K16Rik,_AW545373,_p110delta;_phosphatidylinositol-4,5-bisphosphate_3-kinase_catalytic_subunit_delta_(A) -> K00922_Mus_mmu_18707_K00922_phosphatidylinositol-4_5-bisphosphate_3-kinase_catalytic_subunit_alpha_beta_delta__EC_2.7.1.153_____RefSeq__Pik3cd__2410099E07Rik__2610208K16Rik__AW545373__p110delta__phosphatidylinositol-4_5-bisphosphate_3-kinase_catalytic_subunit_delta__A_
+K00922|Hydra|hmg:100210375_K00922_phosphatidylinositol-4,5-bisphosphate_3-kinase_catalytic_subunit_alpha/beta/delta_[EC:2.7.1.153]_|_(RefSeq)_phosphatidylinositol_4,5-bisphosphate_3-kinase_catalytic_subunit_beta_isoform-like_(A) -> K00922_Hydra_hmg_100210375_K00922_phosphatidylinositol-4_5-bisphosphate_3-kinase_catalytic_subunit_alpha_beta_delta__EC_2.7.1.153_____RefSeq__phosphatidylinositol_4_5-bisphosphate_3-kinase_catalytic_subunit_beta_isoform-like__A_
+K00922|Hydra|hmg:101235289_K00922_phosphatidylinositol-4,5-bisphosphate_3-kinase_catalytic_subunit_alpha/beta/delta_[EC:2.7.1.153]_|_(RefSeq)_phosphatidylinositol_4,5-bisphosphate_3-kinase_catalytic_subunit_beta_isoform-like_(A) -> K00922_Hydra_hmg_101235289_K00922_phosphatidylinositol-4_5-bisphosphate_3-kinase_catalytic_subunit_alpha_beta_delta__EC_2.7.1.153_____RefSeq__phosphatidylinositol_4_5-bisphosphate_3-kinase_catalytic_subunit_beta_isoform-like__A_
+K00922|Aurelia|XLOC_063915|TCONS_00089040|Seg718.7.p1 -> K00922_Aurelia_XLOC_063915_TCONS_00089040_Seg718.7.p1
+K00922|Aurelia|XLOC_019176|TCONS_00027063.p1 -> K00922_Aurelia_XLOC_019176_TCONS_00027063.p1
+K00922|Aurelia|XLOC_035444|TCONS_00050356.p1 -> K00922_Aurelia_XLOC_035444_TCONS_00050356.p1
+K00922|Acropora|adf:107327044_K00922_phosphatidylinositol-4,5-bisphosphate_3-kinase_catalytic_subunit_alpha/beta/delta_[EC:2.7.1.153]_|_(RefSeq)_phosphatidylinositol_4,5-bisphosphate_3-kinase_catalytic_subunit_beta_isoform-like_(A) -> K00922_Acropora_adf_107327044_K00922_phosphatidylinositol-4_5-bisphosphate_3-kinase_catalytic_subunit_alpha_beta_delta__EC_2.7.1.153_____RefSeq__phosphatidylinositol_4_5-bisphosphate_3-kinase_catalytic_subunit_beta_isoform-like__A_
+K00922|Nematostella|nve:NEMVE_v1g242402_K00922_phosphatidylinositol-4,5-bisphosphate_3-kinase_catalytic_subunit_alpha/beta/delta_[EC:2.7.1.153]_|_(RefSeq)_hypothetical_protein_(A) -> K00922_Nematostella_nve_NEMVE_v1g242402_K00922_phosphatidylinositol-4_5-bisphosphate_3-kinase_catalytic_subunit_alpha_beta_delta__EC_2.7.1.153_____RefSeq__hypothetical_protein__A_
+
+                                                                                                                                                                                                                                                                                                Gap/Ambiguity  Composition  p-value
+   1  K00922_Aurelia_XLOC_025671_TCONS_00036333_Seg2077.3.p1                                                                                                                                                                                                                                            8.17%    failed      0.00%
+   2  K00922_Aurelia_XLOC_041039_TCONS_00058306_Seg335.13.p1                                                                                                                                                                                                                                            7.47%    failed      0.00%
+   3  K00922_Aurelia_XLOC_027259_TCONS_00038581.p1                                                                                                                                                                                                                                                     84.47%    passed     97.72%
+   4  K00922_Aurelia_XLOC_035445_TCONS_00050357.p1                                                                                                                                                                                                                                                     73.72%    passed     24.81%
+   5  K00922_Helobdella_hro_HELRODRAFT_155850_K00922_phosphatidylinositol-4_5-bisphosphate_3-kinase_catalytic_subunit_alpha_beta_delta__EC_2.7.1.153_____RefSeq__hypothetical_protein__A_                                                                                                              44.01%    passed     82.90%
+   6  K00922_Helobdella_hro_HELRODRAFT_96068_K00922_phosphatidylinositol-4_5-bisphosphate_3-kinase_catalytic_subunit_alpha_beta_delta__EC_2.7.1.153_____RefSeq__hypothetical_protein__A_                                                                                                               44.60%    passed     52.91%
+   7  K00922_Daphnia_dpx_DAPPUDRAFT_300912_K00922_phosphatidylinositol-4_5-bisphosphate_3-kinase_catalytic_subunit_alpha_beta_delta__EC_2.7.1.153_____GenBank__hypothetical_protein__A_                                                                                                                44.65%    passed     94.66%
+   8  K00922_Daphnia_dpx_DAPPUDRAFT_333863_K00922_phosphatidylinositol-4_5-bisphosphate_3-kinase_catalytic_subunit_alpha_beta_delta__EC_2.7.1.153_____GenBank__hypothetical_protein__A_                                                                                                                50.67%    passed     77.59%
+   9  K00922_Homo_hsa_5290_K00922_phosphatidylinositol-4_5-bisphosphate_3-kinase_catalytic_subunit_alpha_beta_delta__EC_2.7.1.153_____RefSeq__PIK3CA__CLAPO__CLOVE__CWS5__MCAP__MCM__MCMTC__PI3K__PI3K-alpha__p110-alpha__phosphatidylinositol-4_5-bisphosphate_3-kinase_catalytic_subunit_alpha__A_   43.58%    passed     51.29%
+  10  K00922_Mus_mmu_18706_K00922_phosphatidylinositol-4_5-bisphosphate_3-kinase_catalytic_subunit_alpha_beta_delta__EC_2.7.1.153_____RefSeq__Pik3ca__6330412C24Rik__caPI3K__p110__p110alpha__phosphatidylinositol-4_5-bisphosphate_3-kinase_catalytic_subunit_alpha__A_                               43.58%    passed     56.66%
+  11  K00922_Daphnia_dpx_DAPPUDRAFT_117886_K00922_phosphatidylinositol-4_5-bisphosphate_3-kinase_catalytic_subunit_alpha_beta_delta__EC_2.7.1.153_____GenBank__phosphatidylinositol_3-kinase__A_                                                                                                       45.89%    passed     72.52%
+  12  K00922_Amphimedon_aqu_100640192_K00922_phosphatidylinositol-4_5-bisphosphate_3-kinase_catalytic_subunit_alpha_beta_delta__EC_2.7.1.153_____RefSeq__phosphatidylinositol_4_5-bisphosphate_3-kinase_catalytic_subunit_alpha_isoform-like__A_                                                       44.06%    passed     89.04%
+  13  K00922_Homo_hsa_5291_K00922_phosphatidylinositol-4_5-bisphosphate_3-kinase_catalytic_subunit_alpha_beta_delta__EC_2.7.1.153_____RefSeq__PIK3CB__P110BETA__PI3K__PI3KBETA__PIK3C1__phosphatidylinositol-4_5-bisphosphate_3-kinase_catalytic_subunit_beta__A_                                      43.47%    passed     99.64%
+  14  K00922_Mus_mmu_74769_K00922_phosphatidylinositol-4_5-bisphosphate_3-kinase_catalytic_subunit_alpha_beta_delta__EC_2.7.1.153_____RefSeq__Pik3cb__1110001J02Rik__AI447572__p110beta__phosphatidylinositol-4_5-bisphosphate_3-kinase_catalytic_subunit_beta__A_                                     43.79%    passed     99.94%
+  15  K00922_Homo_hsa_5293_K00922_phosphatidylinositol-4_5-bisphosphate_3-kinase_catalytic_subunit_alpha_beta_delta__EC_2.7.1.153_____RefSeq__PIK3CD__APDS__IMD14__P110DELTA__PI3K__p110D__phosphatidylinositol-4_5-bisphosphate_3-kinase_catalytic_subunit_delta__A_                                  44.87%    passed     11.03%
+  16  K00922_Mus_mmu_18707_K00922_phosphatidylinositol-4_5-bisphosphate_3-kinase_catalytic_subunit_alpha_beta_delta__EC_2.7.1.153_____RefSeq__Pik3cd__2410099E07Rik__2610208K16Rik__AW545373__p110delta__phosphatidylinositol-4_5-bisphosphate_3-kinase_catalytic_subunit_delta__A_                    44.92%    passed     12.48%
+  17  K00922_Hydra_hmg_100210375_K00922_phosphatidylinositol-4_5-bisphosphate_3-kinase_catalytic_subunit_alpha_beta_delta__EC_2.7.1.153_____RefSeq__phosphatidylinositol_4_5-bisphosphate_3-kinase_catalytic_subunit_beta_isoform-like__A_                                                             44.49%    failed      1.56%
+  18  K00922_Hydra_hmg_101235289_K00922_phosphatidylinositol-4_5-bisphosphate_3-kinase_catalytic_subunit_alpha_beta_delta__EC_2.7.1.153_____RefSeq__phosphatidylinositol_4_5-bisphosphate_3-kinase_catalytic_subunit_beta_isoform-like__A_                                                             81.84%    passed      6.83%
+  19  K00922_Aurelia_XLOC_063915_TCONS_00089040_Seg718.7.p1                                                                                                                                                                                                                                            88.55%    passed     65.75%
+  20  K00922_Aurelia_XLOC_019176_TCONS_00027063.p1                                                                                                                                                                                                                                                     74.05%    failed      4.00%
+  21  K00922_Aurelia_XLOC_035444_TCONS_00050356.p1                                                                                                                                                                                                                                                     93.18%    passed     13.66%
+  22  K00922_Acropora_adf_107327044_K00922_phosphatidylinositol-4_5-bisphosphate_3-kinase_catalytic_subunit_alpha_beta_delta__EC_2.7.1.153_____RefSeq__phosphatidylinositol_4_5-bisphosphate_3-kinase_catalytic_subunit_beta_isoform-like__A_                                                          52.77%    passed     50.50%
+  23  K00922_Nematostella_nve_NEMVE_v1g242402_K00922_phosphatidylinositol-4_5-bisphosphate_3-kinase_catalytic_subunit_alpha_beta_delta__EC_2.7.1.153_____RefSeq__hypothetical_protein__A_                                                                                                              45.03%    passed     57.39%
+WARNING: 8 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                                                                                                                                                                                                                                                                                            51.82%  4 sequences failed composition chi2 test (p-value<5%; df=19)
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.015 seconds
+NOTE: ModelFinder requires 43 MB RAM!
+ModelFinder will test 546 protein models (sample size: 1861) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+  1  Dayhoff       31042.581    43  62171.162    62173.244    62408.903
+  2  Dayhoff+I     30895.539    44  61879.079    61881.260    62122.349
+  3  Dayhoff+G4    30354.239    44  60796.478    60798.659    61039.748
+  4  Dayhoff+I+G4  30347.094    45  60784.188    60786.469    61032.987
+  5  Dayhoff+R2    30419.532    45  60929.063    60931.344    61177.862
+  6  Dayhoff+R3    30340.937    47  60775.874    60778.363    61035.731
+  7  Dayhoff+R4    30333.739    49  60765.478    60768.183    61036.392
+ 14  Dayhoff+F     30813.396    62  61750.792    61755.137    62093.582
+ 15  Dayhoff+F+I   30664.441    63  61454.881    61459.369    61803.200
+ 16  Dayhoff+F+G4  30091.564    63  60309.127    60313.615    60657.446
+ 17  Dayhoff+F+I+G4 30085.372    64  60298.744    60303.376    60652.592
+ 18  Dayhoff+F+R2  30159.842    64  60447.685    60452.317    60801.532
+ 19  Dayhoff+F+R3  30081.340    66  60294.680    60299.610    60659.586
+ 20  Dayhoff+F+R4  30074.015    68  60284.030    60289.267    60659.993
+ 27  mtMAM         33690.522    43  67467.043    67469.126    67704.785
+ 28  mtMAM+I       33475.216    44  67038.431    67040.612    67281.701
+ 29  mtMAM+G4      31854.702    44  63797.404    63799.584    64040.674
+ 30  mtMAM+I+G4    31853.153    45  63796.306    63798.587    64045.105
+ 31  mtMAM+R2      32128.506    45  64347.013    64349.294    64595.812
+ 32  mtMAM+R3      31916.390    47  63926.779    63929.268    64186.636
+ 33  mtMAM+R4      31869.351    49  63836.701    63839.407    64107.616
+ 34  mtMAM+R5      31838.281    51  63778.562    63781.494    64060.534
+ 35  mtMAM+R6      31828.773    53  63763.545    63766.713    64056.575
+ 36  mtMAM+R7      31824.011    55  63758.022    63761.434    64062.110
+ 40  mtMAM+F       31937.658    62  63999.315    64003.660    64342.105
+ 41  mtMAM+F+I     31756.662    63  63639.324    63643.811    63987.643
+ 42  mtMAM+F+G4    30568.226    63  61262.451    61266.939    61610.770
+ 43  mtMAM+F+I+G4  30564.330    64  61256.661    61261.293    61610.508
+ 44  mtMAM+F+R2    30750.142    64  61628.284    61632.917    61982.132
+ 45  mtMAM+F+R3    30622.068    66  61376.137    61381.067    61741.042
+ 46  mtMAM+F+R4    30587.642    68  61311.284    61316.521    61687.248
+ 47  mtMAM+F+R5    30563.330    70  61266.660    61272.213    61653.681
+ 48  mtMAM+F+R6    30557.024    72  61258.048    61263.928    61656.127
+ 53  JTT           30776.028    43  61638.056    61640.139    61875.798
+ 54  JTT+I         30617.264    44  61322.529    61324.709    61565.799
+ 55  JTT+G4        30090.294    44  60268.587    60270.768    60511.858
+ 56  JTT+I+G4      30083.915    45  60257.830    60260.111    60506.630
+ 57  JTT+R2        30138.244    45  60366.487    60368.768    60615.286
+ 58  JTT+R3        30078.372    47  60250.744    60253.233    60510.601
+ 59  JTT+R4        30076.598    49  60251.197    60253.903    60522.111
+ 66  JTT+F         30664.256    62  61452.511    61456.856    61795.301
+ 67  JTT+F+I       30503.384    63  61132.769    61137.256    61481.087
+ 68  JTT+F+G4      29971.735    63  60069.470    60073.958    60417.789
+ 69  JTT+F+I+G4    29965.215    64  60058.430    60063.062    60412.278
+ 70  JTT+F+R2      30018.410    64  60164.820    60169.453    60518.668
+ 71  JTT+F+R3      29959.310    66  60050.620    60055.550    60415.526
+ 72  JTT+F+R4      29957.715    68  60051.430    60056.666    60427.393
+ 79  WAG           30625.610    43  61337.221    61339.303    61574.962
+ 80  WAG+I         30494.246    44  61076.492    61078.673    61319.763
+ 81  WAG+G4        30076.415    44  60240.830    60243.010    60484.100
+ 82  WAG+I+G4      30069.806    45  60229.612    60231.893    60478.411
+ 83  WAG+R2        30106.464    45  60302.929    60305.210    60551.728
+ 84  WAG+R3        30062.320    47  60218.639    60221.128    60478.496
+ 85  WAG+R4        30061.067    49  60220.135    60222.840    60491.049
+ 92  WAG+F         30530.870    62  61185.740    61190.085    61528.530
+ 93  WAG+F+I       30395.928    63  60917.855    60922.343    61266.174
+ 94  WAG+F+G4      29945.031    63  60016.061    60020.549    60364.380
+ 95  WAG+F+I+G4    29939.051    64  60006.103    60010.735    60359.950
+ 96  WAG+F+R2      29979.340    64  60086.681    60091.313    60440.528
+ 97  WAG+F+R3      29932.088    66  59996.175    60001.105    60361.080
+ 98  WAG+F+R4      29930.692    68  59997.384    60002.620    60373.347
+105  cpREV         30833.910    43  61753.821    61755.903    61991.562
+106  cpREV+I       30704.524    44  61497.048    61499.229    61740.318
+107  cpREV+G4      30222.567    44  60533.135    60535.316    60776.405
+108  cpREV+I+G4    30216.068    45  60522.136    60524.417    60770.935
+109  cpREV+R2      30265.181    45  60620.363    60622.644    60869.162
+110  cpREV+R3      30216.740    47  60527.480    60529.969    60787.337
+111  cpREV+R4      30213.034    49  60524.068    60526.774    60794.983
+118  cpREV+F       30709.858    62  61543.716    61548.061    61886.506
+119  cpREV+F+I     30570.988    63  61267.977    61272.464    61616.296
+120  cpREV+F+G4    30060.010    63  60246.020    60250.508    60594.339
+121  cpREV+F+I+G4  30052.776    64  60233.551    60238.184    60587.399
+122  cpREV+F+R2    30114.511    64  60357.023    60361.655    60710.870
+123  cpREV+F+R3    30055.735    66  60243.471    60248.400    60608.376
+124  cpREV+F+R4    30051.783    68  60239.565    60244.802    60615.528
+131  mtREV         32578.696    43  65243.391    65245.474    65481.133
+132  mtREV+I       32423.985    44  64935.971    64938.151    65179.241
+133  mtREV+G4      31485.727    44  63059.454    63061.635    63302.724
+134  mtREV+I+G4    31482.455    45  63054.910    63057.191    63303.709
+135  mtREV+R2      31561.243    45  63212.485    63214.766    63461.284
+136  mtREV+R3      31489.478    47  63072.955    63075.444    63332.812
+137  mtREV+R4      31484.423    49  63066.845    63069.551    63337.760
+144  mtREV+F       31103.611    62  62331.222    62335.567    62674.012
+145  mtREV+F+I     30967.460    63  62060.921    62065.408    62409.239
+146  mtREV+F+G4    30223.409    63  60572.819    60577.306    60921.138
+147  mtREV+F+I+G4  30219.159    64  60566.318    60570.951    60920.166
+148  mtREV+F+R2    30307.950    64  60743.900    60748.532    61097.747
+149  mtREV+F+R3    30230.668    66  60593.336    60598.266    60958.241
+150  mtREV+F+R4    30225.604    68  60587.207    60592.444    60963.170
+157  rtREV         30917.866    43  61921.732    61923.814    62159.473
+158  rtREV+I       30774.314    44  61636.627    61638.808    61879.898
+159  rtREV+G4      30233.134    44  60554.267    60556.448    60797.538
+160  rtREV+I+G4    30227.755    45  60545.511    60547.792    60794.310
+161  rtREV+R2      30280.622    45  60651.245    60653.526    60900.044
+162  rtREV+R3      30224.441    47  60542.881    60545.370    60802.738
+163  rtREV+R4      30221.854    49  60541.708    60544.413    60812.622
+170  rtREV+F       30682.787    62  61489.575    61493.919    61832.365
+171  rtREV+F+I     30536.291    63  61198.582    61203.070    61546.901
+172  rtREV+F+G4    29965.466    63  60056.931    60061.419    60405.250
+173  rtREV+F+I+G4  29960.728    64  60049.456    60054.088    60403.304
+174  rtREV+F+R2    30015.948    64  60159.896    60164.528    60513.744
+175  rtREV+F+R3    29958.856    66  60049.712    60054.641    60414.617
+176  rtREV+F+R4    29956.196    68  60048.392    60053.629    60424.355
+183  mtART         33423.915    43  66933.829    66935.912    67171.571
+184  mtART+I       33209.479    44  66506.957    66509.138    66750.227
+185  mtART+G4      31651.560    44  63391.119    63393.300    63634.390
+186  mtART+I+G4    31647.793    45  63385.587    63387.868    63634.386
+187  mtART+R2      31897.381    45  63884.763    63887.044    64133.562
+188  mtART+R3      31693.787    47  63481.575    63484.064    63741.432
+189  mtART+R4      31682.390    49  63462.780    63465.486    63733.695
+190  mtART+R5      31635.583    51  63373.166    63376.098    63655.139
+191  mtART+R6      31627.829    53  63361.658    63364.825    63654.688
+192  mtART+R7      31623.950    55  63357.900    63361.313    63661.988
+196  mtART+F       31702.385    62  63528.771    63533.116    63871.561
+197  mtART+F+I     31531.601    63  63189.201    63193.689    63537.520
+198  mtART+F+G4    30343.704    63  60813.408    60817.896    61161.727
+199  mtART+F+I+G4  30341.095    64  60810.191    60814.823    61164.038
+200  mtART+F+R2    30516.974    64  61161.948    61166.581    61515.796
+201  mtART+F+R3    30390.905    66  60913.810    60918.740    61278.715
+202  mtART+F+R4    30379.308    68  60894.617    60899.853    61270.580
+203  mtART+F+R5    30337.509    70  60815.018    60820.571    61202.039
+204  mtART+F+R6    30330.952    72  60805.903    60811.783    61203.982
+209  mtZOA         32619.691    43  65325.382    65327.464    65563.123
+210  mtZOA+I       32434.158    44  64956.317    64958.497    65199.587
+211  mtZOA+G4      31181.405    44  62450.810    62452.991    62694.081
+212  mtZOA+I+G4    31178.585    45  62447.171    62449.452    62695.970
+213  mtZOA+R2      31293.444    45  62676.888    62679.169    62925.687
+214  mtZOA+R3      31195.631    47  62485.263    62487.751    62745.120
+215  mtZOA+R4      31188.315    49  62474.629    62477.335    62745.544
+222  mtZOA+F       31228.493    62  62580.986    62585.331    62923.776
+223  mtZOA+F+I     31072.466    63  62270.933    62275.420    62619.252
+224  mtZOA+F+G4    30126.595    63  60379.191    60383.678    60727.510
+225  mtZOA+F+I+G4  30123.875    64  60375.750    60380.382    60729.597
+226  mtZOA+F+R2    30248.347    64  60624.695    60629.327    60978.542
+227  mtZOA+F+R3    30157.541    66  60447.081    60452.011    60811.986
+228  mtZOA+F+R4    30148.519    68  60433.038    60438.274    60809.001
+229  mtZOA+F+R5    30118.800    70  60377.600    60383.153    60764.621
+230  mtZOA+F+R6    30115.469    72  60374.937    60380.816    60773.016
+235  VT            30540.378    43  61166.756    61168.838    61404.497
+236  VT+I          30407.037    44  60902.075    60904.255    61145.345
+237  VT+G4         30019.282    44  60126.564    60128.745    60369.835
+238  VT+I+G4       30013.269    45  60116.537    60118.818    60365.336
+239  VT+R2         30035.120    45  60160.239    60162.520    60409.039
+240  VT+R3         30001.729    47  60097.458    60099.946    60357.314
+241  VT+R4         30000.973    49  60099.946    60102.652    60370.861
+248  VT+F          30484.802    62  61093.605    61097.949    61436.394
+249  VT+F+I        30349.751    63  60825.502    60829.989    61173.820
+250  VT+F+G4       29957.395    63  60040.791    60045.278    60389.109
+251  VT+F+I+G4     29951.106    64  60030.212    60034.845    60384.060
+252  VT+F+R2       29972.526    64  60073.052    60077.685    60426.900
+253  VT+F+R3       29939.416    66  60010.832    60015.762    60375.738
+254  VT+F+R4       29938.750    68  60013.500    60018.737    60389.463
+261  LG            30699.564    43  61485.127    61487.210    61722.868
+262  LG+I          30546.545    44  61181.090    61183.271    61424.360
+263  LG+G4         29953.701    44  59995.401    59997.582    60238.671
+264  LG+I+G4       29949.044    45  59988.088    59990.369    60236.887
+265  LG+R2         30013.302    45  60116.605    60118.886    60365.404
+266  LG+R3         29954.007    47  60002.013    60004.502    60261.870
+267  LG+R4         29952.886    49  60003.771    60006.477    60274.686
+274  LG+F          30635.943    62  61395.885    61400.230    61738.675
+275  LG+F+I        30481.345    63  61088.691    61093.178    61437.010
+276  LG+F+G4       29879.596    63  59885.191    59889.679    60233.510
+277  LG+F+I+G4     29874.841    64  59877.681    59882.314    60231.529
+278  LG+F+R2       29940.893    64  60009.786    60014.419    60363.634
+279  LG+F+R3       29879.846    66  59891.692    59896.622    60256.598
+280  LG+F+R4       29878.753    68  59893.505    59898.742    60269.468
+287  DCMut         31040.876    43  62167.752    62169.834    62405.493
+288  DCMut+I       30893.960    44  61875.920    61878.101    62119.191
+289  DCMut+G4      30355.027    44  60798.055    60800.235    61041.325
+290  DCMut+I+G4    30347.784    45  60785.567    60787.848    61034.366
+291  DCMut+R2      30418.346    45  60926.692    60928.973    61175.491
+292  DCMut+R3      30340.253    47  60774.506    60776.995    61034.363
+293  DCMut+R4      30339.468    49  60776.936    60779.642    61047.851
+300  DCMut+F       30811.670    62  61747.340    61751.685    62090.130
+301  DCMut+F+I     30662.870    63  61451.740    61456.227    61800.059
+302  DCMut+F+G4    30092.323    63  60310.645    60315.133    60658.964
+303  DCMut+F+I+G4  30086.100    64  60300.200    60304.833    60654.048
+304  DCMut+F+R2    30159.998    64  60447.996    60452.628    60801.843
+305  DCMut+F+R3    30080.465    66  60292.930    60297.860    60657.836
+306  DCMut+F+R4    30079.634    68  60295.268    60300.504    60671.231
+313  PMB           30736.918    43  61559.836    61561.919    61797.578
+314  PMB+I         30605.183    44  61298.367    61300.547    61541.637
+315  PMB+G4        30229.478    44  60546.956    60549.137    60790.226
+316  PMB+I+G4      30222.889    45  60535.778    60538.059    60784.577
+317  PMB+R2        30232.013    45  60554.025    60556.306    60802.825
+318  PMB+R3        30207.941    47  60509.883    60512.371    60769.740
+319  PMB+R4        30207.874    49  60513.748    60516.453    60784.662
+326  PMB+F         30649.527    62  61423.053    61427.398    61765.843
+327  PMB+F+I       30515.720    63  61157.441    61161.928    61505.760
+328  PMB+F+G4      30123.779    63  60373.558    60378.045    60721.877
+329  PMB+F+I+G4    30117.383    64  60362.767    60367.399    60716.615
+330  PMB+F+R2      30133.554    64  60395.109    60399.741    60748.956
+331  PMB+F+R3      30105.459    66  60342.918    60347.847    60707.823
+332  PMB+F+R4      30105.437    68  60346.873    60352.110    60722.836
+339  HIVb          31577.212    43  63240.425    63242.507    63478.166
+340  HIVb+I        31371.176    44  62830.352    62832.533    63073.622
+341  HIVb+G4       30592.941    44  61273.882    61276.063    61517.152
+342  HIVb+I+G4     30583.746    45  61257.492    61259.773    61506.291
+343  HIVb+R2       30696.209    45  61482.417    61484.698    61731.217
+344  HIVb+R3       30601.941    47  61297.881    61300.370    61557.738
+345  HIVb+R4       30601.884    49  61301.769    61304.475    61572.684
+352  HIVb+F        31378.751    62  62881.502    62885.847    63224.292
+353  HIVb+F+I      31159.276    63  62444.552    62449.040    62792.871
+354  HIVb+F+G4     30342.459    63  60810.918    60815.405    61159.236
+355  HIVb+F+I+G4   30332.054    64  60792.108    60796.740    61145.956
+356  HIVb+F+R2     30442.922    64  61013.843    61018.476    61367.691
+357  HIVb+F+R3     30353.378    66  60838.755    60843.685    61203.660
+358  HIVb+F+R4     30353.365    68  60842.730    60847.966    61218.693
+365  HIVw          32725.654    43  65537.307    65539.390    65775.049
+366  HIVw+I        32511.650    44  65111.299    65113.480    65354.570
+367  HIVw+G4       31623.444    44  63334.888    63337.069    63578.159
+368  HIVw+I+G4     31615.229    45  63320.458    63322.739    63569.257
+369  HIVw+R2       31768.069    45  63626.137    63628.418    63874.936
+370  HIVw+R3       31654.736    47  63403.472    63405.960    63663.328
+371  HIVw+R4       31654.721    49  63407.441    63410.147    63678.356
+378  HIVw+F        32014.171    62  64152.342    64156.687    64495.132
+379  HIVw+F+I      31784.118    63  63694.235    63698.723    64042.554
+380  HIVw+F+G4     30956.294    63  62038.589    62043.076    62386.907
+381  HIVw+F+I+G4   30946.873    64  62021.745    62026.378    62375.593
+382  HIVw+F+R2     31077.550    64  62283.100    62287.733    62636.948
+383  HIVw+F+R3     30978.731    66  62089.462    62094.391    62454.367
+384  HIVw+F+R4     30978.703    68  62093.407    62098.643    62469.370
+391  JTTDCMut      30775.597    43  61637.195    61639.278    61874.936
+392  JTTDCMut+I    30617.493    44  61322.985    61325.166    61566.256
+393  JTTDCMut+G4   30093.537    44  60275.075    60277.255    60518.345
+394  JTTDCMut+I+G4 30086.868    45  60263.736    60266.017    60512.535
+395  JTTDCMut+R2   30141.154    45  60372.309    60374.590    60621.108
+396  JTTDCMut+R3   30081.628    47  60257.257    60259.746    60517.114
+397  JTTDCMut+R4   30081.513    49  60261.026    60263.731    60531.940
+404  JTTDCMut+F    30665.482    62  61454.963    61459.308    61797.753
+405  JTTDCMut+F+I  30505.374    63  61136.749    61141.236    61485.068
+406  JTTDCMut+F+G4 29974.442    63  60074.883    60079.371    60423.202
+407  JTTDCMut+F+I+G4 29967.813    64  60063.625    60068.258    60417.473
+408  JTTDCMut+F+R2 30021.222    64  60170.444    60175.076    60524.291
+409  JTTDCMut+F+R3 29962.232    66  60056.464    60061.394    60421.369
+410  JTTDCMut+F+R4 29962.137    68  60060.275    60065.511    60436.238
+417  FLU           31508.294    43  63102.587    63104.670    63340.328
+418  FLU+I         31329.116    44  62746.232    62748.413    62989.503
+419  FLU+G4        30547.285    44  61182.570    61184.750    61425.840
+420  FLU+I+G4      30540.830    45  61171.660    61173.941    61420.459
+421  FLU+R2        30638.039    45  61366.077    61368.358    61614.877
+422  FLU+R3        30559.434    47  61212.869    61215.357    61472.725
+423  FLU+R4        30559.143    49  61216.287    61218.992    61487.201
+430  FLU+F         31340.008    62  62804.016    62808.361    63146.806
+431  FLU+F+I       31151.659    63  62429.317    62433.805    62777.636
+432  FLU+F+G4      30344.265    63  60814.530    60819.018    61162.849
+433  FLU+F+I+G4    30336.217    64  60800.434    60805.067    61154.282
+434  FLU+F+R2      30425.722    64  60979.444    60984.076    61333.292
+435  FLU+F+R3      30357.028    66  60846.056    60850.986    61210.962
+436  FLU+F+R4      30356.772    68  60849.544    60854.780    61225.507
+443  Blosum62      30695.064    43  61476.129    61478.211    61713.870
+444  Blosum62+I    30570.213    44  61228.427    61230.607    61471.697
+445  Blosum62+G4   30189.393    44  60466.787    60468.967    60710.057
+446  Blosum62+I+G4 30183.899    45  60457.798    60460.079    60706.597
+447  Blosum62+R2   30198.353    45  60486.706    60488.987    60735.505
+448  Blosum62+R3   30169.700    47  60433.400    60435.889    60693.257
+449  Blosum62+R4   30169.650    49  60437.300    60440.006    60708.215
+456  Blosum62+F    30603.552    62  61331.104    61335.448    61673.893
+457  Blosum62+F+I  30477.700    63  61081.400    61085.888    61429.719
+458  Blosum62+F+G4 30088.964    63  60303.928    60308.416    60652.247
+459  Blosum62+F+I+G4 30083.541    64  60295.083    60299.715    60648.930
+460  Blosum62+F+R2 30103.648    64  60335.296    60339.929    60689.144
+461  Blosum62+F+R3 30071.058    66  60274.116    60279.046    60639.022
+462  Blosum62+F+R4 30071.004    68  60278.007    60283.244    60653.970
+469  mtMet         32631.050    43  65348.099    65350.182    65585.841
+470  mtMet+I       32454.371    44  64996.743    64998.923    65240.013
+471  mtMet+G4      31346.533    44  62781.066    62783.246    63024.336
+472  mtMet+I+G4    31344.836    45  62779.673    62781.954    63028.472
+473  mtMet+R2      31418.815    45  62927.631    62929.912    63176.430
+474  mtMet+R3      31356.248    47  62806.496    62808.985    63066.353
+475  mtMet+R4      31355.957    49  62809.913    62812.619    63080.828
+482  mtMet+F       31135.553    62  62395.106    62399.451    62737.896
+483  mtMet+F+I     30981.238    63  62088.476    62092.963    62436.795
+484  mtMet+F+G4    30154.655    63  60435.309    60439.797    60783.628
+485  mtMet+F+I+G4  30151.942    64  60431.885    60436.517    60785.732
+486  mtMet+F+R2    30247.331    64  60622.661    60627.294    60976.509
+487  mtMet+F+R3    30180.520    66  60493.040    60497.970    60857.945
+488  mtMet+F+R4    30180.230    68  60496.460    60501.697    60872.424
+495  mtVer         33169.895    43  66425.791    66427.873    66663.532
+496  mtVer+I       32971.269    44  66030.538    66032.719    66273.809
+497  mtVer+G4      31682.772    44  63453.545    63455.726    63696.815
+498  mtVer+I+G4    31681.191    45  63452.382    63454.663    63701.181
+499  mtVer+R2      31788.605    45  63667.209    63669.490    63916.008
+500  mtVer+R3      31713.603    47  63521.207    63523.695    63781.063
+501  mtVer+R4      31712.800    49  63523.601    63526.306    63794.515
+508  mtVer+F       31663.121    62  63450.243    63454.587    63793.032
+509  mtVer+F+I     31475.817    63  63077.634    63082.121    63425.952
+510  mtVer+F+G4    30468.795    63  61063.589    61068.077    61411.908
+511  mtVer+F+I+G4  30464.788    64  61057.577    61062.209    61411.424
+512  mtVer+F+R2    30596.236    64  61320.472    61325.105    61674.320
+513  mtVer+F+R3    30518.213    66  61168.426    61173.355    61533.331
+514  mtVer+F+R4    30517.494    68  61170.988    61176.225    61546.951
+521  mtInv         32654.007    43  65394.014    65396.096    65631.755
+522  mtInv+I       32483.434    44  65054.869    65057.049    65298.139
+523  mtInv+G4      31524.543    44  63137.085    63139.266    63380.355
+524  mtInv+I+G4    31522.155    45  63134.310    63136.591    63383.109
+525  mtInv+R2      31571.889    45  63233.778    63236.059    63482.577
+526  mtInv+R3      31524.977    47  63143.954    63146.443    63403.811
+527  mtInv+R4      31523.930    49  63145.859    63148.565    63416.774
+534  mtInv+F       30888.483    62  61900.966    61905.311    62243.756
+535  mtInv+F+I     30743.432    63  61612.865    61617.352    61961.184
+536  mtInv+F+G4    30043.417    63  60212.834    60217.321    60561.152
+537  mtInv+F+I+G4  30040.382    64  60208.763    60213.396    60562.611
+538  mtInv+F+R2    30122.784    64  60373.568    60378.200    60727.415
+539  mtInv+F+R3    30057.767    66  60247.534    60252.464    60612.440
+540  mtInv+F+R4    30056.794    68  60249.587    60254.824    60625.550
+Akaike Information Criterion:           LG+F+I+G4
+Corrected Akaike Information Criterion: LG+F+I+G4
+Bayesian Information Criterion:         LG+F+I+G4
+Best-fit model: LG+F+I+G4 chosen according to BIC
+
+All model information printed to K00922.muscle.model.gz
+CPU time for ModelFinder: 352.210 seconds (0h:5m:52s)
+Wall-clock time for ModelFinder: 355.759 seconds (0h:5m:55s)
+
+NOTE: 17 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+Thoroughly optimizing +I+G parameters from 10 start values...
+Init pinv, alpha: 0.000, 1.000 / Estimate: 0.000, 1.184 / LogL: -29879.553
+Init pinv, alpha: 0.046, 1.000 / Estimate: 0.020, 1.335 / LogL: -29874.878
+Init pinv, alpha: 0.093, 1.000 / Estimate: 0.021, 1.337 / LogL: -29874.917
+Init pinv, alpha: 0.139, 1.000 / Estimate: 0.020, 1.336 / LogL: -29874.899
+Init pinv, alpha: 0.185, 1.000 / Estimate: 0.020, 1.333 / LogL: -29874.876
+Init pinv, alpha: 0.232, 1.000 / Estimate: 0.020, 1.334 / LogL: -29874.893
+Init pinv, alpha: 0.278, 1.000 / Estimate: 0.020, 1.335 / LogL: -29874.899
+Init pinv, alpha: 0.324, 1.000 / Estimate: 0.020, 1.336 / LogL: -29874.912
+Init pinv, alpha: 0.371, 1.000 / Estimate: 0.021, 1.337 / LogL: -29874.918
+Init pinv, alpha: 0.417, 1.000 / Estimate: 0.020, 1.334 / LogL: -29874.874
+Optimal pinv,alpha: 0.020, 1.334 / LogL: -29874.874
+
+Parameters optimization took 19.852 sec
+Computing ML distances based on estimated model parameters... 0.180 sec
+WARNING: Some pairwise ML distances are too long (saturated)
+Computing BIONJ tree...
+0.006 seconds
+Log-likelihood of BIONJ tree: -29947.179
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 1.018 second
+Computing log-likelihood of 98 initial trees ... 12.466 seconds
+Current best score: -29874.874
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -29873.356
+UPDATE BEST LOG-LIKELIHOOD: -29873.356
+Iteration 10 / LogL: -29874.086 / Time: 0h:0m:47s
+Iteration 20 / LogL: -29873.378 / Time: 0h:1m:3s
+Finish initializing candidate tree set (4)
+Current best tree score: -29873.356 / CPU time: 42.061
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Iteration 30 / LogL: -29873.379 / Time: 0h:1m:23s (0h:3m:24s left)
+UPDATE BEST LOG-LIKELIHOOD: -29873.355
+Iteration 40 / LogL: -29873.497 / Time: 0h:1m:42s (0h:2m:41s left)
+Iteration 50 / LogL: -29873.396 / Time: 0h:2m:1s (0h:2m:6s left)
+Iteration 60 / LogL: -29875.790 / Time: 0h:2m:22s (0h:1m:38s left)
+Iteration 70 / LogL: -29873.357 / Time: 0h:2m:41s (0h:1m:12s left)
+Iteration 80 / LogL: -29873.368 / Time: 0h:2m:59s (0h:0m:47s left)
+Iteration 90 / LogL: -29873.996 / Time: 0h:3m:16s (0h:0m:24s left)
+Iteration 100 / LogL: -29873.547 / Time: 0h:3m:37s (0h:0m:2s left)
+TREE SEARCH COMPLETED AFTER 102 ITERATIONS / Time: 0h:3m:40s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -29873.355
+2. Current log-likelihood: -29873.340
+3. Current log-likelihood: -29873.330
+Optimal log-likelihood: -29873.324
+Proportion of invariable sites: 0.018
+Gamma shape alpha: 1.327
+Parameters optimization took 3 rounds (0.492 sec)
+BEST SCORE FOUND : -29873.324
+Total tree length: 16.227
+
+Total number of iterations: 102
+CPU time used for tree search: 198.003 sec (0h:3m:18s)
+Wall-clock time used for tree search: 199.350 sec (0h:3m:19s)
+Total CPU time used: 219.203 sec (0h:3m:39s)
+Total wall-clock time used: 220.881 sec (0h:3m:40s)
+
+Analysis results written to: 
+  IQ-TREE report:                K00922.muscle.iqtree
+  Maximum-likelihood tree:       K00922.muscle.treefile
+  Likelihood distances:          K00922.muscle.mldist
+  Screen log file:               K00922.muscle.log
+
+Date and Time: Mon Mar 16 14:18:47 2020

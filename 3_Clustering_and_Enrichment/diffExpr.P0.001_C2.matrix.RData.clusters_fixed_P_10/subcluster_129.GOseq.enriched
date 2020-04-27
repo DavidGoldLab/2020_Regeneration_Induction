@@ -1,0 +1,2 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0008289	0.0292574569113447	0.999785399757317	1	84	lipid binding	MF	0.9999999999	MF lipid binding	XLOC_049875

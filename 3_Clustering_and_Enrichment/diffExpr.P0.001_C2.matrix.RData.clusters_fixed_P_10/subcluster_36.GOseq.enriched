@@ -1,0 +1,101 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0005048	0.001463039858157	0.99998236708833	2	5	signal sequence binding	MF	0.9999999999	MF signal sequence binding	XLOC_003045, XLOC_036773
+GO:0030276	0.00330551842554605	0.999930618406874	2	7	clathrin binding	MF	0.9999999999	MF clathrin binding	XLOC_003045, XLOC_016692
+GO:0003007	0.00494973525336061	0.999867193474119	2	8	heart morphogenesis	BP	0.9999999999	BP heart morphogenesis	XLOC_034505, XLOC_038456
+GO:0030133	0.00681916447133577	0.999425403341027	3	29	transport vesicle	CC	0.9999999999	CC transport vesicle	XLOC_016692, XLOC_030380, XLOC_061629
+GO:0099503	0.0086458451549993	0.999200350592877	3	32	secretory vesicle	CC	0.9999999999	CC secretory vesicle	XLOC_016692, XLOC_030380, XLOC_061629
+GO:0030672	0.00955273199908386	0.999614886139908	2	11	synaptic vesicle membrane	CC	0.9999999999	CC synaptic vesicle membrane	XLOC_016692, XLOC_061629
+GO:0099501	0.00955273199908386	0.999614886139908	2	11	exocytic vesicle membrane	CC	0.9999999999	CC exocytic vesicle membrane	XLOC_016692, XLOC_061629
+GO:0006409	0.0106303880853111	1	1	1	tRNA export from nucleus	BP	0.9999999999	BP tRNA export from nucleus	XLOC_036773
+GO:0051031	0.0106303880853111	1	1	1	tRNA transport	BP	0.9999999999	BP tRNA transport	XLOC_036773
+GO:1990876	0.0106303880853111	1	1	1	cytoplasmic side of nuclear pore	CC	0.9999999999	CC cytoplasmic side of nuclear pore	XLOC_036773
+GO:0004415	0.0110150652263106	1	1	1	hyalurononglucosaminidase activity	MF	0.9999999999	MF hyalurononglucosaminidase activity	XLOC_003045
+GO:0030212	0.0110150652263106	1	1	1	hyaluronan metabolic process	BP	0.9999999999	BP hyaluronan metabolic process	XLOC_003045
+GO:0030213	0.0110150652263106	1	1	1	hyaluronan biosynthetic process	BP	0.9999999999	BP hyaluronan biosynthetic process	XLOC_003045
+GO:0030214	0.0110150652263106	1	1	1	hyaluronan catabolic process	BP	0.9999999999	BP hyaluronan catabolic process	XLOC_003045
+GO:0045334	0.0110150652263106	1	1	1	clathrin-coated endocytic vesicle	CC	0.9999999999	CC clathrin-coated endocytic vesicle	XLOC_003045
+GO:0046923	0.0110150652263106	1	1	1	ER retention sequence binding	MF	0.9999999999	MF ER retention sequence binding	XLOC_003045
+GO:0051281	0.0110150652263106	1	1	1	positive regulation of release of sequestered calcium ion into cytosol	BP	0.9999999999	BP positive regulation of release of sequestered calcium ion into cytosol	XLOC_003045
+GO:1900019	0.0110150652263106	1	1	1	regulation of protein kinase C activity	BP	0.9999999999	BP regulation of protein kinase C activity	XLOC_003045
+GO:1900020	0.0110150652263106	1	1	1	positive regulation of protein kinase C activity	BP	0.9999999999	BP positive regulation of protein kinase C activity	XLOC_003045
+GO:0019321	0.011998973775504	1	1	1	pentose metabolic process	BP	0.9999999999	BP pentose metabolic process	XLOC_022145
+GO:0019323	0.011998973775504	1	1	1	pentose catabolic process	BP	0.9999999999	BP pentose catabolic process	XLOC_022145
+GO:0042732	0.011998973775504	1	1	1	D-xylose metabolic process	BP	0.9999999999	BP D-xylose metabolic process	XLOC_022145
+GO:0042843	0.011998973775504	1	1	1	D-xylose catabolic process	BP	0.9999999999	BP D-xylose catabolic process	XLOC_022145
+GO:0047115	0.011998973775504	1	1	1	trans-1,2-dihydrobenzene-1,2-diol dehydrogenase activity	MF	0.9999999999	MF trans-1,2-dihydrobenzene-1,2-diol dehydrogenase activity	XLOC_022145
+GO:0047837	0.011998973775504	1	1	1	D-xylose 1-dehydrogenase (NADP+) activity	MF	0.9999999999	MF D-xylose 1-dehydrogenase (NADP+) activity	XLOC_022145
+GO:0001502	0.0120170979831	1	1	1	cartilage condensation	BP	0.9999999999	BP cartilage condensation	XLOC_038456
+GO:0005585	0.0120170979831	1	1	1	collagen type II trimer	CC	0.9999999999	CC collagen type II trimer	XLOC_038456
+GO:0042289	0.0120170979831	1	1	1	MHC class II protein binding	MF	0.9999999999	MF MHC class II protein binding	XLOC_038456
+GO:0048407	0.0120170979831	1	1	1	platelet-derived growth factor binding	MF	0.9999999999	MF platelet-derived growth factor binding	XLOC_038456
+GO:0060174	0.0120170979831	1	1	1	limb bud formation	BP	0.9999999999	BP limb bud formation	XLOC_038456
+GO:0060272	0.0120170979831	1	1	1	embryonic skeletal joint morphogenesis	BP	0.9999999999	BP embryonic skeletal joint morphogenesis	XLOC_038456
+GO:0071599	0.0120170979831	1	1	1	otic vesicle development	BP	0.9999999999	BP otic vesicle development	XLOC_038456
+GO:0071772	0.0120170979831	1	1	1	response to BMP	BP	0.9999999999	BP response to BMP	XLOC_038456
+GO:0071773	0.0120170979831	1	1	1	cellular response to BMP stimulus	BP	0.9999999999	BP cellular response to BMP stimulus	XLOC_038456
+GO:0098743	0.0120170979831	1	1	1	cell aggregation	BP	0.9999999999	BP cell aggregation	XLOC_038456
+GO:0005581	0.0134546109993208	0.99852512477586	3	36	collagen trimer	CC	0.9999999999	CC collagen trimer	XLOC_008862, XLOC_038456, XLOC_049541
+GO:0043548	0.0138770305728828	1	1	1	phosphatidylinositol 3-kinase binding	MF	0.9999999999	MF phosphatidylinositol 3-kinase binding	XLOC_064008
+GO:0002098	0.0140843528291242	1	1	1	tRNA wobble uridine modification	BP	0.9999999999	BP tRNA wobble uridine modification	XLOC_063450
+GO:0033588	0.0140843528291242	1	1	1	Elongator holoenzyme complex	CC	0.9999999999	CC Elongator holoenzyme complex	XLOC_063450
+GO:0060478	0.0142077628121541	1	1	1	acrosomal vesicle exocytosis	BP	0.9999999999	BP acrosomal vesicle exocytosis	XLOC_016692
+GO:0099011	0.0142077628121541	1	1	1	neuronal dense core vesicle exocytosis	BP	0.9999999999	BP neuronal dense core vesicle exocytosis	XLOC_016692
+GO:0099525	0.0142077628121541	1	1	1	presynaptic dense core vesicle exocytosis	BP	0.9999999999	BP presynaptic dense core vesicle exocytosis	XLOC_016692
+GO:0070382	0.0165459668956185	0.999071245773222	2	15	exocytic vesicle	CC	0.9999999999	CC exocytic vesicle	XLOC_016692, XLOC_061629
+GO:0044217	0.0167901961209294	0.999050212223566	2	15	other organism part	CC	0.9999999999	CC other organism part	XLOC_020356, XLOC_036773
+GO:0016925	0.0210487784505851	0.999889682268531	1	2	protein sumoylation	BP	0.9999999999	BP protein sumoylation	XLOC_036773
+GO:1901099	0.0221710421106018	0.999877534129138	1	2	negative regulation of signal transduction in absence of ligand	BP	0.9999999999	BP negative regulation of signal transduction in absence of ligand	XLOC_038456
+GO:2001240	0.0221710421106018	0.999877534129138	1	2	negative regulation of extrinsic apoptotic signaling pathway in absence of ligand	BP	0.9999999999	BP negative regulation of extrinsic apoptotic signaling pathway in absence of ligand	XLOC_038456
+GO:0032050	0.0238258252145516	0.999858450040295	1	2	clathrin heavy chain binding	MF	0.9999999999	MF clathrin heavy chain binding	XLOC_003045
+GO:0019083	0.0246892809216282	0.999847936670788	1	2	viral transcription	BP	0.9999999999	BP viral transcription	XLOC_036773
+GO:1900034	0.0246892809216282	0.999847936670788	1	2	regulation of cellular response to heat	BP	0.9999999999	BP regulation of cellular response to heat	XLOC_036773
+GO:0010799	0.0250685699196334	0.999843197895702	1	2	regulation of peptidyl-threonine phosphorylation	BP	0.9999999999	BP regulation of peptidyl-threonine phosphorylation	XLOC_003045
+GO:0010800	0.0250685699196334	0.999843197895702	1	2	positive regulation of peptidyl-threonine phosphorylation	BP	0.9999999999	BP positive regulation of peptidyl-threonine phosphorylation	XLOC_003045
+GO:0090280	0.0250685699196334	0.999843197895702	1	2	positive regulation of calcium ion import	BP	0.9999999999	BP positive regulation of calcium ion import	XLOC_003045
+GO:0020003	0.0251736931626607	0.999841871466891	1	2	symbiont-containing vacuole	CC	0.9999999999	CC symbiont-containing vacuole	XLOC_020356
+GO:0065010	0.0251736931626607	0.999841871466891	1	2	extracellular membrane-bounded organelle	CC	0.9999999999	CC extracellular membrane-bounded organelle	XLOC_020356
+GO:0001958	0.0260565671403435	0.999830508040984	1	2	endochondral ossification	BP	0.9999999999	BP endochondral ossification	XLOC_038456
+GO:0036075	0.0260565671403435	0.999830508040984	1	2	replacement ossification	BP	0.9999999999	BP replacement ossification	XLOC_038456
+GO:0042287	0.0260565671403436	0.999830508040984	1	2	MHC protein binding	MF	0.9999999999	MF MHC protein binding	XLOC_038456
+GO:0001867	0.026153534979721	0.999829235618789	1	2	complement activation, lectin pathway	BP	0.9999999999	BP complement activation, lectin pathway	XLOC_008862
+GO:1990504	0.027441500561631	0.999811877042626	1	2	dense core granule exocytosis	BP	0.9999999999	BP dense core granule exocytosis	XLOC_016692
+GO:0031233	0.0279514262019431	0.999804769006778	1	2	intrinsic component of external side of plasma membrane	CC	0.9999999999	CC intrinsic component of external side of plasma membrane	XLOC_048598
+GO:0031362	0.0279514262019431	0.999804769006778	1	2	anchored component of external side of plasma membrane	CC	0.9999999999	CC anchored component of external side of plasma membrane	XLOC_048598
+GO:0032217	0.0279514262019431	0.999804769006778	1	2	riboflavin transmembrane transporter activity	MF	0.9999999999	MF riboflavin transmembrane transporter activity	XLOC_048598
+GO:0032218	0.0279514262019431	0.999804769006778	1	2	riboflavin transport	BP	0.9999999999	BP riboflavin transport	XLOC_048598
+GO:0051183	0.0279514262019431	0.999804769006778	1	2	NA	NA	0.9999999999	none	XLOC_048598
+GO:1902444	0.0279514262019431	0.999804769006778	1	2	riboflavin binding	MF	0.9999999999	MF riboflavin binding	XLOC_048598
+GO:1904656	0.0279514262019431	0.999804769006778	1	2	regulation of sensory perception of sweet taste	BP	0.9999999999	BP regulation of sensory perception of sweet taste	XLOC_048598
+GO:1904657	0.0279514262019431	0.999804769006778	1	2	negative regulation of sensory perception of sweet taste	BP	0.9999999999	BP negative regulation of sensory perception of sweet taste	XLOC_048598
+GO:1904660	0.0279514262019431	0.999804769006778	1	2	regulation of sensory perception of bitter taste	BP	0.9999999999	BP regulation of sensory perception of bitter taste	XLOC_048598
+GO:1904661	0.0279514262019431	0.999804769006778	1	2	negative regulation of sensory perception of bitter taste	BP	0.9999999999	BP negative regulation of sensory perception of bitter taste	XLOC_048598
+GO:0099699	0.0280001780715168	0.999804082433768	1	2	integral component of synaptic membrane	CC	0.9999999999	CC integral component of synaptic membrane	XLOC_016692
+GO:0002097	0.0280948651741361	0.999802745461017	1	2	tRNA wobble base modification	BP	0.9999999999	BP tRNA wobble base modification	XLOC_063450
+GO:0007340	0.0282165464799197	0.999801020559833	1	2	acrosome reaction	BP	0.9999999999	BP acrosome reaction	XLOC_016692
+GO:0005049	0.0313755530701413	0.999672014931024	1	3	nuclear export signal receptor activity	MF	0.9999999999	MF nuclear export signal receptor activity	XLOC_036773
+GO:0030658	0.0324220374570326	0.997311628722296	2	21	transport vesicle membrane	CC	0.9999999999	CC transport vesicle membrane	XLOC_016692, XLOC_061629
+GO:0001503	0.0329064383825634	0.997249517088693	2	21	ossification	BP	0.9999999999	BP ossification	XLOC_034505, XLOC_038456
+GO:0015074	0.0344675446317458	0.994515920678513	3	51	DNA integration	BP	0.9999999999	BP DNA integration	XLOC_008167, XLOC_015318, XLOC_045664
+GO:0044216	0.0359925591439622	0.99956746269668	1	3	other organism cell	CC	0.9999999999	CC other organism cell	XLOC_036773
+GO:0060351	0.0380864124535771	0.999515203336964	1	3	cartilage development involved in endochondral bone morphogenesis	BP	0.9999999999	BP cartilage development involved in endochondral bone morphogenesis	XLOC_038456
+GO:0090313	0.0383390424624523	0.999508693060907	1	3	regulation of protein targeting to membrane	BP	0.9999999999	BP regulation of protein targeting to membrane	XLOC_003045
+GO:0090314	0.0383390424624523	0.999508693060907	1	3	positive regulation of protein targeting to membrane	BP	0.9999999999	BP positive regulation of protein targeting to membrane	XLOC_003045
+GO:0006029	0.0385632031594372	0.999502879430492	1	3	proteoglycan metabolic process	BP	0.9999999999	BP proteoglycan metabolic process	XLOC_038456
+GO:0005540	0.0389252244467274	0.999493416860588	1	3	hyaluronic acid binding	MF	0.9999999999	MF hyaluronic acid binding	XLOC_003045
+GO:0033655	0.0390288749283558	0.999490690902378	1	3	host cell cytoplasm part	CC	0.9999999999	CC host cell cytoplasm part	XLOC_020356
+GO:0060467	0.0393110732484428	0.999483231476964	1	3	negative regulation of fertilization	BP	0.9999999999	BP negative regulation of fertilization	XLOC_030380
+GO:0060468	0.0393110732484428	0.999483231476964	1	3	prevention of polyspermy	BP	0.9999999999	BP prevention of polyspermy	XLOC_030380
+GO:2000359	0.0393110732484428	0.999483231476964	1	3	regulation of binding of sperm to zona pellucida	BP	0.9999999999	BP regulation of binding of sperm to zona pellucida	XLOC_030380
+GO:2000360	0.0393110732484428	0.999483231476964	1	3	negative regulation of binding of sperm to zona pellucida	BP	0.9999999999	BP negative regulation of binding of sperm to zona pellucida	XLOC_030380
+GO:0043560	0.0394159414084965	0.99948044539449	1	3	insulin receptor substrate binding	MF	0.9999999999	MF insulin receptor substrate binding	XLOC_064008
+GO:0002062	0.0398993798799563	0.999467503002803	1	3	chondrocyte differentiation	BP	0.9999999999	BP chondrocyte differentiation	XLOC_038456
+GO:0060021	0.0398993798799563	0.999467503002803	1	3	roof of mouth development	BP	0.9999999999	BP roof of mouth development	XLOC_038456
+GO:0007605	0.0416913770716954	0.995990380590767	2	25	sensory perception of sound	BP	0.9999999999	BP sensory perception of sound	XLOC_003045, XLOC_038456
+GO:0061630	0.0427295090491171	0.995845562119253	2	24	ubiquitin protein ligase activity	MF	0.9999999999	MF ubiquitin protein ligase activity	XLOC_058539, XLOC_059713
+GO:0061659	0.0427295090491171	0.995845562119253	2	24	ubiquitin-like protein ligase activity	MF	0.9999999999	MF ubiquitin-like protein ligase activity	XLOC_058539, XLOC_059713
+GO:0006027	0.0476325569562937	0.999144316536387	1	4	glycosaminoglycan catabolic process	BP	0.9999999999	BP glycosaminoglycan catabolic process	XLOC_003045
+GO:2001239	0.0479601808961894	0.999132380617769	1	4	regulation of extrinsic apoptotic signaling pathway in absence of ligand	BP	0.9999999999	BP regulation of extrinsic apoptotic signaling pathway in absence of ligand	XLOC_038456
+GO:0050954	0.0483322202001107	0.994937081246883	2	27	sensory perception of mechanical stimulus	BP	0.9999999999	BP sensory perception of mechanical stimulus	XLOC_003045, XLOC_038456
+GO:0008139	0.0496961746237618	0.999067725604882	1	4	nuclear localization sequence binding	MF	0.9999999999	MF nuclear localization sequence binding	XLOC_036773
+GO:0043657	0.0496961746237618	0.999067725604882	1	4	host cell	CC	0.9999999999	CC host cell	XLOC_036773
+GO:0080154	0.0498057861322124	0.999063563572765	1	4	regulation of fertilization	BP	0.9999999999	BP regulation of fertilization	XLOC_030380

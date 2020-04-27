@@ -1,0 +1,4 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	under_represented_FDR	go_term
+GO:0003674	1	0.0202687923088048	0	1959	molecular_function	MF	0.9999999999	0.999274507774876	MF molecular_function
+GO:0005488	1	0.0409504771665836	0	1638	binding	MF	0.9999999999	0.999274507774876	MF binding
+GO:0009987	1	0.0461263336311455	0	1596	cellular process	BP	0.9999999999	0.999274507774876	BP cellular process

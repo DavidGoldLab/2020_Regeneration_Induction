@@ -1,0 +1,154 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0032454	0.00129996940074965	1	1	1	histone demethylase activity (H3-K9 specific)	MF	0.9999999999	MF histone demethylase activity (H3-K9 specific)	XLOC_048670
+GO:0033169	0.00129996940074965	1	1	1	histone H3-K9 demethylation	BP	0.9999999999	BP histone H3-K9 demethylation	XLOC_048670
+GO:0033182	0.00129996940074965	1	1	1	regulation of histone ubiquitination	BP	0.9999999999	BP regulation of histone ubiquitination	XLOC_048670
+GO:0033184	0.00129996940074965	1	1	1	positive regulation of histone ubiquitination	BP	0.9999999999	BP positive regulation of histone ubiquitination	XLOC_048670
+GO:0043425	0.00129996940074965	1	1	1	bHLH transcription factor binding	MF	0.9999999999	MF bHLH transcription factor binding	XLOC_048670
+GO:0043426	0.00129996940074965	1	1	1	MRF binding	MF	0.9999999999	MF MRF binding	XLOC_048670
+GO:0051572	0.00129996940074965	1	1	1	negative regulation of histone H3-K4 methylation	BP	0.9999999999	BP negative regulation of histone H3-K4 methylation	XLOC_048670
+GO:0051573	0.00129996940074965	1	1	1	negative regulation of histone H3-K9 methylation	BP	0.9999999999	BP negative regulation of histone H3-K9 methylation	XLOC_048670
+GO:0061752	0.00129996940074965	1	1	1	telomeric repeat-containing RNA binding	MF	0.9999999999	MF telomeric repeat-containing RNA binding	XLOC_048670
+GO:0015074	0.00154792007647165	0.999976116167029	2	51	DNA integration	BP	0.9999999999	BP DNA integration	XLOC_031772, XLOC_042835
+GO:0031061	0.0020732362883406	0.999999031958992	1	2	negative regulation of histone methylation	BP	0.9999999999	BP negative regulation of histone methylation	XLOC_048670
+GO:0051569	0.00210572310363329	0.999999001365768	1	2	regulation of histone H3-K4 methylation	BP	0.9999999999	BP regulation of histone H3-K4 methylation	XLOC_048670
+GO:0071204	0.00211786596633882	0.999998989808354	1	2	histone pre-mRNA 3'end processing complex	CC	0.9999999999	CC histone pre-mRNA 3'end processing complex	XLOC_048670
+GO:0035563	0.00233617765334068	0.999998770663435	1	2	positive regulation of chromatin binding	BP	0.9999999999	BP positive regulation of chromatin binding	XLOC_048670
+GO:0002052	0.00240249062443667	0.999998699835389	1	2	positive regulation of neuroblast proliferation	BP	0.9999999999	BP positive regulation of neuroblast proliferation	XLOC_048670
+GO:2000648	0.00240249062443667	0.999998699835389	1	2	positive regulation of stem cell proliferation	BP	0.9999999999	BP positive regulation of stem cell proliferation	XLOC_048670
+GO:0043392	0.00260589282361956	0.999998470192736	1	2	negative regulation of DNA binding	BP	0.9999999999	BP negative regulation of DNA binding	XLOC_048670
+GO:0060992	0.00288582227696541	0.999998123581133	1	2	response to fungicide	BP	0.9999999999	BP response to fungicide	XLOC_048670
+GO:0070934	0.00292715110863242	0.999997426336643	1	3	CRD-mediated mRNA stabilization	BP	0.9999999999	BP CRD-mediated mRNA stabilization	XLOC_048670
+GO:0070937	0.00292715110863242	0.999997426336643	1	3	CRD-mediated mRNA stability complex	CC	0.9999999999	CC CRD-mediated mRNA stability complex	XLOC_048670
+GO:0051570	0.00304181573963777	0.999997220596111	1	3	regulation of histone H3-K9 methylation	BP	0.9999999999	BP regulation of histone H3-K9 methylation	XLOC_048670
+GO:0046098	0.00304555389394905	0.999997909927031	1	2	guanine metabolic process	BP	0.9999999999	BP guanine metabolic process	XLOC_048670
+GO:0032453	0.00334002509753064	0.999997485805661	1	2	histone demethylase activity (H3-K4 specific)	MF	0.9999999999	MF histone demethylase activity (H3-K4 specific)	XLOC_048670
+GO:0034648	0.00334002509753064	0.999997485805661	1	2	histone demethylase activity (H3-dimethyl-K4 specific)	MF	0.9999999999	MF histone demethylase activity (H3-dimethyl-K4 specific)	XLOC_048670
+GO:0034720	0.00334002509753064	0.999997485805661	1	2	histone H3-K4 demethylation	BP	0.9999999999	BP histone H3-K4 demethylation	XLOC_048670
+GO:0043518	0.00451423673301001	0.999995404324302	1	2	negative regulation of DNA damage response, signal transduction by p53 class mediator	BP	0.9999999999	BP negative regulation of DNA damage response, signal transduction by p53 class mediator	XLOC_048670
+GO:1901797	0.00451423673301001	0.999995404324302	1	2	negative regulation of signal transduction by p53 class mediator	BP	0.9999999999	BP negative regulation of signal transduction by p53 class mediator	XLOC_048670
+GO:1902165	0.00451423673301001	0.999995404324302	1	2	regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	BP	0.9999999999	BP regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	XLOC_048670
+GO:1902166	0.00451423673301001	0.999995404324302	1	2	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	BP	0.9999999999	BP negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	XLOC_048670
+GO:1902229	0.00451423673301001	0.999995404324302	1	2	regulation of intrinsic apoptotic signaling pathway in response to DNA damage	BP	0.9999999999	BP regulation of intrinsic apoptotic signaling pathway in response to DNA damage	XLOC_048670
+GO:1902230	0.00451423673301001	0.999995404324302	1	2	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage	BP	0.9999999999	BP negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage	XLOC_048670
+GO:1902254	0.00451423673301001	0.999995404324302	1	2	negative regulation of intrinsic apoptotic signaling pathway by p53 class mediator	BP	0.9999999999	BP negative regulation of intrinsic apoptotic signaling pathway by p53 class mediator	XLOC_048670
+GO:0045793	0.00462951552769851	0.999995166302847	1	2	positive regulation of cell size	BP	0.9999999999	BP positive regulation of cell size	XLOC_048670
+GO:0030374	0.00464341947984432	0.999995137187574	1	2	nuclear receptor transcription coactivator activity	MF	0.9999999999	MF nuclear receptor transcription coactivator activity	XLOC_048670
+GO:0035561	0.0046455783343066	0.999993512058362	1	3	regulation of chromatin binding	BP	0.9999999999	BP regulation of chromatin binding	XLOC_048670
+GO:0048255	0.00506842091328418	0.999991311437808	1	4	mRNA stabilization	BP	0.9999999999	BP mRNA stabilization	XLOC_048670
+GO:0050681	0.00539089268589384	0.999991260077637	1	3	androgen receptor binding	MF	0.9999999999	MF androgen receptor binding	XLOC_048670
+GO:0031057	0.00577046063990897	0.999987984371701	1	5	negative regulation of histone modification	BP	0.9999999999	BP negative regulation of histone modification	XLOC_048670
+GO:1990391	0.00632480103910602	0.999985561381086	1	5	DNA repair complex	CC	0.9999999999	CC DNA repair complex	XLOC_048670
+GO:0097452	0.00632788790042278	0.999986448983534	1	4	GAIT complex	CC	0.9999999999	CC GAIT complex	XLOC_048670
+GO:1902692	0.00638836999799446	0.999986188319059	1	4	regulation of neuroblast proliferation	BP	0.9999999999	BP regulation of neuroblast proliferation	XLOC_048670
+GO:0071480	0.00641231361106902	0.999986084439238	1	4	cellular response to gamma radiation	BP	0.9999999999	BP cellular response to gamma radiation	XLOC_048670
+GO:0032451	0.00649431668926209	0.999984775908439	1	5	demethylase activity	MF	0.9999999999	MF demethylase activity	XLOC_048670
+GO:0032452	0.00649431668926209	0.999984775908439	1	5	histone demethylase activity	MF	0.9999999999	MF histone demethylase activity	XLOC_048670
+GO:0043489	0.00675105771210583	0.999982862391509	1	6	RNA stabilization	BP	0.9999999999	BP RNA stabilization	XLOC_048670
+GO:0000380	0.00713781823567963	0.999982751659994	1	4	alternative mRNA splicing, via spliceosome	BP	0.9999999999	BP alternative mRNA splicing, via spliceosome	XLOC_048670
+GO:0042551	0.00716363756976124	0.999982626444221	1	4	neuron maturation	BP	0.9999999999	BP neuron maturation	XLOC_048670
+GO:0006482	0.00732006404415407	0.999979846866201	1	6	protein demethylation	BP	0.9999999999	BP protein demethylation	XLOC_048670
+GO:0008214	0.00732006404415407	0.999979846866201	1	6	protein dealkylation	BP	0.9999999999	BP protein dealkylation	XLOC_048670
+GO:0016577	0.00732006404415407	0.999979846866201	1	6	histone demethylation	BP	0.9999999999	BP histone demethylation	XLOC_048670
+GO:0070076	0.00732006404415407	0.999979846866201	1	6	histone lysine demethylation	BP	0.9999999999	BP histone lysine demethylation	XLOC_048670
+GO:0043516	0.0073916144971917	0.9999835528126	1	3	regulation of DNA damage response, signal transduction by p53 class mediator	BP	0.9999999999	BP regulation of DNA damage response, signal transduction by p53 class mediator	XLOC_048670
+GO:0001085	0.00761338408364149	0.999978196656607	1	6	RNA polymerase II transcription factor binding	MF	0.9999999999	MF RNA polymerase II transcription factor binding	XLOC_048670
+GO:1902253	0.00761452639547701	0.999982543932611	1	3	regulation of intrinsic apoptotic signaling pathway by p53 class mediator	BP	0.9999999999	BP regulation of intrinsic apoptotic signaling pathway by p53 class mediator	XLOC_048670
+GO:0120162	0.00785475719310095	0.999976789834442	1	6	positive regulation of cold-induced thermogenesis	BP	0.9999999999	BP positive regulation of cold-induced thermogenesis	XLOC_048670
+GO:0070988	0.00812688139397482	0.999974442702654	1	7	demethylation	BP	0.9999999999	BP demethylation	XLOC_048670
+GO:2001021	0.00827458923215776	0.999974237734672	1	6	negative regulation of response to DNA damage stimulus	BP	0.9999999999	BP negative regulation of response to DNA damage stimulus	XLOC_048670
+GO:0010569	0.00853426610908561	0.99997181136611	1	7	regulation of double-strand break repair via homologous recombination	BP	0.9999999999	BP regulation of double-strand break repair via homologous recombination	XLOC_048670
+GO:1905268	0.00870672236757629	0.999970658477796	1	7	negative regulation of chromatin organization	BP	0.9999999999	BP negative regulation of chromatin organization	XLOC_048670
+GO:2000779	0.00930680261636795	0.999965769563771	1	8	regulation of double-strand break repair	BP	0.9999999999	BP regulation of double-strand break repair	XLOC_048670
+GO:0008143	0.00937562368951871	0.99996526045113	1	8	poly(A) binding	MF	0.9999999999	MF poly(A) binding	XLOC_048670
+GO:0051101	0.00946660685776029	0.999964021146218	1	9	regulation of DNA binding	BP	0.9999999999	BP regulation of DNA binding	XLOC_048670
+GO:0072091	0.00957312590483388	0.999964515433498	1	7	regulation of stem cell proliferation	BP	0.9999999999	BP regulation of stem cell proliferation	XLOC_048670
+GO:0043433	0.00976463804603139	0.999961238399021	1	10	negative regulation of DNA-binding transcription factor activity	BP	0.9999999999	BP negative regulation of DNA-binding transcription factor activity	XLOC_048670
+GO:0031058	0.0100227713595671	0.999959660233634	1	9	positive regulation of histone modification	BP	0.9999999999	BP positive regulation of histone modification	XLOC_048670
+GO:0031060	0.0105362702169436	0.999955411480086	1	9	regulation of histone methylation	BP	0.9999999999	BP regulation of histone methylation	XLOC_048670
+GO:0048027	0.0105694765749973	0.999955828087381	1	8	mRNA 5'-UTR binding	MF	0.9999999999	MF mRNA 5'-UTR binding	XLOC_048670
+GO:0006282	0.011568691022266	0.999945552710153	1	10	regulation of DNA repair	BP	0.9999999999	BP regulation of DNA repair	XLOC_048670
+GO:0070717	0.0125448131475258	0.999935307310233	1	11	poly-purine tract binding	MF	0.9999999999	MF poly-purine tract binding	XLOC_048670
+GO:0009636	0.0127221265470049	0.999937247785104	1	7	response to toxic substance	BP	0.9999999999	BP response to toxic substance	XLOC_048670
+GO:0034341	0.0129395438138737	0.999933731775254	1	8	response to interferon-gamma	BP	0.9999999999	BP response to interferon-gamma	XLOC_048670
+GO:0071346	0.0129395438138737	0.999933731775254	1	8	cellular response to interferon-gamma	BP	0.9999999999	BP cellular response to interferon-gamma	XLOC_048670
+GO:0042162	0.0129779992451295	0.999931439758971	1	10	telomeric DNA binding	MF	0.9999999999	MF telomeric DNA binding	XLOC_048670
+GO:0010332	0.0131298160673299	0.999930684667779	1	9	response to gamma radiation	BP	0.9999999999	BP response to gamma radiation	XLOC_048670
+GO:0035258	0.0132227045565122	0.999930791538338	1	8	steroid hormone receptor binding	MF	0.9999999999	MF steroid hormone receptor binding	XLOC_048670
+GO:0034644	0.0133509879602239	0.999926701521196	1	11	cellular response to UV	BP	0.9999999999	BP cellular response to UV	XLOC_048670
+GO:0090304	0.0141893402638401	0.998634531521229	3	367	nucleic acid metabolic process	BP	0.9999999999	BP nucleic acid metabolic process	XLOC_031772, XLOC_042835, XLOC_048670
+GO:0032091	0.0142380427095134	0.999918452508402	1	9	negative regulation of protein binding	BP	0.9999999999	BP negative regulation of protein binding	XLOC_048670
+GO:0048469	0.0142582758550403	0.999919491826291	1	8	cell maturation	BP	0.9999999999	BP cell maturation	XLOC_048670
+GO:0051091	0.0146497462195799	0.999911700911322	1	11	positive regulation of DNA-binding transcription factor activity	BP	0.9999999999	BP positive regulation of DNA-binding transcription factor activity	XLOC_048670
+GO:2000179	0.0150623970201947	0.999910124835963	1	8	positive regulation of neural precursor cell proliferation	BP	0.9999999999	BP positive regulation of neural precursor cell proliferation	XLOC_048670
+GO:0071320	0.0156644422523907	0.999901236842126	1	9	cellular response to cAMP	BP	0.9999999999	BP cellular response to cAMP	XLOC_048670
+GO:1905269	0.0158138055365071	0.999896209375203	1	12	positive regulation of chromatin organization	BP	0.9999999999	BP positive regulation of chromatin organization	XLOC_048670
+GO:0071482	0.0164139909180042	0.999887376760688	1	13	cellular response to light stimulus	BP	0.9999999999	BP cellular response to light stimulus	XLOC_048670
+GO:0006144	0.0170095319593786	0.999882034421378	1	10	purine nucleobase metabolic process	BP	0.9999999999	BP purine nucleobase metabolic process	XLOC_048670
+GO:0000018	0.0171628621013335	0.999875468377275	1	15	regulation of DNA recombination	BP	0.9999999999	BP regulation of DNA recombination	XLOC_048670
+GO:0071479	0.0171787923391452	0.999881143911	1	9	cellular response to ionizing radiation	BP	0.9999999999	BP cellular response to ionizing radiation	XLOC_048670
+GO:0002039	0.0172799008806462	0.999875137391772	1	13	p53 binding	MF	0.9999999999	MF p53 binding	XLOC_048670
+GO:0000784	0.017524130302446	0.999872456940282	1	12	nuclear chromosome, telomeric region	CC	0.9999999999	CC nuclear chromosome, telomeric region	XLOC_048670
+GO:1901796	0.0176361235137754	0.999874707705744	1	9	regulation of signal transduction by p53 class mediator	BP	0.9999999999	BP regulation of signal transduction by p53 class mediator	XLOC_048670
+GO:0035257	0.0177470602553608	0.999870254254683	1	11	nuclear hormone receptor binding	MF	0.9999999999	MF nuclear hormone receptor binding	XLOC_048670
+GO:0031056	0.0195049474143753	0.999838298434802	1	16	regulation of histone modification	BP	0.9999999999	BP regulation of histone modification	XLOC_048670
+GO:2001243	0.0199085293088644	0.999835229655714	1	12	negative regulation of intrinsic apoptotic signaling pathway	BP	0.9999999999	BP negative regulation of intrinsic apoptotic signaling pathway	XLOC_048670
+GO:0071013	0.0200835881041628	0.999826730423777	1	19	catalytic step 2 spliceosome	CC	0.9999999999	CC catalytic step 2 spliceosome	XLOC_048670
+GO:0051591	0.0203091026347108	0.999829912325275	1	11	response to cAMP	BP	0.9999999999	BP response to cAMP	XLOC_048670
+GO:0051427	0.0204742445425168	0.999825692747722	1	12	hormone receptor binding	MF	0.9999999999	MF hormone receptor binding	XLOC_048670
+GO:0001649	0.0206971252942243	0.999817841560529	1	16	osteoblast differentiation	BP	0.9999999999	BP osteoblast differentiation	XLOC_048670
+GO:0051100	0.020754789816307	0.999818553062098	1	14	negative regulation of binding	BP	0.9999999999	BP negative regulation of binding	XLOC_048670
+GO:0006139	0.0213317417768068	0.997600503525117	3	420	nucleobase-containing compound metabolic process	BP	0.9999999999	BP nucleobase-containing compound metabolic process	XLOC_031772, XLOC_042835, XLOC_048670
+GO:0005667	0.0224608288949425	0.999784488586832	1	17	transcription factor complex	CC	0.9999999999	CC transcription factor complex	XLOC_048670
+GO:0021987	0.0234892272104936	0.999767338626141	1	14	cerebral cortex development	BP	0.9999999999	BP cerebral cortex development	XLOC_048670
+GO:0009411	0.0238491973695391	0.999756052149023	1	18	response to UV	BP	0.9999999999	BP response to UV	XLOC_048670
+GO:2000177	0.023904144050253	0.999757780918468	1	15	regulation of neural precursor cell proliferation	BP	0.9999999999	BP regulation of neural precursor cell proliferation	XLOC_048670
+GO:0006259	0.0243024143287381	0.998401345646892	2	181	DNA metabolic process	BP	0.9999999999	BP DNA metabolic process	XLOC_031772, XLOC_042835
+GO:0031398	0.0246141721803529	0.999744404906485	1	14	positive regulation of protein ubiquitination	BP	0.9999999999	BP positive regulation of protein ubiquitination	XLOC_048670
+GO:0051099	0.024711920993827	0.999737190634221	1	19	positive regulation of binding	BP	0.9999999999	BP positive regulation of binding	XLOC_048670
+GO:0010212	0.0251325441661228	0.999732115766611	1	15	response to ionizing radiation	BP	0.9999999999	BP response to ionizing radiation	XLOC_048670
+GO:0008270	0.0253292770119109	0.998297665198245	2	165	zinc ion binding	MF	0.9999999999	MF zinc ion binding	XLOC_031772, XLOC_042835
+GO:0003676	0.0254344523501051	0.996936306659117	3	453	nucleic acid binding	MF	0.9999999999	MF nucleic acid binding	XLOC_031772, XLOC_042835, XLOC_048670
+GO:2001242	0.0254524931154437	0.999724000911089	1	16	regulation of intrinsic apoptotic signaling pathway	BP	0.9999999999	BP regulation of intrinsic apoptotic signaling pathway	XLOC_048670
+GO:0007596	0.0256857215932465	0.999720131871246	1	15	blood coagulation	BP	0.9999999999	BP blood coagulation	XLOC_048670
+GO:0007599	0.0256857215932465	0.999720131871246	1	15	hemostasis	BP	0.9999999999	BP hemostasis	XLOC_048670
+GO:0050817	0.0256857215932465	0.999720131871246	1	15	coagulation	BP	0.9999999999	BP coagulation	XLOC_048670
+GO:0055001	0.0259732308199643	0.999715245864241	1	14	muscle cell development	BP	0.9999999999	BP muscle cell development	XLOC_048670
+GO:0009112	0.0260340362562988	0.999713904078118	1	14	nucleobase metabolic process	BP	0.9999999999	BP nucleobase metabolic process	XLOC_048670
+GO:0003727	0.0263942537061698	0.999700908788414	1	18	single-stranded RNA binding	MF	0.9999999999	MF single-stranded RNA binding	XLOC_048670
+GO:0003713	0.0266349165372766	0.999695400790071	1	18	transcription coactivator activity	MF	0.9999999999	MF transcription coactivator activity	XLOC_048670
+GO:0046483	0.0267537750156061	0.996713072310591	3	457	heterocycle metabolic process	BP	0.9999999999	BP heterocycle metabolic process	XLOC_031772, XLOC_042835, XLOC_048670
+GO:0051090	0.0268996961860085	0.999685990636411	1	22	regulation of DNA-binding transcription factor activity	BP	0.9999999999	BP regulation of DNA-binding transcription factor activity	XLOC_048670
+GO:0043488	0.0269077666363777	0.999690160384425	1	17	regulation of mRNA stability	BP	0.9999999999	BP regulation of mRNA stability	XLOC_048670
+GO:2001020	0.0272269392456741	0.999681635121484	1	18	regulation of response to DNA damage stimulus	BP	0.9999999999	BP regulation of response to DNA damage stimulus	XLOC_048670
+GO:0006725	0.0281062437957314	0.996479477833067	3	462	cellular aromatic compound metabolic process	BP	0.9999999999	BP cellular aromatic compound metabolic process	XLOC_031772, XLOC_042835, XLOC_048670
+GO:0021700	0.0284565602460883	0.999653252993229	1	17	developmental maturation	BP	0.9999999999	BP developmental maturation	XLOC_048670
+GO:0046683	0.0284629719385238	0.99965083642154	1	19	response to organophosphorus	BP	0.9999999999	BP response to organophosphorus	XLOC_048670
+GO:2001251	0.0288974665455136	0.999638148202215	1	21	negative regulation of chromosome organization	BP	0.9999999999	BP negative regulation of chromosome organization	XLOC_048670
+GO:0043393	0.0289211285263094	0.999638448884201	1	20	regulation of protein binding	BP	0.9999999999	BP regulation of protein binding	XLOC_048670
+GO:1903322	0.0289329694528454	0.999641477927949	1	17	positive regulation of protein modification by small protein conjugation or removal	BP	0.9999999999	BP positive regulation of protein modification by small protein conjugation or removal	XLOC_048670
+GO:0043487	0.0291588525674015	0.999633454123038	1	19	regulation of RNA stability	BP	0.9999999999	BP regulation of RNA stability	XLOC_048670
+GO:0098687	0.0294873642839015	0.999624069306874	1	20	chromosomal region	CC	0.9999999999	CC chromosomal region	XLOC_048670
+GO:0000781	0.0296140712673161	0.999619872350728	1	21	chromosome, telomeric region	CC	0.9999999999	CC chromosome, telomeric region	XLOC_048670
+GO:1902275	0.0308887668202485	0.999583679501786	1	24	regulation of chromatin organization	BP	0.9999999999	BP regulation of chromatin organization	XLOC_048670
+GO:0071478	0.0320762112185077	0.999553605225628	1	21	cellular response to radiation	BP	0.9999999999	BP cellular response to radiation	XLOC_048670
+GO:0014074	0.0324026480106513	0.99954554064361	1	20	response to purine-containing compound	BP	0.9999999999	BP response to purine-containing compound	XLOC_048670
+GO:1901360	0.0324171213248196	0.995704015011542	3	486	organic cyclic compound metabolic process	BP	0.9999999999	BP organic cyclic compound metabolic process	XLOC_031772, XLOC_042835, XLOC_048670
+GO:2001234	0.03395596788963	0.999500618873108	1	20	negative regulation of apoptotic signaling pathway	BP	0.9999999999	BP negative regulation of apoptotic signaling pathway	XLOC_048670
+GO:0046914	0.0366835582290289	0.996982745765905	2	200	transition metal ion binding	MF	0.9999999999	MF transition metal ion binding	XLOC_031772, XLOC_042835
+GO:0017148	0.0392808328179762	0.999323358120077	1	25	negative regulation of translation	BP	0.9999999999	BP negative regulation of translation	XLOC_048670
+GO:0034249	0.0392808328179762	0.999323358120077	1	25	negative regulation of cellular amide metabolic process	BP	0.9999999999	BP negative regulation of cellular amide metabolic process	XLOC_048670
+GO:2001252	0.0393437334185949	0.999319107089433	1	27	positive regulation of chromosome organization	BP	0.9999999999	BP positive regulation of chromosome organization	XLOC_048670
+GO:0034641	0.0397782682852841	0.994279168857353	3	520	cellular nitrogen compound metabolic process	BP	0.9999999999	BP cellular nitrogen compound metabolic process	XLOC_031772, XLOC_042835, XLOC_048670
+GO:0031396	0.0413514282951819	0.999252212434206	1	23	regulation of protein ubiquitination	BP	0.9999999999	BP regulation of protein ubiquitination	XLOC_048670
+GO:0009416	0.045102717230078	0.999098786288148	1	31	response to light stimulus	BP	0.9999999999	BP response to light stimulus	XLOC_048670
+GO:0016570	0.045413437803477	0.999082791708319	1	35	histone modification	BP	0.9999999999	BP histone modification	XLOC_048670
+GO:0016569	0.0461999131440538	0.999049694417249	1	36	covalent chromatin modification	BP	0.9999999999	BP covalent chromatin modification	XLOC_048670
+GO:0008361	0.046836042697077	0.999029725834693	1	29	regulation of cell size	BP	0.9999999999	BP regulation of cell size	XLOC_048670
+GO:0032535	0.046836042697077	0.999029725834693	1	29	regulation of cellular component size	BP	0.9999999999	BP regulation of cellular component size	XLOC_048670
+GO:0051098	0.0469803985977368	0.99901780493368	1	35	regulation of binding	BP	0.9999999999	BP regulation of binding	XLOC_048670
+GO:0050660	0.0472861363865546	0.999006604327058	1	33	flavin adenine dinucleotide binding	MF	0.9999999999	MF flavin adenine dinucleotide binding	XLOC_048670
+GO:1903320	0.0473243234489333	0.999011776324728	1	27	regulation of protein modification by small protein conjugation or removal	BP	0.9999999999	BP regulation of protein modification by small protein conjugation or removal	XLOC_048670
+GO:0010976	0.0473703163396436	0.999006093583175	1	30	positive regulation of neuron projection development	BP	0.9999999999	BP positive regulation of neuron projection development	XLOC_048670
+GO:0045666	0.0481423978163529	0.998971997538155	1	31	positive regulation of neuron differentiation	BP	0.9999999999	BP positive regulation of neuron differentiation	XLOC_048670
+GO:0000790	0.0492286128387475	0.998922494436085	1	33	nuclear chromatin	CC	0.9999999999	CC nuclear chromatin	XLOC_048670
+GO:0008134	0.0495609358892916	0.998904962701015	1	36	transcription factor binding	MF	0.9999999999	MF transcription factor binding	XLOC_048670

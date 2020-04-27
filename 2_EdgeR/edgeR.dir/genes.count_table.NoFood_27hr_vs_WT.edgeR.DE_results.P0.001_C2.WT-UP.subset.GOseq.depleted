@@ -1,0 +1,21 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	under_represented_FDR	go_term
+GO:0031224	0.996122317247195	0.00523239356162356	102	3478	intrinsic component of membrane	CC	0.9999999999	0.9999999999	CC intrinsic component of membrane
+GO:0016021	0.994058139417232	0.0079036277011537	103	3466	integral component of membrane	CC	0.9999999999	0.9999999999	CC integral component of membrane
+GO:0044391	0.998538051554853	0.0112382960134688	1	157	ribosomal subunit	CC	0.9999999999	0.9999999999	CC ribosomal subunit
+GO:0001701	0.998127235650566	0.0138917768502728	1	170	in utero embryonic development	BP	0.9999999999	0.9999999999	BP in utero embryonic development
+GO:0003678	1	0.0139839620931144	0	114	DNA helicase activity	MF	0.9999999999	0.9999999999	MF DNA helicase activity
+GO:0009790	0.996709050849413	0.0150979343713701	2	213	embryo development	BP	0.9999999999	0.9999999999	BP embryo development
+GO:0009792	0.996349384843	0.0165315221994716	2	210	embryo development ending in birth or egg hatching	BP	0.9999999999	0.9999999999	BP embryo development ending in birth or egg hatching
+GO:0018205	0.996187730032184	0.0171735965312049	2	205	peptidyl-lysine modification	BP	0.9999999999	0.9999999999	BP peptidyl-lysine modification
+GO:0032496	0.997454570416681	0.0180875588014445	1	158	response to lipopolysaccharide	BP	0.9999999999	0.9999999999	BP response to lipopolysaccharide
+GO:0015934	1	0.0188536872337919	0	96	large ribosomal subunit	CC	0.9999999999	0.9999999999	CC large ribosomal subunit
+GO:0045861	1	0.0207386453973008	0	103	negative regulation of proteolysis	BP	0.9999999999	0.9999999999	BP negative regulation of proteolysis
+GO:0001894	1	0.0244523272787003	0	97	tissue homeostasis	BP	0.9999999999	0.9999999999	BP tissue homeostasis
+GO:0018193	0.984791718976265	0.0277858530526737	14	615	peptidyl-amino acid modification	BP	0.9999999999	0.9999999999	BP peptidyl-amino acid modification
+GO:0043009	0.992679011182668	0.0302270767837345	2	189	chordate embryonic development	BP	0.9999999999	0.9999999999	BP chordate embryonic development
+GO:0051188	0.991431732845781	0.0346150783164464	2	178	cofactor biosynthetic process	BP	0.9999999999	0.9999999999	BP cofactor biosynthetic process
+GO:0016407	1	0.0359971071818483	0	89	acetyltransferase activity	MF	0.9999999999	0.9999999999	MF acetyltransferase activity
+GO:0036503	1	0.0365347401523734	0	87	ERAD pathway	BP	0.9999999999	0.9999999999	BP ERAD pathway
+GO:0006633	1	0.0402935455285939	0	83	fatty acid biosynthetic process	BP	0.9999999999	0.9999999999	BP fatty acid biosynthetic process
+GO:0005506	0.989362571723566	0.0416389402384325	2	172	iron ion binding	MF	0.9999999999	0.9999999999	MF iron ion binding
+GO:0007059	1	0.0456994236304329	0	79	chromosome segregation	BP	0.9999999999	0.9999999999	BP chromosome segregation

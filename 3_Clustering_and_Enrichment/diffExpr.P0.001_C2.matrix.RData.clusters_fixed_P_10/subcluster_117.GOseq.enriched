@@ -1,0 +1,231 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0098685	1.99670913623745e-05	0.999999977326663	2	8	Schaffer collateral - CA1 synapse	CC	0.213428239572421	CC Schaffer collateral - CA1 synapse	XLOC_006699, XLOC_062274
+GO:0048167	6.02152700896604e-05	0.999999868063507	2	14	regulation of synaptic plasticity	BP	0.32182051099419	BP regulation of synaptic plasticity	XLOC_006699, XLOC_062274
+GO:0031256	0.00014675579804548	0.999999469014204	2	25	leading edge membrane	CC	0.365860661499006	CC leading edge membrane	XLOC_006699, XLOC_062274
+GO:0014069	0.000171138863083079	0.999999322517729	2	31	postsynaptic density	CC	0.365860661499006	CC postsynaptic density	XLOC_006699, XLOC_062274
+GO:0099572	0.000171138863083079	0.999999322517729	2	31	postsynaptic specialization	CC	0.365860661499006	CC postsynaptic specialization	XLOC_006699, XLOC_062274
+GO:0097458	0.000249458593456405	0.99999626039824	3	199	neuron part	CC	0.444410484242585	CC neuron part	XLOC_006699, XLOC_014363, XLOC_062274
+GO:0098978	0.000348623288595811	0.999997992983186	2	45	glutamatergic synapse	CC	0.473361704119383	CC glutamatergic synapse	XLOC_006699, XLOC_062274
+GO:0050804	0.000354279505375158	0.999997948907689	2	42	modulation of chemical synaptic transmission	BP	0.473361704119383	BP modulation of chemical synaptic transmission	XLOC_006699, XLOC_062274
+GO:0031965	0.000497918793489648	0.999996562965754	2	47	nuclear membrane	CC	0.489616605284447	CC nuclear membrane	XLOC_006699, XLOC_014363
+GO:0010646	0.000508992590976432	0.999990199382293	3	270	regulation of cell communication	BP	0.489616605284447	BP regulation of cell communication	XLOC_006699, XLOC_014363, XLOC_062274
+GO:0023051	0.000518302939826718	0.999989955936267	3	273	regulation of signaling	BP	0.489616605284447	BP regulation of signaling	XLOC_006699, XLOC_014363, XLOC_062274
+GO:0031253	0.000549667813959525	0.99999600326757	2	50	cell projection membrane	CC	0.489616605284447	CC cell projection membrane	XLOC_006699, XLOC_062274
+GO:1903530	0.00087526123642259	0.999991878543794	2	68	regulation of secretion by cell	BP	0.6059298611721	BP regulation of secretion by cell	XLOC_006699, XLOC_014363
+GO:0051046	0.00116379420743692	0.999987480880905	2	79	regulation of secretion	BP	0.6059298611721	BP regulation of secretion	XLOC_006699, XLOC_014363
+GO:0098683	0.00193187981260859	1	1	1	cochlear hair cell ribbon synapse	CC	0.6059298611721	CC cochlear hair cell ribbon synapse	XLOC_006699
+GO:0098833	0.00193187981260859	1	1	1	presynaptic endocytic zone	CC	0.6059298611721	CC presynaptic endocytic zone	XLOC_006699
+GO:0098871	0.00193187981260859	1	1	1	postsynaptic actin cytoskeleton	CC	0.6059298611721	CC postsynaptic actin cytoskeleton	XLOC_006699
+GO:0098884	0.00193187981260859	1	1	1	postsynaptic neurotransmitter receptor internalization	BP	0.6059298611721	BP postsynaptic neurotransmitter receptor internalization	XLOC_006699
+GO:0099571	0.00193187981260859	1	1	1	postsynaptic cytoskeleton	CC	0.6059298611721	CC postsynaptic cytoskeleton	XLOC_006699
+GO:0099590	0.00193187981260859	1	1	1	neurotransmitter receptor internalization	BP	0.6059298611721	BP neurotransmitter receptor internalization	XLOC_006699
+GO:0045202	0.00195383914392405	0.999972516078151	2	101	synapse	CC	0.6059298611721	CC synapse	XLOC_006699, XLOC_062274
+GO:0065008	0.00196769828111218	0.999938732912183	3	395	regulation of biological quality	BP	0.6059298611721	BP regulation of biological quality	XLOC_006699, XLOC_014363, XLOC_062274
+GO:0032096	0.00224636391850637	1	1	1	negative regulation of response to food	BP	0.6059298611721	BP negative regulation of response to food	XLOC_014363
+GO:0032099	0.00224636391850637	1	1	1	negative regulation of appetite	BP	0.6059298611721	BP negative regulation of appetite	XLOC_014363
+GO:0032105	0.00224636391850637	1	1	1	negative regulation of response to extracellular stimulus	BP	0.6059298611721	BP negative regulation of response to extracellular stimulus	XLOC_014363
+GO:0032108	0.00224636391850637	1	1	1	negative regulation of response to nutrient levels	BP	0.6059298611721	BP negative regulation of response to nutrient levels	XLOC_014363
+GO:0046321	0.00224636391850637	1	1	1	positive regulation of fatty acid oxidation	BP	0.6059298611721	BP positive regulation of fatty acid oxidation	XLOC_014363
+GO:0046627	0.00224636391850637	1	1	1	negative regulation of insulin receptor signaling pathway	BP	0.6059298611721	BP negative regulation of insulin receptor signaling pathway	XLOC_014363
+GO:0070093	0.00224636391850637	1	1	1	negative regulation of glucagon secretion	BP	0.6059298611721	BP negative regulation of glucagon secretion	XLOC_014363
+GO:1900077	0.00224636391850637	1	1	1	negative regulation of cellular response to insulin stimulus	BP	0.6059298611721	BP negative regulation of cellular response to insulin stimulus	XLOC_014363
+GO:2000843	0.00224636391850637	1	1	1	regulation of testosterone secretion	BP	0.6059298611721	BP regulation of testosterone secretion	XLOC_014363
+GO:2000845	0.00224636391850637	1	1	1	positive regulation of testosterone secretion	BP	0.6059298611721	BP positive regulation of testosterone secretion	XLOC_014363
+GO:0032591	0.00227399575384147	1	1	1	dendritic spine membrane	CC	0.6059298611721	CC dendritic spine membrane	XLOC_062274
+GO:0098879	0.00227399575384147	1	1	1	structural constituent of postsynaptic specialization	MF	0.6059298611721	MF structural constituent of postsynaptic specialization	XLOC_062274
+GO:0098918	0.00227399575384147	1	1	1	structural constituent of synapse	MF	0.6059298611721	MF structural constituent of synapse	XLOC_062274
+GO:0098919	0.00227399575384147	1	1	1	structural constituent of postsynaptic density	MF	0.6059298611721	MF structural constituent of postsynaptic density	XLOC_062274
+GO:0099030	0.00227399575384147	1	1	1	anchored component of postsynaptic specialization membrane	CC	0.6059298611721	CC anchored component of postsynaptic specialization membrane	XLOC_062274
+GO:0099031	0.00227399575384147	1	1	1	anchored component of postsynaptic density membrane	CC	0.6059298611721	CC anchored component of postsynaptic density membrane	XLOC_062274
+GO:0071257	0.0023792869795524	0.99999886639359	1	2	cellular response to electrical stimulus	BP	0.6059298611721	BP cellular response to electrical stimulus	XLOC_006699
+GO:0002065	0.00238086389458585	0.99999886488938	1	2	columnar/cuboidal epithelial cell differentiation	BP	0.6059298611721	BP columnar/cuboidal epithelial cell differentiation	XLOC_006699
+GO:0042491	0.00238086389458585	0.99999886488938	1	2	inner ear auditory receptor cell differentiation	BP	0.6059298611721	BP inner ear auditory receptor cell differentiation	XLOC_006699
+GO:0060563	0.00238086389458585	0.99999886488938	1	2	neuroepithelial cell differentiation	BP	0.6059298611721	BP neuroepithelial cell differentiation	XLOC_006699
+GO:0032098	0.00269365829810338	0.999998546765417	1	2	regulation of appetite	BP	0.636063038233789	BP regulation of appetite	XLOC_014363
+GO:0045923	0.00269365829810345	0.999998546765417	1	2	positive regulation of fatty acid metabolic process	BP	0.636063038233789	BP positive regulation of fatty acid metabolic process	XLOC_014363
+GO:0097470	0.0028265337170353	0.999997866706838	1	3	ribbon synapse	CC	0.636063038233789	CC ribbon synapse	XLOC_006699
+GO:0044456	0.0028371913090327	0.999951576065421	2	120	synapse part	CC	0.636063038233789	CC synapse part	XLOC_006699, XLOC_062274
+GO:0048522	0.00290147930491381	0.999895988031534	3	459	positive regulation of cellular process	BP	0.636063038233789	BP positive regulation of cellular process	XLOC_006699, XLOC_014363, XLOC_062274
+GO:0005856	0.0030491304628346	0.999946032555182	2	114	cytoskeleton	CC	0.636063038233789	CC cytoskeleton	XLOC_006699, XLOC_062274
+GO:0032095	0.00310043541844122	0.99999807423923	1	2	regulation of response to food	BP	0.636063038233789	BP regulation of response to food	XLOC_014363
+GO:0032107	0.00310043541844122	0.99999807423923	1	2	regulation of response to nutrient levels	BP	0.636063038233789	BP regulation of response to nutrient levels	XLOC_014363
+GO:0005640	0.00314081477929746	0.99999736549023	1	3	nuclear outer membrane	CC	0.636063038233789	CC nuclear outer membrane	XLOC_014363
+GO:0060079	0.00317799496633534	0.999997302694087	1	3	excitatory postsynaptic potential	BP	0.636063038233789	BP excitatory postsynaptic potential	XLOC_062274
+GO:0014047	0.00325144690110419	0.999997881884023	1	2	glutamate secretion	BP	0.636063038233789	BP glutamate secretion	XLOC_006699
+GO:1901142	0.0033825213158718	0.999996944006893	1	3	insulin metabolic process	BP	0.636063038233789	BP insulin metabolic process	XLOC_014363
+GO:0035315	0.00344942267277946	0.999996424949751	1	4	hair cell differentiation	BP	0.636063038233789	BP hair cell differentiation	XLOC_006699
+GO:0016591	0.00347788552356976	0.999997576259447	1	2	RNA polymerase II, holoenzyme	CC	0.636063038233789	CC RNA polymerase II, holoenzyme	XLOC_006699
+GO:0099025	0.00350706655553059	0.999997535372989	1	2	anchored component of postsynaptic membrane	CC	0.636063038233789	CC anchored component of postsynaptic membrane	XLOC_062274
+GO:0070092	0.00355393890698311	0.999996626109284	1	3	regulation of glucagon secretion	BP	0.636063038233789	BP regulation of glucagon secretion	XLOC_014363
+GO:0060291	0.00368832274294139	0.99999591211027	1	4	long-term synaptic potentiation	BP	0.636063038233789	BP long-term synaptic potentiation	XLOC_062274
+GO:0005797	0.00387009325367046	0.999995998457901	1	3	Golgi medial cisterna	CC	0.636063038233789	CC Golgi medial cisterna	XLOC_014363
+GO:0042490	0.00389628561440391	0.999995133877809	1	5	mechanoreceptor differentiation	BP	0.636063038233789	BP mechanoreceptor differentiation	XLOC_006699
+GO:0060113	0.00389628561440391	0.999995133877809	1	5	inner ear receptor cell differentiation	BP	0.636063038233789	BP inner ear receptor cell differentiation	XLOC_006699
+GO:0048518	0.00391378269963816	0.999843441716936	3	513	positive regulation of biological process	BP	0.636063038233789	BP positive regulation of biological process	XLOC_006699, XLOC_014363, XLOC_062274
+GO:0031941	0.00392473819063132	0.999995884537889	1	3	filamentous actin	CC	0.636063038233789	CC filamentous actin	XLOC_006699
+GO:0099072	0.00392484335661486	0.999995370463603	1	4	regulation of postsynaptic membrane neurotransmitter receptor levels	BP	0.636063038233789	BP regulation of postsynaptic membrane neurotransmitter receptor levels	XLOC_006699
+GO:0005793	0.0039839642852315	0.999995229799923	1	4	endoplasmic reticulum-Golgi intermediate compartment	CC	0.636063038233789	CC endoplasmic reticulum-Golgi intermediate compartment	XLOC_014363
+GO:0030165	0.00406252373081061	0.999994709362338	1	5	PDZ domain binding	MF	0.636063038233789	MF PDZ domain binding	XLOC_062274
+GO:0046320	0.0041008390019874	0.999994945518437	1	4	regulation of fatty acid oxidation	BP	0.636063038233789	BP regulation of fatty acid oxidation	XLOC_014363
+GO:0098590	0.0041059359751269	0.999915121542814	2	135	plasma membrane region	CC	0.636063038233789	CC plasma membrane region	XLOC_006699, XLOC_062274
+GO:0043949	0.00422785726934528	0.999994627214772	1	4	regulation of cAMP-mediated signaling	BP	0.636500934535658	BP regulation of cAMP-mediated signaling	XLOC_014363
+GO:0043951	0.00422785726934528	0.999994627214772	1	4	negative regulation of cAMP-mediated signaling	BP	0.636500934535658	BP negative regulation of cAMP-mediated signaling	XLOC_014363
+GO:0051602	0.00440282488927861	0.999993526287621	1	6	response to electrical stimulus	BP	0.653636045020821	BP response to electrical stimulus	XLOC_006699
+GO:0043198	0.00450881456713508	0.999993210514336	1	6	dendritic shaft	CC	0.660201628878177	CC dendritic shaft	XLOC_062274
+GO:0000428	0.00491746524921164	0.999992245074781	1	5	DNA-directed RNA polymerase complex	CC	0.700837147317643	CC DNA-directed RNA polymerase complex	XLOC_006699
+GO:0055029	0.00491746524921164	0.999992245074781	1	5	nuclear DNA-directed RNA polymerase complex	CC	0.700837147317643	CC nuclear DNA-directed RNA polymerase complex	XLOC_006699
+GO:0090278	0.00523761251869922	0.999991750158264	1	4	negative regulation of peptide hormone secretion	BP	0.704109601712231	BP negative regulation of peptide hormone secretion	XLOC_014363
+GO:0032104	0.00524094824543646	0.999992656165427	1	3	regulation of response to extracellular stimulus	BP	0.704109601712231	BP regulation of response to extracellular stimulus	XLOC_014363
+GO:0032589	0.00530307436958115	0.999990604300472	1	6	neuron projection membrane	CC	0.704109601712231	CC neuron projection membrane	XLOC_062274
+GO:0030880	0.00536380149893	0.999990387608846	1	6	RNA polymerase complex	CC	0.704109601712231	CC RNA polymerase complex	XLOC_006699
+GO:0031985	0.00544654028088767	0.999990484159153	1	5	Golgi cisterna	CC	0.704109601712231	CC Golgi cisterna	XLOC_014363
+GO:0005164	0.00554876813788132	0.999989712334521	1	6	tumor necrosis factor receptor binding	MF	0.704109601712231	MF tumor necrosis factor receptor binding	XLOC_014363
+GO:0032813	0.00554876813788132	0.999989712334521	1	6	tumor necrosis factor receptor superfamily binding	MF	0.704109601712231	MF tumor necrosis factor receptor superfamily binding	XLOC_014363
+GO:0046626	0.00558542587193152	0.999989991997963	1	5	regulation of insulin receptor signaling pathway	BP	0.704109601712231	BP regulation of insulin receptor signaling pathway	XLOC_014363
+GO:1900076	0.00558542587193152	0.999989991997963	1	5	regulation of cellular response to insulin stimulus	BP	0.704109601712231	BP regulation of cellular response to insulin stimulus	XLOC_014363
+GO:0060078	0.00569917345858612	0.99998914629438	1	6	regulation of postsynaptic membrane potential	BP	0.704109601712231	BP regulation of postsynaptic membrane potential	XLOC_062274
+GO:0042472	0.00572502525286529	0.999988735158841	1	7	inner ear morphogenesis	BP	0.704109601712231	BP inner ear morphogenesis	XLOC_006699
+GO:0009913	0.00573089487781496	0.999988712017858	1	7	epidermal cell differentiation	BP	0.704109601712231	BP epidermal cell differentiation	XLOC_006699
+GO:0098948	0.00587891558581075	0.999988120575809	1	7	intrinsic component of postsynaptic specialization membrane	CC	0.714087826099217	CC intrinsic component of postsynaptic specialization membrane	XLOC_062274
+GO:0031623	0.00611452911074358	0.999988003029033	1	5	receptor internalization	BP	0.734361816457732	BP receptor internalization	XLOC_006699
+GO:2000300	0.00628137783790519	0.999985759231878	1	10	regulation of synaptic vesicle exocytosis	BP	0.746018307881873	BP regulation of synaptic vesicle exocytosis	XLOC_006699
+GO:0051049	0.00675670123371664	0.999818713450802	2	176	regulation of transport	BP	0.778813937241573	BP regulation of transport	XLOC_006699, XLOC_014363
+GO:0044463	0.00679160089138936	0.999817229458651	2	183	cell projection part	CC	0.778813937241573	CC cell projection part	XLOC_006699, XLOC_062274
+GO:0046658	0.00680419952543052	0.999984080127779	1	7	anchored component of plasma membrane	CC	0.778813937241573	CC anchored component of plasma membrane	XLOC_062274
+GO:0030330	0.00684895781651304	0.999984316702819	1	6	DNA damage response, signal transduction by p53 class mediator	BP	0.778813937241573	BP DNA damage response, signal transduction by p53 class mediator	XLOC_006699
+GO:0006835	0.0070593529774612	0.999984001720395	1	5	dicarboxylic acid transport	BP	0.79428867343245	BP dicarboxylic acid transport	XLOC_006699
+GO:0042770	0.00729460085465066	0.999981698510928	1	7	signal transduction in response to DNA damage	BP	0.799035663612625	BP signal transduction in response to DNA damage	XLOC_006699
+GO:0005902	0.00730477561384797	0.999981647334414	1	7	microvillus	CC	0.799035663612625	CC microvillus	XLOC_006699
+GO:0046888	0.0073565298707237	0.99998138591354	1	7	negative regulation of hormone secretion	BP	0.799035663612625	BP negative regulation of hormone secretion	XLOC_014363
+GO:0016358	0.00746344256842029	0.999980441882007	1	8	dendrite development	BP	0.799035663612625	BP dendrite development	XLOC_006699
+GO:0019217	0.00747530792041	0.999980778928069	1	7	regulation of fatty acid metabolic process	BP	0.799035663612625	BP regulation of fatty acid metabolic process	XLOC_014363
+GO:0005737	0.00755115818570584	0.999614237723497	3	610	cytoplasm	CC	0.799151780663463	CC cytoplasm	XLOC_006699, XLOC_014363, XLOC_062274
+GO:0002792	0.00782418715850028	0.999978161716362	1	9	negative regulation of peptide secretion	BP	0.819928789580485	BP negative regulation of peptide secretion	XLOC_014363
+GO:0030136	0.00791897696145053	0.999977349578516	1	10	clathrin-coated vesicle	CC	0.821805288747036	CC clathrin-coated vesicle	XLOC_006699
+GO:0045834	0.00824152030137374	0.999976142975926	1	8	positive regulation of lipid metabolic process	BP	0.847053947128692	BP positive regulation of lipid metabolic process	XLOC_014363
+GO:0045599	0.0083535556390516	0.999975488698611	1	8	negative regulation of fat cell differentiation	BP	0.850391964055453	BP negative regulation of fat cell differentiation	XLOC_014363
+GO:0007416	0.00856744596474211	0.999972990934964	1	12	synapse assembly	BP	0.863938018086117	BP synapse assembly	XLOC_006699
+GO:0017158	0.0086665694561932	0.999972003361822	1	14	regulation of calcium ion-dependent exocytosis	BP	0.865765989880832	BP regulation of calcium ion-dependent exocytosis	XLOC_006699
+GO:1902803	0.00893187973389437	0.999970259595516	1	14	regulation of synaptic vesicle transport	BP	0.884007985885157	BP regulation of synaptic vesicle transport	XLOC_006699
+GO:0005126	0.00913038532147875	0.99996987345955	1	10	cytokine receptor binding	MF	0.895364116525563	MF cytokine receptor binding	XLOC_014363
+GO:0043112	0.00939109880884145	0.999968124718772	1	10	receptor metabolic process	BP	0.903777978296501	BP receptor metabolic process	XLOC_006699
+GO:0044425	0.0095557863777073	0.999466184331711	3	676	membrane part	CC	0.903777978296501	CC membrane part	XLOC_006699, XLOC_014363, XLOC_062274
+GO:0046928	0.00958310416405978	0.999965580142499	1	15	regulation of neurotransmitter secretion	BP	0.903777978296501	BP regulation of neurotransmitter secretion	XLOC_006699
+GO:0051588	0.00958310416405978	0.999965580142499	1	15	regulation of neurotransmitter transport	BP	0.903777978296501	BP regulation of neurotransmitter transport	XLOC_006699
+GO:0032370	0.0096389456006924	0.99996734606386	1	8	positive regulation of lipid transport	BP	0.903777978296501	BP positive regulation of lipid transport	XLOC_014363
+GO:0098693	0.0098682762027544	0.999963496672254	1	15	regulation of synaptic vesicle cycle	BP	0.914172419323166	BP regulation of synaptic vesicle cycle	XLOC_006699
+GO:0010565	0.00992085327359784	0.999964418750282	1	10	regulation of cellular ketone metabolic process	BP	0.914172419323166	BP regulation of cellular ketone metabolic process	XLOC_014363
+GO:1905954	0.0103050795406807	0.999962075073131	1	9	positive regulation of lipid localization	BP	0.935806338206345	BP positive regulation of lipid localization	XLOC_014363
+GO:0005903	0.0103307276553792	0.999960425299912	1	13	brush border	CC	0.935806338206345	CC brush border	XLOC_006699
+GO:0044325	0.0108077210318877	0.999957331262432	1	11	ion channel binding	MF	0.962990012914671	MF ion channel binding	XLOC_062274
+GO:0072331	0.0108307699397395	0.99995757547496	1	10	signal transduction by p53 class mediator	BP	0.962990012914671	BP signal transduction by p53 class mediator	XLOC_006699
+GO:0019867	0.0109911854781167	0.999955866775704	1	11	outer membrane	CC	0.962990012914671	CC outer membrane	XLOC_014363
+GO:0031968	0.0109911854781167	0.999955866775704	1	11	organelle outer membrane	CC	0.962990012914671	CC organelle outer membrane	XLOC_014363
+GO:0048839	0.0112554990206099	0.99995473771791	1	9	inner ear development	BP	0.96646110348714	BP inner ear development	XLOC_006699
+GO:0017157	0.0113614636388815	0.999951177956692	1	17	regulation of exocytosis	BP	0.96646110348714	BP regulation of exocytosis	XLOC_006699
+GO:1903305	0.0113614636388815	0.999951177956692	1	17	regulation of regulated secretory pathway	BP	0.96646110348714	BP regulation of regulated secretory pathway	XLOC_006699
+GO:0098862	0.0113924688033848	0.999951317803573	1	15	cluster of actin-based cell projections	CC	0.96646110348714	CC cluster of actin-based cell projections	XLOC_006699
+GO:0030175	0.0115959666745164	0.999950863292798	1	11	filopodium	CC	0.975978643967764	CC filopodium	XLOC_006699
+GO:0061695	0.0117182989198569	0.999949049715994	1	13	transferase complex, transferring phosphorus-containing groups	CC	0.978569509018365	CC transferase complex, transferring phosphorus-containing groups	XLOC_006699
+GO:0006865	0.0122146472641844	0.999943549536306	1	17	amino acid transport	BP	0.9999999999	BP amino acid transport	XLOC_006699
+GO:0051668	0.0124653069354746	0.9999406540033	1	20	localization within membrane	BP	0.9999999999	BP localization within membrane	XLOC_006699
+GO:0050806	0.0124926654548699	0.999941173133829	1	16	positive regulation of synaptic transmission	BP	0.9999999999	BP positive regulation of synaptic transmission	XLOC_062274
+GO:0030135	0.0125060703080476	0.999941046482649	1	16	coated vesicle	CC	0.9999999999	CC coated vesicle	XLOC_006699
+GO:0045598	0.0125860291321777	0.999941202522977	1	13	regulation of fat cell differentiation	BP	0.9999999999	BP regulation of fat cell differentiation	XLOC_014363
+GO:0031325	0.0130013570668702	0.999506832576798	2	258	positive regulation of cellular metabolic process	BP	0.9999999999	BP positive regulation of cellular metabolic process	XLOC_006699, XLOC_014363
+GO:0005905	0.0132731139507841	0.999934588122925	1	13	clathrin-coated pit	CC	0.9999999999	CC clathrin-coated pit	XLOC_006699
+GO:0098936	0.0136738882787556	0.999928748558627	1	19	intrinsic component of postsynaptic membrane	CC	0.9999999999	CC intrinsic component of postsynaptic membrane	XLOC_062274
+GO:0016020	0.0136892999535593	0.999121742902875	3	775	membrane	CC	0.9999999999	CC membrane	XLOC_006699, XLOC_014363, XLOC_062274
+GO:0032587	0.013785864406419	0.999927795735418	1	18	ruffle membrane	CC	0.9999999999	CC ruffle membrane	XLOC_006699
+GO:0044459	0.013808496285675	0.999459163369371	2	263	plasma membrane part	CC	0.9999999999	CC plasma membrane part	XLOC_006699, XLOC_062274
+GO:0005515	0.0142039050307887	0.999075467963396	3	818	protein binding	MF	0.9999999999	MF protein binding	XLOC_006699, XLOC_014363, XLOC_062274
+GO:1903531	0.0143061454729963	0.99992198615999	1	19	negative regulation of secretion by cell	BP	0.9999999999	BP negative regulation of secretion by cell	XLOC_014363
+GO:0032879	0.0144962323396909	0.999417379661266	2	263	regulation of localization	BP	0.9999999999	BP regulation of localization	XLOC_006699, XLOC_014363
+GO:0043204	0.0146160898740964	0.999918558444678	1	19	perikaryon	CC	0.9999999999	CC perikaryon	XLOC_014363
+GO:0031175	0.0147112907027731	0.999918026987865	1	17	neuron projection development	BP	0.9999999999	BP neuron projection development	XLOC_006699
+GO:0046717	0.0152106890588141	0.999912348376554	1	17	acid secretion	BP	0.9999999999	BP acid secretion	XLOC_006699
+GO:0031225	0.0152122851193553	0.999912670414724	1	16	anchored component of membrane	CC	0.9999999999	CC anchored component of membrane	XLOC_062274
+GO:0030182	0.0153345888702403	0.999910079572433	1	20	neuron differentiation	BP	0.9999999999	BP neuron differentiation	XLOC_006699
+GO:0001726	0.0155565891986508	0.999907448427663	1	20	ruffle	CC	0.9999999999	CC ruffle	XLOC_006699
+GO:0009893	0.0156710166342786	0.999343210281756	2	286	positive regulation of metabolic process	BP	0.9999999999	BP positive regulation of metabolic process	XLOC_006699, XLOC_014363
+GO:0031090	0.0157951385963604	0.999335325772013	2	277	organelle membrane	CC	0.9999999999	CC organelle membrane	XLOC_006699, XLOC_014363
+GO:0090276	0.0161341972925338	0.999900697757651	1	19	regulation of peptide hormone secretion	BP	0.9999999999	BP regulation of peptide hormone secretion	XLOC_014363
+GO:0032368	0.0164303048854593	0.999899631094102	1	13	regulation of lipid transport	BP	0.9999999999	BP regulation of lipid transport	XLOC_014363
+GO:0050808	0.0169743692786899	0.999888590596319	1	25	synapse organization	BP	0.9999999999	BP synapse organization	XLOC_006699
+GO:1905952	0.0170927817094958	0.999890700075463	1	14	regulation of lipid localization	BP	0.9999999999	BP regulation of lipid localization	XLOC_014363
+GO:0046883	0.0171791470872313	0.999886776229279	1	21	regulation of hormone secretion	BP	0.9999999999	BP regulation of hormone secretion	XLOC_014363
+GO:0030855	0.0175638307495679	0.999880323166971	1	27	epithelial cell differentiation	BP	0.9999999999	BP epithelial cell differentiation	XLOC_006699
+GO:0050794	0.0178805222867111	0.998726159949544	3	898	regulation of cellular process	BP	0.9999999999	BP regulation of cellular process	XLOC_006699, XLOC_014363, XLOC_062274
+GO:0051048	0.0179011979014309	0.999876489799824	1	23	negative regulation of secretion	BP	0.9999999999	BP negative regulation of secretion	XLOC_014363
+GO:0045177	0.0184258647307584	0.999869114737933	1	23	apical part of cell	CC	0.9999999999	CC apical part of cell	XLOC_006699
+GO:0098858	0.0192196548079086	0.99985851098179	1	20	actin-based cell projection	CC	0.9999999999	CC actin-based cell projection	XLOC_006699
+GO:0006898	0.0192980338732254	0.99985585951401	1	25	receptor-mediated endocytosis	BP	0.9999999999	BP receptor-mediated endocytosis	XLOC_006699
+GO:0019216	0.0196223025487138	0.999851794832238	1	22	regulation of lipid metabolic process	BP	0.9999999999	BP regulation of lipid metabolic process	XLOC_014363
+GO:0030139	0.0197565731319292	0.999849159406494	1	24	endocytic vesicle	CC	0.9999999999	CC endocytic vesicle	XLOC_006699
+GO:0022607	0.0204150101544722	0.9990138081716	2	314	cellular component assembly	BP	0.9999999999	BP cellular component assembly	XLOC_006699, XLOC_062274
+GO:0001505	0.0213261141193561	0.999823040641142	1	28	regulation of neurotransmitter levels	BP	0.9999999999	BP regulation of neurotransmitter levels	XLOC_006699
+GO:0042493	0.0220399623394545	0.999809887109371	1	33	response to drug	BP	0.9999999999	BP response to drug	XLOC_006699
+GO:0050789	0.0222122454875535	0.998274937241959	3	962	regulation of biological process	BP	0.9999999999	BP regulation of biological process	XLOC_006699, XLOC_014363, XLOC_062274
+GO:0016459	0.02284841225681	0.999797640738109	1	25	myosin complex	CC	0.9999999999	CC myosin complex	XLOC_006699
+GO:0007605	0.0234426705637081	0.999786924086672	1	25	sensory perception of sound	BP	0.9999999999	BP sensory perception of sound	XLOC_006699
+GO:0032102	0.024501119400408	0.999765819016942	1	29	negative regulation of response to external stimulus	BP	0.9999999999	BP negative regulation of response to external stimulus	XLOC_014363
+GO:0050954	0.0248592274275114	0.999759518739888	1	27	sensory perception of mechanical stimulus	BP	0.9999999999	BP sensory perception of mechanical stimulus	XLOC_006699
+GO:0007626	0.0250031929184298	0.999755262780858	1	32	locomotory behavior	BP	0.9999999999	BP locomotory behavior	XLOC_006699
+GO:0006605	0.0252954135664123	0.999749007310804	1	34	protein targeting	BP	0.9999999999	BP protein targeting	XLOC_006699
+GO:0007268	0.0254995043423954	0.999744113514604	1	38	chemical synaptic transmission	BP	0.9999999999	BP chemical synaptic transmission	XLOC_006699
+GO:0098916	0.0254995043423954	0.999744113514604	1	38	anterograde trans-synaptic signaling	BP	0.9999999999	BP anterograde trans-synaptic signaling	XLOC_006699
+GO:0099536	0.0273542154882311	0.99970473082728	1	41	synaptic signaling	BP	0.9999999999	BP synaptic signaling	XLOC_006699
+GO:0099537	0.0273542154882311	0.99970473082728	1	41	trans-synaptic signaling	BP	0.9999999999	BP trans-synaptic signaling	XLOC_006699
+GO:0065007	0.0278527702672978	0.997629702945359	3	1044	biological regulation	BP	0.9999999999	BP biological regulation	XLOC_006699, XLOC_014363, XLOC_062274
+GO:0043228	0.0287906469131959	0.998322867239628	2	393	non-membrane-bounded organelle	CC	0.9999999999	CC non-membrane-bounded organelle	XLOC_006699, XLOC_062274
+GO:0043232	0.0287906469131959	0.998322867239628	2	393	intracellular non-membrane-bounded organelle	CC	0.9999999999	CC intracellular non-membrane-bounded organelle	XLOC_006699, XLOC_062274
+GO:1902532	0.0290885721576552	0.999665296365813	1	44	negative regulation of intracellular signal transduction	BP	0.9999999999	BP negative regulation of intracellular signal transduction	XLOC_014363
+GO:0015629	0.0297756781546357	0.999650002938834	1	40	actin cytoskeleton	CC	0.9999999999	CC actin cytoskeleton	XLOC_006699
+GO:0043229	0.0297893416822542	0.997394365290539	3	1045	intracellular organelle	CC	0.9999999999	CC intracellular organelle	XLOC_006699, XLOC_014363, XLOC_062274
+GO:0005516	0.0301135246045081	0.999642442233353	1	38	calmodulin binding	MF	0.9999999999	MF calmodulin binding	XLOC_006699
+GO:0044422	0.0305923012223004	0.997294797390327	3	1047	organelle part	CC	0.9999999999	CC organelle part	XLOC_006699, XLOC_014363, XLOC_062274
+GO:0051260	0.030655460423686	0.999628877879262	1	40	protein homooligomerization	BP	0.9999999999	BP protein homooligomerization	XLOC_062274
+GO:0071214	0.0311369021037352	0.99961756261484	1	38	cellular response to abiotic stimulus	BP	0.9999999999	BP cellular response to abiotic stimulus	XLOC_006699
+GO:0098791	0.0317206139788391	0.999601983062629	1	42	Golgi subcompartment	CC	0.9999999999	CC Golgi subcompartment	XLOC_014363
+GO:0051047	0.0317400682891548	0.999601725538156	1	41	positive regulation of secretion	BP	0.9999999999	BP positive regulation of secretion	XLOC_014363
+GO:0051051	0.0321641428184333	0.999592030655778	1	37	negative regulation of transport	BP	0.9999999999	BP negative regulation of transport	XLOC_014363
+GO:0002791	0.0321978763161355	0.999589175575208	1	45	regulation of peptide secretion	BP	0.9999999999	BP regulation of peptide secretion	XLOC_014363
+GO:0031984	0.032504059023185	0.999581708297594	1	43	organelle subcompartment	CC	0.9999999999	CC organelle subcompartment	XLOC_014363
+GO:0060627	0.0325903224370525	0.99957924531049	1	44	regulation of vesicle-mediated transport	BP	0.9999999999	BP regulation of vesicle-mediated transport	XLOC_006699
+GO:0051015	0.0328199626971078	0.999573481666857	1	43	actin filament binding	MF	0.9999999999	MF actin filament binding	XLOC_006699
+GO:0097060	0.0329828006709207	0.999568759503321	1	45	synaptic membrane	CC	0.9999999999	CC synaptic membrane	XLOC_062274
+GO:0048598	0.0330793763354235	0.999565418687368	1	49	embryonic morphogenesis	BP	0.9999999999	BP embryonic morphogenesis	XLOC_006699
+GO:0006874	0.033158198623103	0.999563330773807	1	49	cellular calcium ion homeostasis	BP	0.9999999999	BP cellular calcium ion homeostasis	XLOC_014363
+GO:0055074	0.033158198623103	0.999563330773807	1	49	calcium ion homeostasis	BP	0.9999999999	BP calcium ion homeostasis	XLOC_014363
+GO:0072503	0.033158198623103	0.999563330773807	1	49	cellular divalent inorganic cation homeostasis	BP	0.9999999999	BP cellular divalent inorganic cation homeostasis	XLOC_014363
+GO:0072507	0.0344998467990128	0.999526632426966	1	51	divalent inorganic cation homeostasis	BP	0.9999999999	BP divalent inorganic cation homeostasis	XLOC_014363
+GO:0015849	0.034918154280219	0.999517331980063	1	41	organic acid transport	BP	0.9999999999	BP organic acid transport	XLOC_006699
+GO:0046942	0.034918154280219	0.999517331980063	1	41	carboxylic acid transport	BP	0.9999999999	BP carboxylic acid transport	XLOC_006699
+GO:0006897	0.0356649052419573	0.999494959461586	1	46	endocytosis	BP	0.9999999999	BP endocytosis	XLOC_006699
+GO:0010817	0.0357065523568305	0.999494016863107	1	45	regulation of hormone levels	BP	0.9999999999	BP regulation of hormone levels	XLOC_014363
+GO:0003774	0.0362993257156683	0.999475179132719	1	53	motor activity	MF	0.9999999999	MF motor activity	XLOC_006699
+GO:0006875	0.0368648014383312	0.999458572235088	1	53	cellular metal ion homeostasis	BP	0.9999999999	BP cellular metal ion homeostasis	XLOC_014363
+GO:0045596	0.0369551767032114	0.999456091994913	1	52	negative regulation of cell differentiation	BP	0.9999999999	BP negative regulation of cell differentiation	XLOC_014363
+GO:0098589	0.0369576694149413	0.999459890150215	1	38	membrane region	CC	0.9999999999	CC membrane region	XLOC_006699
+GO:0007267	0.0370155026308328	0.999453376342551	1	57	cell-cell signaling	BP	0.9999999999	BP cell-cell signaling	XLOC_006699
+GO:0043226	0.0385498394733945	0.996247907992375	3	1148	organelle	CC	0.9999999999	CC organelle	XLOC_006699, XLOC_014363, XLOC_062274
+GO:0023052	0.0386309350650255	0.999403866265471	1	59	signaling	BP	0.9999999999	BP signaling	XLOC_006699
+GO:0044700	0.0386309350650255	0.999403866265471	1	59	NA	NA	0.9999999999	none	XLOC_006699
+GO:0044428	0.0388636883475218	0.997328171825472	2	465	nuclear part	CC	0.9999999999	CC nuclear part	XLOC_006699, XLOC_014363
+GO:0019904	0.0398023090776617	0.999367637028801	1	55	protein domain specific binding	MF	0.9999999999	MF protein domain specific binding	XLOC_062274
+GO:0042391	0.0405675876873777	0.999342661851226	1	56	regulation of membrane potential	BP	0.9999999999	BP regulation of membrane potential	XLOC_062274
+GO:0030424	0.0407833255622079	0.999335807791152	1	55	axon	CC	0.9999999999	CC axon	XLOC_006699
+GO:1990234	0.0408197665547692	0.999334393713215	1	56	transferase complex	CC	0.9999999999	CC transferase complex	XLOC_006699
+GO:0055065	0.040895582406495	0.999330918372431	1	61	metal ion homeostasis	BP	0.9999999999	BP metal ion homeostasis	XLOC_014363
+GO:0015711	0.0426841580146129	0.999272910392261	1	51	organic anion transport	BP	0.9999999999	BP organic anion transport	XLOC_006699
+GO:0007600	0.0428092779627792	0.999267319398433	1	56	sensory perception	BP	0.9999999999	BP sensory perception	XLOC_006699
+GO:0080090	0.0435193874743434	0.996813424847731	2	471	regulation of primary metabolic process	BP	0.9999999999	BP regulation of primary metabolic process	XLOC_006699, XLOC_014363
+GO:0031323	0.0439996660677254	0.996758205323585	2	483	regulation of cellular metabolic process	BP	0.9999999999	BP regulation of cellular metabolic process	XLOC_006699, XLOC_014363
+GO:0051259	0.045106731278714	0.999183964820402	1	64	protein complex oligomerization	BP	0.9999999999	BP protein complex oligomerization	XLOC_062274
+GO:0043025	0.0456017695153477	0.9991666481002	1	60	neuronal cell body	CC	0.9999999999	CC neuronal cell body	XLOC_006699
+GO:0045944	0.0460093413488142	0.999149879409195	1	68	positive regulation of transcription by RNA polymerase II	BP	0.9999999999	BP positive regulation of transcription by RNA polymerase II	XLOC_006699
+GO:0032386	0.0462929638150505	0.999141186758711	1	59	regulation of intracellular transport	BP	0.9999999999	BP regulation of intracellular transport	XLOC_006699
+GO:0030003	0.0475958252007369	0.999090250275692	1	65	cellular cation homeostasis	BP	0.9999999999	BP cellular cation homeostasis	XLOC_014363
+GO:0006873	0.0480267815284793	0.999073318134282	1	66	cellular ion homeostasis	BP	0.9999999999	BP cellular ion homeostasis	XLOC_014363
+GO:0007610	0.048456610107094	0.999055484075349	1	71	behavior	BP	0.9999999999	BP behavior	XLOC_006699
+GO:0055082	0.0499084422309553	0.998997626946012	1	70	cellular chemical homeostasis	BP	0.9999999999	BP cellular chemical homeostasis	XLOC_014363

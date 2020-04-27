@@ -1,0 +1,224 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0010385	0.000413920218904844	1	1	1	double-stranded methylated DNA binding	MF	0.126411234853539	MF double-stranded methylated DNA binding	XLOC_012997
+GO:0032352	0.000413920218904844	1	1	1	positive regulation of hormone metabolic process	BP	0.126411234853539	BP positive regulation of hormone metabolic process	XLOC_012997
+GO:0035914	0.000413920218904844	1	1	1	skeletal muscle cell differentiation	BP	0.126411234853539	BP skeletal muscle cell differentiation	XLOC_012997
+GO:0044729	0.000413920218904844	1	1	1	hemi-methylated DNA-binding	MF	0.126411234853539	MF hemi-methylated DNA-binding	XLOC_012997
+GO:0045073	0.000413920218904844	1	1	1	regulation of chemokine biosynthetic process	BP	0.126411234853539	BP regulation of chemokine biosynthetic process	XLOC_012997
+GO:0045080	0.000413920218904844	1	1	1	positive regulation of chemokine biosynthetic process	BP	0.126411234853539	BP positive regulation of chemokine biosynthetic process	XLOC_012997
+GO:0045360	0.000413920218904844	1	1	1	regulation of interleukin-1 biosynthetic process	BP	0.126411234853539	BP regulation of interleukin-1 biosynthetic process	XLOC_012997
+GO:0045362	0.000413920218904844	1	1	1	positive regulation of interleukin-1 biosynthetic process	BP	0.126411234853539	BP positive regulation of interleukin-1 biosynthetic process	XLOC_012997
+GO:0046886	0.000413920218904844	1	1	1	positive regulation of hormone biosynthetic process	BP	0.126411234853539	BP positive regulation of hormone biosynthetic process	XLOC_012997
+GO:0050722	0.000413920218904844	1	1	1	regulation of interleukin-1 beta biosynthetic process	BP	0.126411234853539	BP regulation of interleukin-1 beta biosynthetic process	XLOC_012997
+GO:0050725	0.000413920218904844	1	1	1	positive regulation of interleukin-1 beta biosynthetic process	BP	0.126411234853539	BP positive regulation of interleukin-1 beta biosynthetic process	XLOC_012997
+GO:0060086	0.000413920218904844	1	1	1	circadian temperature homeostasis	BP	0.126411234853539	BP circadian temperature homeostasis	XLOC_012997
+GO:0071503	0.000413920218904844	1	1	1	response to heparin	BP	0.126411234853539	BP response to heparin	XLOC_012997
+GO:0071504	0.000413920218904844	1	1	1	cellular response to heparin	BP	0.126411234853539	BP cellular response to heparin	XLOC_012997
+GO:0071505	0.000413920218904844	1	1	1	response to mycophenolic acid	BP	0.126411234853539	BP response to mycophenolic acid	XLOC_012997
+GO:0071506	0.000413920218904844	1	1	1	cellular response to mycophenolic acid	BP	0.126411234853539	BP cellular response to mycophenolic acid	XLOC_012997
+GO:0072110	0.000413920218904844	1	1	1	glomerular mesangial cell proliferation	BP	0.126411234853539	BP glomerular mesangial cell proliferation	XLOC_012997
+GO:0072111	0.000413920218904844	1	1	1	cell proliferation involved in kidney development	BP	0.126411234853539	BP cell proliferation involved in kidney development	XLOC_012997
+GO:0072124	0.000413920218904844	1	1	1	regulation of glomerular mesangial cell proliferation	BP	0.126411234853539	BP regulation of glomerular mesangial cell proliferation	XLOC_012997
+GO:0072126	0.000413920218904844	1	1	1	positive regulation of glomerular mesangial cell proliferation	BP	0.126411234853539	BP positive regulation of glomerular mesangial cell proliferation	XLOC_012997
+GO:0072216	0.000413920218904844	1	1	1	positive regulation of metanephros development	BP	0.126411234853539	BP positive regulation of metanephros development	XLOC_012997
+GO:0072298	0.000413920218904844	1	1	1	regulation of metanephric glomerulus development	BP	0.126411234853539	BP regulation of metanephric glomerulus development	XLOC_012997
+GO:0072300	0.000413920218904844	1	1	1	positive regulation of metanephric glomerulus development	BP	0.126411234853539	BP positive regulation of metanephric glomerulus development	XLOC_012997
+GO:0072301	0.000413920218904844	1	1	1	regulation of metanephric glomerular mesangial cell proliferation	BP	0.126411234853539	BP regulation of metanephric glomerular mesangial cell proliferation	XLOC_012997
+GO:0072303	0.000413920218904844	1	1	1	positive regulation of glomerular metanephric mesangial cell proliferation	BP	0.126411234853539	BP positive regulation of glomerular metanephric mesangial cell proliferation	XLOC_012997
+GO:0090184	0.000413920218904844	1	1	1	positive regulation of kidney development	BP	0.126411234853539	BP positive regulation of kidney development	XLOC_012997
+GO:0090192	0.000413920218904844	1	1	1	regulation of glomerulus development	BP	0.126411234853539	BP regulation of glomerulus development	XLOC_012997
+GO:0090193	0.000413920218904844	1	1	1	positive regulation of glomerulus development	BP	0.126411234853539	BP positive regulation of glomerulus development	XLOC_012997
+GO:0098758	0.000413920218904844	1	1	1	response to interleukin-8	BP	0.126411234853539	BP response to interleukin-8	XLOC_012997
+GO:0098759	0.000413920218904844	1	1	1	cellular response to interleukin-8	BP	0.126411234853539	BP cellular response to interleukin-8	XLOC_012997
+GO:1901722	0.000413920218904844	1	1	1	regulation of cell proliferation involved in kidney development	BP	0.126411234853539	BP regulation of cell proliferation involved in kidney development	XLOC_012997
+GO:1901724	0.000413920218904844	1	1	1	positive regulation of cell proliferation involved in kidney development	BP	0.126411234853539	BP positive regulation of cell proliferation involved in kidney development	XLOC_012997
+GO:1902947	0.000413920218904844	1	1	1	regulation of tau-protein kinase activity	BP	0.126411234853539	BP regulation of tau-protein kinase activity	XLOC_012997
+GO:1902949	0.000413920218904844	1	1	1	positive regulation of tau-protein kinase activity	BP	0.126411234853539	BP positive regulation of tau-protein kinase activity	XLOC_012997
+GO:2000182	0.000413920218904844	1	1	1	regulation of progesterone biosynthetic process	BP	0.126411234853539	BP regulation of progesterone biosynthetic process	XLOC_012997
+GO:0060059	0.000685836760580648	0.999999941184326	1	2	embryonic retina morphogenesis in camera-type eye	BP	0.18383240535008	BP embryonic retina morphogenesis in camera-type eye	XLOC_012997
+GO:0060337	0.000685836760580648	0.999999941184326	1	2	type I interferon signaling pathway	BP	0.18383240535008	BP type I interferon signaling pathway	XLOC_012997
+GO:0010566	0.00068793116418778	0.999999940824463	1	2	regulation of ketone biosynthetic process	BP	0.18383240535008	BP regulation of ketone biosynthetic process	XLOC_012997
+GO:0032350	0.00068793116418778	0.999999940824463	1	2	regulation of hormone metabolic process	BP	0.18383240535008	BP regulation of hormone metabolic process	XLOC_012997
+GO:0046885	0.00068793116418778	0.999999940824463	1	2	regulation of hormone biosynthetic process	BP	0.18383240535008	BP regulation of hormone biosynthetic process	XLOC_012997
+GO:0045475	0.000706338892963506	0.999999937614382	1	2	locomotor rhythm	BP	0.184147717728949	BP locomotor rhythm	XLOC_012997
+GO:0042108	0.00075467361070147	0.999999928781582	1	2	positive regulation of cytokine biosynthetic process	BP	0.192064433923524	BP positive regulation of cytokine biosynthetic process	XLOC_012997
+GO:0035035	0.000839474578058655	0.999999911871428	1	2	histone acetyltransferase binding	MF	0.200880260624187	MF histone acetyltransferase binding	XLOC_012997
+GO:0061418	0.000845692929936233	0.999999910560562	1	2	regulation of transcription from RNA polymerase II promoter in response to hypoxia	BP	0.200880260624187	BP regulation of transcription from RNA polymerase II promoter in response to hypoxia	XLOC_012997
+GO:0070498	0.000845692929936233	0.999999910560562	1	2	interleukin-1-mediated signaling pathway	BP	0.200880260624187	BP interleukin-1-mediated signaling pathway	XLOC_012997
+GO:1990841	0.00111851601858274	0.999999791370729	1	3	promoter-specific chromatin binding	MF	0.25990908092676	MF promoter-specific chromatin binding	XLOC_012997
+GO:0030217	0.00115457132311304	0.999999777698288	1	3	T cell differentiation	BP	0.262578997292666	BP T cell differentiation	XLOC_012997
+GO:0033233	0.00120743418219005	0.999999756867214	1	3	regulation of protein sumoylation	BP	0.268762891252968	BP regulation of protein sumoylation	XLOC_012997
+GO:0042698	0.00125719380322279	0.999999736406025	1	3	ovulation cycle	BP	0.268762891252968	BP ovulation cycle	XLOC_012997
+GO:0044849	0.00125719380322279	0.999999736406025	1	3	estrous cycle	BP	0.268762891252968	BP estrous cycle	XLOC_012997
+GO:0090090	0.00138937155378358	0.999999637812476	1	4	negative regulation of canonical Wnt signaling pathway	BP	0.282345402818563	BP negative regulation of canonical Wnt signaling pathway	XLOC_012997
+GO:0007622	0.00140919608758913	0.99999962739822	1	4	rhythmic behavior	BP	0.282345402818563	BP rhythmic behavior	XLOC_012997
+GO:0048512	0.00140919608758913	0.99999962739822	1	4	circadian behavior	BP	0.282345402818563	BP circadian behavior	XLOC_012997
+GO:0030098	0.00142638710377045	0.999999618247801	1	4	lymphocyte differentiation	BP	0.282345402818563	BP lymphocyte differentiation	XLOC_012997
+GO:0048703	0.0014669583733433	0.999999596212058	1	4	embryonic viscerocranium morphogenesis	BP	0.285096691866664	BP embryonic viscerocranium morphogenesis	XLOC_012997
+GO:0071480	0.00155555486702226	0.999999545940767	1	4	cellular response to gamma radiation	BP	0.296916535242873	BP cellular response to gamma radiation	XLOC_012997
+GO:0032731	0.00171623716916744	0.999999410409895	1	5	positive regulation of interleukin-1 beta production	BP	0.313462197543555	BP positive regulation of interleukin-1 beta production	XLOC_012997
+GO:0032732	0.00171623716916744	0.999999410409895	1	5	positive regulation of interleukin-1 production	BP	0.313462197543555	BP positive regulation of interleukin-1 production	XLOC_012997
+GO:0001659	0.00173021514220879	0.999999400761865	1	5	temperature homeostasis	BP	0.313462197543555	BP temperature homeostasis	XLOC_012997
+GO:0072215	0.00181444655030403	0.999999340963352	1	5	regulation of metanephros development	BP	0.323243652936663	BP regulation of metanephros development	XLOC_012997
+GO:0032651	0.00199094730404003	0.999999173389092	1	6	regulation of interleukin-1 beta production	BP	0.348872716932523	BP regulation of interleukin-1 beta production	XLOC_012997
+GO:0090183	0.00208617252858416	0.999999092375503	1	6	regulation of kidney development	BP	0.357751175082695	BP regulation of kidney development	XLOC_012997
+GO:0009746	0.00214202219153265	0.999999043097104	1	6	response to hexose	BP	0.357751175082695	BP response to hexose	XLOC_012997
+GO:0009749	0.00214202219153265	0.999999043097104	1	6	response to glucose	BP	0.357751175082695	BP response to glucose	XLOC_012997
+GO:0030178	0.00223238359884835	0.999998960605258	1	6	negative regulation of Wnt signaling pathway	BP	0.367106896739846	BP negative regulation of Wnt signaling pathway	XLOC_012997
+GO:0002521	0.00231261518521767	0.999998852659157	1	7	leukocyte differentiation	BP	0.374538541133208	BP leukocyte differentiation	XLOC_012997
+GO:0001656	0.00246124198943331	0.999998700335389	1	7	metanephros development	BP	0.392659934702278	BP metanephros development	XLOC_012997
+GO:0034284	0.00251529999291301	0.9999986425755	1	7	response to monosaccharide	BP	0.395382965062458	BP response to monosaccharide	XLOC_012997
+GO:0042035	0.00257421678744043	0.999998578191877	1	7	regulation of cytokine biosynthetic process	BP	0.398779757115228	BP regulation of cytokine biosynthetic process	XLOC_012997
+GO:0030509	0.00266676130349047	0.999998474043835	1	7	BMP signaling pathway	BP	0.407214451042995	BP BMP signaling pathway	XLOC_012997
+GO:0032642	0.00275172988389436	0.999998375175343	1	7	regulation of chemokine production	BP	0.408517232346484	BP regulation of chemokine production	XLOC_012997
+GO:0032722	0.00275172988389436	0.999998375175343	1	7	positive regulation of chemokine production	BP	0.408517232346484	BP positive regulation of chemokine production	XLOC_012997
+GO:0050810	0.00292174876598108	0.999998129893179	1	8	regulation of steroid biosynthetic process	BP	0.424685067607156	BP regulation of steroid biosynthetic process	XLOC_012997
+GO:0032652	0.00295149825228157	0.999998061331647	1	9	regulation of interleukin-1 production	BP	0.424685067607156	BP regulation of interleukin-1 production	XLOC_012997
+GO:0048871	0.00297982786701625	0.999998023905698	1	9	multicellular organismal homeostasis	BP	0.424685067607156	BP multicellular organismal homeostasis	XLOC_012997
+GO:0002931	0.00320181562966249	0.999997718231177	1	9	response to ischemia	BP	0.445162609769101	BP response to ischemia	XLOC_012997
+GO:0010332	0.00320680334476759	0.999997711110307	1	9	response to gamma radiation	BP	0.445162609769101	BP response to gamma radiation	XLOC_012997
+GO:0071479	0.00342055432488863	0.999997395496782	1	9	cellular response to ionizing radiation	BP	0.468747502291468	BP cellular response to ionizing radiation	XLOC_012997
+GO:0043010	0.00350795933130817	0.999997198397206	1	11	camera-type eye development	BP	0.473251846295558	BP camera-type eye development	XLOC_012997
+GO:0042110	0.00354197284157963	0.999997172268274	1	10	T cell activation	BP	0.473251846295558	BP T cell activation	XLOC_012997
+GO:0019218	0.00359393891863715	0.999997088601986	1	10	regulation of steroid metabolic process	BP	0.474266828411266	BP regulation of steroid metabolic process	XLOC_012997
+GO:0043618	0.00369752257176647	0.999996956168606	1	9	regulation of transcription from RNA polymerase II promoter in response to stress	BP	0.476178539392914	BP regulation of transcription from RNA polymerase II promoter in response to stress	XLOC_012997
+GO:0043620	0.00369752257176647	0.999996956168606	1	9	regulation of DNA-templated transcription in response to stress	BP	0.476178539392914	BP regulation of DNA-templated transcription in response to stress	XLOC_012997
+GO:0010565	0.00377258283705935	0.999996791658708	1	10	regulation of cellular ketone metabolic process	BP	0.480061166015802	BP regulation of cellular ketone metabolic process	XLOC_012997
+GO:0009743	0.00386268605989304	0.999996602491447	1	11	response to carbohydrate	BP	0.485744132872902	BP response to carbohydrate	XLOC_012997
+GO:0007178	0.00418837338757149	0.99999597146519	1	12	transmembrane receptor protein serine/threonine kinase signaling pathway	BP	0.520575850462228	BP transmembrane receptor protein serine/threonine kinase signaling pathway	XLOC_012997
+GO:0032922	0.00434147564751613	0.999995671203083	1	12	circadian regulation of gene expression	BP	0.53340268041724	BP circadian regulation of gene expression	XLOC_012997
+GO:0001654	0.00453584510565949	0.99999521318226	1	14	eye development	BP	0.550950549254481	BP eye development	XLOC_012997
+GO:0060828	0.00510277362154566	0.999993939960472	1	14	regulation of canonical Wnt signaling pathway	BP	0.608334344719855	BP regulation of canonical Wnt signaling pathway	XLOC_012997
+GO:0046890	0.00512209664372598	0.999993893914183	1	14	regulation of lipid biosynthetic process	BP	0.608334344719855	BP regulation of lipid biosynthetic process	XLOC_012997
+GO:0010212	0.00544419046409517	0.99999306534216	1	15	response to ionizing radiation	BP	0.637935051870068	BP response to ionizing radiation	XLOC_012997
+GO:0046649	0.00550449403582154	0.999992851216916	1	17	lymphocyte activation	BP	0.637935051870068	BP lymphocyte activation	XLOC_012997
+GO:1901216	0.00555037513555209	0.999992791784042	1	15	positive regulation of neuron death	BP	0.637935051870068	BP positive regulation of neuron death	XLOC_012997
+GO:0019221	0.00587691361516792	0.999991881293242	1	16	cytokine-mediated signaling pathway	BP	0.668280102473722	BP cytokine-mediated signaling pathway	XLOC_012997
+GO:0006366	0.00601457695386042	0.999991462606878	1	17	transcription by RNA polymerase II	BP	0.676734874313832	BP transcription by RNA polymerase II	XLOC_012997
+GO:0001228	0.00625683050459721	0.999990759832353	1	17	DNA-binding transcription activator activity, RNA polymerase II-specific	MF	0.696658971496245	MF DNA-binding transcription activator activity, RNA polymerase II-specific	XLOC_012997
+GO:0007623	0.00637808398829974	0.999990364364612	1	18	circadian rhythm	BP	0.70283855413336	BP circadian rhythm	XLOC_012997
+GO:0007423	0.00670533814342881	0.999989259133782	1	21	sensory organ development	BP	0.731360810358271	BP sensory organ development	XLOC_012997
+GO:0071478	0.00745693977091115	0.9999867110361	1	21	cellular response to radiation	BP	0.805123527386559	BP cellular response to radiation	XLOC_012997
+GO:1904018	0.00757650914557889	0.999986280587565	1	21	positive regulation of vasculature development	BP	0.809853062570928	BP positive regulation of vasculature development	XLOC_012997
+GO:0032868	0.00774430801425953	0.999985632437635	1	22	response to insulin	BP	0.819593152122971	BP response to insulin	XLOC_012997
+GO:0019216	0.00816180511439398	0.999984038060732	1	22	regulation of lipid metabolic process	BP	0.85206460481704	BP regulation of lipid metabolic process	XLOC_012997
+GO:0001822	0.00821055798448453	0.999983813074069	1	23	kidney development	BP	0.85206460481704	BP kidney development	XLOC_012997
+GO:0030111	0.00832009371879408	0.999983345986906	1	24	regulation of Wnt signaling pathway	BP	0.855129632309518	BP regulation of Wnt signaling pathway	XLOC_012997
+GO:0071229	0.00955431275988932	0.999977918642292	1	27	cellular response to acid chemical	BP	0.972629038956733	BP cellular response to acid chemical	XLOC_012997
+GO:0006351	0.00999102776648233	0.999975784628271	1	29	transcription, DNA-templated	BP	0.998075661644202	BP transcription, DNA-templated	XLOC_012997
+GO:0097659	0.00999102776648233	0.999975784628271	1	29	nucleic acid-templated transcription	BP	0.998075661644202	BP nucleic acid-templated transcription	XLOC_012997
+GO:1903320	0.0102215265290131	0.99997471809624	1	27	regulation of protein modification by small protein conjugation or removal	BP	0.9999999999	BP regulation of protein modification by small protein conjugation or removal	XLOC_012997
+GO:0001666	0.0105389542761635	0.999973016147314	1	30	response to hypoxia	BP	0.9999999999	BP response to hypoxia	XLOC_012997
+GO:1901214	0.0110247493794291	0.999970431009744	1	31	regulation of neuron death	BP	0.9999999999	BP regulation of neuron death	XLOC_012997
+GO:0048511	0.0114309150290793	0.9999682054369	1	31	rhythmic process	BP	0.9999999999	BP rhythmic process	XLOC_012997
+GO:0000977	0.0116223045615171	0.99996697725163	1	36	RNA polymerase II regulatory region sequence-specific DNA binding	MF	0.9999999999	MF RNA polymerase II regulatory region sequence-specific DNA binding	XLOC_012997
+GO:0001012	0.0116223045615171	0.99996697725163	1	36	RNA polymerase II regulatory region DNA binding	MF	0.9999999999	MF RNA polymerase II regulatory region DNA binding	XLOC_012997
+GO:0007626	0.0116586631087713	0.999966887691822	1	32	locomotory behavior	BP	0.9999999999	BP locomotory behavior	XLOC_012997
+GO:0036293	0.0116665128026534	0.999966810726349	1	33	response to decreased oxygen levels	BP	0.9999999999	BP response to decreased oxygen levels	XLOC_012997
+GO:0000790	0.0117048866856085	0.999966591366402	1	33	nuclear chromatin	CC	0.9999999999	CC nuclear chromatin	XLOC_012997
+GO:0032774	0.0119601930294981	0.999965081550791	1	34	RNA biosynthetic process	BP	0.9999999999	BP RNA biosynthetic process	XLOC_012997
+GO:0071345	0.012003684987216	0.999964858449293	1	33	cellular response to cytokine stimulus	BP	0.9999999999	BP cellular response to cytokine stimulus	XLOC_012997
+GO:0070482	0.0120776014776299	0.999964390453194	1	34	response to oxygen levels	BP	0.9999999999	BP response to oxygen levels	XLOC_012997
+GO:0001819	0.0121327982780179	0.999964063195009	1	34	positive regulation of cytokine production	BP	0.9999999999	BP positive regulation of cytokine production	XLOC_012997
+GO:0001101	0.0126055480714564	0.999961165190598	1	35	response to acid chemical	BP	0.9999999999	BP response to acid chemical	XLOC_012997
+GO:0000785	0.0129213367689978	0.999959123909709	1	37	chromatin	CC	0.9999999999	CC chromatin	XLOC_012997
+GO:0000976	0.0130731455209906	0.999958067876049	1	40	transcription regulatory region sequence-specific DNA binding	MF	0.9999999999	MF transcription regulatory region sequence-specific DNA binding	XLOC_012997
+GO:0000122	0.013257976501067	0.999956927502174	1	38	negative regulation of transcription by RNA polymerase II	BP	0.9999999999	BP negative regulation of transcription by RNA polymerase II	XLOC_012997
+GO:0071214	0.0136559802660027	0.999954293186708	1	38	cellular response to abiotic stimulus	BP	0.9999999999	BP cellular response to abiotic stimulus	XLOC_012997
+GO:0071407	0.0139719197586011	0.999952051988507	1	41	cellular response to organic cyclic compound	BP	0.9999999999	BP cellular response to organic cyclic compound	XLOC_012997
+GO:0034097	0.0144524266637461	0.999948716406302	1	40	response to cytokine	BP	0.9999999999	BP response to cytokine	XLOC_012997
+GO:0043434	0.0149892317971064	0.999944753787403	1	42	response to peptide hormone	BP	0.9999999999	BP response to peptide hormone	XLOC_012997
+GO:1990837	0.0151444582853728	0.999943480361976	1	46	sequence-specific double-stranded DNA binding	MF	0.9999999999	MF sequence-specific double-stranded DNA binding	XLOC_012997
+GO:1901342	0.0153908415696011	0.99994174156443	1	42	regulation of vasculature development	BP	0.9999999999	BP regulation of vasculature development	XLOC_012997
+GO:0045860	0.0156657111642172	0.9999395064418	1	46	positive regulation of protein kinase activity	BP	0.9999999999	BP positive regulation of protein kinase activity	XLOC_012997
+GO:0009314	0.0156915857214411	0.999939366465387	1	44	response to radiation	BP	0.9999999999	BP response to radiation	XLOC_012997
+GO:0000981	0.0158412724954429	0.999938137359774	1	46	DNA-binding transcription factor activity, RNA polymerase II-specific	MF	0.9999999999	MF DNA-binding transcription factor activity, RNA polymerase II-specific	XLOC_012997
+GO:0010817	0.0160858371911013	0.999936235673735	1	45	regulation of hormone levels	BP	0.9999999999	BP regulation of hormone levels	XLOC_012997
+GO:0003690	0.0166423827445662	0.999931573503149	1	50	double-stranded DNA binding	MF	0.9999999999	MF double-stranded DNA binding	XLOC_012997
+GO:0048598	0.0167464995123984	0.999930739548031	1	49	embryonic morphogenesis	BP	0.9999999999	BP embryonic morphogenesis	XLOC_012997
+GO:0045321	0.0169932995976905	0.999928673968572	1	49	leukocyte activation	BP	0.9999999999	BP leukocyte activation	XLOC_012997
+GO:1901652	0.0171632768458616	0.999927264860742	1	48	response to peptide	BP	0.9999999999	BP response to peptide	XLOC_012997
+GO:0044454	0.0174840198632358	0.999924444735316	1	50	nuclear chromosome part	CC	0.9999999999	CC nuclear chromosome part	XLOC_012997
+GO:0008283	0.0177081083486724	0.999922397846751	1	53	cell proliferation	BP	0.9999999999	BP cell proliferation	XLOC_012997
+GO:0000975	0.0179552183176978	0.999920206735992	1	53	NA	NA	0.9999999999	none	XLOC_012997
+GO:0001067	0.0179552183176978	0.999920206735992	1	53	regulatory region nucleic acid binding	MF	0.9999999999	MF regulatory region nucleic acid binding	XLOC_012997
+GO:0044212	0.0179552183176978	0.999920206735992	1	53	transcription regulatory region DNA binding	MF	0.9999999999	MF transcription regulatory region DNA binding	XLOC_012997
+GO:0033674	0.018051606569002	0.999919373280002	1	52	positive regulation of kinase activity	BP	0.9999999999	BP positive regulation of kinase activity	XLOC_012997
+GO:0010942	0.0184397604202306	0.999915917173817	1	50	positive regulation of cell death	BP	0.9999999999	BP positive regulation of cell death	XLOC_012997
+GO:0001817	0.0194811621428417	0.999905897779288	1	56	regulation of cytokine production	BP	0.9999999999	BP regulation of cytokine production	XLOC_012997
+GO:0001775	0.0195675092335177	0.999905057510296	1	56	cell activation	BP	0.9999999999	BP cell activation	XLOC_012997
+GO:0071417	0.0195904825929056	0.999904833314364	1	56	cellular response to organonitrogen compound	BP	0.9999999999	BP cellular response to organonitrogen compound	XLOC_012997
+GO:0007167	0.0201638984298334	0.999899118979863	1	57	enzyme linked receptor protein signaling pathway	BP	0.9999999999	BP enzyme linked receptor protein signaling pathway	XLOC_012997
+GO:0001071	0.0204648145545863	0.999895948903975	1	61	NA	NA	0.9999999999	none	XLOC_012997
+GO:0003700	0.0204648145545863	0.999895948903975	1	61	DNA-binding transcription factor activity	MF	0.9999999999	MF DNA-binding transcription factor activity	XLOC_012997
+GO:0051347	0.0205268888603967	0.999895371909898	1	59	positive regulation of transferase activity	BP	0.9999999999	BP positive regulation of transferase activity	XLOC_012997
+GO:1901699	0.0226049154551018	0.999872779494446	1	65	cellular response to nitrogen compound	BP	0.9999999999	BP cellular response to nitrogen compound	XLOC_012997
+GO:0009725	0.0226673100659598	0.999872102965644	1	64	response to hormone	BP	0.9999999999	BP response to hormone	XLOC_012997
+GO:0034654	0.0228366251994147	0.999870112069083	1	66	nucleobase-containing compound biosynthetic process	BP	0.9999999999	BP nucleobase-containing compound biosynthetic process	XLOC_012997
+GO:0045859	0.0228588733342203	0.99986982782841	1	67	regulation of protein kinase activity	BP	0.9999999999	BP regulation of protein kinase activity	XLOC_012997
+GO:0003682	0.0229671669660863	0.999868644739525	1	65	chromatin binding	MF	0.9999999999	MF chromatin binding	XLOC_012997
+GO:0008284	0.0230169644378189	0.999868071118032	1	65	positive regulation of cell proliferation	BP	0.9999999999	BP positive regulation of cell proliferation	XLOC_012997
+GO:0043565	0.0230279209676473	0.999867826508139	1	69	sequence-specific DNA binding	MF	0.9999999999	MF sequence-specific DNA binding	XLOC_012997
+GO:0045944	0.023812749997817	0.999858636525906	1	68	positive regulation of transcription by RNA polymerase II	BP	0.9999999999	BP positive regulation of transcription by RNA polymerase II	XLOC_012997
+GO:0045892	0.0245255482241584	0.999849959567667	1	69	negative regulation of transcription, DNA-templated	BP	0.9999999999	BP negative regulation of transcription, DNA-templated	XLOC_012997
+GO:1902679	0.0249519305135175	0.999844630786888	1	70	negative regulation of RNA biosynthetic process	BP	0.9999999999	BP negative regulation of RNA biosynthetic process	XLOC_012997
+GO:1903507	0.0249519305135175	0.999844630786888	1	70	negative regulation of nucleic acid-templated transcription	BP	0.9999999999	BP negative regulation of nucleic acid-templated transcription	XLOC_012997
+GO:0043549	0.0252360298483141	0.999840955809939	1	73	regulation of kinase activity	BP	0.9999999999	BP regulation of kinase activity	XLOC_012997
+GO:0007610	0.0254890252127753	0.99983779239511	1	71	behavior	BP	0.9999999999	BP behavior	XLOC_012997
+GO:0048609	0.0259079288032212	0.999832380624288	1	71	multicellular organismal reproductive process	BP	0.9999999999	BP multicellular organismal reproductive process	XLOC_012997
+GO:0019438	0.0259215471214024	0.999832107269646	1	74	aromatic compound biosynthetic process	BP	0.9999999999	BP aromatic compound biosynthetic process	XLOC_012997
+GO:0051253	0.0262510109132304	0.999827782973652	1	74	negative regulation of RNA metabolic process	BP	0.9999999999	BP negative regulation of RNA metabolic process	XLOC_012997
+GO:0001934	0.026255655066681	0.999827630890531	1	77	positive regulation of protein phosphorylation	BP	0.9999999999	BP positive regulation of protein phosphorylation	XLOC_012997
+GO:0018130	0.0271454659756088	0.999815664881552	1	77	heterocycle biosynthetic process	BP	0.9999999999	BP heterocycle biosynthetic process	XLOC_012997
+GO:0071495	0.0281568461505064	0.999801504210088	1	79	cellular response to endogenous stimulus	BP	0.9999999999	BP cellular response to endogenous stimulus	XLOC_012997
+GO:0014070	0.0284803906190553	0.99979678835514	1	82	response to organic cyclic compound	BP	0.9999999999	BP response to organic cyclic compound	XLOC_012997
+GO:0051338	0.0290813561213005	0.999787994658505	1	84	regulation of transferase activity	BP	0.9999999999	BP regulation of transferase activity	XLOC_012997
+GO:0042327	0.0294789376642969	0.999782082993974	1	85	positive regulation of phosphorylation	BP	0.9999999999	BP positive regulation of phosphorylation	XLOC_012997
+GO:1901701	0.0300653266124427	0.999773167830401	1	88	cellular response to oxygen-containing compound	BP	0.9999999999	BP cellular response to oxygen-containing compound	XLOC_012997
+GO:0009968	0.031483963680982	0.999750951412345	1	92	negative regulation of signal transduction	BP	0.9999999999	BP negative regulation of signal transduction	XLOC_012997
+GO:0010562	0.032038907251346	0.99974202033404	1	92	positive regulation of phosphorus metabolic process	BP	0.9999999999	BP positive regulation of phosphorus metabolic process	XLOC_012997
+GO:0045937	0.032038907251346	0.99974202033404	1	92	positive regulation of phosphate metabolic process	BP	0.9999999999	BP positive regulation of phosphate metabolic process	XLOC_012997
+GO:1901362	0.0320545606732861	0.999741796769852	1	91	organic cyclic compound biosynthetic process	BP	0.9999999999	BP organic cyclic compound biosynthetic process	XLOC_012997
+GO:0045893	0.0328093361475061	0.999729293821358	1	94	positive regulation of transcription, DNA-templated	BP	0.9999999999	BP positive regulation of transcription, DNA-templated	XLOC_012997
+GO:1903508	0.0328093361475061	0.999729293821358	1	94	positive regulation of nucleic acid-templated transcription	BP	0.9999999999	BP positive regulation of nucleic acid-templated transcription	XLOC_012997
+GO:0045934	0.0328706909384193	0.999728271772907	1	94	negative regulation of nucleobase-containing compound metabolic process	BP	0.9999999999	BP negative regulation of nucleobase-containing compound metabolic process	XLOC_012997
+GO:1902680	0.0334666493613436	0.999718180315249	1	96	positive regulation of RNA biosynthetic process	BP	0.9999999999	BP positive regulation of RNA biosynthetic process	XLOC_012997
+GO:0034645	0.0337577864900779	0.999713243661762	1	95	cellular macromolecule biosynthetic process	BP	0.9999999999	BP cellular macromolecule biosynthetic process	XLOC_012997
+GO:0031401	0.0342358089478628	0.99970486730224	1	99	positive regulation of protein modification process	BP	0.9999999999	BP positive regulation of protein modification process	XLOC_012997
+GO:0044427	0.0346253641370111	0.999698051717204	1	99	chromosomal part	CC	0.9999999999	CC chromosomal part	XLOC_012997
+GO:0010648	0.035896628169564	0.999675102215431	1	104	negative regulation of cell communication	BP	0.9999999999	BP negative regulation of cell communication	XLOC_012997
+GO:0023057	0.035896628169564	0.999675102215431	1	104	negative regulation of signaling	BP	0.9999999999	BP negative regulation of signaling	XLOC_012997
+GO:2000113	0.0360728122687876	0.99967190549237	1	103	negative regulation of cellular macromolecule biosynthetic process	BP	0.9999999999	BP negative regulation of cellular macromolecule biosynthetic process	XLOC_012997
+GO:0051254	0.0370575998474644	0.999653475624604	1	106	positive regulation of RNA metabolic process	BP	0.9999999999	BP positive regulation of RNA metabolic process	XLOC_012997
+GO:0010558	0.0378782477637875	0.999637740986017	1	108	negative regulation of macromolecule biosynthetic process	BP	0.9999999999	BP negative regulation of macromolecule biosynthetic process	XLOC_012997
+GO:0001932	0.038054504829233	0.999634208617712	1	112	regulation of protein phosphorylation	BP	0.9999999999	BP regulation of protein phosphorylation	XLOC_012997
+GO:0009059	0.0383071612320911	0.999629439630853	1	107	macromolecule biosynthetic process	BP	0.9999999999	BP macromolecule biosynthetic process	XLOC_012997
+GO:0043085	0.0383325160275572	0.999628790836706	1	112	positive regulation of catalytic activity	BP	0.9999999999	BP positive regulation of catalytic activity	XLOC_012997
+GO:0009719	0.0384262576786108	0.999627076901451	1	108	response to endogenous stimulus	BP	0.9999999999	BP response to endogenous stimulus	XLOC_012997
+GO:0010243	0.0396322901764994	0.999602922048661	1	112	response to organonitrogen compound	BP	0.9999999999	BP response to organonitrogen compound	XLOC_012997
+GO:0042981	0.0401455667311969	0.999592429750118	1	113	regulation of apoptotic process	BP	0.9999999999	BP regulation of apoptotic process	XLOC_012997
+GO:0031327	0.0411308171412337	0.999571801200192	1	118	negative regulation of cellular biosynthetic process	BP	0.9999999999	BP negative regulation of cellular biosynthetic process	XLOC_012997
+GO:0043067	0.0412309242873487	0.999569753954121	1	116	regulation of programmed cell death	BP	0.9999999999	BP regulation of programmed cell death	XLOC_012997
+GO:0044271	0.0414063959980631	0.999566044418966	1	116	cellular nitrogen compound biosynthetic process	BP	0.9999999999	BP cellular nitrogen compound biosynthetic process	XLOC_012997
+GO:0009890	0.0415546491036182	0.999562803839051	1	119	negative regulation of biosynthetic process	BP	0.9999999999	BP negative regulation of biosynthetic process	XLOC_012997
+GO:0048585	0.0418674437282137	0.999556034462781	1	122	negative regulation of response to stimulus	BP	0.9999999999	BP negative regulation of response to stimulus	XLOC_012997
+GO:0010629	0.0423359249423735	0.999545993697688	1	120	negative regulation of gene expression	BP	0.9999999999	BP negative regulation of gene expression	XLOC_012997
+GO:0051094	0.0423705548465698	0.999545121867773	1	124	positive regulation of developmental process	BP	0.9999999999	BP positive regulation of developmental process	XLOC_012997
+GO:1901698	0.0426841083800545	0.999538380157174	1	121	response to nitrogen compound	BP	0.9999999999	BP response to nitrogen compound	XLOC_012997
+GO:0042325	0.0429459690574757	0.999532542943655	1	124	regulation of phosphorylation	BP	0.9999999999	BP regulation of phosphorylation	XLOC_012997
+GO:0009628	0.043011325304143	0.999531164234063	1	122	response to abiotic stimulus	BP	0.9999999999	BP response to abiotic stimulus	XLOC_012997
+GO:0042127	0.0431883760995949	0.999527191253852	1	124	regulation of cell proliferation	BP	0.9999999999	BP regulation of cell proliferation	XLOC_012997
+GO:0010557	0.0433108219900019	0.999524476140393	1	124	positive regulation of macromolecule biosynthetic process	BP	0.9999999999	BP positive regulation of macromolecule biosynthetic process	XLOC_012997
+GO:0031328	0.0440089069393549	0.999508782968926	1	126	positive regulation of cellular biosynthetic process	BP	0.9999999999	BP positive regulation of cellular biosynthetic process	XLOC_012997
+GO:0071310	0.0440448449229848	0.999508001937164	1	125	cellular response to organic substance	BP	0.9999999999	BP cellular response to organic substance	XLOC_012997
+GO:0010941	0.0442953597943175	0.999502355953438	1	124	regulation of cell death	BP	0.9999999999	BP regulation of cell death	XLOC_012997
+GO:0032270	0.0450450959017119	0.999484947526581	1	131	positive regulation of cellular protein metabolic process	BP	0.9999999999	BP positive regulation of cellular protein metabolic process	XLOC_012997
+GO:1901700	0.0457652522696839	0.999468117079047	1	132	response to oxygen-containing compound	BP	0.9999999999	BP response to oxygen-containing compound	XLOC_012997
+GO:0045935	0.0461356257266042	0.999459399558327	1	131	positive regulation of nucleobase-containing compound metabolic process	BP	0.9999999999	BP positive regulation of nucleobase-containing compound metabolic process	XLOC_012997
+GO:0009891	0.0468217165238512	0.999442908171612	1	134	positive regulation of biosynthetic process	BP	0.9999999999	BP positive regulation of biosynthetic process	XLOC_012997
+GO:0048513	0.0468651033324056	0.99944189339203	1	133	animal organ development	BP	0.9999999999	BP animal organ development	XLOC_012997
+GO:0051247	0.0473594448756737	0.99942975743735	1	138	positive regulation of protein metabolic process	BP	0.9999999999	BP positive regulation of protein metabolic process	XLOC_012997
+GO:0006357	0.0477437750267429	0.99942037840604	1	137	regulation of transcription by RNA polymerase II	BP	0.9999999999	BP regulation of transcription by RNA polymerase II	XLOC_012997
+GO:0044093	0.0482582789902249	0.999407568429442	1	140	positive regulation of molecular function	BP	0.9999999999	BP positive regulation of molecular function	XLOC_012997
+GO:0019220	0.0491786146218966	0.9993843697482	1	143	regulation of phosphate metabolic process	BP	0.9999999999	BP regulation of phosphate metabolic process	XLOC_012997
+GO:0051174	0.0491786146218966	0.9993843697482	1	143	regulation of phosphorus metabolic process	BP	0.9999999999	BP regulation of phosphorus metabolic process	XLOC_012997
+GO:0002376	0.0498582509083052	0.999366981319589	1	144	immune system process	BP	0.9999999999	BP immune system process	XLOC_012997

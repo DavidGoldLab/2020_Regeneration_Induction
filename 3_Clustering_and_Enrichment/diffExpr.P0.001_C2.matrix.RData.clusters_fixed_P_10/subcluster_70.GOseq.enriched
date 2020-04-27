@@ -1,0 +1,35 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0006654	0.00618628298846724	0.999988006755908	1	4	phosphatidic acid biosynthetic process	BP	0.9999999999	BP phosphatidic acid biosynthetic process	XLOC_011056
+GO:0046473	0.00618628298846724	0.999988006755908	1	4	phosphatidic acid metabolic process	BP	0.9999999999	BP phosphatidic acid metabolic process	XLOC_011056
+GO:0035987	0.00823248717043067	0.999975710647257	1	7	endodermal cell differentiation	BP	0.9999999999	BP endodermal cell differentiation	XLOC_052035
+GO:0003414	0.0111330404371407	0.999952445575692	1	12	chondrocyte morphogenesis involved in endochondral bone morphogenesis	BP	0.9999999999	BP chondrocyte morphogenesis involved in endochondral bone morphogenesis	XLOC_052035
+GO:0003422	0.0111330404371407	0.999952445575692	1	12	growth plate cartilage morphogenesis	BP	0.9999999999	BP growth plate cartilage morphogenesis	XLOC_052035
+GO:0003429	0.0111330404371407	0.999952445575692	1	12	growth plate cartilage chondrocyte morphogenesis	BP	0.9999999999	BP growth plate cartilage chondrocyte morphogenesis	XLOC_052035
+GO:0090171	0.0111330404371407	0.999952445575692	1	12	chondrocyte morphogenesis	BP	0.9999999999	BP chondrocyte morphogenesis	XLOC_052035
+GO:0046474	0.0115089422207611	0.9999495902906	1	11	glycerophospholipid biosynthetic process	BP	0.9999999999	BP glycerophospholipid biosynthetic process	XLOC_011056
+GO:0060536	0.0116497117119272	0.999947555156764	1	13	cartilage morphogenesis	BP	0.9999999999	BP cartilage morphogenesis	XLOC_052035
+GO:0008654	0.013623148953115	0.999927797149905	1	14	phospholipid biosynthetic process	BP	0.9999999999	BP phospholipid biosynthetic process	XLOC_011056
+GO:0045017	0.0138489104101256	0.999926329105591	1	12	glycerolipid biosynthetic process	BP	0.9999999999	BP glycerolipid biosynthetic process	XLOC_011056
+GO:0005615	0.015002285741484	0.999334473801468	2	205	extracellular space	CC	0.9999999999	CC extracellular space	XLOC_011056, XLOC_052035
+GO:1901575	0.0184475826343253	0.999085753505694	2	229	organic substance catabolic process	BP	0.9999999999	BP organic substance catabolic process	XLOC_011056, XLOC_035306
+GO:0008201	0.0197701900890485	0.999843310285537	1	22	heparin binding	MF	0.9999999999	MF heparin binding	XLOC_011056
+GO:0006650	0.0215154680513571	0.999815168159059	1	20	glycerophospholipid metabolic process	BP	0.9999999999	BP glycerophospholipid metabolic process	XLOC_011056
+GO:0009056	0.0227970876908771	0.998733436786649	2	259	catabolic process	BP	0.9999999999	BP catabolic process	XLOC_011056, XLOC_035306
+GO:0004620	0.0248988856162579	0.999752798279497	1	19	phospholipase activity	MF	0.9999999999	MF phospholipase activity	XLOC_011056
+GO:0005539	0.0259131525037725	0.99972705411483	1	29	glycosaminoglycan binding	MF	0.9999999999	MF glycosaminoglycan binding	XLOC_011056
+GO:0016298	0.0265413793763156	0.999716807846864	1	22	lipase activity	MF	0.9999999999	MF lipase activity	XLOC_011056
+GO:0005581	0.0274700626461199	0.999690965793794	1	36	collagen trimer	CC	0.9999999999	CC collagen trimer	XLOC_052035
+GO:0046486	0.0299510026494797	0.999635715196329	1	27	glycerolipid metabolic process	BP	0.9999999999	BP glycerolipid metabolic process	XLOC_011056
+GO:0052689	0.0319136786866251	0.999584500622677	1	30	carboxylic ester hydrolase activity	MF	0.9999999999	MF carboxylic ester hydrolase activity	XLOC_011056
+GO:0090407	0.0332328374466994	0.999547004278657	1	35	organophosphate biosynthetic process	BP	0.9999999999	BP organophosphate biosynthetic process	XLOC_011056
+GO:0000904	0.0338043677233041	0.999533448008394	1	30	cell morphogenesis involved in differentiation	BP	0.9999999999	BP cell morphogenesis involved in differentiation	XLOC_052035
+GO:0044421	0.0343217540077378	0.997615923057278	2	321	extracellular region part	CC	0.9999999999	CC extracellular region part	XLOC_011056, XLOC_052035
+GO:0006644	0.036160563509374	0.999463486922391	1	34	phospholipid metabolic process	BP	0.9999999999	BP phospholipid metabolic process	XLOC_011056
+GO:0005516	0.0368208083868852	0.999441815327163	1	38	calmodulin binding	MF	0.9999999999	MF calmodulin binding	XLOC_035306
+GO:0048729	0.0380097868412928	0.99940159331096	1	48	tissue morphogenesis	BP	0.9999999999	BP tissue morphogenesis	XLOC_052035
+GO:0008610	0.041605898506853	0.999283318885727	1	44	lipid biosynthetic process	BP	0.9999999999	BP lipid biosynthetic process	XLOC_011056
+GO:0005813	0.0446826593174296	0.999169762705752	1	51	centrosome	CC	0.9999999999	CC centrosome	XLOC_035306
+GO:0000902	0.0449957419677927	0.999162529842301	1	40	cell morphogenesis	BP	0.9999999999	BP cell morphogenesis	XLOC_052035
+GO:0016042	0.0453362981886034	0.999146891861955	1	46	lipid catabolic process	BP	0.9999999999	BP lipid catabolic process	XLOC_011056
+GO:0031012	0.0467691848868178	0.999086954972092	1	60	extracellular matrix	CC	0.9999999999	CC extracellular matrix	XLOC_052035
+GO:1901681	0.0472412885623066	0.99907029623752	1	53	sulfur compound binding	MF	0.9999999999	MF sulfur compound binding	XLOC_011056

@@ -1,0 +1,141 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0003939	0.00425269620344271	1	1	1	L-iditol 2-dehydrogenase activity	MF	0.9999999999	MF L-iditol 2-dehydrogenase activity	XLOC_006194
+GO:0008743	0.00425269620344271	1	1	1	L-threonine 3-dehydrogenase activity	MF	0.9999999999	MF L-threonine 3-dehydrogenase activity	XLOC_006194
+GO:0015347	0.00425269620344271	1	1	1	sodium-independent organic anion transmembrane transporter activity	MF	0.9999999999	MF sodium-independent organic anion transmembrane transporter activity	XLOC_006194
+GO:0019299	0.00425269620344271	1	1	1	rhamnose metabolic process	BP	0.9999999999	BP rhamnose metabolic process	XLOC_006194
+GO:0019301	0.00425269620344271	1	1	1	rhamnose catabolic process	BP	0.9999999999	BP rhamnose catabolic process	XLOC_006194
+GO:0031320	0.00425269620344271	1	1	1	hexitol dehydrogenase activity	MF	0.9999999999	MF hexitol dehydrogenase activity	XLOC_006194
+GO:0043252	0.00425269620344271	1	1	1	sodium-independent organic anion transport	BP	0.9999999999	BP sodium-independent organic anion transport	XLOC_006194
+GO:0046526	0.00425269620344271	1	1	1	D-xylulose reductase activity	MF	0.9999999999	MF D-xylulose reductase activity	XLOC_006194
+GO:0000491	0.00480357399550522	1	1	1	small nucleolar ribonucleoprotein complex assembly	BP	0.9999999999	BP small nucleolar ribonucleoprotein complex assembly	XLOC_033349
+GO:0000492	0.00480357399550522	1	1	1	box C/D snoRNP assembly	BP	0.9999999999	BP box C/D snoRNP assembly	XLOC_033349
+GO:0006336	0.00480357399550522	1	1	1	DNA replication-independent nucleosome assembly	BP	0.9999999999	BP DNA replication-independent nucleosome assembly	XLOC_033349
+GO:0010755	0.00480357399550522	1	1	1	regulation of plasminogen activation	BP	0.9999999999	BP regulation of plasminogen activation	XLOC_033349
+GO:0010756	0.00480357399550522	1	1	1	positive regulation of plasminogen activation	BP	0.9999999999	BP positive regulation of plasminogen activation	XLOC_033349
+GO:0017025	0.00480357399550522	1	1	1	TBP-class protein binding	MF	0.9999999999	MF TBP-class protein binding	XLOC_033349
+GO:0034080	0.00480357399550522	1	1	1	CENP-A containing nucleosome assembly	BP	0.9999999999	BP CENP-A containing nucleosome assembly	XLOC_033349
+GO:0034724	0.00480357399550522	1	1	1	DNA replication-independent nucleosome organization	BP	0.9999999999	BP DNA replication-independent nucleosome organization	XLOC_033349
+GO:0097255	0.00480357399550522	1	1	1	R2TP complex	CC	0.9999999999	CC R2TP complex	XLOC_033349
+GO:0007283	0.00686987056950202	0.999411447542818	3	52	spermatogenesis	BP	0.9999999999	BP spermatogenesis	XLOC_006194, XLOC_033349, XLOC_050222
+GO:0048232	0.00702642292542883	0.999392661451105	3	53	male gamete generation	BP	0.9999999999	BP male gamete generation	XLOC_006194, XLOC_033349, XLOC_050222
+GO:1904837	0.0077623158715038	0.999985231001848	1	2	beta-catenin-TCF complex assembly	BP	0.9999999999	BP beta-catenin-TCF complex assembly	XLOC_033349
+GO:0007276	0.00783810225448982	0.999293217429162	3	57	gamete generation	BP	0.9999999999	BP gamete generation	XLOC_006194, XLOC_033349, XLOC_050222
+GO:0031055	0.00790246263928114	0.99998469178183	1	2	chromatin remodeling at centromere	BP	0.9999999999	BP chromatin remodeling at centromere	XLOC_033349
+GO:0022611	0.00830536855684277	0.999983087506599	1	2	dormancy process	BP	0.9999999999	BP dormancy process	XLOC_005452
+GO:0042750	0.00830536855684277	0.999983087506599	1	2	hibernation	BP	0.9999999999	BP hibernation	XLOC_005452
+GO:0015349	0.00919834101634189	0.999979245676531	1	2	thyroid hormone transmembrane transporter activity	MF	0.9999999999	MF thyroid hormone transmembrane transporter activity	XLOC_006194
+GO:0019320	0.0114520673590759	0.999957084268589	1	3	hexose catabolic process	BP	0.9999999999	BP hexose catabolic process	XLOC_006194
+GO:1990718	0.0116592418358894	1	1	1	axonemal central pair projection	CC	0.9999999999	CC axonemal central pair projection	XLOC_031796
+GO:0001957	0.0116730823025426	1	1	1	intramembranous ossification	BP	0.9999999999	BP intramembranous ossification	XLOC_013409
+GO:0021761	0.0116730823025426	1	1	1	limbic system development	BP	0.9999999999	BP limbic system development	XLOC_013409
+GO:0036072	0.0116730823025426	1	1	1	direct ossification	BP	0.9999999999	BP direct ossification	XLOC_013409
+GO:0071109	0.0116730823025426	1	1	1	superior temporal gyrus development	BP	0.9999999999	BP superior temporal gyrus development	XLOC_013409
+GO:0004033	0.0138656030579641	0.999952726984742	1	2	aldo-keto reductase (NADP) activity	MF	0.9999999999	MF aldo-keto reductase (NADP) activity	XLOC_006194
+GO:0008106	0.0138656030579641	0.999952726984742	1	2	alcohol dehydrogenase (NADP+) activity	MF	0.9999999999	MF alcohol dehydrogenase (NADP+) activity	XLOC_006194
+GO:0035267	0.0141017566672372	0.999926734292411	1	4	NuA4 histone acetyltransferase complex	CC	0.9999999999	CC NuA4 histone acetyltransferase complex	XLOC_033349
+GO:0043189	0.0141017566672372	0.999926734292411	1	4	H4/H2A histone acetyltransferase complex	CC	0.9999999999	CC H4/H2A histone acetyltransferase complex	XLOC_033349
+GO:0001094	0.0144912176452888	0.999931187948461	1	3	TFIID-class transcription factor complex binding	MF	0.9999999999	MF TFIID-class transcription factor complex binding	XLOC_033349
+GO:1904705	0.0147206587703084	0.999946693233487	1	2	regulation of vascular smooth muscle cell proliferation	BP	0.9999999999	BP regulation of vascular smooth muscle cell proliferation	XLOC_013409
+GO:1904707	0.0147206587703084	0.999946693233487	1	2	positive regulation of vascular smooth muscle cell proliferation	BP	0.9999999999	BP positive regulation of vascular smooth muscle cell proliferation	XLOC_013409
+GO:0021794	0.0147372712648485	0.999946572391329	1	2	thalamus development	BP	0.9999999999	BP thalamus development	XLOC_013409
+GO:0051117	0.014883194802502	0.999918361904222	1	4	ATPase binding	MF	0.9999999999	MF ATPase binding	XLOC_033349
+GO:0031011	0.0153737030003519	0.999941839035635	1	2	Ino80 complex	CC	0.9999999999	CC Ino80 complex	XLOC_033349
+GO:0006566	0.0155107947131227	0.999940792933084	1	2	threonine metabolic process	BP	0.9999999999	BP threonine metabolic process	XLOC_006194
+GO:0006567	0.0155107947131227	0.999940792933084	1	2	threonine catabolic process	BP	0.9999999999	BP threonine catabolic process	XLOC_006194
+GO:0009068	0.0155107947131227	0.999940792933084	1	2	aspartate family amino acid catabolic process	BP	0.9999999999	BP aspartate family amino acid catabolic process	XLOC_006194
+GO:0019518	0.0155107947131227	0.999940792933084	1	2	L-threonine catabolic process to glycine	BP	0.9999999999	BP L-threonine catabolic process to glycine	XLOC_006194
+GO:0048609	0.0155484042339559	0.998183702727848	3	71	multicellular organismal reproductive process	BP	0.9999999999	BP multicellular organismal reproductive process	XLOC_006194, XLOC_033349, XLOC_050222
+GO:0042403	0.0156757323154468	0.999939521889962	1	2	thyroid hormone metabolic process	BP	0.9999999999	BP thyroid hormone metabolic process	XLOC_006194
+GO:0007638	0.0164102211898613	0.999933696476157	1	2	mechanosensory behavior	BP	0.9999999999	BP mechanosensory behavior	XLOC_013409
+GO:0031223	0.0164102211898613	0.999933696476157	1	2	auditory behavior	BP	0.9999999999	BP auditory behavior	XLOC_013409
+GO:0042297	0.0164102211898613	0.999933696476157	1	2	vocal learning	BP	0.9999999999	BP vocal learning	XLOC_013409
+GO:0098596	0.0164102211898613	0.999933696476157	1	2	imitative learning	BP	0.9999999999	BP imitative learning	XLOC_013409
+GO:0098598	0.0164102211898613	0.999933696476157	1	2	learned vocalization behavior or vocal learning	BP	0.9999999999	BP learned vocalization behavior or vocal learning	XLOC_013409
+GO:0001091	0.0175587022101902	0.999886240778952	1	4	RNA polymerase II basal transcription factor binding	MF	0.9999999999	MF RNA polymerase II basal transcription factor binding	XLOC_033349
+GO:0019226	0.0176326430819392	0.999923401945988	1	2	transmission of nerve impulse	BP	0.9999999999	BP transmission of nerve impulse	XLOC_013409
+GO:0033010	0.0180479630282406	0.999919733775838	1	2	paranodal junction	CC	0.9999999999	CC paranodal junction	XLOC_013409
+GO:0060438	0.0184080382282078	0.999916483441563	1	2	trachea development	BP	0.9999999999	BP trachea development	XLOC_031796
+GO:0033202	0.0184402330955378	0.999888371002432	1	3	DNA helicase complex	CC	0.9999999999	CC DNA helicase complex	XLOC_033349
+GO:0043015	0.0191280634898295	0.999909788506165	1	2	gamma-tubulin binding	MF	0.9999999999	MF gamma-tubulin binding	XLOC_001493
+GO:0005918	0.0193538185833876	0.999907635709298	1	2	septate junction	CC	0.9999999999	CC septate junction	XLOC_013409
+GO:0005919	0.0193538185833876	0.999907635709298	1	2	pleated septate junction	CC	0.9999999999	CC pleated septate junction	XLOC_013409
+GO:0006903	0.0193538185833876	0.999907635709298	1	2	vesicle targeting	BP	0.9999999999	BP vesicle targeting	XLOC_013409
+GO:0007391	0.0193538185833876	0.999907635709298	1	2	dorsal closure	BP	0.9999999999	BP dorsal closure	XLOC_013409
+GO:0016080	0.0193538185833876	0.999907635709298	1	2	synaptic vesicle targeting	BP	0.9999999999	BP synaptic vesicle targeting	XLOC_013409
+GO:0016081	0.0193538185833876	0.999907635709298	1	2	synaptic vesicle docking	BP	0.9999999999	BP synaptic vesicle docking	XLOC_013409
+GO:0016331	0.0193538185833876	0.999907635709298	1	2	morphogenesis of embryonic epithelium	BP	0.9999999999	BP morphogenesis of embryonic epithelium	XLOC_013409
+GO:0019991	0.0193538185833876	0.999907635709298	1	2	septate junction assembly	BP	0.9999999999	BP septate junction assembly	XLOC_013409
+GO:0060856	0.0193538185833876	0.999907635709298	1	2	establishment of blood-brain barrier	BP	0.9999999999	BP establishment of blood-brain barrier	XLOC_013409
+GO:0060857	0.0193538185833876	0.999907635709298	1	2	establishment of glial blood-brain barrier	BP	0.9999999999	BP establishment of glial blood-brain barrier	XLOC_013409
+GO:0061343	0.0193538185833876	0.999907635709298	1	2	cell adhesion involved in heart morphogenesis	BP	0.9999999999	BP cell adhesion involved in heart morphogenesis	XLOC_013409
+GO:0072553	0.0193538185833876	0.999907635709298	1	2	terminal button organization	BP	0.9999999999	BP terminal button organization	XLOC_013409
+GO:0043968	0.0195490210620453	0.999849509889451	1	5	histone H2A acetylation	BP	0.9999999999	BP histone H2A acetylation	XLOC_033349
+GO:0044702	0.0199677099262197	0.996347668115039	4	139	NA	NA	0.9999999999	none	XLOC_006194, XLOC_013409, XLOC_033349, XLOC_050222
+GO:1904872	0.0200267558955124	0.999868240106869	1	3	regulation of telomerase RNA localization to Cajal body	BP	0.9999999999	BP regulation of telomerase RNA localization to Cajal body	XLOC_033349
+GO:1904874	0.0200267558955124	0.999868240106869	1	3	positive regulation of telomerase RNA localization to Cajal body	BP	0.9999999999	BP positive regulation of telomerase RNA localization to Cajal body	XLOC_033349
+GO:0001955	0.0206866902916838	0.999859370524087	1	3	blood vessel maturation	BP	0.9999999999	BP blood vessel maturation	XLOC_013409
+GO:0030673	0.0216835734012709	0.999826204642436	1	4	axolemma	CC	0.9999999999	CC axolemma	XLOC_013409
+GO:0008039	0.0221980124034873	0.999837958686593	1	3	synaptic target recognition	BP	0.9999999999	BP synaptic target recognition	XLOC_013409
+GO:0021682	0.0223921616921822	0.999835096984263	1	3	nerve maturation	BP	0.9999999999	BP nerve maturation	XLOC_013409
+GO:0005618	0.0225891747002914	0.999811310567491	1	4	cell wall	CC	0.9999999999	CC cell wall	XLOC_006194
+GO:0043967	0.0226438223276739	0.999789461410757	1	6	histone H4 acetylation	BP	0.9999999999	BP histone H4 acetylation	XLOC_033349
+GO:0021756	0.0229919278318747	0.999869400033078	1	2	striatum development	BP	0.9999999999	BP striatum development	XLOC_013409
+GO:0007420	0.0230365805599626	0.998394773134954	2	30	brain development	BP	0.9999999999	BP brain development	XLOC_013409, XLOC_031796
+GO:0045163	0.0233213513637757	0.999865607752654	1	2	clustering of voltage-gated potassium channels	BP	0.9999999999	BP clustering of voltage-gated potassium channels	XLOC_013409
+GO:1904158	0.023340232407459	0.999865388732066	1	2	axonemal central apparatus assembly	BP	0.9999999999	BP axonemal central apparatus assembly	XLOC_031796
+GO:0046365	0.0233767949437218	0.999797854040532	1	4	monosaccharide catabolic process	BP	0.9999999999	BP monosaccharide catabolic process	XLOC_006194
+GO:0048771	0.0237452812697804	0.999777581905586	1	5	tissue remodeling	BP	0.9999999999	BP tissue remodeling	XLOC_013409
+GO:0071625	0.0238723920238842	0.999812446227408	1	3	vocalization behavior	BP	0.9999999999	BP vocalization behavior	XLOC_013409
+GO:0036038	0.0242067857956305	0.999855142367183	1	2	MKS complex	CC	0.9999999999	CC MKS complex	XLOC_001493
+GO:0000812	0.0243248929355358	0.999766534791896	1	5	Swr1 complex	CC	0.9999999999	CC Swr1 complex	XLOC_033349
+GO:0044665	0.0244011519335326	0.999803997824339	1	3	MLL1/2 complex	CC	0.9999999999	CC MLL1/2 complex	XLOC_033349
+GO:0071339	0.0244011519335326	0.999803997824339	1	3	MLL1 complex	CC	0.9999999999	CC MLL1 complex	XLOC_033349
+GO:2000269	0.0244178768575092	0.999803727526541	1	3	regulation of fibroblast apoptotic process	BP	0.9999999999	BP regulation of fibroblast apoptotic process	XLOC_033349
+GO:0072349	0.0252982104330136	0.999747375186061	1	5	modified amino acid transmembrane transporter activity	MF	0.9999999999	MF modified amino acid transmembrane transporter activity	XLOC_006194
+GO:0060346	0.0259028227413604	0.999751534869543	1	4	bone trabecula formation	BP	0.9999999999	BP bone trabecula formation	XLOC_013409
+GO:0035637	0.0262717692003824	0.999744365469183	1	4	multicellular organismal signaling	BP	0.9999999999	BP multicellular organismal signaling	XLOC_013409
+GO:1902562	0.0263156868351014	0.999726529769802	1	5	H4 histone acetyltransferase complex	CC	0.9999999999	CC H4 histone acetyltransferase complex	XLOC_033349
+GO:0009378	0.0269750115287288	0.999712575774792	1	5	four-way junction helicase activity	MF	0.9999999999	MF four-way junction helicase activity	XLOC_033349
+GO:0098597	0.0281527518609834	0.999738641049136	1	3	observational learning	BP	0.9999999999	BP observational learning	XLOC_013409
+GO:0006544	0.0291064853183272	0.999685836367198	1	4	glycine metabolic process	BP	0.9999999999	BP glycine metabolic process	XLOC_006194
+GO:0048013	0.0292865053898778	0.99971701755824	1	3	ephrin receptor signaling pathway	BP	0.9999999999	BP ephrin receptor signaling pathway	XLOC_013409
+GO:0008076	0.029610319368472	0.999674794520651	1	4	voltage-gated potassium channel complex	CC	0.9999999999	CC voltage-gated potassium channel complex	XLOC_013409
+GO:0034705	0.029610319368472	0.999674794520651	1	4	potassium channel complex	CC	0.9999999999	CC potassium channel complex	XLOC_013409
+GO:0044224	0.0296228300590079	0.999710435470031	1	3	juxtaparanode region of axon	CC	0.9999999999	CC juxtaparanode region of axon	XLOC_013409
+GO:0071205	0.0296228300590079	0.999710435470031	1	3	protein localization to juxtaparanode region of axon	BP	0.9999999999	BP protein localization to juxtaparanode region of axon	XLOC_013409
+GO:0060325	0.0297064197499355	0.999672666482093	1	4	face morphogenesis	BP	0.9999999999	BP face morphogenesis	XLOC_013409
+GO:0097105	0.030151731210191	0.999699929320961	1	3	presynaptic membrane assembly	BP	0.9999999999	BP presynaptic membrane assembly	XLOC_013409
+GO:0043486	0.0303076488468035	0.999659193308326	1	4	histone exchange	BP	0.9999999999	BP histone exchange	XLOC_033349
+GO:0022414	0.0304833486987666	0.99364109603583	4	160	reproductive process	BP	0.9999999999	BP reproductive process	XLOC_006194, XLOC_013409, XLOC_033349, XLOC_050222
+GO:0021591	0.0318777285725675	0.999664322238682	1	3	ventricular system development	BP	0.9999999999	BP ventricular system development	XLOC_031796
+GO:0032183	0.0321483089282385	0.999658556525616	1	3	SUMO binding	MF	0.9999999999	MF SUMO binding	XLOC_050222
+GO:0000123	0.0324138543872071	0.999554616776275	1	7	histone acetyltransferase complex	CC	0.9999999999	CC histone acetyltransferase complex	XLOC_033349
+GO:0006333	0.0333044290567398	0.999542579573021	1	6	chromatin assembly or disassembly	BP	0.9999999999	BP chromatin assembly or disassembly	XLOC_033349
+GO:0001085	0.0335199678126927	0.999536599071243	1	6	RNA polymerase II transcription factor binding	MF	0.9999999999	MF RNA polymerase II transcription factor binding	XLOC_033349
+GO:0045161	0.0338488558366452	0.999574242103926	1	4	neuronal ion channel clustering	BP	0.9999999999	BP neuronal ion channel clustering	XLOC_013409
+GO:0030431	0.0345486718366322	0.999527024060222	1	5	sleep	BP	0.9999999999	BP sleep	XLOC_005452
+GO:0097346	0.0346924412773056	0.999503376760276	1	6	INO80-type complex	CC	0.9999999999	CC INO80-type complex	XLOC_033349
+GO:0003015	0.0351618798969072	0.999540306700114	1	4	heart process	BP	0.9999999999	BP heart process	XLOC_013409
+GO:0048786	0.03544089965979	0.999466902210117	1	7	presynaptic active zone	CC	0.9999999999	CC presynaptic active zone	XLOC_013409
+GO:0031248	0.0355154783854613	0.999453607028942	1	8	protein acetyltransferase complex	CC	0.9999999999	CC protein acetyltransferase complex	XLOC_033349
+GO:1902493	0.0355154783854613	0.999453607028942	1	8	acetyltransferase complex	CC	0.9999999999	CC acetyltransferase complex	XLOC_033349
+GO:0004806	0.0356509302251899	0.9994961294298	1	5	triglyceride lipase activity	MF	0.9999999999	MF triglyceride lipase activity	XLOC_005452
+GO:0007043	0.0367594473842512	0.999497234382669	1	4	cell-cell junction assembly	BP	0.9999999999	BP cell-cell junction assembly	XLOC_013409
+GO:0021782	0.0369801689490372	0.999491129376194	1	4	glial cell development	BP	0.9999999999	BP glial cell development	XLOC_013409
+GO:1904645	0.037261678239837	0.999426494397436	1	6	response to amyloid-beta	BP	0.9999999999	BP response to amyloid-beta	XLOC_013409
+GO:0070160	0.0376447323844619	0.999437724014115	1	5	tight junction	CC	0.9999999999	CC tight junction	XLOC_013409
+GO:0060343	0.0382974148508094	0.999376792455803	1	7	trabecula formation	BP	0.9999999999	BP trabecula formation	XLOC_013409
+GO:0030574	0.0392438286960804	0.999388528741871	1	5	collagen catabolic process	BP	0.9999999999	BP collagen catabolic process	XLOC_013409
+GO:0099612	0.0401568560100907	0.999399111493853	1	4	protein localization to axon	BP	0.9999999999	BP protein localization to axon	XLOC_013409
+GO:0032589	0.040384307967908	0.999325482980939	1	6	neuron projection membrane	CC	0.9999999999	CC neuron projection membrane	XLOC_013409
+GO:0009069	0.0418235777320018	0.999255696106507	1	7	serine family amino acid metabolic process	BP	0.9999999999	BP serine family amino acid metabolic process	XLOC_006194
+GO:0071695	0.0428790074032822	0.999238795781155	1	6	anatomical structure maturation	BP	0.9999999999	BP anatomical structure maturation	XLOC_013409
+GO:0001098	0.0431172675126573	0.999192254224326	1	8	basal transcription machinery binding	MF	0.9999999999	MF basal transcription machinery binding	XLOC_033349
+GO:0001099	0.0431172675126573	0.999192254224326	1	8	basal RNA polymerase II transcription machinery binding	MF	0.9999999999	MF basal RNA polymerase II transcription machinery binding	XLOC_033349
+GO:0035151	0.0443164933764275	0.999218564300921	1	5	regulation of tube size, open tracheal system	BP	0.9999999999	BP regulation of tube size, open tracheal system	XLOC_013409
+GO:0097090	0.0443683935788024	0.999216715731888	1	5	presynaptic membrane organization	BP	0.9999999999	BP presynaptic membrane organization	XLOC_013409
+GO:0016573	0.0471603517205136	0.99900487397688	1	10	histone acetylation	BP	0.9999999999	BP histone acetylation	XLOC_033349
+GO:0035152	0.0472915937259688	0.999072386296668	1	6	regulation of tube architecture, open tracheal system	BP	0.9999999999	BP regulation of tube architecture, open tracheal system	XLOC_013409
+GO:0007566	0.0485615346100206	0.999021386561027	1	6	embryo implantation	BP	0.9999999999	BP embryo implantation	XLOC_013409
+GO:0044712	0.0491808754334603	0.990975578896345	3	110	NA	NA	0.9999999999	none	XLOC_005452, XLOC_006194, XLOC_013409
+GO:0044243	0.0496237098114202	0.998977660957534	1	6	NA	NA	0.9999999999	none	XLOC_013409

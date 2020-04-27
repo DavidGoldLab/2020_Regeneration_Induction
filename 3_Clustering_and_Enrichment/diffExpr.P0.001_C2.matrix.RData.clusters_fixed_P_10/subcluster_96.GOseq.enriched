@@ -1,0 +1,5 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0042409	0.00164163250925352	1	1	1	caffeoyl-CoA O-methyltransferase activity	MF	0.9999999999	MF caffeoyl-CoA O-methyltransferase activity	XLOC_055631
+GO:0010181	0.00444408571750433	0.999993639548166	1	4	FMN binding	MF	0.9999999999	MF FMN binding	XLOC_017872
+GO:0008171	0.00704502932477788	0.999982931350411	1	5	O-methyltransferase activity	MF	0.9999999999	MF O-methyltransferase activity	XLOC_055631
+GO:0008757	0.0356477096689969	0.999468903369878	1	26	S-adenosylmethionine-dependent methyltransferase activity	MF	0.9999999999	MF S-adenosylmethionine-dependent methyltransferase activity	XLOC_055631

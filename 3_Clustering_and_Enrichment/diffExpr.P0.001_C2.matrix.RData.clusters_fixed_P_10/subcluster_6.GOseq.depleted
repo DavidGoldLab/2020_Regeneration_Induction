@@ -1,0 +1,47 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	under_represented_FDR	go_term
+GO:0006396	0.999152156964207	0.00239254500435253	8	142	RNA processing	BP	0.9999999999	0.9999999999	BP RNA processing
+GO:0042391	0.999622900501985	0.00359160694949578	1	56	regulation of membrane potential	BP	0.9999999999	0.9999999999	BP regulation of membrane potential
+GO:0008380	0.996765244174083	0.0126478509425314	3	65	RNA splicing	BP	0.9999999999	0.9999999999	BP RNA splicing
+GO:0044057	0.997432088840057	0.01278495573843	2	52	regulation of system process	BP	0.9999999999	0.9999999999	BP regulation of system process
+GO:0007626	1	0.0139355678931444	0	32	locomotory behavior	BP	0.9999999999	0.9999999999	BP locomotory behavior
+GO:1990904	0.993475650478386	0.0140547901634264	11	158	ribonucleoprotein complex	CC	0.9999999999	0.9999999999	CC ribonucleoprotein complex
+GO:2000021	1	0.0154818840193562	0	28	NA	NA	0.9999999999	0.9999999999	none
+GO:0006397	0.994012294439592	0.0190989114670112	4	72	mRNA processing	BP	0.9999999999	0.9999999999	BP mRNA processing
+GO:0051049	0.989476091783979	0.0203638093970899	14	176	regulation of transport	BP	0.9999999999	0.9999999999	BP regulation of transport
+GO:0044441	0.992436544980426	0.0213105840626587	5	89	ciliary part	CC	0.9999999999	0.9999999999	CC ciliary part
+GO:0043269	0.993841744707574	0.0221904524679685	3	67	regulation of ion transport	BP	0.9999999999	0.9999999999	BP regulation of ion transport
+GO:0072511	0.996751688545546	0.0233976426867396	1	39	divalent inorganic cation transport	BP	0.9999999999	0.9999999999	BP divalent inorganic cation transport
+GO:0030529	0.988270029109606	0.024070030539042	11	150	NA	NA	0.9999999999	0.9999999999	none
+GO:0051924	1	0.0247417505770025	0	24	regulation of calcium ion transport	BP	0.9999999999	0.9999999999	BP regulation of calcium ion transport
+GO:0070838	0.996534316451941	0.0247424917352539	1	38	divalent metal ion transport	BP	0.9999999999	0.9999999999	BP divalent metal ion transport
+GO:0006816	0.995404764033502	0.0314594068797231	1	35	calcium ion transport	BP	0.9999999999	0.9999999999	BP calcium ion transport
+GO:0044420	0.988220383575341	0.0318234404270997	5	73	extracellular matrix component	CC	0.9999999999	0.9999999999	CC extracellular matrix component
+GO:1903522	1	0.0328253644682823	0	22	regulation of blood circulation	BP	0.9999999999	0.9999999999	BP regulation of blood circulation
+GO:0050877	0.985799077173671	0.0331044961240146	7	100	nervous system process	BP	0.9999999999	0.9999999999	BP nervous system process
+GO:0007610	0.988547596377202	0.0337404938848348	4	71	behavior	BP	0.9999999999	0.9999999999	BP behavior
+GO:0006812	0.98458501511973	0.0375867682599492	6	88	cation transport	BP	0.9999999999	0.9999999999	BP cation transport
+GO:0009967	0.980795459240993	0.0379748791991227	11	119	positive regulation of signal transduction	BP	0.9999999999	0.9999999999	BP positive regulation of signal transduction
+GO:0009141	1	0.0393751155613489	0	24	nucleoside triphosphate metabolic process	BP	0.9999999999	0.9999999999	BP nucleoside triphosphate metabolic process
+GO:0016070	0.975757328607845	0.0412525233170652	18	202	RNA metabolic process	BP	0.9999999999	0.9999999999	BP RNA metabolic process
+GO:0044421	0.972307121052546	0.0416592043086374	32	321	extracellular region part	CC	0.9999999999	0.9999999999	CC extracellular region part
+GO:0016072	0.989690809005319	0.0421577317817883	2	49	rRNA metabolic process	BP	0.9999999999	0.9999999999	BP rRNA metabolic process
+GO:0032386	0.98651710122592	0.0439060578174415	3	59	regulation of intracellular transport	BP	0.9999999999	0.9999999999	BP regulation of intracellular transport
+GO:0032787	0.989131468305819	0.0441196370721612	2	48	monocarboxylic acid metabolic process	BP	0.9999999999	0.9999999999	BP monocarboxylic acid metabolic process
+GO:0006399	0.992982171981815	0.0442945896382987	1	39	tRNA metabolic process	BP	0.9999999999	0.9999999999	BP tRNA metabolic process
+GO:0051223	0.982575764397863	0.0447722959454534	5	75	regulation of protein transport	BP	0.9999999999	0.9999999999	BP regulation of protein transport
+GO:0031226	0.97579978603911	0.0447780403984363	13	133	intrinsic component of plasma membrane	CC	0.9999999999	0.9999999999	CC intrinsic component of plasma membrane
+GO:0009123	1	0.0455522437611762	0	23	nucleoside monophosphate metabolic process	BP	0.9999999999	0.9999999999	BP nucleoside monophosphate metabolic process
+GO:0009161	1	0.0455522437611762	0	23	ribonucleoside monophosphate metabolic process	BP	0.9999999999	0.9999999999	BP ribonucleoside monophosphate metabolic process
+GO:0071826	0.98867896009028	0.0457068918662698	2	47	ribonucleoprotein complex subunit organization	BP	0.9999999999	0.9999999999	BP ribonucleoprotein complex subunit organization
+GO:0006937	1	0.0458802386827219	0	19	regulation of muscle contraction	BP	0.9999999999	0.9999999999	BP regulation of muscle contraction
+GO:0051082	1	0.0461706514371251	0	24	unfolded protein binding	MF	0.9999999999	0.9999999999	MF unfolded protein binding
+GO:0006753	0.988538541563212	0.046235418791834	2	46	nucleoside phosphate metabolic process	BP	0.9999999999	0.9999999999	BP nucleoside phosphate metabolic process
+GO:0009117	0.988538541563212	0.046235418791834	2	46	nucleotide metabolic process	BP	0.9999999999	0.9999999999	BP nucleotide metabolic process
+GO:1901135	0.981789084851855	0.0464467713188446	5	78	carbohydrate derivative metabolic process	BP	0.9999999999	0.9999999999	BP carbohydrate derivative metabolic process
+GO:0090316	1	0.0476141279443653	0	23	positive regulation of intracellular protein transport	BP	0.9999999999	0.9999999999	BP positive regulation of intracellular protein transport
+GO:0004872	0.973427471206773	0.0478251130367028	14	142	NA	NA	0.9999999999	0.9999999999	none
+GO:0060089	0.973427471206773	0.0478251130367028	14	142	molecular transducer activity	MF	0.9999999999	0.9999999999	MF molecular transducer activity
+GO:0005201	0.988141079263393	0.0479655657814728	2	40	extracellular matrix structural constituent	MF	0.9999999999	0.9999999999	MF extracellular matrix structural constituent
+GO:0005509	0.969319397974521	0.0487153392621838	23	238	calcium ion binding	MF	0.9999999999	0.9999999999	MF calcium ion binding
+GO:0019902	1	0.049019291585436	0	18	phosphatase binding	MF	0.9999999999	0.9999999999	MF phosphatase binding
+GO:0051592	1	0.0497835860837438	0	21	response to calcium ion	BP	0.9999999999	0.9999999999	BP response to calcium ion

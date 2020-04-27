@@ -1,0 +1,21 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0005595	0.00167292536659449	0.999999387327796	1	2	collagen type XII trimer	CC	0.9999999999	CC collagen type XII trimer	XLOC_041313
+GO:0030934	0.00167292536659449	0.999999387327796	1	2	anchoring collagen complex	CC	0.9999999999	CC anchoring collagen complex	XLOC_041313
+GO:0005593	0.00291929993269194	0.999997200311418	1	4	FACIT collagen trimer	CC	0.9999999999	CC FACIT collagen trimer	XLOC_041313
+GO:0030020	0.00465819913128014	0.999991848193531	1	7	extracellular matrix structural constituent conferring tensile strength	MF	0.9999999999	MF extracellular matrix structural constituent conferring tensile strength	XLOC_041313
+GO:0035987	0.00926410259394656	0.999967693784631	1	7	endodermal cell differentiation	BP	0.9999999999	BP endodermal cell differentiation	XLOC_041313
+GO:0030199	0.0126481746569991	0.999935074096179	1	13	collagen fibril organization	BP	0.9999999999	BP collagen fibril organization	XLOC_041313
+GO:0003414	0.0129236564156246	0.999932676144216	1	12	chondrocyte morphogenesis involved in endochondral bone morphogenesis	BP	0.9999999999	BP chondrocyte morphogenesis involved in endochondral bone morphogenesis	XLOC_041313
+GO:0003422	0.0129236564156246	0.999932676144216	1	12	growth plate cartilage morphogenesis	BP	0.9999999999	BP growth plate cartilage morphogenesis	XLOC_041313
+GO:0003429	0.0129236564156246	0.999932676144216	1	12	growth plate cartilage chondrocyte morphogenesis	BP	0.9999999999	BP growth plate cartilage chondrocyte morphogenesis	XLOC_041313
+GO:0090171	0.0129236564156246	0.999932676144216	1	12	chondrocyte morphogenesis	BP	0.9999999999	BP chondrocyte morphogenesis	XLOC_041313
+GO:0060536	0.0134985388088383	0.999926024765592	1	13	cartilage morphogenesis	BP	0.9999999999	BP cartilage morphogenesis	XLOC_041313
+GO:0007586	0.020167162258965	0.999831205131234	1	17	digestion	BP	0.9999999999	BP digestion	XLOC_013489
+GO:0005615	0.0217326819840193	0.998715350998154	2	205	extracellular space	CC	0.9999999999	CC extracellular space	XLOC_013489, XLOC_041313
+GO:0005788	0.0231089895317515	0.999772703147765	1	28	endoplasmic reticulum lumen	CC	0.9999999999	CC endoplasmic reticulum lumen	XLOC_041313
+GO:0005581	0.0267413970029488	0.999692710286086	1	36	collagen trimer	CC	0.9999999999	CC collagen trimer	XLOC_041313
+GO:0005201	0.0357897124961583	0.999446054348794	1	40	extracellular matrix structural constituent	MF	0.9999999999	MF extracellular matrix structural constituent	XLOC_041313
+GO:0048729	0.0384170765595488	0.999358384252176	1	48	tissue morphogenesis	BP	0.9999999999	BP tissue morphogenesis	XLOC_041313
+GO:0000904	0.0462760663448263	0.999077849443838	1	30	cell morphogenesis involved in differentiation	BP	0.9999999999	BP cell morphogenesis involved in differentiation	XLOC_041313
+GO:0031012	0.0487737221795438	0.998957240555058	1	60	extracellular matrix	CC	0.9999999999	CC extracellular matrix	XLOC_041313
+GO:0044421	0.0488760939831166	0.995495875971463	2	321	extracellular region part	CC	0.9999999999	CC extracellular region part	XLOC_013489, XLOC_041313

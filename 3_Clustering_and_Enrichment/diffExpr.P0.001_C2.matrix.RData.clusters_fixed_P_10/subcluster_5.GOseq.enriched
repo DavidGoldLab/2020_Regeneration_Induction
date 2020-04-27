@@ -1,0 +1,83 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0010410	0.000460794465912511	1	1	1	hemicellulose metabolic process	BP	0.820754050142618	BP hemicellulose metabolic process	XLOC_059513
+GO:0031176	0.000460794465912511	1	1	1	endo-1,4-beta-xylanase activity	MF	0.820754050142618	MF endo-1,4-beta-xylanase activity	XLOC_059513
+GO:0034362	0.000460794465912511	1	1	1	low-density lipoprotein particle	CC	0.820754050142618	CC low-density lipoprotein particle	XLOC_059513
+GO:0045491	0.000460794465912511	1	1	1	xylan metabolic process	BP	0.820754050142618	BP xylan metabolic process	XLOC_059513
+GO:0045493	0.000460794465912511	1	1	1	xylan catabolic process	BP	0.820754050142618	BP xylan catabolic process	XLOC_059513
+GO:0097599	0.000460794465912511	1	1	1	xylanase activity	MF	0.820754050142618	MF xylanase activity	XLOC_059513
+GO:0005771	0.000921419084314307	0.99999983013549	1	2	multivesicular body	CC	0.820754050142618	CC multivesicular body	XLOC_059513
+GO:0010383	0.000921419084496094	0.99999983013549	1	2	cell wall polysaccharide metabolic process	BP	0.820754050142618	BP cell wall polysaccharide metabolic process	XLOC_059513
+GO:0044036	0.000921419084496094	0.99999983013549	1	2	cell wall macromolecule metabolic process	BP	0.820754050142618	BP cell wall macromolecule metabolic process	XLOC_059513
+GO:0032994	0.000921419085200806	0.99999983013549	1	2	protein-lipid complex	CC	0.820754050142618	CC protein-lipid complex	XLOC_059513
+GO:0034358	0.000921419085200806	0.99999983013549	1	2	plasma lipoprotein particle	CC	0.820754050142618	CC plasma lipoprotein particle	XLOC_059513
+GO:1990777	0.000921419085200806	0.99999983013549	1	2	lipoprotein particle	CC	0.820754050142618	CC lipoprotein particle	XLOC_059513
+GO:0045053	0.0032062285910552	0.99999691165831	1	4	protein retention in Golgi apparatus	BP	0.9999999999	BP protein retention in Golgi apparatus	XLOC_059513
+GO:0035609	0.00506104586719856	0.999994862521592	1	2	C-terminal protein deglutamylation	BP	0.9999999999	BP C-terminal protein deglutamylation	XLOC_044044
+GO:1904492	0.00506104586719856	0.999994862521592	1	2	Ac-Asp-Glu binding	MF	0.9999999999	MF Ac-Asp-Glu binding	XLOC_044044
+GO:1904493	0.00506104586719856	0.999994862521592	1	2	tetrahydrofolyl-poly(glutamate) polymer binding	MF	0.9999999999	MF tetrahydrofolyl-poly(glutamate) polymer binding	XLOC_044044
+GO:0035608	0.00551997369262283	0.999991852168314	1	3	protein deglutamylation	BP	0.9999999999	BP protein deglutamylation	XLOC_044044
+GO:0018410	0.00588773845903094	0.999990728487252	1	3	C-terminal protein amino acid modification	BP	0.9999999999	BP C-terminal protein amino acid modification	XLOC_044044
+GO:1900750	0.00597873218726236	0.999989246280927	1	4	oligopeptide binding	MF	0.9999999999	MF oligopeptide binding	XLOC_044044
+GO:0016805	0.00597873218786051	0.999989246280925	1	4	dipeptidase activity	MF	0.9999999999	MF dipeptidase activity	XLOC_044044
+GO:0006622	0.00627319644159849	0.999986190032217	1	8	protein targeting to lysosome	BP	0.9999999999	BP protein targeting to lysosome	XLOC_059513
+GO:0061462	0.00718998854061802	0.999981333862683	1	10	protein localization to lysosome	BP	0.9999999999	BP protein localization to lysosome	XLOC_059513
+GO:0018200	0.00811506729728131	0.999976870779601	1	8	peptidyl-glutamic acid modification	BP	0.9999999999	BP peptidyl-glutamic acid modification	XLOC_044044
+GO:0044281	0.00883357767309248	0.999726963216069	2	214	small molecule metabolic process	BP	0.9999999999	BP small molecule metabolic process	XLOC_044044, XLOC_059513
+GO:0008203	0.00906397800596147	0.999969371652144	1	14	cholesterol metabolic process	BP	0.9999999999	BP cholesterol metabolic process	XLOC_059513
+GO:1902652	0.00906397800596147	0.999969371652144	1	14	secondary alcohol metabolic process	BP	0.9999999999	BP secondary alcohol metabolic process	XLOC_059513
+GO:0000272	0.00947771804617784	0.999966703188311	1	13	polysaccharide catabolic process	BP	0.9999999999	BP polysaccharide catabolic process	XLOC_059513
+GO:0016125	0.00952142844583421	0.999966022661338	1	15	sterol metabolic process	BP	0.9999999999	BP sterol metabolic process	XLOC_059513
+GO:0004181	0.0102721385606592	0.999964664744282	1	6	metallocarboxypeptidase activity	MF	0.9999999999	MF metallocarboxypeptidase activity	XLOC_044044
+GO:0006623	0.0108374133569869	0.999955956475289	1	15	protein targeting to vacuole	BP	0.9999999999	BP protein targeting to vacuole	XLOC_059513
+GO:0072666	0.0108374133569869	0.999955956475289	1	15	establishment of protein localization to vacuole	BP	0.9999999999	BP establishment of protein localization to vacuole	XLOC_059513
+GO:0072665	0.0112942087412419	0.999951943293068	1	16	protein localization to vacuole	BP	0.9999999999	BP protein localization to vacuole	XLOC_059513
+GO:0004180	0.0118727535627075	0.999949623268738	1	9	carboxypeptidase activity	MF	0.9999999999	MF carboxypeptidase activity	XLOC_044044
+GO:0005976	0.0126481235767359	0.999939064209903	1	19	polysaccharide metabolic process	BP	0.9999999999	BP polysaccharide metabolic process	XLOC_059513
+GO:0006760	0.0127632512917673	0.999938590079947	1	16	folic acid-containing compound metabolic process	BP	0.9999999999	BP folic acid-containing compound metabolic process	XLOC_044044
+GO:0032507	0.0136362128497445	0.999930540536532	1	14	maintenance of protein location in cell	BP	0.9999999999	BP maintenance of protein location in cell	XLOC_059513
+GO:0043687	0.0140747658710989	0.999925279001358	1	16	post-translational protein modification	BP	0.9999999999	BP post-translational protein modification	XLOC_044044
+GO:0051651	0.0140919738760673	0.99992542677162	1	15	maintenance of location in cell	BP	0.9999999999	BP maintenance of location in cell	XLOC_059513
+GO:0008652	0.0142368261236079	0.999922529192817	1	20	cellular amino acid biosynthetic process	BP	0.9999999999	BP cellular amino acid biosynthetic process	XLOC_044044
+GO:0042558	0.014423208109035	0.999920700262578	1	19	pteridine-containing compound metabolic process	BP	0.9999999999	BP pteridine-containing compound metabolic process	XLOC_044044
+GO:0031982	0.0154555228168187	0.999356969625299	2	289	vesicle	CC	0.9999999999	CC vesicle	XLOC_044044, XLOC_059513
+GO:0016798	0.0168262328089523	0.999892295886064	1	18	hydrolase activity, acting on glycosyl bonds	MF	0.9999999999	MF hydrolase activity, acting on glycosyl bonds	XLOC_059513
+GO:0008202	0.0168522793714177	0.999890588387501	1	23	steroid metabolic process	BP	0.9999999999	BP steroid metabolic process	XLOC_059513
+GO:0005770	0.0173952169152582	0.999882976999402	1	25	late endosome	CC	0.9999999999	CC late endosome	XLOC_059513
+GO:0008235	0.0176052872169887	0.999884021581341	1	14	metalloexopeptidase activity	MF	0.9999999999	MF metalloexopeptidase activity	XLOC_044044
+GO:0006892	0.0176672724872627	0.99987873889103	1	28	post-Golgi vesicle-mediated transport	BP	0.9999999999	BP post-Golgi vesicle-mediated transport	XLOC_059513
+GO:0016052	0.0177397494103212	0.99987871587546	1	23	carbohydrate catabolic process	BP	0.9999999999	BP carbohydrate catabolic process	XLOC_059513
+GO:0007041	0.0194631077066246	0.999853625468954	1	24	lysosomal transport	BP	0.9999999999	BP lysosomal transport	XLOC_059513
+GO:0045185	0.0200052230108209	0.999845612533402	1	23	maintenance of protein location	BP	0.9999999999	BP maintenance of protein location	XLOC_059513
+GO:0044421	0.0211218849367712	0.998960687343079	2	321	extracellular region part	CC	0.9999999999	CC extracellular region part	XLOC_044044, XLOC_059513
+GO:0004553	0.0216809942535026	0.999819314386582	1	21	hydrolase activity, hydrolyzing O-glycosyl compounds	MF	0.9999999999	MF hydrolase activity, hydrolyzing O-glycosyl compounds	XLOC_059513
+GO:0005886	0.0224250040141448	0.998860059430627	2	341	plasma membrane	CC	0.9999999999	CC plasma membrane	XLOC_044044, XLOC_059513
+GO:0008238	0.0236075231558894	0.999783558579206	1	26	exopeptidase activity	MF	0.9999999999	MF exopeptidase activity	XLOC_044044
+GO:0006575	0.0238161749859808	0.999777101026454	1	37	cellular modified amino acid metabolic process	BP	0.9999999999	BP cellular modified amino acid metabolic process	XLOC_044044
+GO:0007034	0.0239787749861296	0.999775235150631	1	31	vacuolar transport	BP	0.9999999999	BP vacuolar transport	XLOC_059513
+GO:0006605	0.0240287552711955	0.999773634880901	1	34	protein targeting	BP	0.9999999999	BP protein targeting	XLOC_059513
+GO:0005769	0.0242201142411207	0.999769111642327	1	39	early endosome	CC	0.9999999999	CC early endosome	XLOC_059513
+GO:0051235	0.0243435761113473	0.999768836258698	1	29	maintenance of location	BP	0.9999999999	BP maintenance of location	XLOC_059513
+GO:0006066	0.0255454538116216	0.999745639709695	1	28	alcohol metabolic process	BP	0.9999999999	BP alcohol metabolic process	XLOC_059513
+GO:0016053	0.0274357856347595	0.999704216366004	1	35	organic acid biosynthetic process	BP	0.9999999999	BP organic acid biosynthetic process	XLOC_044044
+GO:0046394	0.0274357856347595	0.999704216366004	1	35	carboxylic acid biosynthetic process	BP	0.9999999999	BP carboxylic acid biosynthetic process	XLOC_044044
+GO:0042277	0.0327825043847151	0.999575777226579	1	38	peptide binding	MF	0.9999999999	MF peptide binding	XLOC_044044
+GO:0044710	0.0333906876140567	0.997889822301716	2	417	NA	NA	0.9999999999	none	XLOC_044044, XLOC_059513
+GO:0006732	0.0338477666542223	0.999546407639879	1	42	coenzyme metabolic process	BP	0.9999999999	BP coenzyme metabolic process	XLOC_044044
+GO:0048193	0.0346368446157473	0.99952231534912	1	54	Golgi vesicle transport	BP	0.9999999999	BP Golgi vesicle transport	XLOC_059513
+GO:0006897	0.0349907157386649	0.999514010361889	1	46	endocytosis	BP	0.9999999999	BP endocytosis	XLOC_059513
+GO:0072594	0.0354418092236971	0.999500635843085	1	49	establishment of protein localization to organelle	BP	0.9999999999	BP establishment of protein localization to organelle	XLOC_059513
+GO:0006869	0.0363090408440027	0.999478130608255	1	40	lipid transport	BP	0.9999999999	BP lipid transport	XLOC_059513
+GO:1901615	0.0369269391088788	0.999459125287538	1	43	organic hydroxy compound metabolic process	BP	0.9999999999	BP organic hydroxy compound metabolic process	XLOC_059513
+GO:1901360	0.0377288615477687	0.997448142238368	2	486	organic cyclic compound metabolic process	BP	0.9999999999	BP organic cyclic compound metabolic process	XLOC_044044, XLOC_059513
+GO:0051186	0.0383926972562479	0.999413054059497	1	50	cofactor metabolic process	BP	0.9999999999	BP cofactor metabolic process	XLOC_044044
+GO:0016787	0.0386083126440051	0.997355074139641	2	487	hydrolase activity	MF	0.9999999999	MF hydrolase activity	XLOC_044044, XLOC_059513
+GO:0018193	0.038634711970196	0.999404290936605	1	56	peptidyl-amino acid modification	BP	0.9999999999	BP peptidyl-amino acid modification	XLOC_044044
+GO:0005975	0.0394254547850319	0.999379862299007	1	54	carbohydrate metabolic process	BP	0.9999999999	BP carbohydrate metabolic process	XLOC_059513
+GO:0044283	0.0397612308884505	0.999370629624183	1	48	small molecule biosynthetic process	BP	0.9999999999	BP small molecule biosynthetic process	XLOC_044044
+GO:0016021	0.0410033377156821	0.997095178202738	2	505	integral component of membrane	CC	0.9999999999	CC integral component of membrane	XLOC_044044, XLOC_059513
+GO:0006520	0.0420059341325352	0.999294156712499	1	59	cellular amino acid metabolic process	BP	0.9999999999	BP cellular amino acid metabolic process	XLOC_044044
+GO:0031224	0.0426160951108514	0.996915228207379	2	510	intrinsic component of membrane	CC	0.9999999999	CC intrinsic component of membrane	XLOC_044044, XLOC_059513
+GO:0009986	0.0435104167597285	0.999242433619361	1	58	cell surface	CC	0.9999999999	CC cell surface	XLOC_044044
+GO:0030246	0.0481697434345324	0.999067736970043	1	66	carbohydrate binding	MF	0.9999999999	MF carbohydrate binding	XLOC_059513
+GO:0033218	0.0493949512538968	0.99901943147198	1	65	amide binding	MF	0.9999999999	MF amide binding	XLOC_044044
+GO:0005768	0.0495795935430297	0.999009329400583	1	79	endosome	CC	0.9999999999	CC endosome	XLOC_059513

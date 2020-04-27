@@ -1,0 +1,27 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0005744	0.00275051690083179	1	1	1	TIM23 mitochondrial import inner membrane translocase complex	CC	0.9999999999	CC TIM23 mitochondrial import inner membrane translocase complex	XLOC_067899
+GO:0030150	0.00275051690083179	1	1	1	protein import into mitochondrial matrix	BP	0.9999999999	BP protein import into mitochondrial matrix	XLOC_067899
+GO:0030735	0.00452448726801963	0.99999526527731	1	2	carnosine N-methyltransferase activity	MF	0.9999999999	MF carnosine N-methyltransferase activity	XLOC_065496
+GO:0035498	0.00452448726801963	0.99999526527731	1	2	carnosine metabolic process	BP	0.9999999999	BP carnosine metabolic process	XLOC_065496
+GO:0046539	0.00686562906079564	0.999985451235628	1	3	histamine N-methyltransferase activity	MF	0.9999999999	MF histamine N-methyltransferase activity	XLOC_065496
+GO:0000394	0.00904070574927549	0.999971597309221	1	4	RNA splicing, via endonucleolytic cleavage and ligation	BP	0.9999999999	BP RNA splicing, via endonucleolytic cleavage and ligation	XLOC_032604
+GO:0006388	0.00904070574927549	0.999971597309221	1	4	tRNA splicing, via endonucleolytic cleavage and ligation	BP	0.9999999999	BP tRNA splicing, via endonucleolytic cleavage and ligation	XLOC_032604
+GO:0044743	0.0096575356150673	0.999967580338205	1	4	protein transmembrane import into intracellular organelle	BP	0.9999999999	BP protein transmembrane import into intracellular organelle	XLOC_067899
+GO:0072655	0.010073245520617	0.999964722623745	1	4	establishment of protein localization to mitochondrion	BP	0.9999999999	BP establishment of protein localization to mitochondrion	XLOC_067899
+GO:0000993	0.0107211748476733	0.999957370114436	1	5	RNA polymerase II complex binding	MF	0.9999999999	MF RNA polymerase II complex binding	XLOC_032604
+GO:0043175	0.0107211748476733	0.999957370114436	1	5	RNA polymerase core enzyme binding	MF	0.9999999999	MF RNA polymerase core enzyme binding	XLOC_032604
+GO:0072669	0.0112406224411376	0.999953128583268	1	5	tRNA-splicing ligase complex	CC	0.9999999999	CC tRNA-splicing ligase complex	XLOC_032604
+GO:0065002	0.0120210923627017	0.999946375597565	1	5	intracellular protein transmembrane transport	BP	0.9999999999	BP intracellular protein transmembrane transport	XLOC_067899
+GO:0071806	0.0120210923627017	0.999946375597565	1	5	protein transmembrane transport	BP	0.9999999999	BP protein transmembrane transport	XLOC_067899
+GO:0070585	0.0128603103210478	0.999938604589613	1	5	protein localization to mitochondrion	BP	0.9999999999	BP protein localization to mitochondrion	XLOC_067899
+GO:1990542	0.0142269882750583	0.999921698243402	1	6	mitochondrial transmembrane transport	BP	0.9999999999	BP mitochondrial transmembrane transport	XLOC_067899
+GO:0070063	0.0145695903050593	0.999915533748272	1	7	RNA polymerase binding	MF	0.9999999999	MF RNA polymerase binding	XLOC_032604
+GO:0006839	0.0161254298280813	0.999896463997882	1	7	mitochondrial transport	BP	0.9999999999	BP mitochondrial transport	XLOC_067899
+GO:0001098	0.017187111519865	0.999879891807651	1	8	basal transcription machinery binding	MF	0.9999999999	MF basal transcription machinery binding	XLOC_032604
+GO:0001099	0.017187111519865	0.999879891807651	1	8	basal RNA polymerase II transcription machinery binding	MF	0.9999999999	MF basal RNA polymerase II transcription machinery binding	XLOC_032604
+GO:0006469	0.0295370688153544	0.999624067861602	1	13	negative regulation of protein kinase activity	BP	0.9999999999	BP negative regulation of protein kinase activity	XLOC_032604
+GO:0033673	0.0295370688153544	0.999624067861602	1	13	negative regulation of kinase activity	BP	0.9999999999	BP negative regulation of kinase activity	XLOC_032604
+GO:0072686	0.0350569017146475	0.999461081453044	1	16	mitotic spindle	CC	0.9999999999	CC mitotic spindle	XLOC_032604
+GO:0008170	0.037181148789883	0.999390939101743	1	17	N-methyltransferase activity	MF	0.9999999999	MF N-methyltransferase activity	XLOC_065496
+GO:0051348	0.0405709258687691	0.999271374580541	1	18	negative regulation of transferase activity	BP	0.9999999999	BP negative regulation of transferase activity	XLOC_032604
+GO:0008033	0.0406616838223173	0.999268085137377	1	18	tRNA processing	BP	0.9999999999	BP tRNA processing	XLOC_032604

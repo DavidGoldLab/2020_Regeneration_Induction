@@ -1,0 +1,5 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0003755	0.00242618108511466	0.999998690284439	1	3	peptidyl-prolyl cis-trans isomerase activity	MF	0.9999999999	MF peptidyl-prolyl cis-trans isomerase activity	XLOC_040624
+GO:0016859	0.00345356316649633	0.999996681597243	1	6	cis-trans isomerase activity	MF	0.9999999999	MF cis-trans isomerase activity	XLOC_040624
+GO:0016853	0.00974644983628452	0.99996996283212	1	18	isomerase activity	MF	0.9999999999	MF isomerase activity	XLOC_040624
+GO:0005789	0.0467414386617716	0.999263686409873	1	99	endoplasmic reticulum membrane	CC	0.9999999999	CC endoplasmic reticulum membrane	XLOC_040624

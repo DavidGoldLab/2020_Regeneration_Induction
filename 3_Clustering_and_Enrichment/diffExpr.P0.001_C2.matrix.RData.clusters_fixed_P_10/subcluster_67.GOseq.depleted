@@ -1,0 +1,2 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	under_represented_FDR	go_term
+GO:0005488	1	0.0358906832074666	0	1638	binding	MF	0.9999999999	0.999050890044105	MF binding

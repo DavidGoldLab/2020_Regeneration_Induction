@@ -1,0 +1,4 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	under_represented_FDR	go_term
+GO:0005634	0.995362861837015	0.0307699159045471	1	532	nucleus	CC	0.9999999999	0.9999999999	CC nucleus
+GO:0090304	1	0.031119028757185	0	367	nucleic acid metabolic process	BP	0.9999999999	0.9999999999	BP nucleic acid metabolic process
+GO:0034641	0.994822964873529	0.0337296089247605	1	520	cellular nitrogen compound metabolic process	BP	0.9999999999	0.9999999999	BP cellular nitrogen compound metabolic process

@@ -1,0 +1,150 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0016879	0.00049286566630824	0.999995707053694	2	12	ligase activity, forming carbon-nitrogen bonds	MF	0.9999999999	MF ligase activity, forming carbon-nitrogen bonds	XLOC_036748, XLOC_069664
+GO:0016874	0.00144435997764809	0.999931010636	3	45	ligase activity	MF	0.9999999999	MF ligase activity	XLOC_029673, XLOC_036748, XLOC_069664
+GO:0003723	0.00232811529702917	0.999695811445392	5	251	RNA binding	MF	0.9999999999	MF RNA binding	XLOC_025736, XLOC_029292, XLOC_029673, XLOC_031863, XLOC_045875
+GO:1901363	0.00284374173003602	0.999333967767556	9	796	heterocyclic compound binding	MF	0.9999999999	MF heterocyclic compound binding	XLOC_025736, XLOC_029292, XLOC_029673, XLOC_031863, XLOC_036748, XLOC_045875, XLOC_068375, XLOC_069664, XLOC_071113
+GO:1990226	0.00319159827385286	1	1	1	histone methyltransferase binding	MF	0.9999999999	MF histone methyltransferase binding	XLOC_029292
+GO:0097159	0.00320004389068186	0.999236512822306	9	804	organic cyclic compound binding	MF	0.9999999999	MF organic cyclic compound binding	XLOC_025736, XLOC_029292, XLOC_029673, XLOC_031863, XLOC_036748, XLOC_045875, XLOC_068375, XLOC_069664, XLOC_071113
+GO:0004822	0.00416886710075109	1	1	1	isoleucine-tRNA ligase activity	MF	0.9999999999	MF isoleucine-tRNA ligase activity	XLOC_029673
+GO:0006428	0.00416886710075109	1	1	1	isoleucyl-tRNA aminoacylation	BP	0.9999999999	BP isoleucyl-tRNA aminoacylation	XLOC_029673
+GO:0070761	0.00430056595883286	0.999995526610213	1	2	pre-snoRNP complex	CC	0.9999999999	CC pre-snoRNP complex	XLOC_029292
+GO:0003676	0.00623054881310418	0.998769795985099	6	453	nucleic acid binding	MF	0.9999999999	MF nucleic acid binding	XLOC_025736, XLOC_029292, XLOC_029673, XLOC_031863, XLOC_045875, XLOC_068375
+GO:0051020	0.00700165862177006	0.999740891605182	2	36	GTPase binding	MF	0.9999999999	MF GTPase binding	XLOC_029673, XLOC_050113
+GO:0008252	0.00715245978373675	1	1	1	nucleotidase activity	MF	0.9999999999	MF nucleotidase activity	XLOC_051786
+GO:0008253	0.00715245978373675	1	1	1	5'-nucleotidase activity	MF	0.9999999999	MF 5'-nucleotidase activity	XLOC_051786
+GO:0004019	0.00850202572860833	1	1	1	adenylosuccinate synthase activity	MF	0.9999999999	MF adenylosuccinate synthase activity	XLOC_069664
+GO:0044208	0.00850202572860833	1	1	1	'de novo' AMP biosynthetic process	BP	0.9999999999	BP 'de novo' AMP biosynthetic process	XLOC_069664
+GO:0006167	0.00935200798256274	0.999978790231067	1	2	AMP biosynthetic process	BP	0.9999999999	BP AMP biosynthetic process	XLOC_069664
+GO:0017128	0.00961796013237637	1	1	1	phospholipid scramblase activity	MF	0.9999999999	MF phospholipid scramblase activity	XLOC_071849
+GO:0061588	0.00961796013237637	1	1	1	calcium activated phospholipid scrambling	BP	0.9999999999	BP calcium activated phospholipid scrambling	XLOC_071849
+GO:0061589	0.00961796013237637	1	1	1	calcium activated phosphatidylserine scrambling	BP	0.9999999999	BP calcium activated phosphatidylserine scrambling	XLOC_071849
+GO:0061590	0.00961796013237637	1	1	1	calcium activated phosphatidylcholine scrambling	BP	0.9999999999	BP calcium activated phosphatidylcholine scrambling	XLOC_071849
+GO:0061591	0.00961796013237637	1	1	1	calcium activated galactosylceramide scrambling	BP	0.9999999999	BP calcium activated galactosylceramide scrambling	XLOC_071849
+GO:0005869	0.0100894874572186	1	1	1	dynactin complex	CC	0.9999999999	CC dynactin complex	XLOC_004460
+GO:0050747	0.0103628211934878	1	1	1	positive regulation of lipoprotein metabolic process	BP	0.9999999999	BP positive regulation of lipoprotein metabolic process	XLOC_050113
+GO:0097051	0.0103628211934878	1	1	1	establishment of protein localization to endoplasmic reticulum membrane	BP	0.9999999999	BP establishment of protein localization to endoplasmic reticulum membrane	XLOC_050113
+GO:1903059	0.0103628211934878	1	1	1	regulation of protein lipidation	BP	0.9999999999	BP regulation of protein lipidation	XLOC_050113
+GO:1903061	0.0103628211934878	1	1	1	positive regulation of protein lipidation	BP	0.9999999999	BP positive regulation of protein lipidation	XLOC_050113
+GO:1903371	0.0103628211934878	1	1	1	regulation of endoplasmic reticulum tubular network organization	BP	0.9999999999	BP regulation of endoplasmic reticulum tubular network organization	XLOC_050113
+GO:1903373	0.0103628211934878	1	1	1	positive regulation of endoplasmic reticulum tubular network organization	BP	0.9999999999	BP positive regulation of endoplasmic reticulum tubular network organization	XLOC_050113
+GO:2000786	0.0103628211934878	1	1	1	positive regulation of autophagosome assembly	BP	0.9999999999	BP positive regulation of autophagosome assembly	XLOC_050113
+GO:0090407	0.0112006705959472	0.999471536911731	2	35	organophosphate biosynthetic process	BP	0.9999999999	BP organophosphate biosynthetic process	XLOC_036748, XLOC_069664
+GO:0017112	0.0120216337114206	0.99995323782347	1	3	Rab guanyl-nucleotide exchange factor activity	MF	0.9999999999	MF Rab guanyl-nucleotide exchange factor activity	XLOC_050113
+GO:0000050	0.012495082063852	0.999962075804637	1	2	urea cycle	BP	0.9999999999	BP urea cycle	XLOC_036748
+GO:0004087	0.012495082063852	0.999962075804637	1	2	carbamoyl-phosphate synthase (ammonia) activity	MF	0.9999999999	MF carbamoyl-phosphate synthase (ammonia) activity	XLOC_036748
+GO:0004088	0.012495082063852	0.999962075804637	1	2	carbamoyl-phosphate synthase (glutamine-hydrolyzing) activity	MF	0.9999999999	MF carbamoyl-phosphate synthase (glutamine-hydrolyzing) activity	XLOC_036748
+GO:0006526	0.012495082063852	0.999962075804637	1	2	arginine biosynthetic process	BP	0.9999999999	BP arginine biosynthetic process	XLOC_036748
+GO:0007494	0.012495082063852	0.999962075804637	1	2	midgut development	BP	0.9999999999	BP midgut development	XLOC_036748
+GO:0008716	0.012495082063852	0.999962075804637	1	2	D-alanine-D-alanine ligase activity	MF	0.9999999999	MF D-alanine-D-alanine ligase activity	XLOC_036748
+GO:0019433	0.012495082063852	0.999962075804637	1	2	triglyceride catabolic process	BP	0.9999999999	BP triglyceride catabolic process	XLOC_036748
+GO:0019627	0.012495082063852	0.999962075804637	1	2	urea metabolic process	BP	0.9999999999	BP urea metabolic process	XLOC_036748
+GO:0032094	0.012495082063852	0.999962075804637	1	2	response to food	BP	0.9999999999	BP response to food	XLOC_036748
+GO:0033762	0.012495082063852	0.999962075804637	1	2	response to glucagon	BP	0.9999999999	BP response to glucagon	XLOC_036748
+GO:0034201	0.012495082063852	0.999962075804637	1	2	response to oleic acid	BP	0.9999999999	BP response to oleic acid	XLOC_036748
+GO:0060416	0.012495082063852	0.999962075804637	1	2	response to growth hormone	BP	0.9999999999	BP response to growth hormone	XLOC_036748
+GO:0070408	0.012495082063852	0.999962075804637	1	2	carbamoyl phosphate metabolic process	BP	0.9999999999	BP carbamoyl phosphate metabolic process	XLOC_036748
+GO:0070409	0.012495082063852	0.999962075804637	1	2	carbamoyl phosphate biosynthetic process	BP	0.9999999999	BP carbamoyl phosphate biosynthetic process	XLOC_036748
+GO:0071377	0.012495082063852	0.999962075804637	1	2	cellular response to glucagon stimulus	BP	0.9999999999	BP cellular response to glucagon stimulus	XLOC_036748
+GO:0071400	0.012495082063852	0.999962075804637	1	2	cellular response to oleic acid	BP	0.9999999999	BP cellular response to oleic acid	XLOC_036748
+GO:1903717	0.012495082063852	0.999962075804637	1	2	response to ammonia	BP	0.9999999999	BP response to ammonia	XLOC_036748
+GO:1903718	0.012495082063852	0.999962075804637	1	2	cellular response to ammonia	BP	0.9999999999	BP cellular response to ammonia	XLOC_036748
+GO:0031428	0.0125421424467894	0.999949088479275	1	3	box C/D snoRNP complex	CC	0.9999999999	CC box C/D snoRNP complex	XLOC_029292
+GO:0016884	0.0133228931408685	0.999942531866907	1	3	carbon-nitrogen ligase activity, with glutamine as amido-N-donor	MF	0.9999999999	MF carbon-nitrogen ligase activity, with glutamine as amido-N-donor	XLOC_036748
+GO:0071941	0.0138184894720004	0.999938162617877	1	3	nitrogen cycle metabolic process	BP	0.9999999999	BP nitrogen cycle metabolic process	XLOC_036748
+GO:0070365	0.0146189275557481	0.999922144135263	1	4	hepatocyte differentiation	BP	0.9999999999	BP hepatocyte differentiation	XLOC_036748
+GO:0046209	0.0147083673873404	0.999929912841786	1	3	nitric oxide metabolic process	BP	0.9999999999	BP nitric oxide metabolic process	XLOC_036748
+GO:2001057	0.0160289119855496	0.999906344070733	1	4	reactive nitrogen species metabolic process	BP	0.9999999999	BP reactive nitrogen species metabolic process	XLOC_036748
+GO:0017121	0.0161553812371832	0.99990485508937	1	4	phospholipid scrambling	BP	0.9999999999	BP phospholipid scrambling	XLOC_071849
+GO:0097035	0.0161553812371832	0.99990485508937	1	4	regulation of membrane lipid distribution	BP	0.9999999999	BP regulation of membrane lipid distribution	XLOC_071849
+GO:0016881	0.0172363209502282	0.999879666707931	1	6	acid-amino acid ligase activity	MF	0.9999999999	MF acid-amino acid ligase activity	XLOC_036748
+GO:0046033	0.0174919929454682	0.99988839516832	1	4	AMP metabolic process	BP	0.9999999999	BP AMP metabolic process	XLOC_069664
+GO:0031406	0.0176303499166362	0.998926733610947	2	57	carboxylic acid binding	MF	0.9999999999	MF carboxylic acid binding	XLOC_036748, XLOC_071113
+GO:0043177	0.0176303499166362	0.998926733610947	2	57	organic acid binding	MF	0.9999999999	MF organic acid binding	XLOC_036748, XLOC_071113
+GO:0005732	0.0178219357139701	0.99986766326945	1	7	small nucleolar ribonucleoprotein complex	CC	0.9999999999	CC small nucleolar ribonucleoprotein complex	XLOC_029292
+GO:0030515	0.0178915180159783	0.999866624182001	1	7	snoRNA binding	MF	0.9999999999	MF snoRNA binding	XLOC_029292
+GO:0046461	0.0189183487104492	0.999869370457385	1	4	neutral lipid catabolic process	BP	0.9999999999	BP neutral lipid catabolic process	XLOC_036748
+GO:0046464	0.0189183487104492	0.999869370457385	1	4	acylglycerol catabolic process	BP	0.9999999999	BP acylglycerol catabolic process	XLOC_036748
+GO:0071548	0.0197728772800028	0.999836977041712	1	7	response to dexamethasone	BP	0.9999999999	BP response to dexamethasone	XLOC_036748
+GO:0005229	0.0198809159006507	0.999846110503901	1	5	intracellular calcium activated chloride channel activity	MF	0.9999999999	MF intracellular calcium activated chloride channel activity	XLOC_071849
+GO:0061778	0.0198809159006507	0.999846110503901	1	5	intracellular chloride channel activity	MF	0.9999999999	MF intracellular chloride channel activity	XLOC_071849
+GO:0006541	0.0200496313477584	0.99984347643168	1	5	glutamine metabolic process	BP	0.9999999999	BP glutamine metabolic process	XLOC_036748
+GO:0050746	0.020434783864534	0.999898144545591	1	2	regulation of lipoprotein metabolic process	BP	0.9999999999	BP regulation of lipoprotein metabolic process	XLOC_050113
+GO:0000380	0.0206852615606906	0.999843709524428	1	4	alternative mRNA splicing, via spliceosome	BP	0.9999999999	BP alternative mRNA splicing, via spliceosome	XLOC_025736
+GO:0006139	0.0207387426657817	0.995363960822277	5	420	nucleobase-containing compound metabolic process	BP	0.9999999999	BP nucleobase-containing compound metabolic process	XLOC_025736, XLOC_029292, XLOC_029673, XLOC_036748, XLOC_069664
+GO:2000785	0.0207706925006704	0.99985983555624	1	3	regulation of autophagosome assembly	BP	0.9999999999	BP regulation of autophagosome assembly	XLOC_050113
+GO:0050667	0.0209294181900278	0.999839981134182	1	4	homocysteine metabolic process	BP	0.9999999999	BP homocysteine metabolic process	XLOC_036748
+GO:1902117	0.0210712563213442	0.999803616961303	1	11	positive regulation of organelle assembly	BP	0.9999999999	BP positive regulation of organelle assembly	XLOC_050113
+GO:0071398	0.0216771415384372	0.999828287051696	1	4	cellular response to fatty acid	BP	0.9999999999	BP cellular response to fatty acid	XLOC_036748
+GO:0032991	0.0222353949913075	0.993567071646744	7	658	protein-containing complex	CC	0.9999999999	CC protein-containing complex	XLOC_004460, XLOC_025736, XLOC_029292, XLOC_029673, XLOC_031863, XLOC_036748, XLOC_050113
+GO:0042645	0.0227487087104507	0.999798268841529	1	5	mitochondrial nucleoid	CC	0.9999999999	CC mitochondrial nucleoid	XLOC_036748
+GO:0009084	0.0230240231762562	0.999806171478948	1	4	glutamine family amino acid biosynthetic process	BP	0.9999999999	BP glutamine family amino acid biosynthetic process	XLOC_036748
+GO:0044344	0.0243667659455551	0.999768393371087	1	5	cellular response to fibroblast growth factor stimulus	BP	0.9999999999	BP cellular response to fibroblast growth factor stimulus	XLOC_036748
+GO:0071774	0.0243667659455551	0.999768393371087	1	5	response to fibroblast growth factor	BP	0.9999999999	BP response to fibroblast growth factor	XLOC_036748
+GO:0009295	0.0243870761932181	0.999751554780502	1	7	nucleoid	CC	0.9999999999	CC nucleoid	XLOC_036748
+GO:0055081	0.024462296064629	0.99978106076842	1	4	anion homeostasis	BP	0.9999999999	BP anion homeostasis	XLOC_036748
+GO:0005488	0.024713125360833	0.990754834745117	12	1638	binding	MF	0.9999999999	MF binding	XLOC_025736, XLOC_029292, XLOC_029673, XLOC_031863, XLOC_036748, XLOC_045875, XLOC_050113, XLOC_051786, XLOC_068375, XLOC_069664, XLOC_071113, XLOC_071849
+GO:0070542	0.024916452694278	0.999747750005183	1	6	response to fatty acid	BP	0.9999999999	BP response to fatty acid	XLOC_036748
+GO:0006525	0.0252232705689905	0.999741466927808	1	6	arginine metabolic process	BP	0.9999999999	BP arginine metabolic process	XLOC_036748
+GO:0016595	0.0252940033925989	0.999740007370276	1	6	glutamate binding	MF	0.9999999999	MF glutamate binding	XLOC_036748
+GO:0006520	0.0255625989969681	0.998102785381493	2	59	cellular amino acid metabolic process	BP	0.9999999999	BP cellular amino acid metabolic process	XLOC_029673, XLOC_036748
+GO:0051384	0.0262052096284262	0.999695665548806	1	11	response to glucocorticoid	BP	0.9999999999	BP response to glucocorticoid	XLOC_036748
+GO:0009127	0.0262378269984848	0.999706253133736	1	8	purine nucleoside monophosphate biosynthetic process	BP	0.9999999999	BP purine nucleoside monophosphate biosynthetic process	XLOC_069664
+GO:0009168	0.0262378269984848	0.999706253133736	1	8	purine ribonucleoside monophosphate biosynthetic process	BP	0.9999999999	BP purine ribonucleoside monophosphate biosynthetic process	XLOC_069664
+GO:0030529	0.0265870703176287	0.996228894125843	3	150	NA	NA	0.9999999999	none	XLOC_025736, XLOC_029292, XLOC_031863
+GO:0042311	0.028455103011276	0.999670535094309	1	6	vasodilation	BP	0.9999999999	BP vasodilation	XLOC_036748
+GO:0097755	0.028455103011276	0.999670535094309	1	6	positive regulation of blood vessel diameter	BP	0.9999999999	BP positive regulation of blood vessel diameter	XLOC_036748
+GO:0055086	0.0287732863415747	0.997724792834618	2	59	nucleobase-containing small molecule metabolic process	BP	0.9999999999	BP nucleobase-containing small molecule metabolic process	XLOC_036748, XLOC_069664
+GO:0002161	0.0289643011157472	0.999672113572219	1	5	aminoacyl-tRNA editing activity	MF	0.9999999999	MF aminoacyl-tRNA editing activity	XLOC_029673
+GO:0001650	0.028965605784328	0.999624705954376	1	12	fibrillar center	CC	0.9999999999	CC fibrillar center	XLOC_029292
+GO:0046483	0.0289930868587607	0.992920202863934	5	457	heterocycle metabolic process	BP	0.9999999999	BP heterocycle metabolic process	XLOC_025736, XLOC_029292, XLOC_029673, XLOC_036748, XLOC_069664
+GO:0046503	0.0291533699138353	0.999667792410063	1	5	glycerolipid catabolic process	BP	0.9999999999	BP glycerolipid catabolic process	XLOC_036748
+GO:0006164	0.0296171500816647	0.999607535060619	1	12	purine nucleotide biosynthetic process	BP	0.9999999999	BP purine nucleotide biosynthetic process	XLOC_069664
+GO:0009152	0.0296171500816647	0.999607535060619	1	12	purine ribonucleotide biosynthetic process	BP	0.9999999999	BP purine ribonucleotide biosynthetic process	XLOC_069664
+GO:1990904	0.0302984463380569	0.995478090906704	3	158	ribonucleoprotein complex	CC	0.9999999999	CC ribonucleoprotein complex	XLOC_025736, XLOC_029292, XLOC_031863
+GO:0006207	0.0303705751078815	0.999661652212704	1	4	'de novo' pyrimidine nucleobase biosynthetic process	BP	0.9999999999	BP 'de novo' pyrimidine nucleobase biosynthetic process	XLOC_036748
+GO:0019856	0.0303705751078815	0.999661652212704	1	4	pyrimidine nucleobase biosynthetic process	BP	0.9999999999	BP pyrimidine nucleobase biosynthetic process	XLOC_036748
+GO:0072522	0.0304802724915289	0.999581310735125	1	13	purine-containing compound biosynthetic process	BP	0.9999999999	BP purine-containing compound biosynthetic process	XLOC_069664
+GO:0006725	0.0317270402587914	0.992063714490554	5	462	cellular aromatic compound metabolic process	BP	0.9999999999	BP cellular aromatic compound metabolic process	XLOC_025736, XLOC_029292, XLOC_029673, XLOC_036748, XLOC_069664
+GO:0006206	0.0322949322399029	0.999574946965188	1	6	pyrimidine nucleobase metabolic process	BP	0.9999999999	BP pyrimidine nucleobase metabolic process	XLOC_036748
+GO:0017137	0.032591081495487	0.999520929218571	1	13	Rab GTPase binding	MF	0.9999999999	MF Rab GTPase binding	XLOC_050113
+GO:0016239	0.0329507806072245	0.999535480717239	1	8	positive regulation of macroautophagy	BP	0.9999999999	BP positive regulation of macroautophagy	XLOC_050113
+GO:0010043	0.0333502624131453	0.999498205448753	1	13	response to zinc ion	BP	0.9999999999	BP response to zinc ion	XLOC_036748
+GO:0072528	0.0334013703621681	0.999532249337497	1	7	pyrimidine-containing compound biosynthetic process	BP	0.9999999999	BP pyrimidine-containing compound biosynthetic process	XLOC_036748
+GO:0048565	0.0335624152806245	0.999527697244819	1	7	digestive tract development	BP	0.9999999999	BP digestive tract development	XLOC_036748
+GO:0005548	0.035546305406689	0.999535443516794	1	4	phospholipid transporter activity	MF	0.9999999999	MF phospholipid transporter activity	XLOC_071849
+GO:0018130	0.0358352469866505	0.996792170343765	2	77	heterocycle biosynthetic process	BP	0.9999999999	BP heterocycle biosynthetic process	XLOC_036748, XLOC_069664
+GO:0046112	0.0361449472103071	0.99946671569558	1	6	nucleobase biosynthetic process	BP	0.9999999999	BP nucleobase biosynthetic process	XLOC_036748
+GO:0044090	0.0365734536987385	0.999426900838789	1	8	positive regulation of vacuole organization	BP	0.9999999999	BP positive regulation of vacuole organization	XLOC_050113
+GO:0005874	0.0366184301529824	0.99668113879432	2	80	microtubule	CC	0.9999999999	CC microtubule	XLOC_004460, XLOC_045875
+GO:0000096	0.0366858781585661	0.999396210043584	1	12	sulfur amino acid metabolic process	BP	0.9999999999	BP sulfur amino acid metabolic process	XLOC_036748
+GO:0007052	0.0368600245597669	0.999395402083357	1	11	mitotic spindle organization	BP	0.9999999999	BP mitotic spindle organization	XLOC_004460
+GO:0000381	0.0375026477442836	0.999387730654289	1	9	regulation of alternative mRNA splicing, via spliceosome	BP	0.9999999999	BP regulation of alternative mRNA splicing, via spliceosome	XLOC_025736
+GO:0009124	0.0378329133474402	0.999369121550043	1	10	nucleoside monophosphate biosynthetic process	BP	0.9999999999	BP nucleoside monophosphate biosynthetic process	XLOC_069664
+GO:0009156	0.0378329133474402	0.999369121550043	1	10	ribonucleoside monophosphate biosynthetic process	BP	0.9999999999	BP ribonucleoside monophosphate biosynthetic process	XLOC_069664
+GO:0009636	0.0382900329246255	0.999384092427921	1	7	response to toxic substance	BP	0.9999999999	BP response to toxic substance	XLOC_036748
+GO:0009064	0.0384546498918676	0.999327620379658	1	14	glutamine family amino acid metabolic process	BP	0.9999999999	BP glutamine family amino acid metabolic process	XLOC_036748
+GO:0014075	0.0385928609908968	0.999391421238041	1	6	response to amine	BP	0.9999999999	BP response to amine	XLOC_036748
+GO:0017101	0.0388271918927849	0.999343375589096	1	9	aminoacyl-tRNA synthetase multienzyme complex	CC	0.9999999999	CC aminoacyl-tRNA synthetase multienzyme complex	XLOC_029673
+GO:0031369	0.0389943549376207	0.999347890985904	1	8	translation initiation factor binding	MF	0.9999999999	MF translation initiation factor binding	XLOC_031863
+GO:1901360	0.0390894191672242	0.989652551921763	5	486	organic cyclic compound metabolic process	BP	0.9999999999	BP organic cyclic compound metabolic process	XLOC_025736, XLOC_029292, XLOC_029673, XLOC_036748, XLOC_069664
+GO:0010508	0.039640566955526	0.999315357411493	1	9	positive regulation of autophagy	BP	0.9999999999	BP positive regulation of autophagy	XLOC_050113
+GO:0031960	0.0410606518960262	0.999219702610675	1	18	response to corticosteroid	BP	0.9999999999	BP response to corticosteroid	XLOC_036748
+GO:0009260	0.0411733934510856	0.999228388508016	1	14	ribonucleotide biosynthetic process	BP	0.9999999999	BP ribonucleotide biosynthetic process	XLOC_069664
+GO:0046390	0.0411733934510856	0.999228388508016	1	14	ribose phosphate biosynthetic process	BP	0.9999999999	BP ribose phosphate biosynthetic process	XLOC_069664
+GO:0072599	0.0415419441724779	0.999247540034787	1	9	establishment of protein localization to endoplasmic reticulum	BP	0.9999999999	BP establishment of protein localization to endoplasmic reticulum	XLOC_050113
+GO:0006821	0.0415479838111354	0.999238034441465	1	10	chloride transport	BP	0.9999999999	BP chloride transport	XLOC_071849
+GO:0072527	0.0420961649024169	0.999217627642431	1	10	pyrimidine-containing compound metabolic process	BP	0.9999999999	BP pyrimidine-containing compound metabolic process	XLOC_036748
+GO:0019899	0.0435727242959814	0.992495534092035	3	178	enzyme binding	MF	0.9999999999	MF enzyme binding	XLOC_029292, XLOC_029673, XLOC_050113
+GO:0006641	0.0436221351837425	0.999198880300363	1	7	triglyceride metabolic process	BP	0.9999999999	BP triglyceride metabolic process	XLOC_036748
+GO:0070972	0.0442078896088675	0.999136451770573	1	10	protein localization to endoplasmic reticulum	BP	0.9999999999	BP protein localization to endoplasmic reticulum	XLOC_050113
+GO:0000049	0.0446266398249499	0.999143982811904	1	8	tRNA binding	MF	0.9999999999	MF tRNA binding	XLOC_029673
+GO:0001649	0.0454035798288128	0.999051277454146	1	16	osteoblast differentiation	BP	0.9999999999	BP osteoblast differentiation	XLOC_029673
+GO:0003674	0.0454460333638344	0.98087737903184	13	1959	molecular_function	MF	0.9999999999	MF molecular_function	XLOC_004460, XLOC_025736, XLOC_029292, XLOC_029673, XLOC_031863, XLOC_036748, XLOC_045875, XLOC_050113, XLOC_051786, XLOC_068375, XLOC_069664, XLOC_071113, XLOC_071849
+GO:0071320	0.0455193653577072	0.999095133245198	1	9	cellular response to cAMP	BP	0.9999999999	BP cellular response to cAMP	XLOC_036748
+GO:0099513	0.0473280908663327	0.995055107060156	2	92	polymeric cytoskeletal fiber	CC	0.9999999999	CC polymeric cytoskeletal fiber	XLOC_004460, XLOC_045875
+GO:0044088	0.0475151298973792	0.998991183112883	1	11	regulation of vacuole organization	BP	0.9999999999	BP regulation of vacuole organization	XLOC_050113
+GO:0016070	0.0482193304081104	0.991344537003573	3	202	RNA metabolic process	BP	0.9999999999	BP RNA metabolic process	XLOC_025736, XLOC_029292, XLOC_029673
+GO:1902850	0.0484692595330893	0.998927725190449	1	14	microtubule cytoskeleton organization involved in mitosis	BP	0.9999999999	BP microtubule cytoskeleton organization involved in mitosis	XLOC_004460
+GO:1901362	0.0493633540747488	0.994722680306662	2	91	organic cyclic compound biosynthetic process	BP	0.9999999999	BP organic cyclic compound biosynthetic process	XLOC_036748, XLOC_069664
+GO:0006638	0.0498497969513912	0.99891291304334	1	9	neutral lipid metabolic process	BP	0.9999999999	BP neutral lipid metabolic process	XLOC_036748
+GO:0006639	0.0498497969513912	0.99891291304334	1	9	acylglycerol metabolic process	BP	0.9999999999	BP acylglycerol metabolic process	XLOC_036748

@@ -1,0 +1,39 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0008843	0.000955054308433043	1	1	1	endochitinase activity	MF	0.9999999999	MF endochitinase activity	XLOC_003530
+GO:0004568	0.00238868831973233	0.999998413380002	1	3	chitinase activity	MF	0.9999999999	MF chitinase activity	XLOC_003530
+GO:0044245	0.00364654105988966	0.999996300014024	1	3	polysaccharide digestion	BP	0.9999999999	BP polysaccharide digestion	XLOC_003530
+GO:0006032	0.00415429957286963	0.999994237171871	1	5	chitin catabolic process	BP	0.9999999999	BP chitin catabolic process	XLOC_003530
+GO:1901072	0.00415429957286963	0.999994237171871	1	5	glucosamine-containing compound catabolic process	BP	0.9999999999	BP glucosamine-containing compound catabolic process	XLOC_003530
+GO:0046348	0.00488712925042487	0.999991690059728	1	6	amino sugar catabolic process	BP	0.9999999999	BP amino sugar catabolic process	XLOC_003530
+GO:1904724	0.00584377945181929	0.99998811314049	1	6	tertiary granule lumen	CC	0.9999999999	CC tertiary granule lumen	XLOC_003530
+GO:0008061	0.00601804648586815	0.99998703312742	1	7	chitin binding	MF	0.9999999999	MF chitin binding	XLOC_003530
+GO:0006030	0.00632477863541922	0.999985675670593	1	7	chitin metabolic process	BP	0.9999999999	BP chitin metabolic process	XLOC_003530
+GO:1901071	0.00632477863541922	0.999985675670593	1	7	glucosamine-containing compound metabolic process	BP	0.9999999999	BP glucosamine-containing compound metabolic process	XLOC_003530
+GO:0006040	0.0077905059945135	0.999977449733343	1	9	amino sugar metabolic process	BP	0.9999999999	BP amino sugar metabolic process	XLOC_003530
+GO:0035580	0.00922829559741926	0.999968338257	1	9	specific granule lumen	CC	0.9999999999	CC specific granule lumen	XLOC_003530
+GO:0006026	0.00977233685261143	0.999964486663458	1	9	aminoglycan catabolic process	BP	0.9999999999	BP aminoglycan catabolic process	XLOC_003530
+GO:0000272	0.0125655732700954	0.999938961327613	1	13	polysaccharide catabolic process	BP	0.9999999999	BP polysaccharide catabolic process	XLOC_003530
+GO:0006022	0.0145601121985026	0.999917491244103	1	14	aminoglycan metabolic process	BP	0.9999999999	BP aminoglycan metabolic process	XLOC_003530
+GO:0007586	0.0171061215132962	0.999884452994278	1	17	digestion	BP	0.9999999999	BP digestion	XLOC_003530
+GO:0005976	0.0172937990428806	0.999881122410209	1	19	polysaccharide metabolic process	BP	0.9999999999	BP polysaccharide metabolic process	XLOC_003530
+GO:0016798	0.0202297056025218	0.999837634086402	1	18	hydrolase activity, acting on glycosyl bonds	MF	0.9999999999	MF hydrolase activity, acting on glycosyl bonds	XLOC_003530
+GO:0016052	0.0228869440385591	0.999789310127487	1	23	carbohydrate catabolic process	BP	0.9999999999	BP carbohydrate catabolic process	XLOC_003530
+GO:0004553	0.025171145085302	0.99974600969373	1	21	hydrolase activity, hydrolyzing O-glycosyl compounds	MF	0.9999999999	MF hydrolase activity, hydrolyzing O-glycosyl compounds	XLOC_003530
+GO:0034774	0.0270341804918925	0.999703166136769	1	28	secretory granule lumen	CC	0.9999999999	CC secretory granule lumen	XLOC_003530
+GO:0043312	0.0285964039322672	0.999666843755311	1	30	neutrophil degranulation	BP	0.9999999999	BP neutrophil degranulation	XLOC_003530
+GO:0031983	0.0290064734011446	0.999657162736372	1	30	vesicle lumen	CC	0.9999999999	CC vesicle lumen	XLOC_003530
+GO:0060205	0.0290064734011446	0.999657162736372	1	30	cytoplasmic vesicle lumen	CC	0.9999999999	CC cytoplasmic vesicle lumen	XLOC_003530
+GO:1901136	0.0290971980929826	0.999654622433696	1	31	carbohydrate derivative catabolic process	BP	0.9999999999	BP carbohydrate derivative catabolic process	XLOC_003530
+GO:0043299	0.0295226865099351	0.999644385651938	1	31	leukocyte degranulation	BP	0.9999999999	BP leukocyte degranulation	XLOC_003530
+GO:0002283	0.0297302985344371	0.999639335803689	1	31	neutrophil activation involved in immune response	BP	0.9999999999	BP neutrophil activation involved in immune response	XLOC_003530
+GO:0036230	0.0297302985344371	0.999639335803689	1	31	granulocyte activation	BP	0.9999999999	BP granulocyte activation	XLOC_003530
+GO:0042119	0.0297302985344371	0.999639335803689	1	31	neutrophil activation	BP	0.9999999999	BP neutrophil activation	XLOC_003530
+GO:0002275	0.0324017799662381	0.999570281552025	1	33	myeloid cell activation involved in immune response	BP	0.9999999999	BP myeloid cell activation involved in immune response	XLOC_003530
+GO:0002274	0.0329169807643932	0.999556011256637	1	34	myeloid leukocyte activation	BP	0.9999999999	BP myeloid leukocyte activation	XLOC_003530
+GO:0002366	0.0345561069418504	0.999509550470426	1	36	leukocyte activation involved in immune response	BP	0.9999999999	BP leukocyte activation involved in immune response	XLOC_003530
+GO:0002263	0.0357059780127144	0.999475721736757	1	37	cell activation involved in immune response	BP	0.9999999999	BP cell activation involved in immune response	XLOC_003530
+GO:0045321	0.0450097748863459	0.999158125019582	1	49	leukocyte activation	BP	0.9999999999	BP leukocyte activation	XLOC_003530
+GO:0009617	0.0452856491236722	0.999146670642292	1	52	response to bacterium	BP	0.9999999999	BP response to bacterium	XLOC_003530
+GO:0006955	0.047276774494053	0.999069574703287	1	51	immune response	BP	0.9999999999	BP immune response	XLOC_003530
+GO:0005764	0.0485036831571781	0.999020947606216	1	49	lysosome	CC	0.9999999999	CC lysosome	XLOC_003530
+GO:0000323	0.0492105056146823	0.998991500378705	1	50	lytic vacuole	CC	0.9999999999	CC lytic vacuole	XLOC_003530

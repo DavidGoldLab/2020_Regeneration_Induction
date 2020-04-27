@@ -1,0 +1,11 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0032299	0.000866864401381415	1	1	1	ribonuclease H2 complex	CC	0.9999999999	CC ribonuclease H2 complex	XLOC_038450
+GO:0090660	0.000998531640572722	1	1	1	cerebrospinal fluid circulation	BP	0.9999999999	BP cerebrospinal fluid circulation	XLOC_041399
+GO:0006401	0.0112844040359864	0.999959193337956	1	23	RNA catabolic process	BP	0.9999999999	BP RNA catabolic process	XLOC_038450
+GO:0034655	0.016112242883875	0.999915401222186	1	34	nucleobase-containing compound catabolic process	BP	0.9999999999	BP nucleobase-containing compound catabolic process	XLOC_038450
+GO:0046700	0.0234657301984684	0.999818293032113	1	49	heterocycle catabolic process	BP	0.9999999999	BP heterocycle catabolic process	XLOC_038450
+GO:0044270	0.0241446381946525	0.999807410856965	1	51	cellular nitrogen compound catabolic process	BP	0.9999999999	BP cellular nitrogen compound catabolic process	XLOC_038450
+GO:0019439	0.024370148772345	0.999803853727072	1	50	aromatic compound catabolic process	BP	0.9999999999	BP aromatic compound catabolic process	XLOC_038450
+GO:1901361	0.0250382753062725	0.999792726656568	1	52	organic cyclic compound catabolic process	BP	0.9999999999	BP organic cyclic compound catabolic process	XLOC_038450
+GO:0044265	0.0443741729745055	0.999337937994698	1	88	cellular macromolecule catabolic process	BP	0.9999999999	BP cellular macromolecule catabolic process	XLOC_038450
+GO:0050877	0.0483203096737208	0.999212446089627	1	100	nervous system process	BP	0.9999999999	BP nervous system process	XLOC_041399

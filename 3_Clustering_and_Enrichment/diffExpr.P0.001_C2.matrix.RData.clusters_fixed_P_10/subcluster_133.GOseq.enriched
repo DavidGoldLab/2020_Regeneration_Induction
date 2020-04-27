@@ -1,0 +1,13 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0098754	0.00183256319936859	0.999999327729806	1	5	detoxification	BP	0.9999999999	BP detoxification	XLOC_060658
+GO:0098869	0.00183256319936859	0.999999327729806	1	5	cellular oxidant detoxification	BP	0.9999999999	BP cellular oxidant detoxification	XLOC_060658
+GO:1990748	0.00183256319936859	0.999999327729806	1	5	cellular detoxification	BP	0.9999999999	BP cellular detoxification	XLOC_060658
+GO:0004364	0.00236495963219809	0.999998800096869	1	7	glutathione transferase activity	MF	0.9999999999	MF glutathione transferase activity	XLOC_060658
+GO:0004602	0.00246394640169291	0.99999869747566	1	7	glutathione peroxidase activity	MF	0.9999999999	MF glutathione peroxidase activity	XLOC_060658
+GO:0016765	0.00308398014019844	0.999997883230127	1	9	transferase activity, transferring alkyl or aryl (other than methyl) groups	MF	0.9999999999	MF transferase activity, transferring alkyl or aryl (other than methyl) groups	XLOC_060658
+GO:0004601	0.00434614856671008	0.999995661868505	1	12	peroxidase activity	MF	0.9999999999	MF peroxidase activity	XLOC_060658
+GO:0016684	0.00434614856671008	0.999995661868505	1	12	oxidoreductase activity, acting on peroxide as acceptor	MF	0.9999999999	MF oxidoreductase activity, acting on peroxide as acceptor	XLOC_060658
+GO:0005903	0.00447340796988378	0.999995371707111	1	13	brush border	CC	0.9999999999	CC brush border	XLOC_060658
+GO:0098862	0.00507217839895307	0.999993981878657	1	15	cluster of actin-based cell projections	CC	0.9999999999	CC cluster of actin-based cell projections	XLOC_060658
+GO:0016209	0.00672882044054403	0.999989240384324	1	19	antioxidant activity	MF	0.9999999999	MF antioxidant activity	XLOC_060658
+GO:0055114	0.0430233991030087	0.999530807044256	1	125	oxidation-reduction process	BP	0.9999999999	BP oxidation-reduction process	XLOC_060658

@@ -1,0 +1,68 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0043000	0.00156846683526312	1	1	1	Golgi to plasma membrane CFTR protein transport	BP	0.9999999999	BP Golgi to plasma membrane CFTR protein transport	XLOC_012090
+GO:0070973	0.00156846683526312	1	1	1	protein localization to endoplasmic reticulum exit site	BP	0.9999999999	BP protein localization to endoplasmic reticulum exit site	XLOC_012090
+GO:0032527	0.00215984105591326	0.999998978501436	1	2	protein exit from endoplasmic reticulum	BP	0.9999999999	BP protein exit from endoplasmic reticulum	XLOC_012090
+GO:0007029	0.00229075389348984	0.999998850833176	1	2	endoplasmic reticulum organization	BP	0.9999999999	BP endoplasmic reticulum organization	XLOC_012090
+GO:0070861	0.00347082114057007	0.999997360147801	1	2	regulation of protein exit from endoplasmic reticulum	BP	0.9999999999	BP regulation of protein exit from endoplasmic reticulum	XLOC_012090
+GO:0070863	0.00347082114057007	0.999997360147801	1	2	positive regulation of protein exit from endoplasmic reticulum	BP	0.9999999999	BP positive regulation of protein exit from endoplasmic reticulum	XLOC_012090
+GO:0003356	0.0038550449649471	0.999996742621918	1	2	regulation of cilium beat frequency	BP	0.9999999999	BP regulation of cilium beat frequency	XLOC_009069
+GO:0048471	0.003962711833305	0.99990512855657	2	71	perinuclear region of cytoplasm	CC	0.9999999999	CC perinuclear region of cytoplasm	XLOC_012090, XLOC_061507
+GO:0012507	0.00415823461987967	0.999994947257245	1	3	ER to Golgi transport vesicle membrane	CC	0.9999999999	CC ER to Golgi transport vesicle membrane	XLOC_012090
+GO:0004096	0.00541566606129914	0.999991423956153	1	3	catalase activity	MF	0.9999999999	MF catalase activity	XLOC_029717
+GO:0003352	0.00552104521601724	0.999991086488632	1	3	regulation of cilium movement	BP	0.9999999999	BP regulation of cilium movement	XLOC_009069
+GO:0070971	0.00552947255256591	0.999991059218825	1	3	endoplasmic reticulum exit site	CC	0.9999999999	CC endoplasmic reticulum exit site	XLOC_012090
+GO:0021591	0.00575903651100161	0.999990300311756	1	3	ventricular system development	BP	0.9999999999	BP ventricular system development	XLOC_009069
+GO:0006901	0.00599430739893948	0.99998817888646	1	4	vesicle coating	BP	0.9999999999	BP vesicle coating	XLOC_012090
+GO:0048208	0.00599430739893948	0.99998817888646	1	4	COPII vesicle coating	BP	0.9999999999	BP COPII vesicle coating	XLOC_012090
+GO:0097546	0.00662850488338586	0.999984578883477	1	5	ciliary base	CC	0.9999999999	CC ciliary base	XLOC_009069
+GO:0060632	0.00788339594617159	0.999978174817569	1	5	regulation of microtubule-based movement	BP	0.9999999999	BP regulation of microtubule-based movement	XLOC_009069
+GO:0032420	0.0117146252272786	0.999948287477404	1	7	stereocilium	CC	0.9999999999	CC stereocilium	XLOC_029717
+GO:0007030	0.0128474763223254	0.999933006414633	1	13	Golgi organization	BP	0.9999999999	BP Golgi organization	XLOC_012090
+GO:0070972	0.0135436731839395	0.999927381112872	1	10	protein localization to endoplasmic reticulum	BP	0.9999999999	BP protein localization to endoplasmic reticulum	XLOC_012090
+GO:0036158	0.0137061230569046	0.9999265375821	1	9	outer dynein arm assembly	BP	0.9999999999	BP outer dynein arm assembly	XLOC_009069
+GO:0006461	0.0138256125394697	0.999359852764717	2	131	NA	NA	0.9999999999	none	XLOC_009069, XLOC_012090
+GO:0043001	0.0141938252503202	0.999918184631946	1	13	Golgi to plasma membrane protein transport	BP	0.9999999999	BP Golgi to plasma membrane protein transport	XLOC_012090
+GO:0090002	0.0141938252503202	0.999918184631946	1	13	NA	NA	0.9999999999	none	XLOC_012090
+GO:0030662	0.0154441067021245	0.99990549686207	1	10	coated vesicle membrane	CC	0.9999999999	CC coated vesicle membrane	XLOC_012090
+GO:0004601	0.0179650305372426	0.999869637297236	1	12	peroxidase activity	MF	0.9999999999	MF peroxidase activity	XLOC_029717
+GO:0016684	0.0179650305372426	0.999869637297236	1	12	oxidoreductase activity, acting on peroxide as acceptor	MF	0.9999999999	MF oxidoreductase activity, acting on peroxide as acceptor	XLOC_029717
+GO:0071822	0.0188985501921713	0.998965584794826	2	154	NA	NA	0.9999999999	none	XLOC_009069, XLOC_012090
+GO:0006893	0.0193692524888156	0.999843810871482	1	18	Golgi to plasma membrane transport	BP	0.9999999999	BP Golgi to plasma membrane transport	XLOC_012090
+GO:0070286	0.0205230973340902	0.999827493881847	1	14	axonemal dynein complex assembly	BP	0.9999999999	BP axonemal dynein complex assembly	XLOC_009069
+GO:0098876	0.0219560191108638	0.999797925911371	1	20	vesicle-mediated transport to the plasma membrane	BP	0.9999999999	BP vesicle-mediated transport to the plasma membrane	XLOC_012090
+GO:0006888	0.0220130825672913	0.999799521411977	1	16	ER to Golgi vesicle-mediated transport	BP	0.9999999999	BP ER to Golgi vesicle-mediated transport	XLOC_012090
+GO:0072659	0.0241693385071123	0.999755587493689	1	19	protein localization to plasma membrane	BP	0.9999999999	BP protein localization to plasma membrane	XLOC_012090
+GO:0007368	0.0250301496924355	0.999737055071183	1	20	determination of left/right symmetry	BP	0.9999999999	BP determination of left/right symmetry	XLOC_009069
+GO:0009799	0.0250301496924355	0.999737055071183	1	20	specification of symmetry	BP	0.9999999999	BP specification of symmetry	XLOC_009069
+GO:0009855	0.0250301496924355	0.999737055071183	1	20	determination of bilateral symmetry	BP	0.9999999999	BP determination of bilateral symmetry	XLOC_009069
+GO:0050821	0.0264873307917198	0.999705376047386	1	20	protein stabilization	BP	0.9999999999	BP protein stabilization	XLOC_012090
+GO:0030658	0.0266439704144107	0.999701122321773	1	21	transport vesicle membrane	CC	0.9999999999	CC transport vesicle membrane	XLOC_012090
+GO:0065003	0.0278823315922094	0.998116233662311	2	193	protein-containing complex assembly	BP	0.9999999999	BP protein-containing complex assembly	XLOC_009069, XLOC_012090
+GO:0016209	0.029760717520373	0.999628586520064	1	19	antioxidant activity	MF	0.9999999999	MF antioxidant activity	XLOC_029717
+GO:0098858	0.0305801515644348	0.99960664465121	1	20	actin-based cell projection	CC	0.9999999999	CC actin-based cell projection	XLOC_029717
+GO:0090316	0.0307363839394031	0.999599892406047	1	23	positive regulation of intracellular protein transport	BP	0.9999999999	BP positive regulation of intracellular protein transport	XLOC_012090
+GO:1990778	0.0329019478068081	0.999538751049408	1	26	protein localization to cell periphery	BP	0.9999999999	BP protein localization to cell periphery	XLOC_012090
+GO:0090150	0.0336938001008479	0.999516129361776	1	26	establishment of protein localization to membrane	BP	0.9999999999	BP establishment of protein localization to membrane	XLOC_012090
+GO:0006892	0.0337029410610592	0.999514498888196	1	28	post-Golgi vesicle-mediated transport	BP	0.9999999999	BP post-Golgi vesicle-mediated transport	XLOC_012090
+GO:0007605	0.0361110411664203	0.999444553698757	1	25	sensory perception of sound	BP	0.9999999999	BP sensory perception of sound	XLOC_029717
+GO:0020037	0.0361564178693569	0.999440693845329	1	28	heme binding	MF	0.9999999999	MF heme binding	XLOC_029717
+GO:0043933	0.0370614014330617	0.997073775381159	2	224	protein-containing complex subunit organization	BP	0.9999999999	BP protein-containing complex subunit organization	XLOC_009069, XLOC_012090
+GO:0003924	0.0372324621356817	0.999402828580401	1	34	GTPase activity	MF	0.9999999999	MF GTPase activity	XLOC_061507
+GO:0005488	0.0383061872330945	0.993451924524944	5	1638	binding	MF	0.9999999999	MF binding	XLOC_004134, XLOC_009069, XLOC_021988, XLOC_029717, XLOC_061507
+GO:0050954	0.0385746834303842	0.999363622723951	1	27	sensory perception of mechanical stimulus	BP	0.9999999999	BP sensory perception of mechanical stimulus	XLOC_029717
+GO:0032388	0.0403057963491593	0.999301343627677	1	31	positive regulation of intracellular transport	BP	0.9999999999	BP positive regulation of intracellular transport	XLOC_012090
+GO:0034976	0.0412338276112057	0.999271102782718	1	28	response to endoplasmic reticulum stress	BP	0.9999999999	BP response to endoplasmic reticulum stress	XLOC_012090
+GO:0032879	0.0433148056388755	0.996270364220765	2	263	regulation of localization	BP	0.9999999999	BP regulation of localization	XLOC_009069, XLOC_012090
+GO:0016050	0.0441734123335745	0.999156384213603	1	35	vesicle organization	BP	0.9999999999	BP vesicle organization	XLOC_012090
+GO:0007507	0.0448260329691257	0.999131786291215	1	34	heart development	BP	0.9999999999	BP heart development	XLOC_009069
+GO:0046906	0.0452100090845178	0.999115961435812	1	35	tetrapyrrole binding	MF	0.9999999999	MF tetrapyrrole binding	XLOC_029717
+GO:0031647	0.0452630126269627	0.999115421683899	1	33	regulation of protein stability	BP	0.9999999999	BP regulation of protein stability	XLOC_012090
+GO:0016043	0.0454215786164035	0.993582481705712	3	648	cellular component organization	BP	0.9999999999	BP cellular component organization	XLOC_009069, XLOC_012090, XLOC_021988
+GO:0003341	0.0460743182646652	0.999084009974064	1	32	cilium movement	BP	0.9999999999	BP cilium movement	XLOC_009069
+GO:0033157	0.0472354890051449	0.999034195033632	1	35	regulation of intracellular protein transport	BP	0.9999999999	BP regulation of intracellular protein transport	XLOC_012090
+GO:0071840	0.0474919300656654	0.993165704099622	3	657	cellular component organization or biogenesis	BP	0.9999999999	BP cellular component organization or biogenesis	XLOC_009069, XLOC_012090, XLOC_021988
+GO:0001883	0.0479461909806709	0.998999282457705	1	43	purine nucleoside binding	MF	0.9999999999	MF purine nucleoside binding	XLOC_061507
+GO:0005525	0.0479461909806709	0.998999282457705	1	43	GTP binding	MF	0.9999999999	MF GTP binding	XLOC_061507
+GO:0032550	0.0479461909806709	0.998999282457705	1	43	purine ribonucleoside binding	MF	0.9999999999	MF purine ribonucleoside binding	XLOC_061507
+GO:0032886	0.0479985454750048	0.998997633307132	1	42	regulation of microtubule-based process	BP	0.9999999999	BP regulation of microtubule-based process	XLOC_009069
+GO:0007009	0.0488850968804252	0.998963262503649	1	37	plasma membrane organization	BP	0.9999999999	BP plasma membrane organization	XLOC_012090

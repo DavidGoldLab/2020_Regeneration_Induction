@@ -1,0 +1,133 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0005044	0.00154466654608652	0.999934140652763	3	10	scavenger receptor activity	MF	0.9999999999	MF scavenger receptor activity	XLOC_023414, XLOC_027756, XLOC_048759
+GO:0016811	0.00181857464269465	0.999915676497849	3	11	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides	MF	0.9999999999	MF hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides	XLOC_009051, XLOC_017527, XLOC_059890
+GO:1902667	0.00296623737228309	0.999943624587938	2	6	regulation of axon guidance	BP	0.9999999999	BP regulation of axon guidance	XLOC_036340, XLOC_058727
+GO:0033267	0.00343707872251303	0.999626847936298	4	36	axon part	CC	0.9999999999	CC axon part	XLOC_023552, XLOC_024842, XLOC_036340, XLOC_058727
+GO:0033691	0.00354290359913802	0.999926232106442	2	6	sialic acid binding	MF	0.9999999999	MF sialic acid binding	XLOC_036340, XLOC_058727
+GO:0045887	0.00354290359913802	0.999926232106442	2	6	positive regulation of synaptic growth at neuromuscular junction	BP	0.9999999999	BP positive regulation of synaptic growth at neuromuscular junction	XLOC_036340, XLOC_058727
+GO:1904398	0.00354290359913802	0.999926232106442	2	6	positive regulation of neuromuscular junction development	BP	0.9999999999	BP positive regulation of neuromuscular junction development	XLOC_036340, XLOC_058727
+GO:0038024	0.0037080516027828	0.999763844308976	3	15	cargo receptor activity	MF	0.9999999999	MF cargo receptor activity	XLOC_023414, XLOC_027756, XLOC_048759
+GO:0030198	0.00372981767350956	0.999433139473043	5	55	extracellular matrix organization	BP	0.9999999999	BP extracellular matrix organization	XLOC_001361, XLOC_035335, XLOC_036340, XLOC_046216, XLOC_058727
+GO:0004252	0.00423756085851255	0.999344173085123	5	45	serine-type endopeptidase activity	MF	0.9999999999	MF serine-type endopeptidase activity	XLOC_016065, XLOC_017527, XLOC_027756, XLOC_048759, XLOC_065473
+GO:0050431	0.00427569394890866	0.999909774203393	2	5	transforming growth factor beta binding	MF	0.9999999999	MF transforming growth factor beta binding	XLOC_036340, XLOC_058727
+GO:0071340	0.00431469152550159	0.999900566041708	2	6	skeletal muscle acetylcholine-gated channel clustering	BP	0.9999999999	BP skeletal muscle acetylcholine-gated channel clustering	XLOC_036340, XLOC_058727
+GO:0043062	0.0043163425752649	0.999319797409603	5	57	extracellular structure organization	BP	0.9999999999	BP extracellular structure organization	XLOC_001361, XLOC_035335, XLOC_036340, XLOC_046216, XLOC_058727
+GO:0030020	0.00497321131147982	0.999869854811127	2	7	extracellular matrix structural constituent conferring tensile strength	MF	0.9999999999	MF extracellular matrix structural constituent conferring tensile strength	XLOC_036340, XLOC_046216
+GO:0005201	0.0050375616326077	0.999386599162774	4	40	extracellular matrix structural constituent	MF	0.9999999999	MF extracellular matrix structural constituent	XLOC_035335, XLOC_036340, XLOC_046216, XLOC_058727
+GO:0036122	0.00506262578567875	0.999873288674194	2	6	BMP binding	MF	0.9999999999	MF BMP binding	XLOC_036340, XLOC_058727
+GO:0019628	0.00517995633072145	0.999895824775166	2	4	urate catabolic process	BP	0.9999999999	BP urate catabolic process	XLOC_009051, XLOC_059890
+GO:0033971	0.00517995633072145	0.999895824775166	2	4	hydroxyisourate hydrolase activity	MF	0.9999999999	MF hydroxyisourate hydrolase activity	XLOC_009051, XLOC_059890
+GO:0008236	0.00530885451818517	0.999130764119372	5	47	serine-type peptidase activity	MF	0.9999999999	MF serine-type peptidase activity	XLOC_016065, XLOC_017527, XLOC_027756, XLOC_048759, XLOC_065473
+GO:0017171	0.00530885451818517	0.999130764119372	5	47	serine hydrolase activity	MF	0.9999999999	MF serine hydrolase activity	XLOC_016065, XLOC_017527, XLOC_027756, XLOC_048759, XLOC_065473
+GO:0035374	0.00550230586279501	0.99984828468839	2	7	chondroitin sulfate binding	MF	0.9999999999	MF chondroitin sulfate binding	XLOC_036340, XLOC_058727
+GO:0044295	0.00574148153665698	0.999838165340241	2	7	axonal growth cone	CC	0.9999999999	CC axonal growth cone	XLOC_036340, XLOC_058727
+GO:0016812	0.00622370249925288	0.999840461786086	2	5	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amides	MF	0.9999999999	MF hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amides	XLOC_009051, XLOC_059890
+GO:0046415	0.00623458027738947	0.999840037728249	2	5	urate metabolic process	BP	0.9999999999	BP urate metabolic process	XLOC_009051, XLOC_059890
+GO:0002162	0.00780885237395512	0.999731934157501	2	8	dystroglycan binding	MF	0.9999999999	MF dystroglycan binding	XLOC_036340, XLOC_058727
+GO:0006931	0.00792503525523134	1	1	1	substrate-dependent cell migration, cell attachment to substrate	BP	0.9999999999	BP substrate-dependent cell migration, cell attachment to substrate	XLOC_025522
+GO:0032023	0.00792503525523134	1	1	1	trypsinogen activation	BP	0.9999999999	BP trypsinogen activation	XLOC_025522
+GO:0016810	0.00853135099650528	0.999231957882101	3	21	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds	MF	0.9999999999	MF hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds	XLOC_009051, XLOC_017527, XLOC_059890
+GO:0031638	0.00870728942393708	0.999695251820128	2	7	zymogen activation	BP	0.9999999999	BP zymogen activation	XLOC_017527, XLOC_025522
+GO:0051491	0.00933455963681767	0.999630693617927	2	10	positive regulation of filopodium assembly	BP	0.9999999999	BP positive regulation of filopodium assembly	XLOC_036340, XLOC_058727
+GO:0051290	0.00939193397673141	0.99963508005097	2	9	protein heterotetramerization	BP	0.9999999999	BP protein heterotetramerization	XLOC_036340, XLOC_058727
+GO:0051291	0.01161027685488	0.998805912405617	3	26	protein heterooligomerization	BP	0.9999999999	BP protein heterooligomerization	XLOC_001361, XLOC_036340, XLOC_058727
+GO:0043113	0.0117723764237962	0.999474162836471	2	10	receptor clustering	BP	0.9999999999	BP receptor clustering	XLOC_036340, XLOC_058727
+GO:0043395	0.0126796233396487	0.999423460259112	2	9	heparan sulfate proteoglycan binding	MF	0.9999999999	MF heparan sulfate proteoglycan binding	XLOC_036340, XLOC_058727
+GO:0008589	0.0133309825592143	0.999364361382204	2	10	regulation of smoothened signaling pathway	BP	0.9999999999	BP regulation of smoothened signaling pathway	XLOC_001361, XLOC_023414
+GO:0005576	0.0141986805281086	0.994325183583555	12	278	extracellular region	CC	0.9999999999	CC extracellular region	XLOC_001361, XLOC_001740, XLOC_011129, XLOC_018120, XLOC_023414, XLOC_025522, XLOC_026087, XLOC_035335, XLOC_036340, XLOC_046216, XLOC_048759, XLOC_058727
+GO:0019955	0.0146124297422687	0.999303355830876	2	8	cytokine binding	MF	0.9999999999	MF cytokine binding	XLOC_036340, XLOC_058727
+GO:0061617	0.0168220578908764	0.99992920682283	1	2	MICOS complex	CC	0.9999999999	CC MICOS complex	XLOC_001028
+GO:0004857	0.017010023091974	0.997030508033598	4	45	enzyme inhibitor activity	MF	0.9999999999	MF enzyme inhibitor activity	XLOC_011129, XLOC_016675, XLOC_030368, XLOC_058727
+GO:0045599	0.019314740773154	0.998932201999414	2	8	negative regulation of fat cell differentiation	BP	0.9999999999	BP negative regulation of fat cell differentiation	XLOC_023414, XLOC_062048
+GO:0045861	0.0198893646331996	0.998792162225918	2	12	negative regulation of proteolysis	BP	0.9999999999	BP negative regulation of proteolysis	XLOC_016675, XLOC_030368
+GO:0051489	0.0199355102281304	0.998774198912394	2	13	regulation of filopodium assembly	BP	0.9999999999	BP regulation of filopodium assembly	XLOC_036340, XLOC_058727
+GO:0006144	0.0207084327475985	0.998753239542014	2	10	purine nucleobase metabolic process	BP	0.9999999999	BP purine nucleobase metabolic process	XLOC_009051, XLOC_059890
+GO:0051965	0.0209046232273292	0.998696424889895	2	12	positive regulation of synapse assembly	BP	0.9999999999	BP positive regulation of synapse assembly	XLOC_036340, XLOC_058727
+GO:0031012	0.0223460267497235	0.995710171085184	4	60	extracellular matrix	CC	0.9999999999	CC extracellular matrix	XLOC_035335, XLOC_036340, XLOC_046216, XLOC_058727
+GO:0007416	0.022497062042524	0.99854111025012	2	12	synapse assembly	BP	0.9999999999	BP synapse assembly	XLOC_036340, XLOC_058727
+GO:0050885	0.0228197532462001	0.998552996734399	2	10	neuromuscular process controlling balance	BP	0.9999999999	BP neuromuscular process controlling balance	XLOC_022679, XLOC_060858
+GO:0042589	0.0237959353004153	0.999810703798579	1	3	zymogen granule membrane	CC	0.9999999999	CC zymogen granule membrane	XLOC_025522
+GO:0003414	0.0241417107295746	0.998374272608264	2	12	chondrocyte morphogenesis involved in endochondral bone morphogenesis	BP	0.9999999999	BP chondrocyte morphogenesis involved in endochondral bone morphogenesis	XLOC_036340, XLOC_046216
+GO:0003422	0.0241417107295746	0.998374272608264	2	12	growth plate cartilage morphogenesis	BP	0.9999999999	BP growth plate cartilage morphogenesis	XLOC_036340, XLOC_046216
+GO:0003429	0.0241417107295746	0.998374272608264	2	12	growth plate cartilage chondrocyte morphogenesis	BP	0.9999999999	BP growth plate cartilage chondrocyte morphogenesis	XLOC_036340, XLOC_046216
+GO:0090171	0.0241417107295746	0.998374272608264	2	12	chondrocyte morphogenesis	BP	0.9999999999	BP chondrocyte morphogenesis	XLOC_036340, XLOC_046216
+GO:0042407	0.024659892284247	0.999796628662472	1	3	cristae formation	BP	0.9999999999	BP cristae formation	XLOC_001028
+GO:0046785	0.0248157684679807	1	1	1	microtubule polymerization	BP	0.9999999999	BP microtubule polymerization	XLOC_021718
+GO:0008582	0.0250723004810684	0.998300031824452	2	11	regulation of synaptic growth at neuromuscular junction	BP	0.9999999999	BP regulation of synaptic growth at neuromuscular junction	XLOC_036340, XLOC_058727
+GO:0001976	0.0250782373165432	1	1	1	neurological system process involved in regulation of systemic arterial blood pressure	BP	0.9999999999	BP neurological system process involved in regulation of systemic arterial blood pressure	XLOC_017527
+GO:0002035	0.0250782373165432	1	1	1	brain renin-angiotensin system	BP	0.9999999999	BP brain renin-angiotensin system	XLOC_017527
+GO:0007155	0.0254981222075295	0.991053847229175	8	172	cell adhesion	BP	0.9999999999	BP cell adhesion	XLOC_001361, XLOC_007340, XLOC_024842, XLOC_025522, XLOC_035335, XLOC_036340, XLOC_046216, XLOC_058727
+GO:0022610	0.0254981222075295	0.991053847229175	8	172	biological adhesion	BP	0.9999999999	BP biological adhesion	XLOC_001361, XLOC_007340, XLOC_024842, XLOC_025522, XLOC_035335, XLOC_036340, XLOC_046216, XLOC_058727
+GO:0060536	0.0257414832884869	0.998185811232515	2	13	cartilage morphogenesis	BP	0.9999999999	BP cartilage morphogenesis	XLOC_036340, XLOC_046216
+GO:0004869	0.0264645663182088	0.998182991998801	2	10	cysteine-type endopeptidase inhibitor activity	MF	0.9999999999	MF cysteine-type endopeptidase inhibitor activity	XLOC_011129, XLOC_016675
+GO:0019838	0.0300501264555275	0.997753822142963	2	11	growth factor binding	MF	0.9999999999	MF growth factor binding	XLOC_036340, XLOC_058727
+GO:0050770	0.0301492394925518	0.997629939910317	2	16	regulation of axonogenesis	BP	0.9999999999	BP regulation of axonogenesis	XLOC_036340, XLOC_058727
+GO:0043394	0.0307315261237492	0.997617423980103	2	13	proteoglycan binding	MF	0.9999999999	MF proteoglycan binding	XLOC_036340, XLOC_058727
+GO:0048489	0.031395381302595	0.997564754127725	2	12	synaptic vesicle transport	BP	0.9999999999	BP synaptic vesicle transport	XLOC_023552, XLOC_060858
+GO:0097479	0.031395381302595	0.997564754127725	2	12	synaptic vesicle localization	BP	0.9999999999	BP synaptic vesicle localization	XLOC_023552, XLOC_060858
+GO:0097480	0.031395381302595	0.997564754127725	2	12	establishment of synaptic vesicle localization	BP	0.9999999999	BP establishment of synaptic vesicle localization	XLOC_023552, XLOC_060858
+GO:0007161	0.0314873717275288	0.99975009525501	1	2	calcium-independent cell-matrix adhesion	BP	0.9999999999	BP calcium-independent cell-matrix adhesion	XLOC_036340
+GO:0005198	0.032532532110648	0.990081774581183	6	115	structural molecule activity	MF	0.9999999999	MF structural molecule activity	XLOC_001025, XLOC_030368, XLOC_035335, XLOC_036340, XLOC_046216, XLOC_058727
+GO:0007528	0.0327252571676694	0.997329435914895	2	15	neuromuscular junction development	BP	0.9999999999	BP neuromuscular junction development	XLOC_036340, XLOC_058727
+GO:1904396	0.0339212990395598	0.997225716289432	2	13	regulation of neuromuscular junction development	BP	0.9999999999	BP regulation of neuromuscular junction development	XLOC_036340, XLOC_058727
+GO:0031589	0.0340727733147905	0.994666765670157	3	31	cell-substrate adhesion	BP	0.9999999999	BP cell-substrate adhesion	XLOC_025522, XLOC_036340, XLOC_058727
+GO:0007411	0.0340945768139126	0.99466202454998	3	31	axon guidance	BP	0.9999999999	BP axon guidance	XLOC_036340, XLOC_058727, XLOC_062048
+GO:0097485	0.0340945768139126	0.99466202454998	3	31	neuron projection guidance	BP	0.9999999999	BP neuron projection guidance	XLOC_036340, XLOC_058727, XLOC_062048
+GO:0048639	0.0344062000744648	0.997115052239419	2	15	positive regulation of developmental growth	BP	0.9999999999	BP positive regulation of developmental growth	XLOC_036340, XLOC_058727
+GO:0042030	0.0357587834853458	1	1	1	ATPase inhibitor activity	MF	0.9999999999	MF ATPase inhibitor activity	XLOC_058727
+GO:0043083	0.0357587834853458	1	1	1	synaptic cleft	CC	0.9999999999	CC synaptic cleft	XLOC_058727
+GO:0045213	0.0357587834853458	1	1	1	neurotransmitter receptor metabolic process	BP	0.9999999999	BP neurotransmitter receptor metabolic process	XLOC_058727
+GO:1903274	0.0357587834853458	1	1	1	NA	NA	0.9999999999	none	XLOC_058727
+GO:1903277	0.0357587834853458	1	1	1	negative regulation of sodium ion export across plasma membrane	BP	0.9999999999	BP negative regulation of sodium ion export across plasma membrane	XLOC_058727
+GO:1903406	0.0357587834853458	1	1	1	regulation of sodium:potassium-exchanging ATPase activity	BP	0.9999999999	BP regulation of sodium:potassium-exchanging ATPase activity	XLOC_058727
+GO:1903407	0.0357587834853458	1	1	1	negative regulation of sodium:potassium-exchanging ATPase activity	BP	0.9999999999	BP negative regulation of sodium:potassium-exchanging ATPase activity	XLOC_058727
+GO:0072523	0.0359932176439553	0.996931600651225	2	14	purine-containing compound catabolic process	BP	0.9999999999	BP purine-containing compound catabolic process	XLOC_009051, XLOC_059890
+GO:0030502	0.036182558173666	1	1	1	negative regulation of bone mineralization	BP	0.9999999999	BP negative regulation of bone mineralization	XLOC_023414
+GO:0030505	0.036182558173666	1	1	1	inorganic diphosphate transport	BP	0.9999999999	BP inorganic diphosphate transport	XLOC_023414
+GO:0070168	0.036182558173666	1	1	1	negative regulation of biomineral tissue development	BP	0.9999999999	BP negative regulation of biomineral tissue development	XLOC_023414
+GO:0097441	0.036182558173666	1	1	1	basal dendrite	CC	0.9999999999	CC basal dendrite	XLOC_023414
+GO:0106177	0.036182558173666	1	1	1	NA	NA	0.9999999999	none	XLOC_023414
+GO:1990787	0.036182558173666	1	1	1	negative regulation of hh target transcription factor activity	BP	0.9999999999	BP negative regulation of hh target transcription factor activity	XLOC_023414
+GO:0005212	0.0363562594622211	1	1	1	structural constituent of eye lens	MF	0.9999999999	MF structural constituent of eye lens	XLOC_001025
+GO:0032133	0.0368299676347088	1	1	1	chromosome passenger complex	CC	0.9999999999	CC chromosome passenger complex	XLOC_016675
+GO:0042974	0.0368299676347088	1	1	1	retinoic acid receptor binding	MF	0.9999999999	MF retinoic acid receptor binding	XLOC_016675
+GO:0046965	0.0368299676347088	1	1	1	retinoid X receptor binding	MF	0.9999999999	MF retinoid X receptor binding	XLOC_016675
+GO:0021533	0.0370509615744411	1	1	1	cell differentiation in hindbrain	BP	0.9999999999	BP cell differentiation in hindbrain	XLOC_022679
+GO:0021702	0.0370509615744411	1	1	1	cerebellar Purkinje cell differentiation	BP	0.9999999999	BP cerebellar Purkinje cell differentiation	XLOC_022679
+GO:0050731	0.0374870360891129	0.99676285102176	2	13	positive regulation of peptidyl-tyrosine phosphorylation	BP	0.9999999999	BP positive regulation of peptidyl-tyrosine phosphorylation	XLOC_036340, XLOC_058727
+GO:0031330	0.0382146434080812	0.996665246367929	2	13	negative regulation of cellular catabolic process	BP	0.9999999999	BP negative regulation of cellular catabolic process	XLOC_022679, XLOC_030368
+GO:0002016	0.0383058026524075	0.999628838356396	1	2	regulation of blood volume by renin-angiotensin	BP	0.9999999999	BP regulation of blood volume by renin-angiotensin	XLOC_017527
+GO:0036465	0.038970594373822	1	1	1	synaptic vesicle recycling	BP	0.9999999999	BP synaptic vesicle recycling	XLOC_060858
+GO:0060612	0.038970594373822	1	1	1	adipose tissue development	BP	0.9999999999	BP adipose tissue development	XLOC_060858
+GO:0055105	0.0396775044316961	1	1	1	ubiquitin-protein transferase inhibitor activity	MF	0.9999999999	MF ubiquitin-protein transferase inhibitor activity	XLOC_030368
+GO:0055106	0.0396775044316961	1	1	1	ubiquitin-protein transferase regulator activity	MF	0.9999999999	MF ubiquitin-protein transferase regulator activity	XLOC_030368
+GO:1902255	0.0396775044316961	1	1	1	positive regulation of intrinsic apoptotic signaling pathway by p53 class mediator	BP	0.9999999999	BP positive regulation of intrinsic apoptotic signaling pathway by p53 class mediator	XLOC_030368
+GO:1990948	0.0396775044316961	1	1	1	ubiquitin ligase inhibitor activity	MF	0.9999999999	MF ubiquitin ligase inhibitor activity	XLOC_030368
+GO:2000059	0.0396775044316961	1	1	1	negative regulation of ubiquitin-dependent protein catabolic process	BP	0.9999999999	BP negative regulation of ubiquitin-dependent protein catabolic process	XLOC_030368
+GO:2001244	0.0396775044316961	1	1	1	positive regulation of intrinsic apoptotic signaling pathway	BP	0.9999999999	BP positive regulation of intrinsic apoptotic signaling pathway	XLOC_030368
+GO:0030426	0.0400049238405113	0.996333950425907	2	16	growth cone	CC	0.9999999999	CC growth cone	XLOC_036340, XLOC_058727
+GO:0001948	0.0404975852266009	0.996289277846225	2	15	NA	NA	0.9999999999	none	XLOC_036340, XLOC_058727
+GO:0050730	0.0413727080965492	0.996164526826542	2	15	regulation of peptidyl-tyrosine phosphorylation	BP	0.9999999999	BP regulation of peptidyl-tyrosine phosphorylation	XLOC_036340, XLOC_058727
+GO:0071467	0.0431742076708026	0.999527304203732	1	2	cellular response to pH	BP	0.9999999999	BP cellular response to pH	XLOC_023414
+GO:0071468	0.0431742076708026	0.999527304203732	1	2	cellular response to acidic pH	BP	0.9999999999	BP cellular response to acidic pH	XLOC_023414
+GO:1903273	0.0436768461763464	0.999516107113667	1	2	NA	NA	0.9999999999	none	XLOC_058727
+GO:1903276	0.0436768461763464	0.999516107113667	1	2	regulation of sodium ion export across plasma membrane	BP	0.9999999999	BP regulation of sodium ion export across plasma membrane	XLOC_058727
+GO:0021772	0.0437983676415276	0.999513379901817	1	2	olfactory bulb development	BP	0.9999999999	BP olfactory bulb development	XLOC_023414
+GO:0097440	0.0438475146938326	0.99951227470651	1	2	apical dendrite	CC	0.9999999999	CC apical dendrite	XLOC_023414
+GO:0004563	0.0439636915788722	0.999509657078142	1	2	beta-N-acetylhexosaminidase activity	MF	0.9999999999	MF beta-N-acetylhexosaminidase activity	XLOC_013295
+GO:0102148	0.0439636915788722	0.999509657078142	1	2	N-acetyl-beta-D-galactosaminidase activity	MF	0.9999999999	MF N-acetyl-beta-D-galactosaminidase activity	XLOC_013295
+GO:1901526	0.0444763544037173	0.99949802045891	1	2	positive regulation of mitophagy	BP	0.9999999999	BP positive regulation of mitophagy	XLOC_007813
+GO:1903599	0.0444763544037173	0.99949802045891	1	2	positive regulation of autophagy of mitochondrion	BP	0.9999999999	BP positive regulation of autophagy of mitochondrion	XLOC_007813
+GO:0050905	0.0445102734883444	0.995738588063063	2	14	neuromuscular process	BP	0.9999999999	BP neuromuscular process	XLOC_022679, XLOC_060858
+GO:0030427	0.0447601939287546	0.995589318954382	2	18	site of polarized growth	CC	0.9999999999	CC site of polarized growth	XLOC_036340, XLOC_058727
+GO:0045598	0.0447858293583808	0.995736974852526	2	13	regulation of fat cell differentiation	BP	0.9999999999	BP regulation of fat cell differentiation	XLOC_023414, XLOC_062048
+GO:0045879	0.0465166023325112	0.999450325083706	1	2	negative regulation of smoothened signaling pathway	BP	0.9999999999	BP negative regulation of smoothened signaling pathway	XLOC_023414
+GO:0005595	0.046791838885067	0.999443721088999	1	2	collagen type XII trimer	CC	0.9999999999	CC collagen type XII trimer	XLOC_046216
+GO:0030934	0.046791838885067	0.999443721088999	1	2	anchoring collagen complex	CC	0.9999999999	CC anchoring collagen complex	XLOC_046216
+GO:0072521	0.0469644795098585	0.991526036137375	3	42	purine-containing compound metabolic process	BP	0.9999999999	BP purine-containing compound metabolic process	XLOC_009051, XLOC_023414, XLOC_059890
+GO:0005623	0.0474118064438883	0.99526335367553	2	15	cell	CC	0.9999999999	CC cell	XLOC_007813, XLOC_021061
+GO:0009895	0.047577313766073	0.995274796212279	2	14	negative regulation of catabolic process	BP	0.9999999999	BP negative regulation of catabolic process	XLOC_022679, XLOC_030368
+GO:1903051	0.0482299586369332	0.999408557507098	1	2	negative regulation of proteolysis involved in cellular protein catabolic process	BP	0.9999999999	BP negative regulation of proteolysis involved in cellular protein catabolic process	XLOC_030368
+GO:1903363	0.0482299586369332	0.999408557507098	1	2	negative regulation of cellular protein catabolic process	BP	0.9999999999	BP negative regulation of cellular protein catabolic process	XLOC_030368
+GO:0009112	0.04848121306235	0.995134773198818	2	14	nucleobase metabolic process	BP	0.9999999999	BP nucleobase metabolic process	XLOC_009051, XLOC_059890
+GO:0051668	0.0488432765958759	0.994906205507157	2	20	localization within membrane	BP	0.9999999999	BP localization within membrane	XLOC_036340, XLOC_058727

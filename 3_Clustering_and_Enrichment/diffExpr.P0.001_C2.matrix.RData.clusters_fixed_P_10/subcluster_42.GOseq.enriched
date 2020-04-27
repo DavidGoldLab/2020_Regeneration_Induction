@@ -1,0 +1,117 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0005576	0.000121122240101431	0.999976225017945	11	278	extracellular region	CC	0.9999999999	CC extracellular region	XLOC_000937, XLOC_011663, XLOC_016255, XLOC_034624, XLOC_034625, XLOC_035020, XLOC_037154, XLOC_052193, XLOC_057253, XLOC_060834, XLOC_065832
+GO:0042445	0.0012959018399503	0.99994161973466	3	21	hormone metabolic process	BP	0.9999999999	BP hormone metabolic process	XLOC_015503, XLOC_037967, XLOC_050570
+GO:0015485	0.00159843172044132	0.999978192469657	2	6	cholesterol binding	MF	0.9999999999	MF cholesterol binding	XLOC_037967, XLOC_060834
+GO:0015918	0.00159843172045494	0.999978192469657	2	6	sterol transport	BP	0.9999999999	BP sterol transport	XLOC_037967, XLOC_060834
+GO:0016701	0.00159843172050009	0.999978192469656	2	6	oxidoreductase activity, acting on single donors with incorporation of molecular oxygen	MF	0.9999999999	MF oxidoreductase activity, acting on single donors with incorporation of molecular oxygen	XLOC_001423, XLOC_015503
+GO:0044421	0.00168086303765178	0.999572090499046	10	321	extracellular region part	CC	0.9999999999	CC extracellular region part	XLOC_001423, XLOC_014666, XLOC_026161, XLOC_035020, XLOC_037154, XLOC_041323, XLOC_052193, XLOC_057253, XLOC_060834, XLOC_064840
+GO:0032934	0.00222265348353057	0.999962122687473	2	7	sterol binding	MF	0.9999999999	MF sterol binding	XLOC_037967, XLOC_060834
+GO:0043178	0.00222265348355236	0.999962122687472	2	7	alcohol binding	MF	0.9999999999	MF alcohol binding	XLOC_037967, XLOC_060834
+GO:0016702	0.00222265348361838	0.999962122687471	2	7	oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen	MF	0.9999999999	MF oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen	XLOC_001423, XLOC_015503, XLOC_015503
+GO:0005496	0.00294348801016061	0.999939850096839	2	8	steroid binding	MF	0.9999999999	MF steroid binding	XLOC_037967, XLOC_060834
+GO:0005741	0.00294348801021416	0.999939850096838	2	8	mitochondrial outer membrane	CC	0.9999999999	CC mitochondrial outer membrane	XLOC_016255, XLOC_064840
+GO:0034754	0.00375889901321564	0.999910450501656	2	9	cellular hormone metabolic process	BP	0.9999999999	BP cellular hormone metabolic process	XLOC_015503, XLOC_037967
+GO:0046872	0.00472966080805482	0.998262601217653	15	699	metal ion binding	MF	0.9999999999	MF metal ion binding	XLOC_001423, XLOC_011663, XLOC_014666, XLOC_015503, XLOC_021659, XLOC_034529, XLOC_035020, XLOC_037154, XLOC_041323, XLOC_050570, XLOC_052193, XLOC_057253, XLOC_060834, XLOC_061106, XLOC_065832
+GO:0005615	0.0053938126238517	0.998752565308662	7	205	extracellular space	CC	0.9999999999	CC extracellular space	XLOC_014666, XLOC_026161, XLOC_035020, XLOC_041323, XLOC_052193, XLOC_057253, XLOC_060834
+GO:0019867	0.00566545941349761	0.999826721257651	2	11	outer membrane	CC	0.9999999999	CC outer membrane	XLOC_016255, XLOC_064840
+GO:0031968	0.00566545941349761	0.999826721257651	2	11	organelle outer membrane	CC	0.9999999999	CC organelle outer membrane	XLOC_016255, XLOC_064840
+GO:0043169	0.00578385475382918	0.997824885423718	15	714	cation binding	MF	0.9999999999	MF cation binding	XLOC_001423, XLOC_011663, XLOC_014666, XLOC_015503, XLOC_021659, XLOC_034529, XLOC_035020, XLOC_037154, XLOC_041323, XLOC_050570, XLOC_052193, XLOC_057253, XLOC_060834, XLOC_061106, XLOC_065832
+GO:0015850	0.00675268913314767	0.999770689186065	2	12	organic hydroxy compound transport	BP	0.9999999999	BP organic hydroxy compound transport	XLOC_037967, XLOC_060834
+GO:0051213	0.0105272819960459	0.99953629482609	2	15	dioxygenase activity	MF	0.9999999999	MF dioxygenase activity	XLOC_001423, XLOC_015503
+GO:1905089	0.0105580693815169	1	1	1	regulation of parkin-mediated stimulation of mitophagy in response to mitochondrial depolarization	BP	0.9999999999	BP regulation of parkin-mediated stimulation of mitophagy in response to mitochondrial depolarization	XLOC_064840
+GO:1905090	0.0105580693815169	1	1	1	negative regulation of parkin-mediated stimulation of mitophagy in response to mitochondrial depolarization	BP	0.9999999999	BP negative regulation of parkin-mediated stimulation of mitophagy in response to mitochondrial depolarization	XLOC_064840
+GO:0033058	0.0105580693817113	1	1	1	directional locomotion	BP	0.9999999999	BP directional locomotion	XLOC_037154
+GO:0043056	0.0105580693817113	1	1	1	forward locomotion	BP	0.9999999999	BP forward locomotion	XLOC_037154
+GO:0060419	0.0105580693817113	1	1	1	heart growth	BP	0.9999999999	BP heart growth	XLOC_037154
+GO:0000322	0.0105580693817134	1	1	1	storage vacuole	CC	0.9999999999	CC storage vacuole	XLOC_060834
+GO:0000324	0.0105580693817134	1	1	1	fungal-type vacuole	CC	0.9999999999	CC fungal-type vacuole	XLOC_060834
+GO:0001534	0.0105580693817134	1	1	1	radial spoke	CC	0.9999999999	CC radial spoke	XLOC_041788
+GO:0099044	0.0105580693817134	1	1	1	vesicle tethering to endoplasmic reticulum	BP	0.9999999999	BP vesicle tethering to endoplasmic reticulum	XLOC_037967
+GO:0140284	0.0105580693817134	1	1	1	NA	NA	0.9999999999	none	XLOC_037967
+GO:1901810	0.0105580693817134	1	1	1	beta-carotene metabolic process	BP	0.9999999999	BP beta-carotene metabolic process	XLOC_015503
+GO:0030346	0.0105580693817134	1	1	1	protein phosphatase 2B binding	MF	0.9999999999	MF protein phosphatase 2B binding	XLOC_016255
+GO:0034237	0.0105580693817134	1	1	1	protein kinase A regulatory subunit binding	MF	0.9999999999	MF protein kinase A regulatory subunit binding	XLOC_016255
+GO:0010817	0.0115641046404667	0.998795872493451	3	45	regulation of hormone levels	BP	0.9999999999	BP regulation of hormone levels	XLOC_015503, XLOC_037967, XLOC_050570
+GO:0098805	0.0118730756912185	0.997612784722804	5	131	whole membrane	CC	0.9999999999	CC whole membrane	XLOC_016255, XLOC_037967, XLOC_040529, XLOC_050570, XLOC_064840
+GO:0005509	0.0118933017380679	0.99679420408436	7	238	calcium ion binding	MF	0.9999999999	MF calcium ion binding	XLOC_011663, XLOC_014666, XLOC_034529, XLOC_035020, XLOC_037154, XLOC_052193, XLOC_057253
+GO:0031902	0.020220573872861	0.998704098160034	2	21	late endosome membrane	CC	0.9999999999	CC late endosome membrane	XLOC_037967, XLOC_064840
+GO:0038111	0.0210066358746682	0.99989049711183	1	2	interleukin-7-mediated signaling pathway	BP	0.9999999999	BP interleukin-7-mediated signaling pathway	XLOC_033127
+GO:0006700	0.0210066358746905	0.999890497111829	1	2	C21-steroid hormone biosynthetic process	BP	0.9999999999	BP C21-steroid hormone biosynthetic process	XLOC_037967
+GO:0006701	0.0210066358746905	0.999890497111829	1	2	progesterone biosynthetic process	BP	0.9999999999	BP progesterone biosynthetic process	XLOC_037967
+GO:0051018	0.0210066358747517	0.999890497111829	1	2	protein kinase A binding	MF	0.9999999999	MF protein kinase A binding	XLOC_016255
+GO:0010002	0.0210066358749068	0.999890497111827	1	2	cardioblast differentiation	BP	0.9999999999	BP cardioblast differentiation	XLOC_050570
+GO:1904924	0.0210066358750557	0.999890497111825	1	2	negative regulation of mitophagy in response to mitochondrial depolarization	BP	0.9999999999	BP negative regulation of mitophagy in response to mitochondrial depolarization	XLOC_064840
+GO:0042308	0.0210066358750726	0.999890497111825	1	2	negative regulation of protein import into nucleus	BP	0.9999999999	BP negative regulation of protein import into nucleus	XLOC_016255
+GO:1904590	0.0210066358750726	0.999890497111825	1	2	negative regulation of protein import	BP	0.9999999999	BP negative regulation of protein import	XLOC_016255
+GO:0031639	0.021006635875141	0.999890497111825	1	2	plasminogen activation	BP	0.9999999999	BP plasminogen activation	XLOC_026161
+GO:0001756	0.0210066358752481	0.999890497111823	1	2	somitogenesis	BP	0.9999999999	BP somitogenesis	XLOC_037154
+GO:1901077	0.0210066358752481	0.999890497111823	1	2	regulation of relaxation of muscle	BP	0.9999999999	BP regulation of relaxation of muscle	XLOC_037154
+GO:1901897	0.0210066358752481	0.999890497111823	1	2	regulation of relaxation of cardiac muscle	BP	0.9999999999	BP regulation of relaxation of cardiac muscle	XLOC_037154
+GO:0017090	0.0210066358752501	0.999890497111823	1	2	meprin A complex	CC	0.9999999999	CC meprin A complex	XLOC_065832
+GO:0042572	0.0210066358752501	0.999890497111823	1	2	retinol metabolic process	BP	0.9999999999	BP retinol metabolic process	XLOC_015503
+GO:0060091	0.0210066358752501	0.999890497111823	1	2	kinocilium	CC	0.9999999999	CC kinocilium	XLOC_041788
+GO:0097732	0.0210066358752501	0.999890497111823	1	2	9+2 non-motile cilium	CC	0.9999999999	CC 9+2 non-motile cilium	XLOC_041788
+GO:0003834	0.0210066358752501	0.999890497111823	1	2	beta-carotene 15,15'-monooxygenase activity	MF	0.9999999999	MF beta-carotene 15,15'-monooxygenase activity	XLOC_015503, XLOC_015503
+GO:0008300	0.0210066358752501	0.999890497111823	1	2	isoprenoid catabolic process	BP	0.9999999999	BP isoprenoid catabolic process	XLOC_015503
+GO:0008336	0.0210066358752501	0.999890497111823	1	2	gamma-butyrobetaine dioxygenase activity	MF	0.9999999999	MF gamma-butyrobetaine dioxygenase activity	XLOC_001423
+GO:0010436	0.0210066358752501	0.999890497111823	1	2	carotenoid dioxygenase activity	MF	0.9999999999	MF carotenoid dioxygenase activity	XLOC_015503
+GO:0016108	0.0210066358752501	0.999890497111823	1	2	tetraterpenoid metabolic process	BP	0.9999999999	BP tetraterpenoid metabolic process	XLOC_015503
+GO:0016116	0.0210066358752501	0.999890497111823	1	2	carotenoid metabolic process	BP	0.9999999999	BP carotenoid metabolic process	XLOC_015503
+GO:0016119	0.0210066358752501	0.999890497111823	1	2	carotene metabolic process	BP	0.9999999999	BP carotene metabolic process	XLOC_015503
+GO:0016121	0.0210066358752501	0.999890497111823	1	2	carotene catabolic process	BP	0.9999999999	BP carotene catabolic process	XLOC_015503
+GO:0016122	0.0210066358752501	0.999890497111823	1	2	xanthophyll metabolic process	BP	0.9999999999	BP xanthophyll metabolic process	XLOC_015503
+GO:0042214	0.0210066358752501	0.999890497111823	1	2	terpene metabolic process	BP	0.9999999999	BP terpene metabolic process	XLOC_015503
+GO:0045329	0.0210066358752501	0.999890497111823	1	2	carnitine biosynthetic process	BP	0.9999999999	BP carnitine biosynthetic process	XLOC_001423
+GO:0046247	0.0210066358752501	0.999890497111823	1	2	terpene catabolic process	BP	0.9999999999	BP terpene catabolic process	XLOC_015503
+GO:0102076	0.0210066358752501	0.999890497111823	1	2	beta,beta-carotene-9',10'-cleaving oxygenase activity	MF	0.9999999999	MF beta,beta-carotene-9',10'-cleaving oxygenase activity	XLOC_015503
+GO:0016020	0.0273979918822231	0.987763266348438	14	775	membrane	CC	0.9999999999	CC membrane	XLOC_000937, XLOC_011663, XLOC_016255, XLOC_034624, XLOC_034625, XLOC_034862, XLOC_035020, XLOC_037967, XLOC_040529, XLOC_050570, XLOC_052193, XLOC_057253, XLOC_064840, XLOC_065832
+GO:0003682	0.0307136750217414	0.995318997486287	3	65	chromatin binding	MF	0.9999999999	MF chromatin binding	XLOC_035020, XLOC_052193, XLOC_057253
+GO:0008207	0.031346814748824	0.999673721873381	1	3	C21-steroid hormone metabolic process	BP	0.9999999999	BP C21-steroid hormone metabolic process	XLOC_037967
+GO:0042448	0.031346814748824	0.999673721873381	1	3	progesterone metabolic process	BP	0.9999999999	BP progesterone metabolic process	XLOC_037967
+GO:1900181	0.0313468147489234	0.999673721873379	1	3	negative regulation of protein localization to nucleus	BP	0.9999999999	BP negative regulation of protein localization to nucleus	XLOC_016255
+GO:0044216	0.0313468147489783	0.999673721873378	1	3	other organism cell	CC	0.9999999999	CC other organism cell	XLOC_071064
+GO:0042181	0.0313468147489837	0.999673721873378	1	3	ketone biosynthetic process	BP	0.9999999999	BP ketone biosynthetic process	XLOC_037967
+GO:0090317	0.0313468147490554	0.999673721873376	1	3	negative regulation of intracellular protein transport	BP	0.9999999999	BP negative regulation of intracellular protein transport	XLOC_016255
+GO:0035051	0.0313468147492142	0.999673721873373	1	3	cardiocyte differentiation	BP	0.9999999999	BP cardiocyte differentiation	XLOC_050570
+GO:0021591	0.0313468147492218	0.999673721873373	1	3	ventricular system development	BP	0.9999999999	BP ventricular system development	XLOC_037154
+GO:0061608	0.0313468147493127	0.999673721873371	1	3	nuclear import signal receptor activity	MF	0.9999999999	MF nuclear import signal receptor activity	XLOC_071064
+GO:0030061	0.0313468147494362	0.999673721873368	1	3	mitochondrial crista	CC	0.9999999999	CC mitochondrial crista	XLOC_016255
+GO:0035308	0.031346814749483	0.999673721873367	1	3	negative regulation of protein dephosphorylation	BP	0.9999999999	BP negative regulation of protein dephosphorylation	XLOC_016255
+GO:0017080	0.0313468147494888	0.999673721873367	1	3	sodium channel regulator activity	MF	0.9999999999	MF sodium channel regulator activity	XLOC_026161
+GO:0099022	0.0313468147495528	0.999673721873366	1	3	vesicle tethering	BP	0.9999999999	BP vesicle tethering	XLOC_037967
+GO:0009437	0.0313468147495535	0.999673721873366	1	3	carnitine metabolic process	BP	0.9999999999	BP carnitine metabolic process	XLOC_001423
+GO:1903225	0.0313468147495539	0.999673721873366	1	3	negative regulation of endodermal cell differentiation	BP	0.9999999999	BP negative regulation of endodermal cell differentiation	XLOC_041323
+GO:2000542	0.0313468147495539	0.999673721873366	1	3	negative regulation of gastrulation	BP	0.9999999999	BP negative regulation of gastrulation	XLOC_041323
+GO:0030506	0.0313468147495561	0.999673721873366	1	3	ankyrin binding	MF	0.9999999999	MF ankyrin binding	XLOC_037154
+GO:0004744	0.0313468147495581	0.999673721873366	1	3	retinal isomerase activity	MF	0.9999999999	MF retinal isomerase activity	XLOC_015503
+GO:0006578	0.0313468147495581	0.999673721873366	1	3	amino-acid betaine biosynthetic process	BP	0.9999999999	BP amino-acid betaine biosynthetic process	XLOC_001423
+GO:0010614	0.0313468147495581	0.999673721873366	1	3	negative regulation of cardiac muscle hypertrophy	BP	0.9999999999	BP negative regulation of cardiac muscle hypertrophy	XLOC_016255
+GO:0014741	0.0313468147495581	0.999673721873366	1	3	negative regulation of muscle hypertrophy	BP	0.9999999999	BP negative regulation of muscle hypertrophy	XLOC_016255
+GO:0042573	0.0313468147495581	0.999673721873366	1	3	retinoic acid metabolic process	BP	0.9999999999	BP retinoic acid metabolic process	XLOC_015503
+GO:0042574	0.0313468147495581	0.999673721873366	1	3	retinal metabolic process	BP	0.9999999999	BP retinal metabolic process	XLOC_015503
+GO:0019898	0.0324644474942125	0.997274913139857	2	27	extrinsic component of membrane	CC	0.9999999999	CC extrinsic component of membrane	XLOC_026161, XLOC_064840
+GO:0090257	0.0324644474944824	0.997274913139823	2	27	regulation of muscle system process	BP	0.9999999999	BP regulation of muscle system process	XLOC_016255, XLOC_037154
+GO:0006066	0.0347286809682477	0.996970587676137	2	28	alcohol metabolic process	BP	0.9999999999	BP alcohol metabolic process	XLOC_015503, XLOC_037967
+GO:0030301	0.0415797101221719	0.999351871370793	1	4	cholesterol transport	BP	0.9999999999	BP cholesterol transport	XLOC_037967
+GO:0008139	0.041579710122426	0.999351871370785	1	4	nuclear localization sequence binding	MF	0.9999999999	MF nuclear localization sequence binding	XLOC_071064
+GO:0043657	0.041579710122426	0.999351871370785	1	4	host cell	CC	0.9999999999	CC host cell	XLOC_071064
+GO:0044232	0.0415797101224812	0.999351871370783	1	4	organelle membrane contact site	CC	0.9999999999	CC organelle membrane contact site	XLOC_037967
+GO:0046823	0.0415797101226184	0.999351871370779	1	4	negative regulation of nucleocytoplasmic transport	BP	0.9999999999	BP negative regulation of nucleocytoplasmic transport	XLOC_016255
+GO:0034308	0.0415797101226858	0.999351871370776	1	4	primary alcohol metabolic process	BP	0.9999999999	BP primary alcohol metabolic process	XLOC_015503
+GO:0045053	0.0415797101226867	0.999351871370776	1	4	protein retention in Golgi apparatus	BP	0.9999999999	BP protein retention in Golgi apparatus	XLOC_064840
+GO:1901524	0.0415797101226867	0.999351871370776	1	4	regulation of mitophagy	BP	0.9999999999	BP regulation of mitophagy	XLOC_064840
+GO:1903146	0.0415797101226867	0.999351871370776	1	4	regulation of autophagy of mitochondrion	BP	0.9999999999	BP regulation of autophagy of mitochondrion	XLOC_064840
+GO:0019054	0.0415797101227569	0.999351871370774	1	4	modulation by virus of host process	BP	0.9999999999	BP modulation by virus of host process	XLOC_071064
+GO:0044068	0.0415797101227569	0.999351871370774	1	4	modulation by symbiont of host cellular process	BP	0.9999999999	BP modulation by symbiont of host cellular process	XLOC_071064
+GO:0031433	0.0415797101229309	0.999351871370769	1	4	telethonin binding	MF	0.9999999999	MF telethonin binding	XLOC_037154
+GO:0035995	0.0415797101229309	0.999351871370769	1	4	detection of muscle stretch	BP	0.9999999999	BP detection of muscle stretch	XLOC_037154
+GO:0048769	0.0415797101229309	0.999351871370769	1	4	sarcomerogenesis	BP	0.9999999999	BP sarcomerogenesis	XLOC_037154
+GO:0005588	0.0415797101229954	0.999351871370767	1	4	collagen type V trimer	CC	0.9999999999	CC collagen type V trimer	XLOC_041323
+GO:0045992	0.0415797101229954	0.999351871370767	1	4	negative regulation of embryonic development	BP	0.9999999999	BP negative regulation of embryonic development	XLOC_041323
+GO:1903224	0.0415797101229954	0.999351871370767	1	4	regulation of endodermal cell differentiation	BP	0.9999999999	BP regulation of endodermal cell differentiation	XLOC_041323
+GO:0007512	0.0415797101229976	0.999351871370767	1	4	adult heart development	BP	0.9999999999	BP adult heart development	XLOC_037154
+GO:0031672	0.0415797101229976	0.999351871370767	1	4	A band	CC	0.9999999999	CC A band	XLOC_037154
+GO:0016485	0.0418745047307409	0.995935269392484	2	31	protein processing	BP	0.9999999999	BP protein processing	XLOC_026161, XLOC_050570
+GO:0098588	0.0419513212202908	0.988250506385399	5	182	bounding membrane of organelle	CC	0.9999999999	CC bounding membrane of organelle	XLOC_016255, XLOC_037967, XLOC_040529, XLOC_050570, XLOC_064840
+GO:0051604	0.0469182809310842	0.995139199471169	2	33	protein maturation	BP	0.9999999999	BP protein maturation	XLOC_026161, XLOC_050570
+GO:0007507	0.0495199442210168	0.994708331715642	2	34	heart development	BP	0.9999999999	BP heart development	XLOC_037154, XLOC_050570

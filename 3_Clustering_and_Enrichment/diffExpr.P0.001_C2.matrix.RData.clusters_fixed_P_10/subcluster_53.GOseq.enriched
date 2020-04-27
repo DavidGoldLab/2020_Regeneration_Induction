@@ -1,0 +1,74 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0030299	0.00315304662760728	1	1	1	intestinal cholesterol absorption	BP	0.9999999999	BP intestinal cholesterol absorption	XLOC_061681
+GO:0061365	0.00315304662760728	1	1	1	positive regulation of triglyceride lipase activity	BP	0.9999999999	BP positive regulation of triglyceride lipase activity	XLOC_061681
+GO:0098856	0.00315304662760728	1	1	1	intestinal lipid absorption	BP	0.9999999999	BP intestinal lipid absorption	XLOC_061681
+GO:0005615	0.00350096810456773	0.999799277031837	3	205	extracellular space	CC	0.9999999999	CC extracellular space	XLOC_007949, XLOC_021518, XLOC_061681
+GO:0044179	0.00441621246199569	0.999992966594049	1	5	hemolysis in other organism	BP	0.9999999999	BP hemolysis in other organism	XLOC_031026
+GO:0051715	0.00441621246199569	0.999992966594049	1	5	cytolysis in other organism	BP	0.9999999999	BP cytolysis in other organism	XLOC_031026
+GO:0006911	0.00544056863917358	0.999989986969989	1	4	phagocytosis, engulfment	BP	0.9999999999	BP phagocytosis, engulfment	XLOC_021518
+GO:0010324	0.00544056863917358	0.999989986969989	1	4	membrane invagination	BP	0.9999999999	BP membrane invagination	XLOC_021518
+GO:0099024	0.00544056863917358	0.999989986969989	1	4	plasma membrane invagination	BP	0.9999999999	BP plasma membrane invagination	XLOC_021518
+GO:0050892	0.00569766875486125	0.999990235590127	1	3	intestinal absorption	BP	0.9999999999	BP intestinal absorption	XLOC_061681
+GO:0047714	0.00611405843203203	0.999988753961249	1	3	galactolipase activity	MF	0.9999999999	MF galactolipase activity	XLOC_061681
+GO:0102549	0.00611405843203203	0.999988753961249	1	3	1-18:1-2-16:0-monogalactosyldiacylglycerol lipase activity	MF	0.9999999999	MF 1-18:1-2-16:0-monogalactosyldiacylglycerol lipase activity	XLOC_061681
+GO:0006910	0.00666578507036184	0.999986629097553	1	3	phagocytosis, recognition	BP	0.9999999999	BP phagocytosis, recognition	XLOC_021518
+GO:0008429	0.00674359352498218	0.999986314600471	1	3	phosphatidylethanolamine binding	MF	0.9999999999	MF phosphatidylethanolamine binding	XLOC_021518
+GO:0031640	0.00706412601440178	0.99998123355952	1	6	killing of cells of other organism	BP	0.9999999999	BP killing of cells of other organism	XLOC_031026
+GO:0044364	0.00706412601440178	0.99998123355952	1	6	disruption of cells of other organism	BP	0.9999999999	BP disruption of cells of other organism	XLOC_031026
+GO:0005576	0.0072443687851179	0.999457959075395	3	278	extracellular region	CC	0.9999999999	CC extracellular region	XLOC_007949, XLOC_021518, XLOC_031026
+GO:0022600	0.00729499039369105	0.999980783792469	1	5	digestive system process	BP	0.9999999999	BP digestive system process	XLOC_061681
+GO:0047372	0.00739238390447985	0.999981497249051	1	4	acylglycerol lipase activity	MF	0.9999999999	MF acylglycerol lipase activity	XLOC_061681
+GO:0004806	0.00784433763381613	0.9999777752778	1	5	triglyceride lipase activity	MF	0.9999999999	MF triglyceride lipase activity	XLOC_061681
+GO:0044218	0.00807772558461937	0.99997475145971	1	7	other organism cell membrane	CC	0.9999999999	CC other organism cell membrane	XLOC_031026
+GO:0044279	0.00807772558461937	0.99997475145971	1	7	other organism membrane	CC	0.9999999999	CC other organism membrane	XLOC_031026
+GO:0060193	0.00833013446977821	0.999973890078459	1	6	positive regulation of lipase activity	BP	0.9999999999	BP positive regulation of lipase activity	XLOC_061681
+GO:0043277	0.00939066981834437	0.999970114493144	1	4	apoptotic cell clearance	BP	0.9999999999	BP apoptotic cell clearance	XLOC_021518
+GO:0019374	0.00977756618259537	0.99996544132389	1	5	galactolipid metabolic process	BP	0.9999999999	BP galactolipid metabolic process	XLOC_061681
+GO:0019376	0.00977756618259537	0.99996544132389	1	5	galactolipid catabolic process	BP	0.9999999999	BP galactolipid catabolic process	XLOC_061681
+GO:0019835	0.0099536735783335	0.999961632059017	1	7	cytolysis	BP	0.9999999999	BP cytolysis	XLOC_031026
+GO:0030301	0.0103430310468463	0.999963729455354	1	4	cholesterol transport	BP	0.9999999999	BP cholesterol transport	XLOC_061681
+GO:0001906	0.0106351644437121	0.999955276115285	1	8	cell killing	BP	0.9999999999	BP cell killing	XLOC_031026
+GO:0001786	0.0109751354894295	0.999954625052147	1	6	phosphatidylserine binding	MF	0.9999999999	MF phosphatidylserine binding	XLOC_021518
+GO:0009395	0.0109803198796662	0.999956392909107	1	5	phospholipid catabolic process	BP	0.9999999999	BP phospholipid catabolic process	XLOC_061681
+GO:0044421	0.0118340154296088	0.998937025057007	3	321	extracellular region part	CC	0.9999999999	CC extracellular region part	XLOC_007949, XLOC_021518, XLOC_061681
+GO:0006909	0.0119902669747986	0.999945819349239	1	6	phagocytosis	BP	0.9999999999	BP phagocytosis	XLOC_021518
+GO:0019377	0.0128265518211947	0.999936210579683	1	7	glycolipid catabolic process	BP	0.9999999999	BP glycolipid catabolic process	XLOC_061681
+GO:0060191	0.0129359738331742	0.999932721598391	1	9	regulation of lipase activity	BP	0.9999999999	BP regulation of lipase activity	XLOC_061681
+GO:0015918	0.0132286733816237	0.999934014082518	1	6	sterol transport	BP	0.9999999999	BP sterol transport	XLOC_061681
+GO:0050766	0.0132637892394652	0.999929259002777	1	9	positive regulation of phagocytosis	BP	0.9999999999	BP positive regulation of phagocytosis	XLOC_021518
+GO:0042151	0.014242199895731	0.999918404741806	1	9	nematocyst	CC	0.9999999999	CC nematocyst	XLOC_031026
+GO:0035821	0.0171385829922472	0.999875821654063	1	15	modification of morphology or physiology of other organism	BP	0.9999999999	BP modification of morphology or physiology of other organism	XLOC_031026
+GO:0046466	0.0173284318329277	0.999879056786835	1	9	membrane lipid catabolic process	BP	0.9999999999	BP membrane lipid catabolic process	XLOC_061681
+GO:0004181	0.0173298491243214	0.999886556783391	1	6	metallocarboxypeptidase activity	MF	0.9999999999	MF metallocarboxypeptidase activity	XLOC_007949
+GO:0007338	0.0174677710335149	0.999881461992579	1	7	single fertilization	BP	0.9999999999	BP single fertilization	XLOC_021518
+GO:0006664	0.019299042346545	0.999845201908796	1	12	glycolipid metabolic process	BP	0.9999999999	BP glycolipid metabolic process	XLOC_061681
+GO:0009897	0.0194396004069057	0.999840903715002	1	14	external side of plasma membrane	CC	0.9999999999	CC external side of plasma membrane	XLOC_021518
+GO:1903509	0.0200848440841926	0.999831121547375	1	13	liposaccharide metabolic process	BP	0.9999999999	BP liposaccharide metabolic process	XLOC_061681
+GO:0004180	0.0213675248425354	0.999815797323868	1	9	carboxypeptidase activity	MF	0.9999999999	MF carboxypeptidase activity	XLOC_007949
+GO:0015850	0.0222659263917644	0.999793702006106	1	12	organic hydroxy compound transport	BP	0.9999999999	BP organic hydroxy compound transport	XLOC_061681
+GO:0009791	0.0226392189603457	0.999782846701019	1	15	post-embryonic development	BP	0.9999999999	BP post-embryonic development	XLOC_061681
+GO:0044217	0.022742404028293	0.999780853720381	1	15	other organism part	CC	0.9999999999	CC other organism part	XLOC_031026
+GO:0050764	0.0236723724016394	0.99976506610874	1	13	regulation of phagocytosis	BP	0.9999999999	BP regulation of phagocytosis	XLOC_021518
+GO:0019897	0.0243081283986627	0.999748375459372	1	16	extrinsic component of plasma membrane	CC	0.9999999999	CC extrinsic component of plasma membrane	XLOC_021518
+GO:0009566	0.0244368204465934	0.999755780582963	1	10	fertilization	BP	0.9999999999	BP fertilization	XLOC_021518
+GO:0045807	0.0246290978632289	0.999739756545493	1	18	positive regulation of endocytosis	BP	0.9999999999	BP positive regulation of endocytosis	XLOC_021518
+GO:0090729	0.0249551961302235	0.999733701736402	1	17	toxin activity	MF	0.9999999999	MF toxin activity	XLOC_031026
+GO:0072341	0.0253919484201606	0.999722453412697	1	19	modified amino acid binding	MF	0.9999999999	MF modified amino acid binding	XLOC_021518
+GO:0008037	0.0254180363579013	0.999725964011447	1	15	cell recognition	BP	0.9999999999	BP cell recognition	XLOC_021518
+GO:0046434	0.0265851043617544	0.999698755655392	1	16	organophosphate catabolic process	BP	0.9999999999	BP organophosphate catabolic process	XLOC_061681
+GO:0043687	0.0279776407737411	0.999666186021079	1	16	post-translational protein modification	BP	0.9999999999	BP post-translational protein modification	XLOC_021518
+GO:0098552	0.0305421748294916	0.999593024911134	1	24	side of membrane	CC	0.9999999999	CC side of membrane	XLOC_021518
+GO:0006643	0.0309351186308579	0.999584986791255	1	21	membrane lipid metabolic process	BP	0.9999999999	BP membrane lipid metabolic process	XLOC_061681
+GO:0008235	0.0311007604547551	0.999590878107664	1	14	metalloexopeptidase activity	MF	0.9999999999	MF metalloexopeptidase activity	XLOC_007949
+GO:0006810	0.0363346311178899	0.994960856634205	3	507	transport	BP	0.9999999999	BP transport	XLOC_021518, XLOC_031026, XLOC_061681
+GO:0005788	0.03706586679444	0.999395386555918	1	28	endoplasmic reticulum lumen	CC	0.9999999999	CC endoplasmic reticulum lumen	XLOC_021518
+GO:0051234	0.0389973446416126	0.994435867296806	3	522	establishment of localization	BP	0.9999999999	BP establishment of localization	XLOC_021518, XLOC_031026, XLOC_061681
+GO:0030100	0.0391658389812882	0.999327344354461	1	25	regulation of endocytosis	BP	0.9999999999	BP regulation of endocytosis	XLOC_021518
+GO:0004620	0.0413727716205895	0.999258492546947	1	19	phospholipase activity	MF	0.9999999999	MF phospholipase activity	XLOC_061681
+GO:0019898	0.0427605148317413	0.999194632111728	1	27	extrinsic component of membrane	CC	0.9999999999	CC extrinsic component of membrane	XLOC_021518
+GO:0016298	0.0439370271783836	0.999156631947573	1	22	lipase activity	MF	0.9999999999	MF lipase activity	XLOC_061681
+GO:0008238	0.0442801086961725	0.999137117055383	1	26	exopeptidase activity	MF	0.9999999999	MF exopeptidase activity	XLOC_007949
+GO:0044242	0.0444855976692747	0.999125473270884	1	29	cellular lipid catabolic process	BP	0.9999999999	BP cellular lipid catabolic process	XLOC_061681
+GO:1901136	0.0471963121842903	0.999012370574595	1	31	carbohydrate derivative catabolic process	BP	0.9999999999	BP carbohydrate derivative catabolic process	XLOC_061681
+GO:0005178	0.047566770103319	0.999002981447498	1	26	integrin binding	MF	0.9999999999	MF integrin binding	XLOC_021518
+GO:0051179	0.0495688163721027	0.992203727024562	3	581	localization	BP	0.9999999999	BP localization	XLOC_021518, XLOC_031026, XLOC_061681

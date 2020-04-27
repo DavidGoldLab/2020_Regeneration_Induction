@@ -1,0 +1,27 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0003963	0.00138736968782027	1	1	1	RNA-3'-phosphate cyclase activity	MF	0.9999999999	MF RNA-3'-phosphate cyclase activity	XLOC_025829
+GO:0004084	0.00256719689202266	1	1	1	branched-chain-amino-acid transaminase activity	MF	0.9999999999	MF branched-chain-amino-acid transaminase activity	XLOC_000035
+GO:0016886	0.00258909303306065	0.999998451193112	1	2	ligase activity, forming phosphoric ester bonds	MF	0.9999999999	MF ligase activity, forming phosphoric ester bonds	XLOC_025829
+GO:0009975	0.00650591643873109	0.999984330582574	1	5	cyclase activity	MF	0.9999999999	MF cyclase activity	XLOC_025829
+GO:0036159	0.00817499944680938	0.999976785436966	1	4	inner dynein arm assembly	BP	0.9999999999	BP inner dynein arm assembly	XLOC_047945
+GO:0005874	0.0103422722356355	0.99955304084247	2	80	microtubule	CC	0.9999999999	CC microtubule	XLOC_047945, XLOC_055461
+GO:0036156	0.0104776280300534	0.999959289217534	1	5	inner dynein arm	CC	0.9999999999	CC inner dynein arm	XLOC_047945
+GO:0015248	0.0109420852296091	0.999962972994832	1	3	sterol transporter activity	MF	0.9999999999	MF sterol transporter activity	XLOC_060305
+GO:0008483	0.0111849329468726	0.999953592985887	1	5	transaminase activity	MF	0.9999999999	MF transaminase activity	XLOC_000035
+GO:0016769	0.0111849329468726	0.999953592985887	1	5	transferase activity, transferring nitrogenous groups	MF	0.9999999999	MF transferase activity, transferring nitrogenous groups	XLOC_000035
+GO:0099513	0.0135621913750104	0.999322852342188	2	92	polymeric cytoskeletal fiber	CC	0.9999999999	CC polymeric cytoskeletal fiber	XLOC_047945, XLOC_055461
+GO:0099080	0.016469983618658	0.9990872452576	2	105	supramolecular complex	CC	0.9999999999	CC supramolecular complex	XLOC_047945, XLOC_055461
+GO:0099081	0.016469983618658	0.9990872452576	2	105	supramolecular polymer	CC	0.9999999999	CC supramolecular polymer	XLOC_047945, XLOC_055461
+GO:0099512	0.016469983618658	0.9990872452576	2	105	supramolecular fiber	CC	0.9999999999	CC supramolecular fiber	XLOC_047945, XLOC_055461
+GO:0032934	0.0208853890578907	0.99982597435758	1	7	sterol binding	MF	0.9999999999	MF sterol binding	XLOC_060305
+GO:0005496	0.024213758135565	0.999760920780604	1	8	steroid binding	MF	0.9999999999	MF steroid binding	XLOC_060305
+GO:0045505	0.0244899168258551	0.999742079616069	1	13	dynein intermediate chain binding	MF	0.9999999999	MF dynein intermediate chain binding	XLOC_047945
+GO:0005858	0.0248122546559296	0.999737035465862	1	12	axonemal dynein complex	CC	0.9999999999	CC axonemal dynein complex	XLOC_047945
+GO:0051959	0.0248877541334129	0.999732017585465	1	14	dynein light intermediate chain binding	MF	0.9999999999	MF dynein light intermediate chain binding	XLOC_047945
+GO:0045503	0.025354644002314	0.999723449895909	1	13	dynein light chain binding	MF	0.9999999999	MF dynein light chain binding	XLOC_047945
+GO:0008569	0.0274259980056594	0.999674244620695	1	14	ATP-dependent microtubule motor activity, minus-end-directed	MF	0.9999999999	MF ATP-dependent microtubule motor activity, minus-end-directed	XLOC_047945
+GO:0070286	0.0311765279264136	0.999578437754444	1	14	axonemal dynein complex assembly	BP	0.9999999999	BP axonemal dynein complex assembly	XLOC_047945
+GO:0006396	0.0327780593169908	0.997366384813231	2	142	RNA processing	BP	0.9999999999	BP RNA processing	XLOC_025829, XLOC_055236
+GO:0005319	0.0342893268288162	0.999500018605036	1	11	lipid transporter activity	MF	0.9999999999	MF lipid transporter activity	XLOC_060305
+GO:0044447	0.037677646557965	0.999370381231823	1	19	axoneme part	CC	0.9999999999	CC axoneme part	XLOC_047945
+GO:1990939	0.0418158674323128	0.999215837885248	1	23	ATP-dependent microtubule motor activity	MF	0.9999999999	MF ATP-dependent microtubule motor activity	XLOC_047945

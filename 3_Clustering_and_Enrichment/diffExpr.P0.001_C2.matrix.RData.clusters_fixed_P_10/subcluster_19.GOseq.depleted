@@ -1,0 +1,9 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	under_represented_FDR	go_term
+GO:0043227	1	0.0122248543480276	0	925	membrane-bounded organelle	CC	0.9999999999	0.9999999999	CC membrane-bounded organelle
+GO:0043231	1	0.0255812974555094	0	779	intracellular membrane-bounded organelle	CC	0.9999999999	0.9999999999	CC intracellular membrane-bounded organelle
+GO:0008150	0.987933968837112	0.0375732253493802	4	1941	biological_process	BP	0.9999999999	0.9999999999	BP biological_process
+GO:0044422	0.994107067303208	0.0388866093909878	1	1047	organelle part	CC	0.9999999999	0.9999999999	CC organelle part
+GO:0032991	1	0.0404747254008476	0	658	protein-containing complex	CC	0.9999999999	0.9999999999	CC protein-containing complex
+GO:0044424	0.987028659909427	0.0443875745510768	3	1581	intracellular part	CC	0.9999999999	0.9999999999	CC intracellular part
+GO:0044446	0.99303301501001	0.0445963371881565	1	1021	intracellular organelle part	CC	0.9999999999	0.9999999999	CC intracellular organelle part
+GO:0065007	0.992147031451739	0.0491590351308782	1	1044	biological regulation	BP	0.9999999999	0.9999999999	BP biological regulation

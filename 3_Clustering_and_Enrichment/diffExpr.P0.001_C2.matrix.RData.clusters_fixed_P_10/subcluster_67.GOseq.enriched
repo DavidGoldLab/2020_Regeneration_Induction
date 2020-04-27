@@ -1,0 +1,8 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0046898	0.00169683257918552	1	1	1	response to cycloheximide	BP	0.9999999999	BP response to cycloheximide	XLOC_029724
+GO:0097305	0.0235239399545545	0.999769506385036	1	14	response to alcohol	BP	0.9999999999	BP response to alcohol	XLOC_029724
+GO:0005840	0.0285003090366465	0.999656435179561	1	17	ribosome	CC	0.9999999999	CC ribosome	XLOC_029724
+GO:1901654	0.0301540819169611	0.999613829930217	1	18	response to ketone	BP	0.9999999999	BP response to ketone	XLOC_029724
+GO:0003735	0.0301540819169612	0.999613829930217	1	18	structural constituent of ribosome	MF	0.9999999999	MF structural constituent of ribosome	XLOC_029724
+GO:0005622	0.0351003965809162	0.999471361721677	1	21	intracellular	CC	0.9999999999	CC intracellular	XLOC_029724
+GO:0006412	0.0383854694791007	0.99936423805319	1	23	translation	BP	0.9999999999	BP translation	XLOC_029724

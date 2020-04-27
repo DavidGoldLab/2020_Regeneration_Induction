@@ -1,0 +1,44 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0003334	0.0045201938969063	0.999995307019078	1	2	keratinocyte development	BP	0.9999999999	BP keratinocyte development	XLOC_026683
+GO:0033630	0.0045201938969063	0.999995307019078	1	2	positive regulation of cell adhesion mediated by integrin	BP	0.9999999999	BP positive regulation of cell adhesion mediated by integrin	XLOC_026683
+GO:0033628	0.00902165126046127	0.999971912880113	1	4	regulation of cell adhesion mediated by integrin	BP	0.9999999999	BP regulation of cell adhesion mediated by integrin	XLOC_026683
+GO:0006376	0.00902165126046127	0.999971912880113	1	4	mRNA splice site selection	BP	0.9999999999	BP mRNA splice site selection	XLOC_050102
+GO:1905515	0.00902165126047554	0.999971912880113	1	4	non-motile cilium assembly	BP	0.9999999999	BP non-motile cilium assembly	XLOC_026683
+GO:0097542	0.0112653758236224	0.999953246992297	1	5	ciliary tip	CC	0.9999999999	CC ciliary tip	XLOC_026683
+GO:0048468	0.013444533262548	0.999340893165258	2	80	cell development	BP	0.9999999999	BP cell development	XLOC_008741, XLOC_026683
+GO:0048487	0.0135044427211156	0.999929958664183	1	6	beta-tubulin binding	MF	0.9999999999	MF beta-tubulin binding	XLOC_026683
+GO:0071004	0.0135044427212943	0.999929958664183	1	6	U2-type prespliceosome	CC	0.9999999999	CC U2-type prespliceosome	XLOC_050102
+GO:0071010	0.0135044427212943	0.999929958664183	1	6	prespliceosome	CC	0.9999999999	CC prespliceosome	XLOC_050102
+GO:0035735	0.0157388607444007	0.99990206541857	1	7	intraciliary transport involved in cilium assembly	BP	0.9999999999	BP intraciliary transport involved in cilium assembly	XLOC_026683
+GO:0044441	0.0164737218693761	0.999099404180678	2	89	ciliary part	CC	0.9999999999	CC ciliary part	XLOC_008741, XLOC_026683
+GO:0007018	0.0164737218693761	0.999099404180678	2	89	microtubule-based movement	BP	0.9999999999	BP microtubule-based movement	XLOC_008741, XLOC_026683
+GO:0030992	0.0201937852589571	0.999832534043091	1	9	intraciliary transport particle B	CC	0.9999999999	CC intraciliary transport particle B	XLOC_026683
+GO:0005685	0.0201937852590407	0.999832534043091	1	9	U1 snRNP	CC	0.9999999999	CC U1 snRNP	XLOC_050102
+GO:0036158	0.0201937852590407	0.999832534043091	1	9	outer dynein arm assembly	BP	0.9999999999	BP outer dynein arm assembly	XLOC_008741
+GO:0034622	0.0266897723490966	0.998106168455732	2	115	cellular protein-containing complex assembly	BP	0.9999999999	BP cellular protein-containing complex assembly	XLOC_008741, XLOC_050102
+GO:0051087	0.0268415244001631	0.999694135604827	1	12	chaperone binding	MF	0.9999999999	MF chaperone binding	XLOC_039756
+GO:0031072	0.0268415244001632	0.999694135604827	1	12	heat shock protein binding	MF	0.9999999999	MF heat shock protein binding	XLOC_039756
+GO:0050680	0.0268415244001632	0.999694135604827	1	12	negative regulation of epithelial cell proliferation	BP	0.9999999999	BP negative regulation of epithelial cell proliferation	XLOC_026683
+GO:0022607	0.0303220272470107	0.995919375448969	3	314	cellular component assembly	BP	0.9999999999	BP cellular component assembly	XLOC_008741, XLOC_026683, XLOC_050102
+GO:0007286	0.0312503537713936	0.999579337565295	1	14	spermatid development	BP	0.9999999999	BP spermatid development	XLOC_008741
+GO:0070286	0.0312503537713936	0.999579337565295	1	14	axonemal dynein complex assembly	BP	0.9999999999	BP axonemal dynein complex assembly	XLOC_008741
+GO:0007017	0.0349429047099825	0.99712709941883	2	133	microtubule-based process	BP	0.9999999999	BP microtubule-based process	XLOC_008741, XLOC_026683
+GO:0001868	0.0356408668108809	0.999446674135157	1	16	regulation of complement activation, lectin pathway	BP	0.9999999999	BP regulation of complement activation, lectin pathway	XLOC_021835
+GO:0010185	0.0356408668108809	0.999446674135157	1	16	regulation of cellular defense response	BP	0.9999999999	BP regulation of cellular defense response	XLOC_021835
+GO:0042806	0.0356408668108809	0.999446674135157	1	16	fucose binding	MF	0.9999999999	MF fucose binding	XLOC_021835
+GO:0002673	0.037829276341386	0.999373685680268	1	17	regulation of acute inflammatory response	BP	0.9999999999	BP regulation of acute inflammatory response	XLOC_021835
+GO:0002920	0.037829276341386	0.999373685680268	1	17	regulation of humoral immune response	BP	0.9999999999	BP regulation of humoral immune response	XLOC_021835
+GO:0030449	0.037829276341386	0.999373685680268	1	17	regulation of complement activation	BP	0.9999999999	BP regulation of complement activation	XLOC_021835
+GO:2000257	0.037829276341386	0.999373685680268	1	17	regulation of protein activation cascade	BP	0.9999999999	BP regulation of protein activation cascade	XLOC_021835
+GO:0030532	0.037829276341386	0.999373685680268	1	17	small nuclear ribonucleoprotein complex	CC	0.9999999999	CC small nuclear ribonucleoprotein complex	XLOC_050102
+GO:0042073	0.037829276341386	0.999373685680268	1	17	intraciliary transport	BP	0.9999999999	BP intraciliary transport	XLOC_026683
+GO:0097525	0.037829276341386	0.999373685680268	1	17	spliceosomal snRNP complex	CC	0.9999999999	CC spliceosomal snRNP complex	XLOC_050102
+GO:0002064	0.0421924445660516	0.999214480469756	1	19	epithelial cell development	BP	0.9999999999	BP epithelial cell development	XLOC_026683
+GO:0031503	0.0421924445660516	0.999214480469756	1	19	protein-containing complex localization	BP	0.9999999999	BP protein-containing complex localization	XLOC_026683
+GO:0098840	0.0421924445660516	0.999214480469756	1	19	protein transport along microtubule	BP	0.9999999999	BP protein transport along microtubule	XLOC_026683
+GO:0099118	0.0421924445660516	0.999214480469756	1	19	microtubule-based protein transport	BP	0.9999999999	BP microtubule-based protein transport	XLOC_026683
+GO:0007368	0.0443672204725684	0.999128297654972	1	20	determination of left/right symmetry	BP	0.9999999999	BP determination of left/right symmetry	XLOC_026683
+GO:0009799	0.0443672204725684	0.999128297654972	1	20	specification of symmetry	BP	0.9999999999	BP specification of symmetry	XLOC_026683
+GO:0009855	0.0443672204725684	0.999128297654972	1	20	determination of bilateral symmetry	BP	0.9999999999	BP determination of bilateral symmetry	XLOC_026683
+GO:0050821	0.0443672204725684	0.999128297654972	1	20	protein stabilization	BP	0.9999999999	BP protein stabilization	XLOC_039756
+GO:0007219	0.0465374690255155	0.999037750588574	1	21	Notch signaling pathway	BP	0.9999999999	BP Notch signaling pathway	XLOC_026683

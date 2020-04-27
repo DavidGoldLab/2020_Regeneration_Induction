@@ -1,0 +1,2 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	under_represented_FDR	go_term
+GO:0005575	1	0.0492794209458979	0	1993	cellular_component	CC	0.9999999999	0.999371458660186	CC cellular_component

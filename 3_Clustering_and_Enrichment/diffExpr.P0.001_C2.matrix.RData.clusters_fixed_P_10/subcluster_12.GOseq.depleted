@@ -1,0 +1,21 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	under_represented_FDR	go_term
+GO:1901360	1	0.0022217718783943	0	486	organic cyclic compound metabolic process	BP	0.9999999999	0.9999999999	BP organic cyclic compound metabolic process
+GO:0006725	1	0.00310219534464599	0	462	cellular aromatic compound metabolic process	BP	0.9999999999	0.9999999999	BP cellular aromatic compound metabolic process
+GO:0046483	1	0.00340995411001956	0	457	heterocycle metabolic process	BP	0.9999999999	0.9999999999	BP heterocycle metabolic process
+GO:0006139	1	0.00553123804166467	0	420	nucleobase-containing compound metabolic process	BP	0.9999999999	0.9999999999	BP nucleobase-containing compound metabolic process
+GO:0005829	1	0.00580214643912112	0	398	cytosol	CC	0.9999999999	0.9999999999	CC cytosol
+GO:0097159	0.997768209947696	0.00903032869407278	3	804	organic cyclic compound binding	MF	0.9999999999	0.9999999999	MF organic cyclic compound binding
+GO:0043231	0.997595721160113	0.00964764783807863	3	779	intracellular membrane-bounded organelle	CC	0.9999999999	0.9999999999	CC intracellular membrane-bounded organelle
+GO:0005634	0.998773581284178	0.00988894033578436	1	532	nucleus	CC	0.9999999999	0.9999999999	CC nucleus
+GO:1901363	0.997492146755297	0.0100139184153177	3	796	heterocyclic compound binding	MF	0.9999999999	0.9999999999	MF heterocyclic compound binding
+GO:0034641	0.998659305213622	0.0106792874117496	1	520	cellular nitrogen compound metabolic process	BP	0.9999999999	0.9999999999	BP cellular nitrogen compound metabolic process
+GO:0090304	1	0.0115859416829883	0	367	nucleic acid metabolic process	BP	0.9999999999	0.9999999999	BP nucleic acid metabolic process
+GO:0080090	0.997651566693857	0.0172631170161182	1	471	regulation of primary metabolic process	BP	0.9999999999	0.9999999999	BP regulation of primary metabolic process
+GO:0043229	0.993344633110512	0.0179384112488375	6	1045	intracellular organelle	CC	0.9999999999	0.9999999999	CC intracellular organelle
+GO:0016740	1	0.0257710208488306	0	302	transferase activity	MF	0.9999999999	0.9999999999	MF transferase activity
+GO:0003676	0.996081597218784	0.0266124048547317	1	453	nucleic acid binding	MF	0.9999999999	0.9999999999	MF nucleic acid binding
+GO:0044260	0.988050763191677	0.0391811775626175	3	639	cellular macromolecule metabolic process	BP	0.9999999999	0.9999999999	BP cellular macromolecule metabolic process
+GO:0051246	1	0.0411865589112113	0	253	regulation of protein metabolic process	BP	0.9999999999	0.9999999999	BP regulation of protein metabolic process
+GO:0000166	0.992474845753326	0.0458056562905812	1	396	nucleotide binding	MF	0.9999999999	0.9999999999	MF nucleotide binding
+GO:1901265	0.992474845753326	0.0458056562905812	1	396	nucleoside phosphate binding	MF	0.9999999999	0.9999999999	MF nucleoside phosphate binding
+GO:0003723	1	0.0478076555129879	0	251	RNA binding	MF	0.9999999999	0.9999999999	MF RNA binding

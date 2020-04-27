@@ -1,0 +1,35 @@
+###########################################################################
+###########################################################################
+# Gene Ontology (GO) Enrichment Analysis on Differentially Expressed Genes
+###########################################################################
+###########################################################################
+
+
+############################################################
+# Automatically Partitioning Genes into Expression Clusters
+############################################################
+
+/usr/local/Cellar/trinity/2.8.3_1/libexec/Analysis/DifferentialExpression/define_clusters_by_cutting_tree.pl \
+-R  ../2_EdgeR/edgeR.dir/diffExpr.P0.001_C2.matrix.RData --Ptree 10
+
+	# Note: diffExpr.P0.001_C2.matrix.RData too large for GitHub; recreate the file using commands described in ../2_EdgeR directory
+	
+########################
+# Run GoSeq on clusters
+########################
+
+cd diffExpr.P0.001_C2.matrix.RData.clusters_fixed_P_10
+
+for i in *_fpkm.matrix
+do
+	cut -f1 $i > ${i%_log2_medianCentered_fpkm.matrix}.tmp1
+	tail -n +2 ${i%_log2_medianCentered_fpkm.matrix}.tmp1 > ${i%_log2_medianCentered_fpkm.matrix}.list.txt
+	rm *.tmp1
+	/usr/local/Cellar/trinity/2.8.3_1/libexec/Analysis/DifferentialExpression/run_GOseq.pl \
+	--genes_single_factor  ${i%_log2_medianCentered_fpkm.matrix}.list.txt \
+	--GO_assignments  ../GO_annotations.txt \
+	--lengths ../Gene_lengths.txt \
+	--background ../GO_List.Background.DE_Genes.txt
+done
+
+	# NOTE: The Aurelia TOR gene (XLOC_029150) is included in subcluster 22

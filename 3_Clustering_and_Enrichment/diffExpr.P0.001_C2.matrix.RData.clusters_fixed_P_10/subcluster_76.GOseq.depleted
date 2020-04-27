@@ -1,0 +1,12 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	under_represented_FDR	go_term
+GO:0043226	1	0.00846706248485439	0	1148	organelle	CC	0.9999999999	0.9999999999	CC organelle
+GO:0043229	1	0.0136441012856911	0	1045	intracellular organelle	CC	0.9999999999	0.9999999999	CC intracellular organelle
+GO:0044444	1	0.0159232890411445	0	1007	cytoplasmic part	CC	0.9999999999	0.9999999999	CC cytoplasmic part
+GO:0044464	0.995855646790157	0.0213227480244202	2	1751	cell part	CC	0.9999999999	0.9999999999	CC cell part
+GO:0043227	1	0.0235883432499531	0	925	membrane-bounded organelle	CC	0.9999999999	0.9999999999	CC membrane-bounded organelle
+GO:0044237	1	0.0252737238885744	0	905	cellular metabolic process	BP	0.9999999999	0.9999999999	BP cellular metabolic process
+GO:0005575	0.992316733056818	0.030350703127089	3	1993	cellular_component	CC	0.9999999999	0.9999999999	CC cellular_component
+GO:0005488	0.992758604281973	0.0340126530469739	2	1638	binding	MF	0.9999999999	0.9999999999	MF binding
+GO:0003674	0.990896413150259	0.0350012629676478	3	1959	molecular_function	MF	0.9999999999	0.9999999999	MF molecular_function
+GO:0044424	0.99100254699816	0.0407186845645257	2	1581	intracellular part	CC	0.9999999999	0.9999999999	CC intracellular part
+GO:0043231	1	0.0448347875225481	0	779	intracellular membrane-bounded organelle	CC	0.9999999999	0.9999999999	CC intracellular membrane-bounded organelle

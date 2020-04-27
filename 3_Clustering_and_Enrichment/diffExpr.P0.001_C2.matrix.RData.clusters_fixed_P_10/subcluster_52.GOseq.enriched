@@ -1,0 +1,159 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0014067	0.00081124853233743	1	1	1	negative regulation of phosphatidylinositol 3-kinase signaling	BP	0.9999999999	BP negative regulation of phosphatidylinositol 3-kinase signaling	XLOC_062045
+GO:0010314	0.00165012839254701	0.999999416075747	1	2	phosphatidylinositol-5-phosphate binding	MF	0.9999999999	MF phosphatidylinositol-5-phosphate binding	XLOC_062045
+GO:0070273	0.00165012839254701	0.999999416075747	1	2	phosphatidylinositol-4-phosphate binding	MF	0.9999999999	MF phosphatidylinositol-4-phosphate binding	XLOC_062045
+GO:0005863	0.00198000382642806	0.999999159117948	1	2	striated muscle myosin thick filament	CC	0.9999999999	CC striated muscle myosin thick filament	XLOC_062045
+GO:0060297	0.00244629176998786	0.999998288382779	1	3	regulation of sarcomere organization	BP	0.9999999999	BP regulation of sarcomere organization	XLOC_062045
+GO:0060298	0.00244629176998786	0.999998288382779	1	3	positive regulation of sarcomere organization	BP	0.9999999999	BP positive regulation of sarcomere organization	XLOC_062045
+GO:0090736	0.00244629176998786	0.999998288382779	1	3	MATH domain binding	MF	0.9999999999	MF MATH domain binding	XLOC_062045
+GO:1905550	0.00244629176998786	0.999998288382779	1	3	regulation of protein localization to endoplasmic reticulum	BP	0.9999999999	BP regulation of protein localization to endoplasmic reticulum	XLOC_062045
+GO:1905552	0.00244629176998786	0.999998288382779	1	3	positive regulation of protein localization to endoplasmic reticulum	BP	0.9999999999	BP positive regulation of protein localization to endoplasmic reticulum	XLOC_062045
+GO:1905905	0.00244629176998786	0.999998288382779	1	3	pharyngeal gland morphogenesis	BP	0.9999999999	BP pharyngeal gland morphogenesis	XLOC_062045
+GO:0030506	0.00267272965805176	0.99999795661475	1	3	ankyrin binding	MF	0.9999999999	MF ankyrin binding	XLOC_062045
+GO:0005576	0.00274951799243236	0.999874303946662	3	278	extracellular region	CC	0.9999999999	CC extracellular region	XLOC_000330, XLOC_023759, XLOC_062045
+GO:0022612	0.00301336059479968	0.999997077674336	1	4	gland morphogenesis	BP	0.9999999999	BP gland morphogenesis	XLOC_062045
+GO:0031432	0.00323750764475492	0.999997750234032	1	2	titin binding	MF	0.9999999999	MF titin binding	XLOC_062045
+GO:0031672	0.00349521133903582	0.999996067459729	1	4	A band	CC	0.9999999999	CC A band	XLOC_062045
+GO:0051155	0.00376278260594234	0.999995441730071	1	4	positive regulation of striated muscle cell differentiation	BP	0.9999999999	BP positive regulation of striated muscle cell differentiation	XLOC_062045
+GO:0014722	0.00399203771971647	0.999994868803983	1	4	regulation of skeletal muscle contraction by calcium ion signaling	BP	0.9999999999	BP regulation of skeletal muscle contraction by calcium ion signaling	XLOC_062045
+GO:0014819	0.00399203771971647	0.999994868803983	1	4	regulation of skeletal muscle contraction	BP	0.9999999999	BP regulation of skeletal muscle contraction	XLOC_062045
+GO:0031433	0.00411400924994316	0.999994550142311	1	4	telethonin binding	MF	0.9999999999	MF telethonin binding	XLOC_062045
+GO:0035995	0.00411400924994316	0.999994550142311	1	4	detection of muscle stretch	BP	0.9999999999	BP detection of muscle stretch	XLOC_062045
+GO:0048769	0.00411400924994316	0.999994550142311	1	4	sarcomerogenesis	BP	0.9999999999	BP sarcomerogenesis	XLOC_062045
+GO:0045989	0.00429509516573236	0.999993663770488	1	5	positive regulation of striated muscle contraction	BP	0.9999999999	BP positive regulation of striated muscle contraction	XLOC_062045
+GO:0043325	0.00440457222190774	0.999993336312926	1	5	phosphatidylinositol-3,4-bisphosphate binding	MF	0.9999999999	MF phosphatidylinositol-3,4-bisphosphate binding	XLOC_062045
+GO:0003300	0.00492339151705237	0.99999167202853	1	5	cardiac muscle hypertrophy	BP	0.9999999999	BP cardiac muscle hypertrophy	XLOC_062045
+GO:0014897	0.00492339151705237	0.99999167202853	1	5	striated muscle hypertrophy	BP	0.9999999999	BP striated muscle hypertrophy	XLOC_062045
+GO:0030240	0.00499245656984499	0.999991436469758	1	5	skeletal muscle thin filament assembly	BP	0.9999999999	BP skeletal muscle thin filament assembly	XLOC_062045
+GO:0032266	0.00522553751846518	0.999990226896291	1	6	phosphatidylinositol-3-phosphate binding	MF	0.9999999999	MF phosphatidylinositol-3-phosphate binding	XLOC_062045
+GO:0051153	0.0053777790485742	0.999990061817979	1	5	regulation of striated muscle cell differentiation	BP	0.9999999999	BP regulation of striated muscle cell differentiation	XLOC_062045
+GO:0014704	0.00555502460775808	0.999989395056909	1	5	intercalated disc	CC	0.9999999999	CC intercalated disc	XLOC_062045
+GO:0044291	0.00555502460775808	0.999989395056909	1	5	cell-cell contact zone	CC	0.9999999999	CC cell-cell contact zone	XLOC_062045
+GO:0014896	0.00574512954507654	0.999988183988258	1	6	muscle hypertrophy	BP	0.9999999999	BP muscle hypertrophy	XLOC_062045
+GO:0014066	0.00576585803574712	0.999988573682423	1	5	regulation of phosphatidylinositol 3-kinase signaling	BP	0.9999999999	BP regulation of phosphatidylinositol 3-kinase signaling	XLOC_062045
+GO:0043621	0.00578295978700048	0.999988505709886	1	5	protein self-association	MF	0.9999999999	MF protein self-association	XLOC_062045
+GO:0030239	0.00580471652256543	0.999987937291217	1	6	myofibril assembly	BP	0.9999999999	BP myofibril assembly	XLOC_062045
+GO:0048739	0.00580471652256543	0.999987937291217	1	6	cardiac muscle fiber development	BP	0.9999999999	BP cardiac muscle fiber development	XLOC_062045
+GO:0055003	0.00580471652256543	0.999987937291217	1	6	cardiac myofibril assembly	BP	0.9999999999	BP cardiac myofibril assembly	XLOC_062045
+GO:0005865	0.00580535032535412	0.999987934653465	1	6	striated muscle thin filament	CC	0.9999999999	CC striated muscle thin filament	XLOC_062045
+GO:0031674	0.00608184979549214	0.999986756343215	1	6	I band	CC	0.9999999999	CC I band	XLOC_062045
+GO:0051149	0.00622943949327915	0.999986104854563	1	6	positive regulation of muscle cell differentiation	BP	0.9999999999	BP positive regulation of muscle cell differentiation	XLOC_062045
+GO:0055008	0.00658107294290182	0.999984489465942	1	6	cardiac muscle tissue morphogenesis	BP	0.9999999999	BP cardiac muscle tissue morphogenesis	XLOC_062045
+GO:0000794	0.00660889956890188	0.999984357828462	1	6	condensed nuclear chromosome	CC	0.9999999999	CC condensed nuclear chromosome	XLOC_062045
+GO:0030241	0.00661704148323465	0.999983872155024	1	7	skeletal muscle myosin thick filament assembly	BP	0.9999999999	BP skeletal muscle myosin thick filament assembly	XLOC_062045
+GO:0071688	0.00661704148323465	0.999983872155024	1	7	striated muscle myosin thick filament assembly	BP	0.9999999999	BP striated muscle myosin thick filament assembly	XLOC_062045
+GO:0045933	0.00691559087043602	0.999982015503713	1	8	positive regulation of muscle contraction	BP	0.9999999999	BP positive regulation of muscle contraction	XLOC_062045
+GO:0036379	0.00696909651706763	0.999982107604891	1	7	myofilament	CC	0.9999999999	CC myofilament	XLOC_062045
+GO:0060048	0.0069703966669235	0.999982597010905	1	6	cardiac muscle contraction	BP	0.9999999999	BP cardiac muscle contraction	XLOC_062045
+GO:0005859	0.00722197906583771	0.999981315988617	1	6	muscle myosin complex	CC	0.9999999999	CC muscle myosin complex	XLOC_062045
+GO:0035994	0.00734284512284329	0.999980684326216	1	6	response to muscle stretch	BP	0.9999999999	BP response to muscle stretch	XLOC_062045
+GO:0005546	0.00739810306916435	0.999981174575642	1	5	phosphatidylinositol-4,5-bisphosphate binding	MF	0.9999999999	MF phosphatidylinositol-4,5-bisphosphate binding	XLOC_062045
+GO:0051371	0.00759084698357385	0.999978325628549	1	8	muscle alpha-actinin binding	MF	0.9999999999	MF muscle alpha-actinin binding	XLOC_062045
+GO:0006941	0.00779480723669129	0.999977608497125	1	7	striated muscle contraction	BP	0.9999999999	BP striated muscle contraction	XLOC_062045
+GO:0031430	0.00792813464293276	0.999976353263987	1	8	M band	CC	0.9999999999	CC M band	XLOC_062045
+GO:0032982	0.00801646336077272	0.99997582250357	1	8	myosin filament	CC	0.9999999999	CC myosin filament	XLOC_062045
+GO:0060415	0.00818162860528054	0.999974814176918	1	8	muscle tissue morphogenesis	BP	0.9999999999	BP muscle tissue morphogenesis	XLOC_062045
+GO:0097493	0.00827636294643232	0.999973818546813	1	9	structural molecule activity conferring elasticity	MF	0.9999999999	MF structural molecule activity conferring elasticity	XLOC_062045
+GO:0010737	0.00831932129373018	0.999973545568603	1	9	protein kinase A signaling	BP	0.9999999999	BP protein kinase A signaling	XLOC_062045
+GO:0031033	0.00854569190613247	0.999972518574289	1	8	myosin filament organization	BP	0.9999999999	BP myosin filament organization	XLOC_062045
+GO:0031034	0.00854569190613247	0.999972518574289	1	8	myosin filament assembly	BP	0.9999999999	BP myosin filament assembly	XLOC_062045
+GO:0000793	0.00883503076838479	0.999970157571737	1	9	condensed chromosome	CC	0.9999999999	CC condensed chromosome	XLOC_062045
+GO:0098772	0.00905700718999447	0.999676343892099	2	134	molecular function regulator	MF	0.9999999999	MF molecular function regulator	XLOC_023759, XLOC_062045
+GO:0007076	0.00909603595314364	0.999968364795014	1	9	mitotic chromosome condensation	BP	0.9999999999	BP mitotic chromosome condensation	XLOC_062045
+GO:0051393	0.00910886455156507	0.999967880010777	1	10	alpha-actinin binding	MF	0.9999999999	MF alpha-actinin binding	XLOC_062045
+GO:1902117	0.0100472868827346	0.999960511913564	1	11	positive regulation of organelle assembly	BP	0.9999999999	BP positive regulation of organelle assembly	XLOC_062045
+GO:0055006	0.0103396934495257	0.999959101077931	1	9	cardiac cell development	BP	0.9999999999	BP cardiac cell development	XLOC_062045
+GO:0055013	0.0103396934495257	0.999959101077931	1	9	cardiac muscle cell development	BP	0.9999999999	BP cardiac muscle cell development	XLOC_062045
+GO:0010927	0.0105058509389005	0.999957247117325	1	10	cellular component assembly involved in morphogenesis	BP	0.9999999999	BP cellular component assembly involved in morphogenesis	XLOC_062045
+GO:0017048	0.0107022990497488	0.999955183106663	1	11	Rho GTPase binding	MF	0.9999999999	MF Rho GTPase binding	XLOC_062045
+GO:0051147	0.0109558378514271	0.999953029531499	1	11	regulation of muscle cell differentiation	BP	0.9999999999	BP regulation of muscle cell differentiation	XLOC_062045
+GO:0030049	0.0114404003816114	0.999950686036765	1	8	muscle filament sliding	BP	0.9999999999	BP muscle filament sliding	XLOC_062045
+GO:0033275	0.0114404003816114	0.999950686036765	1	8	actin-myosin filament sliding	BP	0.9999999999	BP actin-myosin filament sliding	XLOC_062045
+GO:0042805	0.0116250027824035	0.999946662696358	1	12	actinin binding	MF	0.9999999999	MF actinin binding	XLOC_062045
+GO:0000228	0.0117171613951698	0.999945811590249	1	12	nuclear chromosome	CC	0.9999999999	CC nuclear chromosome	XLOC_062045
+GO:1902936	0.0117764411515169	0.999946251771967	1	10	phosphatidylinositol bisphosphate binding	MF	0.9999999999	MF phosphatidylinositol bisphosphate binding	XLOC_062045
+GO:0005089	0.012168007767782	0.999941550333648	1	12	Rho guanyl-nucleotide exchange factor activity	MF	0.9999999999	MF Rho guanyl-nucleotide exchange factor activity	XLOC_062045
+GO:0048747	0.0123738989732618	0.999940644793006	1	10	muscle fiber development	BP	0.9999999999	BP muscle fiber development	XLOC_062045
+GO:0035023	0.0123811214814204	0.999939479628911	1	12	regulation of Rho protein signal transduction	BP	0.9999999999	BP regulation of Rho protein signal transduction	XLOC_062045
+GO:0045214	0.0128973570248325	0.999934313454677	1	12	sarcomere organization	BP	0.9999999999	BP sarcomere organization	XLOC_062045
+GO:0016460	0.012909311292849	0.99993617673803	1	9	myosin II complex	CC	0.9999999999	CC myosin II complex	XLOC_062045
+GO:0006942	0.0131959064248717	0.999930749994183	1	13	regulation of striated muscle contraction	BP	0.9999999999	BP regulation of striated muscle contraction	XLOC_062045
+GO:0005547	0.0133189642092785	0.999929448801301	1	13	phosphatidylinositol-3,4,5-trisphosphate binding	MF	0.9999999999	MF phosphatidylinositol-3,4,5-trisphosphate binding	XLOC_062045
+GO:0006323	0.0142117120665799	0.999919168369383	1	14	DNA packaging	BP	0.9999999999	BP DNA packaging	XLOC_062045
+GO:0030261	0.0142117120665799	0.999919168369383	1	14	chromosome condensation	BP	0.9999999999	BP chromosome condensation	XLOC_062045
+GO:0046777	0.0143868224376114	0.999916735531828	1	15	protein autophosphorylation	BP	0.9999999999	BP protein autophosphorylation	XLOC_062045
+GO:0030017	0.0155309290688703	0.999902920197971	1	15	sarcomere	CC	0.9999999999	CC sarcomere	XLOC_062045
+GO:0004713	0.0156295374528609	0.999902754013711	1	13	protein tyrosine kinase activity	MF	0.9999999999	MF protein tyrosine kinase activity	XLOC_062045
+GO:0050982	0.0166516577050542	0.999887419927952	1	17	detection of mechanical stimulus	BP	0.9999999999	BP detection of mechanical stimulus	XLOC_062045
+GO:0008307	0.0166641829253039	0.9998887509995	1	14	structural constituent of muscle	MF	0.9999999999	MF structural constituent of muscle	XLOC_062045
+GO:0055002	0.0168831702620428	0.999886469279619	1	13	striated muscle cell development	BP	0.9999999999	BP striated muscle cell development	XLOC_062045
+GO:0070252	0.0172670623787276	0.999881228691052	1	13	actin-mediated cell contraction	BP	0.9999999999	BP actin-mediated cell contraction	XLOC_062045
+GO:0005088	0.017436746490165	0.999876514295844	1	17	Ras guanyl-nucleotide exchange factor activity	MF	0.9999999999	MF Ras guanyl-nucleotide exchange factor activity	XLOC_062045
+GO:0055001	0.0177257863348014	0.9998740698895	1	14	muscle cell development	BP	0.9999999999	BP muscle cell development	XLOC_062045
+GO:0007596	0.0177763590680583	0.999872702283119	1	15	blood coagulation	BP	0.9999999999	BP blood coagulation	XLOC_023759
+GO:0007599	0.0177763590680583	0.999872702283119	1	15	hemostasis	BP	0.9999999999	BP hemostasis	XLOC_023759
+GO:0050817	0.0177763590680583	0.999872702283119	1	15	coagulation	BP	0.9999999999	BP coagulation	XLOC_023759
+GO:0006937	0.0181728764814351	0.999864950561412	1	19	regulation of muscle contraction	BP	0.9999999999	BP regulation of muscle contraction	XLOC_062045
+GO:0019902	0.0190744055016102	0.999851620682805	1	18	phosphatase binding	MF	0.9999999999	MF phosphatase binding	XLOC_062045
+GO:0031032	0.0192622388474534	0.999848672406772	1	18	actomyosin structure organization	BP	0.9999999999	BP actomyosin structure organization	XLOC_062045
+GO:0004867	0.0193049816157293	0.999847997423498	1	18	serine-type endopeptidase inhibitor activity	MF	0.9999999999	MF serine-type endopeptidase inhibitor activity	XLOC_023759
+GO:0002576	0.019328938999042	0.999848731081984	1	16	platelet degranulation	BP	0.9999999999	BP platelet degranulation	XLOC_062045
+GO:1902905	0.0204166893544501	0.999829386959654	1	19	positive regulation of supramolecular fiber organization	BP	0.9999999999	BP positive regulation of supramolecular fiber organization	XLOC_062045
+GO:0019722	0.0204827737607148	0.999827374305085	1	21	calcium-mediated signaling	BP	0.9999999999	BP calcium-mediated signaling	XLOC_062045
+GO:0042383	0.020636624172974	0.999825675770695	1	19	sarcolemma	CC	0.9999999999	CC sarcolemma	XLOC_062045
+GO:0005615	0.0219494271963933	0.998742612915996	2	205	extracellular space	CC	0.9999999999	CC extracellular space	XLOC_000330, XLOC_062045
+GO:0002020	0.0221015563894802	0.999801995990976	1	16	protease binding	MF	0.9999999999	MF protease binding	XLOC_062045
+GO:0051592	0.0221508788303284	0.999797975822951	1	21	response to calcium ion	BP	0.9999999999	BP response to calcium ion	XLOC_062045
+GO:1901981	0.0222429583110775	0.999796790275115	1	20	phosphatidylinositol phosphate binding	MF	0.9999999999	MF phosphatidylinositol phosphate binding	XLOC_062045
+GO:0030048	0.0223300418368296	0.999796376744588	1	18	actin filament-based movement	BP	0.9999999999	BP actin filament-based movement	XLOC_062045
+GO:0046578	0.0229225058448775	0.999783100217108	1	22	regulation of Ras protein signal transduction	BP	0.9999999999	BP regulation of Ras protein signal transduction	XLOC_062045
+GO:0009581	0.0232298936839092	0.999776758992791	1	23	detection of external stimulus	BP	0.9999999999	BP detection of external stimulus	XLOC_062045
+GO:0009582	0.0239699311975364	0.999761791365444	1	24	detection of abiotic stimulus	BP	0.9999999999	BP detection of abiotic stimulus	XLOC_062045
+GO:0008201	0.0243307513530188	0.999755491669042	1	22	heparin binding	MF	0.9999999999	MF heparin binding	XLOC_023759
+GO:0045296	0.0244217769949383	0.999753649662889	1	22	cadherin binding	MF	0.9999999999	MF cadherin binding	XLOC_062045
+GO:1902115	0.0247591957124572	0.999744922495384	1	26	regulation of organelle assembly	BP	0.9999999999	BP regulation of organelle assembly	XLOC_062045
+GO:0007015	0.0254650469196752	0.999730985864898	1	24	actin filament organization	BP	0.9999999999	BP actin filament organization	XLOC_062045
+GO:0051056	0.0255939246479295	0.999727773734477	1	25	regulation of small GTPase mediated signal transduction	BP	0.9999999999	BP regulation of small GTPase mediated signal transduction	XLOC_062045
+GO:0006936	0.0266914133792725	0.999705461874631	1	22	muscle contraction	BP	0.9999999999	BP muscle contraction	XLOC_062045
+GO:0090257	0.0269345411688189	0.999697423361211	1	27	regulation of muscle system process	BP	0.9999999999	BP regulation of muscle system process	XLOC_062045
+GO:0051495	0.0277220406383828	0.999679839264272	1	26	positive regulation of cytoskeleton organization	BP	0.9999999999	BP positive regulation of cytoskeleton organization	XLOC_062045
+GO:0050714	0.0283008950395047	0.999666779791526	1	25	positive regulation of protein secretion	BP	0.9999999999	BP positive regulation of protein secretion	XLOC_062045
+GO:0005085	0.029045446475842	0.999647838589907	1	27	guanyl-nucleotide exchange factor activity	MF	0.9999999999	MF guanyl-nucleotide exchange factor activity	XLOC_062045
+GO:0003012	0.0290748293774084	0.999648195623582	1	25	muscle system process	BP	0.9999999999	BP muscle system process	XLOC_062045
+GO:0005509	0.0295530134797342	0.998010346632999	2	238	calcium ion binding	MF	0.9999999999	MF calcium ion binding	XLOC_000330, XLOC_062045
+GO:0002793	0.0303870519148664	0.999614345979736	1	27	positive regulation of peptide secretion	BP	0.9999999999	BP positive regulation of peptide secretion	XLOC_062045
+GO:0017016	0.0315408345736219	0.999582730167504	1	30	Ras GTPase binding	MF	0.9999999999	MF Ras GTPase binding	XLOC_062045
+GO:0005539	0.0318665159120188	0.999574513119052	1	29	glycosaminoglycan binding	MF	0.9999999999	MF glycosaminoglycan binding	XLOC_023759
+GO:0071103	0.0321400731783895	0.999566143463747	1	31	DNA conformation change	BP	0.9999999999	BP DNA conformation change	XLOC_062045
+GO:0019932	0.0321825103383658	0.999564121366299	1	33	second-messenger-mediated signaling	BP	0.9999999999	BP second-messenger-mediated signaling	XLOC_062045
+GO:0031267	0.0323342618445548	0.999560850640555	1	31	small GTPase binding	MF	0.9999999999	MF small GTPase binding	XLOC_062045
+GO:0016459	0.0324707493646604	0.999560611488378	1	25	myosin complex	CC	0.9999999999	CC myosin complex	XLOC_062045
+GO:0030018	0.0331496706024954	0.999539319139864	1	29	Z disc	CC	0.9999999999	CC Z disc	XLOC_062045
+GO:0035091	0.0346444295761819	0.999494382288623	1	33	phosphatidylinositol binding	MF	0.9999999999	MF phosphatidylinositol binding	XLOC_062045
+GO:0009612	0.0347205740264652	0.999492631210408	1	32	response to mechanical stimulus	BP	0.9999999999	BP response to mechanical stimulus	XLOC_062045
+GO:0004866	0.0353207454835714	0.999475926686462	1	30	endopeptidase inhibitor activity	MF	0.9999999999	MF endopeptidase inhibitor activity	XLOC_023759
+GO:0061135	0.0353207454835714	0.999475926686462	1	30	endopeptidase regulator activity	MF	0.9999999999	MF endopeptidase regulator activity	XLOC_023759
+GO:0050878	0.0367873517790625	0.999429406080658	1	33	regulation of body fluid levels	BP	0.9999999999	BP regulation of body fluid levels	XLOC_023759
+GO:0030414	0.0372944694946575	0.999414011198034	1	32	peptidase inhibitor activity	MF	0.9999999999	MF peptidase inhibitor activity	XLOC_023759
+GO:0032956	0.0376220810276212	0.999402476283756	1	34	regulation of actin cytoskeleton organization	BP	0.9999999999	BP regulation of actin cytoskeleton organization	XLOC_062045
+GO:1903532	0.0376684774212698	0.999401532691435	1	33	positive regulation of secretion by cell	BP	0.9999999999	BP positive regulation of secretion by cell	XLOC_062045
+GO:0044707	0.0377850323733312	0.997087430737471	2	294	NA	NA	0.9999999999	none	XLOC_023759, XLOC_062045
+GO:1902903	0.0380277533041879	0.999389973723643	1	33	regulation of supramolecular fiber organization	BP	0.9999999999	BP regulation of supramolecular fiber organization	XLOC_062045
+GO:0051020	0.0383301509921922	0.999378566820838	1	36	GTPase binding	MF	0.9999999999	MF GTPase binding	XLOC_062045
+GO:0051606	0.0384260637450705	0.999375931304864	1	35	detection of stimulus	BP	0.9999999999	BP detection of stimulus	XLOC_062045
+GO:0005694	0.0388448487696182	0.999358366004396	1	44	chromosome	CC	0.9999999999	CC chromosome	XLOC_062045
+GO:0061134	0.0397486467706764	0.99933304974283	1	33	peptidase regulator activity	MF	0.9999999999	MF peptidase regulator activity	XLOC_023759
+GO:0032970	0.0407632115399714	0.9992954396704	1	38	regulation of actin filament-based process	BP	0.9999999999	BP regulation of actin filament-based process	XLOC_062045
+GO:0050708	0.04091217735048	0.999289753939923	1	39	regulation of protein secretion	BP	0.9999999999	BP regulation of protein secretion	XLOC_062045
+GO:0005516	0.0441481586457849	0.999172441069845	1	38	calmodulin binding	MF	0.9999999999	MF calmodulin binding	XLOC_062045
+GO:1902532	0.0451395981463692	0.99913137328765	1	44	negative regulation of intracellular signal transduction	BP	0.9999999999	BP negative regulation of intracellular signal transduction	XLOC_062045
+GO:0004674	0.0465849600079298	0.999073847883787	1	45	protein serine/threonine kinase activity	MF	0.9999999999	MF protein serine/threonine kinase activity	XLOC_062045
+GO:0051047	0.0469148195366103	0.999062606788972	1	41	positive regulation of secretion	BP	0.9999999999	BP positive regulation of secretion	XLOC_062045
+GO:0048729	0.0474870078136353	0.999035941205305	1	48	tissue morphogenesis	BP	0.9999999999	BP tissue morphogenesis	XLOC_062045
+GO:0051015	0.0480548438136867	0.999014920297689	1	43	actin filament binding	MF	0.9999999999	MF actin filament binding	XLOC_062045
+GO:0002791	0.0484349955945364	0.998998080054858	1	45	regulation of peptide secretion	BP	0.9999999999	BP regulation of peptide secretion	XLOC_062045
+GO:0010038	0.0488118873523517	0.998981306168457	1	47	response to metal ion	BP	0.9999999999	BP response to metal ion	XLOC_062045
+GO:0044449	0.049376666894834	0.998958875275318	1	44	contractile fiber part	CC	0.9999999999	CC contractile fiber part	XLOC_062045
+GO:0040017	0.0496230042483759	0.998947313370293	1	46	positive regulation of locomotion	BP	0.9999999999	BP positive regulation of locomotion	XLOC_062045
+GO:0044421	0.0496520326812484	0.995545904721557	2	321	extracellular region part	CC	0.9999999999	CC extracellular region part	XLOC_000330, XLOC_062045
+GO:0044057	0.0497806641449124	0.99893788146665	1	52	regulation of system process	BP	0.9999999999	BP regulation of system process	XLOC_062045

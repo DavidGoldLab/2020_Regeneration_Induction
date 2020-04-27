@@ -1,0 +1,20 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:1901681	0.00259777111064908	0.999948867377565	2	53	sulfur compound binding	MF	0.9999999999	MF sulfur compound binding	XLOC_023038, XLOC_059308
+GO:0048266	0.004346842199557	0.999994390478924	1	3	behavioral response to pain	BP	0.9999999999	BP behavioral response to pain	XLOC_023038
+GO:0016529	0.00807503762499578	0.999976736350284	1	5	sarcoplasmic reticulum	CC	0.9999999999	CC sarcoplasmic reticulum	XLOC_023038
+GO:0030552	0.00991450100270578	0.999964901558227	1	5	cAMP binding	MF	0.9999999999	MF cAMP binding	XLOC_056093
+GO:0050840	0.0126285851959002	0.999935889093033	1	10	extracellular matrix binding	MF	0.9999999999	MF extracellular matrix binding	XLOC_023038
+GO:0030551	0.0170397193582042	0.999884502710958	1	9	cyclic nucleotide binding	MF	0.9999999999	MF cyclic nucleotide binding	XLOC_056093
+GO:0006986	0.0196330977079545	0.99984303976515	1	11	response to unfolded protein	BP	0.9999999999	BP response to unfolded protein	XLOC_023038
+GO:0035966	0.0196330977079545	0.99984303976515	1	11	response to topologically incorrect protein	BP	0.9999999999	BP response to topologically incorrect protein	XLOC_023038
+GO:0009374	0.0252763517179035	0.999729186278288	1	18	biotin binding	MF	0.9999999999	MF biotin binding	XLOC_059308
+GO:0016525	0.028683068557617	0.999653335063654	1	16	negative regulation of angiogenesis	BP	0.9999999999	BP negative regulation of angiogenesis	XLOC_023038
+GO:0043168	0.0288577415098983	0.996460138959416	3	487	anion binding	MF	0.9999999999	MF anion binding	XLOC_023038, XLOC_056093, XLOC_059308
+GO:1901343	0.0295325303475449	0.999630945674438	1	17	negative regulation of vasculature development	BP	0.9999999999	BP negative regulation of vasculature development	XLOC_023038
+GO:2000181	0.0295325303475449	0.999630945674438	1	17	negative regulation of blood vessel morphogenesis	BP	0.9999999999	BP negative regulation of blood vessel morphogenesis	XLOC_023038
+GO:0008201	0.0322589466214514	0.999552988048713	1	22	heparin binding	MF	0.9999999999	MF heparin binding	XLOC_023038
+GO:0033293	0.0336625404776539	0.999511975645996	1	23	monocarboxylic acid binding	MF	0.9999999999	MF monocarboxylic acid binding	XLOC_059308
+GO:0005615	0.0380955939627452	0.996865691856976	2	205	extracellular space	CC	0.9999999999	CC extracellular space	XLOC_023038, XLOC_059308
+GO:0005539	0.0426441659118415	0.999206735640215	1	29	glycosaminoglycan binding	MF	0.9999999999	MF glycosaminoglycan binding	XLOC_023038
+GO:0034976	0.0449676479585917	0.999118235566328	1	28	response to endoplasmic reticulum stress	BP	0.9999999999	BP response to endoplasmic reticulum stress	XLOC_023038
+GO:0006954	0.0451169575105834	0.999111202735969	1	29	inflammatory response	BP	0.9999999999	BP inflammatory response	XLOC_023038

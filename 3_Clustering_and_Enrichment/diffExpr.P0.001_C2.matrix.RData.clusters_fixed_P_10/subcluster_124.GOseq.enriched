@@ -1,0 +1,67 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0031104	0.00208456449487614	1	1	1	dendrite regeneration	BP	0.9999999999	BP dendrite regeneration	XLOC_032555
+GO:0031102	0.00252655574498586	0.999998721605611	1	2	neuron projection regeneration	BP	0.9999999999	BP neuron projection regeneration	XLOC_032555
+GO:0008347	0.0034439079330217	0.999996436381637	1	4	glial cell migration	BP	0.9999999999	BP glial cell migration	XLOC_032555
+GO:0035609	0.00456193073726954	0.999995827116153	1	2	C-terminal protein deglutamylation	BP	0.9999999999	BP C-terminal protein deglutamylation	XLOC_028793
+GO:1904492	0.00456193073726954	0.999995827116153	1	2	Ac-Asp-Glu binding	MF	0.9999999999	MF Ac-Asp-Glu binding	XLOC_028793
+GO:1904493	0.00456193073726954	0.999995827116153	1	2	tetrahydrofolyl-poly(glutamate) polymer binding	MF	0.9999999999	MF tetrahydrofolyl-poly(glutamate) polymer binding	XLOC_028793
+GO:0035608	0.00500310348763671	0.999993308448677	1	3	protein deglutamylation	BP	0.9999999999	BP protein deglutamylation	XLOC_028793
+GO:1900750	0.00546582897316026	0.999991014531714	1	4	oligopeptide binding	MF	0.9999999999	MF oligopeptide binding	XLOC_028793
+GO:0016805	0.00549999332618662	0.999990901696648	1	4	dipeptidase activity	MF	0.9999999999	MF dipeptidase activity	XLOC_028793
+GO:0018410	0.00553733209306176	0.999991800767317	1	3	C-terminal protein amino acid modification	BP	0.9999999999	BP C-terminal protein amino acid modification	XLOC_028793
+GO:0048678	0.00554352891525383	0.999989438959439	1	7	response to axon injury	BP	0.9999999999	BP response to axon injury	XLOC_032555
+GO:0016358	0.00748856877908756	0.999980309748899	1	8	dendrite development	BP	0.9999999999	BP dendrite development	XLOC_032555
+GO:0018200	0.00768240609286205	0.999979275396955	1	8	peptidyl-glutamic acid modification	BP	0.9999999999	BP peptidyl-glutamic acid modification	XLOC_028793
+GO:0003414	0.00888498826594282	0.99997094769077	1	12	chondrocyte morphogenesis involved in endochondral bone morphogenesis	BP	0.9999999999	BP chondrocyte morphogenesis involved in endochondral bone morphogenesis	XLOC_032555
+GO:0003422	0.00888498826594282	0.99997094769077	1	12	growth plate cartilage morphogenesis	BP	0.9999999999	BP growth plate cartilage morphogenesis	XLOC_032555
+GO:0003429	0.00888498826594282	0.99997094769077	1	12	growth plate cartilage chondrocyte morphogenesis	BP	0.9999999999	BP growth plate cartilage chondrocyte morphogenesis	XLOC_032555
+GO:0090171	0.00888498826594282	0.99997094769077	1	12	chondrocyte morphogenesis	BP	0.9999999999	BP chondrocyte morphogenesis	XLOC_032555
+GO:0060536	0.00932456853242712	0.999967772714652	1	13	cartilage morphogenesis	BP	0.9999999999	BP cartilage morphogenesis	XLOC_032555
+GO:0004181	0.00955835026554289	0.999969415127456	1	6	metallocarboxypeptidase activity	MF	0.9999999999	MF metallocarboxypeptidase activity	XLOC_028793
+GO:0031099	0.00964425889653535	0.999966379231521	1	10	regeneration	BP	0.9999999999	BP regeneration	XLOC_032555
+GO:0004180	0.0113389794275016	0.99995406210214	1	9	carboxypeptidase activity	MF	0.9999999999	MF carboxypeptidase activity	XLOC_028793
+GO:0001764	0.0117871159936917	0.999947877729808	1	15	neuron migration	BP	0.9999999999	BP neuron migration	XLOC_032555
+GO:0006760	0.012939239891541	0.999936880114001	1	16	folic acid-containing compound metabolic process	BP	0.9999999999	BP folic acid-containing compound metabolic process	XLOC_028793
+GO:0043687	0.0141062313217582	0.999924943522489	1	16	post-translational protein modification	BP	0.9999999999	BP post-translational protein modification	XLOC_028793
+GO:0031175	0.0143807026534462	0.999921680824496	1	17	neuron projection development	BP	0.9999999999	BP neuron projection development	XLOC_032555
+GO:0008652	0.0146464381704018	0.999917992937251	1	20	cellular amino acid biosynthetic process	BP	0.9999999999	BP cellular amino acid biosynthetic process	XLOC_028793
+GO:0042558	0.0147684453645126	0.999916846340712	1	19	pteridine-containing compound metabolic process	BP	0.9999999999	BP pteridine-containing compound metabolic process	XLOC_028793
+GO:0001868	0.0159807912511165	0.999903592130869	1	16	regulation of complement activation, lectin pathway	BP	0.9999999999	BP regulation of complement activation, lectin pathway	XLOC_032555
+GO:0010185	0.0159807912511165	0.999903592130869	1	16	regulation of cellular defense response	BP	0.9999999999	BP regulation of cellular defense response	XLOC_032555
+GO:0042806	0.0159807912511165	0.999903592130869	1	16	fucose binding	MF	0.9999999999	MF fucose binding	XLOC_032555
+GO:0002673	0.0165860047862665	0.999895719854011	1	17	regulation of acute inflammatory response	BP	0.9999999999	BP regulation of acute inflammatory response	XLOC_032555
+GO:0002920	0.0165860047862665	0.999895719854011	1	17	regulation of humoral immune response	BP	0.9999999999	BP regulation of humoral immune response	XLOC_032555
+GO:0030449	0.0165860047862665	0.999895719854011	1	17	regulation of complement activation	BP	0.9999999999	BP regulation of complement activation	XLOC_032555
+GO:2000257	0.0165860047862665	0.999895719854011	1	17	regulation of protein activation cascade	BP	0.9999999999	BP regulation of protein activation cascade	XLOC_032555
+GO:0008235	0.0167387418271834	0.999895197102094	1	14	metalloexopeptidase activity	MF	0.9999999999	MF metalloexopeptidase activity	XLOC_028793
+GO:0009611	0.0213018618477717	0.999822817155711	1	31	response to wounding	BP	0.9999999999	BP response to wounding	XLOC_032555
+GO:0070613	0.0213662131834869	0.999823789920003	1	23	regulation of protein processing	BP	0.9999999999	BP regulation of protein processing	XLOC_032555
+GO:1903317	0.0213662131834869	0.999823789920003	1	23	regulation of protein maturation	BP	0.9999999999	BP regulation of protein maturation	XLOC_032555
+GO:0044421	0.0220533424927762	0.998889305226912	2	321	extracellular region part	CC	0.9999999999	CC extracellular region part	XLOC_028793, XLOC_032555
+GO:0008238	0.0230431765022945	0.999793832265261	1	26	exopeptidase activity	MF	0.9999999999	MF exopeptidase activity	XLOC_028793
+GO:0048029	0.0237213467559847	0.999781802345496	1	25	monosaccharide binding	MF	0.9999999999	MF monosaccharide binding	XLOC_032555
+GO:0006575	0.0248503437819435	0.999757217938411	1	37	cellular modified amino acid metabolic process	BP	0.9999999999	BP cellular modified amino acid metabolic process	XLOC_028793
+GO:0005201	0.0253989898574765	0.999745797914135	1	40	extracellular matrix structural constituent	MF	0.9999999999	MF extracellular matrix structural constituent	XLOC_032555
+GO:0007411	0.025879318611548	0.999737984474814	1	31	axon guidance	BP	0.9999999999	BP axon guidance	XLOC_032555
+GO:0097485	0.025879318611548	0.999737984474814	1	31	neuron projection guidance	BP	0.9999999999	BP neuron projection guidance	XLOC_032555
+GO:0016053	0.0275867133585212	0.999700934189189	1	35	organic acid biosynthetic process	BP	0.9999999999	BP organic acid biosynthetic process	XLOC_028793
+GO:0046394	0.0275867133585212	0.999700934189189	1	35	carboxylic acid biosynthetic process	BP	0.9999999999	BP carboxylic acid biosynthetic process	XLOC_028793
+GO:0000904	0.0287240638735052	0.999677183350455	1	30	cell morphogenesis involved in differentiation	BP	0.9999999999	BP cell morphogenesis involved in differentiation	XLOC_032555
+GO:0048729	0.0291563248083778	0.999663081734375	1	48	tissue morphogenesis	BP	0.9999999999	BP tissue morphogenesis	XLOC_032555
+GO:0050727	0.0302033192112789	0.999640826785442	1	36	regulation of inflammatory response	BP	0.9999999999	BP regulation of inflammatory response	XLOC_032555
+GO:0042277	0.0320051975579739	0.999595788272669	1	38	peptide binding	MF	0.9999999999	MF peptide binding	XLOC_028793
+GO:0006732	0.0344175116473419	0.999530896719145	1	42	coenzyme metabolic process	BP	0.9999999999	BP coenzyme metabolic process	XLOC_028793
+GO:0002697	0.0353723389218216	0.999503272301365	1	46	regulation of immune effector process	BP	0.9999999999	BP regulation of immune effector process	XLOC_032555
+GO:0031012	0.0363745988225431	0.999471818525686	1	60	extracellular matrix	CC	0.9999999999	CC extracellular matrix	XLOC_032555
+GO:0045088	0.0379454463396031	0.999426992162809	1	49	regulation of innate immune response	BP	0.9999999999	BP regulation of innate immune response	XLOC_032555
+GO:0005604	0.0383551159317636	0.999413759067184	1	52	basement membrane	CC	0.9999999999	CC basement membrane	XLOC_032555
+GO:0000902	0.0383674913140224	0.99941677577602	1	40	cell morphogenesis	BP	0.9999999999	BP cell morphogenesis	XLOC_032555
+GO:0018193	0.03929737787368	0.999383509356569	1	56	peptidyl-amino acid modification	BP	0.9999999999	BP peptidyl-amino acid modification	XLOC_028793
+GO:0051186	0.0393162311409982	0.999384238003504	1	50	cofactor metabolic process	BP	0.9999999999	BP cofactor metabolic process	XLOC_028793
+GO:0044283	0.0396201758928895	0.999375124182515	1	48	small molecule biosynthetic process	BP	0.9999999999	BP small molecule biosynthetic process	XLOC_028793
+GO:0006520	0.0428521668151611	0.99926517031782	1	59	cellular amino acid metabolic process	BP	0.9999999999	BP cellular amino acid metabolic process	XLOC_028793
+GO:0009986	0.0449830173814147	0.999189785507041	1	58	cell surface	CC	0.9999999999	CC cell surface	XLOC_028793
+GO:0033218	0.0487569851272217	0.999044853611088	1	65	amide binding	MF	0.9999999999	MF amide binding	XLOC_028793
+GO:0030162	0.0490401300287896	0.99903361270822	1	65	regulation of proteolysis	BP	0.9999999999	BP regulation of proteolysis	XLOC_032555
+GO:0031347	0.0491138213719353	0.999030233005501	1	67	regulation of defense response	BP	0.9999999999	BP regulation of defense response	XLOC_032555
+GO:0044420	0.0499460142394838	0.998995515492992	1	73	extracellular matrix component	CC	0.9999999999	CC extracellular matrix component	XLOC_032555

@@ -1,0 +1,5 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	under_represented_FDR	go_term
+GO:0034641	1	0.0219724362821714	0	520	cellular nitrogen compound metabolic process	BP	0.9999999999	0.9999999999	BP cellular nitrogen compound metabolic process
+GO:0046483	1	0.0354475420481517	0	457	heterocycle metabolic process	BP	0.9999999999	0.9999999999	BP heterocycle metabolic process
+GO:0003676	1	0.0366916919046588	0	453	nucleic acid binding	MF	0.9999999999	0.9999999999	MF nucleic acid binding
+GO:0006139	1	0.047009946253176	0	420	nucleobase-containing compound metabolic process	BP	0.9999999999	0.9999999999	BP nucleobase-containing compound metabolic process

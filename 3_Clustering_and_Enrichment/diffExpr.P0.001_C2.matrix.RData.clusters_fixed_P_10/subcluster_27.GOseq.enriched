@@ -1,0 +1,43 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0005885	0.00184897292434271	1	1	1	Arp2/3 protein complex	CC	0.9999999999	CC Arp2/3 protein complex	XLOC_054476
+GO:0034314	0.00184897292434271	1	1	1	Arp2/3 complex-mediated actin nucleation	BP	0.9999999999	BP Arp2/3 complex-mediated actin nucleation	XLOC_054476
+GO:1905168	0.00296628627414019	0.999997650363031	1	3	positive regulation of double-strand break repair via homologous recombination	BP	0.9999999999	BP positive regulation of double-strand break repair via homologous recombination	XLOC_054476
+GO:0030479	0.00296637478032234	0.999997650222704	1	3	actin cortical patch	CC	0.9999999999	CC actin cortical patch	XLOC_054476
+GO:0061645	0.00296637478032234	0.999997650222704	1	3	endocytic patch	CC	0.9999999999	CC endocytic patch	XLOC_054476
+GO:2000781	0.00352096423618261	0.999996274984136	1	4	positive regulation of double-strand break repair	BP	0.9999999999	BP positive regulation of double-strand break repair	XLOC_054476
+GO:0045010	0.00355769612941738	0.999996196787436	1	4	actin nucleation	BP	0.9999999999	BP actin nucleation	XLOC_054476
+GO:0045739	0.00407904121281293	0.999994666210923	1	5	positive regulation of DNA repair	BP	0.9999999999	BP positive regulation of DNA repair	XLOC_054476
+GO:0045911	0.00519152847525417	0.999990739074375	1	7	positive regulation of DNA recombination	BP	0.9999999999	BP positive regulation of DNA recombination	XLOC_054476
+GO:0010569	0.00519432613607071	0.99999072907855	1	7	regulation of double-strand break repair via homologous recombination	BP	0.9999999999	BP regulation of double-strand break repair via homologous recombination	XLOC_054476
+GO:2000779	0.00575048609006482	0.999988398306181	1	8	regulation of double-strand break repair	BP	0.9999999999	BP regulation of double-strand break repair	XLOC_054476
+GO:0030838	0.00647644666674567	0.999985046180642	1	9	positive regulation of actin filament polymerization	BP	0.9999999999	BP positive regulation of actin filament polymerization	XLOC_054476
+GO:0035861	0.00651206948901779	0.999985419739998	1	7	site of double-strand break	CC	0.9999999999	CC site of double-strand break	XLOC_054476
+GO:2001022	0.00667325701888776	0.999984369633918	1	8	positive regulation of response to DNA damage stimulus	BP	0.9999999999	BP positive regulation of response to DNA damage stimulus	XLOC_054476
+GO:0006282	0.00686439237460535	0.999982988613059	1	10	regulation of DNA repair	BP	0.9999999999	BP regulation of DNA repair	XLOC_054476
+GO:0090734	0.00721755938107881	0.999981711373457	1	8	site of DNA damage	CC	0.9999999999	CC site of DNA damage	XLOC_054476
+GO:0032273	0.008708850110302	0.999971895754975	1	13	positive regulation of protein polymerization	BP	0.9999999999	BP positive regulation of protein polymerization	XLOC_054476
+GO:0000018	0.00976076843228333	0.999964289344568	1	15	regulation of DNA recombination	BP	0.9999999999	BP regulation of DNA recombination	XLOC_054476
+GO:0030833	0.0126171055381475	0.999939992139676	1	16	regulation of actin filament polymerization	BP	0.9999999999	BP regulation of actin filament polymerization	XLOC_054476
+GO:0031334	0.0127408665822463	0.999937993940741	1	20	positive regulation of protein complex assembly	BP	0.9999999999	BP positive regulation of protein complex assembly	XLOC_054476
+GO:1902905	0.014701558658072	0.999917600190903	1	19	positive regulation of supramolecular fiber organization	BP	0.9999999999	BP positive regulation of supramolecular fiber organization	XLOC_054476
+GO:2001020	0.0152770578254434	0.99991127406338	1	18	regulation of response to DNA damage stimulus	BP	0.9999999999	BP regulation of response to DNA damage stimulus	XLOC_054476
+GO:0008064	0.0153745483254088	0.99991013430163	1	18	regulation of actin polymerization or depolymerization	BP	0.9999999999	BP regulation of actin polymerization or depolymerization	XLOC_054476
+GO:0030832	0.0153745483254088	0.99991013430163	1	18	regulation of actin filament length	BP	0.9999999999	BP regulation of actin filament length	XLOC_054476
+GO:0032271	0.0153913875930733	0.999909184329603	1	21	regulation of protein polymerization	BP	0.9999999999	BP regulation of protein polymerization	XLOC_054476
+GO:0007015	0.0175230681440264	0.999881448868518	1	24	actin filament organization	BP	0.9999999999	BP actin filament organization	XLOC_054476
+GO:0051054	0.0188989134172728	0.99986178333056	1	25	positive regulation of DNA metabolic process	BP	0.9999999999	BP positive regulation of DNA metabolic process	XLOC_054476
+GO:0051495	0.0197999098396057	0.999847991346816	1	26	positive regulation of cytoskeleton organization	BP	0.9999999999	BP positive regulation of cytoskeleton organization	XLOC_054476
+GO:0008361	0.0240993474360306	0.999773474619214	1	29	regulation of cell size	BP	0.9999999999	BP regulation of cell size	XLOC_054476
+GO:0032535	0.0240993474360306	0.999773474619214	1	29	regulation of cellular component size	BP	0.9999999999	BP regulation of cellular component size	XLOC_054476
+GO:0043254	0.0241137006290865	0.999771827959625	1	35	regulation of protein complex assembly	BP	0.9999999999	BP regulation of protein complex assembly	XLOC_054476
+GO:0032956	0.0264451852626047	0.999725539290048	1	34	regulation of actin cytoskeleton organization	BP	0.9999999999	BP regulation of actin cytoskeleton organization	XLOC_054476
+GO:1902903	0.0275700751106402	0.999701823589975	1	33	regulation of supramolecular fiber organization	BP	0.9999999999	BP regulation of supramolecular fiber organization	XLOC_054476
+GO:0044448	0.0283308364829975	0.999684753967748	1	34	cell cortex part	CC	0.9999999999	CC cell cortex part	XLOC_054476
+GO:0032970	0.0286339621241827	0.999676915194877	1	38	regulation of actin filament-based process	BP	0.9999999999	BP regulation of actin filament-based process	XLOC_054476
+GO:0051052	0.0381049204465464	0.999421232256901	1	53	regulation of DNA metabolic process	BP	0.9999999999	BP regulation of DNA metabolic process	XLOC_054476
+GO:0097435	0.0403492443935904	0.999349574134707	1	57	supramolecular fiber organization	BP	0.9999999999	BP supramolecular fiber organization	XLOC_054476
+GO:0090066	0.0420084901323458	0.999294711083499	1	56	regulation of anatomical structure size	BP	0.9999999999	BP regulation of anatomical structure size	XLOC_054476
+GO:0044089	0.0422680732945635	0.999284654854649	1	62	positive regulation of cellular component biogenesis	BP	0.9999999999	BP positive regulation of cellular component biogenesis	XLOC_054476
+GO:0080135	0.0439331582122798	0.999227737737469	1	57	regulation of cellular response to stress	BP	0.9999999999	BP regulation of cellular response to stress	XLOC_054476
+GO:0045944	0.0471233125613224	0.99910779803559	1	68	positive regulation of transcription by RNA polymerase II	BP	0.9999999999	BP positive regulation of transcription by RNA polymerase II	XLOC_054476
+GO:0051493	0.047870108196019	0.999079414953699	1	66	regulation of cytoskeleton organization	BP	0.9999999999	BP regulation of cytoskeleton organization	XLOC_054476

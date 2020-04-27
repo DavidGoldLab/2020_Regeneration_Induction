@@ -1,0 +1,19 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	under_represented_FDR	go_term
+GO:0097159	0.999049782910028	0.00530750973461493	2	804	organic cyclic compound binding	MF	0.9999999999	0.9999999999	MF organic cyclic compound binding
+GO:1901363	0.998958944190724	0.00575346910046225	2	796	heterocyclic compound binding	MF	0.9999999999	0.9999999999	MF heterocyclic compound binding
+GO:0006139	1	0.00903254451891961	0	420	nucleobase-containing compound metabolic process	BP	0.9999999999	0.9999999999	BP nucleobase-containing compound metabolic process
+GO:0000166	1	0.0119744179610008	0	396	nucleotide binding	MF	0.9999999999	0.9999999999	MF nucleotide binding
+GO:1901265	1	0.0119744179610008	0	396	nucleoside phosphate binding	MF	0.9999999999	0.9999999999	MF nucleoside phosphate binding
+GO:0090304	1	0.0167471360584476	0	367	nucleic acid metabolic process	BP	0.9999999999	0.9999999999	BP nucleic acid metabolic process
+GO:0034641	0.997235987177406	0.0200192166138306	1	520	cellular nitrogen compound metabolic process	BP	0.9999999999	0.9999999999	BP cellular nitrogen compound metabolic process
+GO:0032553	1	0.0231795497118674	0	339	ribonucleotide binding	MF	0.9999999999	0.9999999999	MF ribonucleotide binding
+GO:0017076	1	0.0242828160530284	0	335	purine nucleotide binding	MF	0.9999999999	0.9999999999	MF purine nucleotide binding
+GO:0032555	1	0.0242828160530284	0	335	purine ribonucleotide binding	MF	0.9999999999	0.9999999999	MF purine ribonucleotide binding
+GO:0044260	0.994185636362464	0.0257213016768698	2	639	cellular macromolecule metabolic process	BP	0.9999999999	0.9999999999	BP cellular macromolecule metabolic process
+GO:0035639	1	0.0281908807932774	0	322	purine ribonucleoside triphosphate binding	MF	0.9999999999	0.9999999999	MF purine ribonucleoside triphosphate binding
+GO:0036094	0.995596416211432	0.0296147726981202	1	481	small molecule binding	MF	0.9999999999	0.9999999999	MF small molecule binding
+GO:0016740	1	0.0352704291523884	0	302	transferase activity	MF	0.9999999999	0.9999999999	MF transferase activity
+GO:0003676	0.993848806074375	0.0390987214474217	1	453	nucleic acid binding	MF	0.9999999999	0.9999999999	MF nucleic acid binding
+GO:0030554	1	0.0392517825625876	0	293	adenyl nucleotide binding	MF	0.9999999999	0.9999999999	MF adenyl nucleotide binding
+GO:0032559	1	0.0392517825625876	0	293	adenyl ribonucleotide binding	MF	0.9999999999	0.9999999999	MF adenyl ribonucleotide binding
+GO:0005524	1	0.0444781381440786	0	282	ATP binding	MF	0.9999999999	0.9999999999	MF ATP binding

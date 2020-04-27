@@ -1,0 +1,78 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0031969	0.002544418011856	1	1	1	chloroplast membrane	CC	0.9999999999	CC chloroplast membrane	XLOC_037697
+GO:0042170	0.002544418011856	1	1	1	plastid membrane	CC	0.9999999999	CC plastid membrane	XLOC_037697
+GO:0010851	0.0059057979634409	0.999988344149283	1	4	cyclase regulator activity	MF	0.9999999999	MF cyclase regulator activity	XLOC_057734
+GO:0010854	0.0059057979634409	0.999988344149283	1	4	adenylate cyclase regulator activity	MF	0.9999999999	MF adenylate cyclase regulator activity	XLOC_057734
+GO:0010855	0.0059057979634409	0.999988344149283	1	4	adenylate cyclase inhibitor activity	MF	0.9999999999	MF adenylate cyclase inhibitor activity	XLOC_057734
+GO:0007194	0.0059060258685135	0.99998834324843	1	4	negative regulation of adenylate cyclase activity	BP	0.9999999999	BP negative regulation of adenylate cyclase activity	XLOC_057734
+GO:0030800	0.0059060258685135	0.99998834324843	1	4	NA	NA	0.9999999999	none	XLOC_057734
+GO:0030803	0.0059060258685135	0.99998834324843	1	4	NA	NA	0.9999999999	none	XLOC_057734
+GO:0030815	0.0059060258685135	0.99998834324843	1	4	NA	NA	0.9999999999	none	XLOC_057734
+GO:0030818	0.0059060258685135	0.99998834324843	1	4	NA	NA	0.9999999999	none	XLOC_057734
+GO:0031280	0.0059060258685135	0.99998834324843	1	4	negative regulation of cyclase activity	BP	0.9999999999	BP negative regulation of cyclase activity	XLOC_057734
+GO:0050910	0.0059060258685135	0.99998834324843	1	4	detection of mechanical stimulus involved in sensory perception of sound	BP	0.9999999999	BP detection of mechanical stimulus involved in sensory perception of sound	XLOC_057734
+GO:0051350	0.0059060258685135	0.99998834324843	1	4	negative regulation of lyase activity	BP	0.9999999999	BP negative regulation of lyase activity	XLOC_057734
+GO:0097264	0.00590831689544936	0.999988334190627	1	4	self proteolysis	BP	0.9999999999	BP self proteolysis	XLOC_057734
+GO:0030809	0.00708983773409583	0.999981329293787	1	6	negative regulation of nucleotide biosynthetic process	BP	0.9999999999	BP negative regulation of nucleotide biosynthetic process	XLOC_057734
+GO:1900372	0.00708983773409583	0.999981329293787	1	6	negative regulation of purine nucleotide biosynthetic process	BP	0.9999999999	BP negative regulation of purine nucleotide biosynthetic process	XLOC_057734
+GO:0090036	0.00724120076010018	0.99998129972158	1	5	regulation of protein kinase C signaling	BP	0.9999999999	BP regulation of protein kinase C signaling	XLOC_057734
+GO:0090037	0.00724120076010018	0.99998129972158	1	5	positive regulation of protein kinase C signaling	BP	0.9999999999	BP positive regulation of protein kinase C signaling	XLOC_057734
+GO:0002139	0.00730261992543577	0.999980980626396	1	5	stereocilia coupling link	CC	0.9999999999	CC stereocilia coupling link	XLOC_057734
+GO:0002141	0.00730261992543577	0.999980980626396	1	5	stereocilia ankle link	CC	0.9999999999	CC stereocilia ankle link	XLOC_057734
+GO:0002142	0.00730261992543577	0.999980980626396	1	5	stereocilia ankle link complex	CC	0.9999999999	CC stereocilia ankle link complex	XLOC_057734
+GO:0048496	0.00730261992543577	0.999980980626396	1	5	maintenance of animal organ identity	BP	0.9999999999	BP maintenance of animal organ identity	XLOC_057734
+GO:1990696	0.00730261992543577	0.999980980626396	1	5	USH2 complex	CC	0.9999999999	CC USH2 complex	XLOC_057734
+GO:0050974	0.00742805439237851	0.99997950244274	1	6	detection of mechanical stimulus involved in sensory perception	BP	0.9999999999	BP detection of mechanical stimulus involved in sensory perception	XLOC_057734
+GO:0060171	0.00790227650518183	0.999976796906619	1	6	stereocilium membrane	CC	0.9999999999	CC stereocilium membrane	XLOC_057734
+GO:0010739	0.00920511261305682	0.999969754104343	1	5	positive regulation of protein kinase A signaling	BP	0.9999999999	BP positive regulation of protein kinase A signaling	XLOC_057734
+GO:0001965	0.00931138643880278	0.999966846081248	1	7	G-protein alpha-subunit binding	MF	0.9999999999	MF G-protein alpha-subunit binding	XLOC_057734
+GO:1990075	0.00941696213402982	0.999966088472394	1	7	periciliary membrane compartment	CC	0.9999999999	CC periciliary membrane compartment	XLOC_057734
+GO:0045980	0.00956645219226099	0.99996500103633	1	7	negative regulation of nucleotide metabolic process	BP	0.9999999999	BP negative regulation of nucleotide metabolic process	XLOC_057734
+GO:1900543	0.00956645219226099	0.99996500103633	1	7	negative regulation of purine nucleotide metabolic process	BP	0.9999999999	BP negative regulation of purine nucleotide metabolic process	XLOC_057734
+GO:0044434	0.00975207773259755	0.999968161038246	1	4	chloroplast part	CC	0.9999999999	CC chloroplast part	XLOC_037697
+GO:0044435	0.00975207773259755	0.999968161038246	1	4	plastid part	CC	0.9999999999	CC plastid part	XLOC_037697
+GO:0010738	0.009795403592073	0.99996431845524	1	6	regulation of protein kinase A signaling	BP	0.9999999999	BP regulation of protein kinase A signaling	XLOC_057734
+GO:0045494	0.0100670984849828	0.999959802660187	1	9	photoreceptor cell maintenance	BP	0.9999999999	BP photoreceptor cell maintenance	XLOC_057734
+GO:0001917	0.010943454323268	0.999951890514417	1	10	photoreceptor inner segment	CC	0.9999999999	CC photoreceptor inner segment	XLOC_057734
+GO:0030799	0.0112363663330061	0.999949898465607	1	9	NA	NA	0.9999999999	none	XLOC_057734
+GO:0030802	0.0112363663330061	0.999949898465607	1	9	NA	NA	0.9999999999	none	XLOC_057734
+GO:0030814	0.0112363663330061	0.999949898465607	1	9	NA	NA	0.9999999999	none	XLOC_057734
+GO:0030817	0.0112363663330061	0.999949898465607	1	9	NA	NA	0.9999999999	none	XLOC_057734
+GO:0031279	0.0112363663330061	0.999949898465607	1	9	regulation of cyclase activity	BP	0.9999999999	BP regulation of cyclase activity	XLOC_057734
+GO:0045761	0.0112363663330061	0.999949898465607	1	9	regulation of adenylate cyclase activity	BP	0.9999999999	BP regulation of adenylate cyclase activity	XLOC_057734
+GO:0051339	0.0112363663330061	0.999949898465607	1	9	regulation of lyase activity	BP	0.9999999999	BP regulation of lyase activity	XLOC_057734
+GO:0050906	0.0114927541412865	0.999946927682044	1	10	detection of stimulus involved in sensory perception	BP	0.9999999999	BP detection of stimulus involved in sensory perception	XLOC_057734
+GO:0060122	0.0125135482598305	0.999937054754335	1	10	inner ear receptor cell stereocilium organization	BP	0.9999999999	BP inner ear receptor cell stereocilium organization	XLOC_057734
+GO:0032420	0.0126111966714823	0.999939098197957	1	7	stereocilium	CC	0.9999999999	CC stereocilium	XLOC_057734
+GO:0030501	0.0134318493490877	0.999926720476047	1	11	positive regulation of bone mineralization	BP	0.9999999999	BP positive regulation of bone mineralization	XLOC_057734
+GO:0032391	0.0149434942375692	0.99990924234393	1	11	photoreceptor connecting cilium	CC	0.9999999999	CC photoreceptor connecting cilium	XLOC_057734
+GO:0030808	0.0149711434499622	0.999908149916819	1	12	regulation of nucleotide biosynthetic process	BP	0.9999999999	BP regulation of nucleotide biosynthetic process	XLOC_057734
+GO:1900371	0.0149711434499622	0.999908149916819	1	12	regulation of purine nucleotide biosynthetic process	BP	0.9999999999	BP regulation of purine nucleotide biosynthetic process	XLOC_057734
+GO:0070169	0.0155255947917719	0.999901198447449	1	12	positive regulation of biomineral tissue development	BP	0.9999999999	BP positive regulation of biomineral tissue development	XLOC_057734
+GO:0071277	0.0157166419677204	0.999898744072675	1	12	cellular response to calcium ion	BP	0.9999999999	BP cellular response to calcium ion	XLOC_057734
+GO:0035869	0.0167155998874447	0.999883937324396	1	14	ciliary transition zone	CC	0.9999999999	CC ciliary transition zone	XLOC_057734
+GO:0045778	0.0182381741816945	0.999861746217894	1	14	positive regulation of ossification	BP	0.9999999999	BP positive regulation of ossification	XLOC_057734
+GO:0050982	0.0184967860043147	0.999855864844929	1	17	detection of mechanical stimulus	BP	0.9999999999	BP detection of mechanical stimulus	XLOC_057734
+GO:0030500	0.0199536670457325	0.999833557034498	1	15	regulation of bone mineralization	BP	0.9999999999	BP regulation of bone mineralization	XLOC_057734
+GO:0017022	0.0200334949142004	0.999834048265974	1	13	myosin binding	MF	0.9999999999	MF myosin binding	XLOC_057734
+GO:0048839	0.0217117317880417	0.999812119201034	1	9	inner ear development	BP	0.9999999999	BP inner ear development	XLOC_057734
+GO:0070167	0.0220351032573035	0.99979595205854	1	16	regulation of biomineral tissue development	BP	0.9999999999	BP regulation of biomineral tissue development	XLOC_057734
+GO:0071248	0.0257430112800602	0.999716064866385	1	22	cellular response to metal ion	BP	0.9999999999	BP cellular response to metal ion	XLOC_057734
+GO:0051592	0.0262446508142695	0.999705495940166	1	21	response to calcium ion	BP	0.9999999999	BP response to calcium ion	XLOC_057734
+GO:0009581	0.0270131569047037	0.999686557233766	1	23	detection of external stimulus	BP	0.9999999999	BP detection of external stimulus	XLOC_057734
+GO:0009582	0.0275940096041819	0.999672244354589	1	24	detection of abiotic stimulus	BP	0.9999999999	BP detection of abiotic stimulus	XLOC_057734
+GO:0007399	0.0293388519685805	0.999629229598911	1	24	nervous system development	BP	0.9999999999	BP nervous system development	XLOC_057734
+GO:0043235	0.0305261121769631	0.999595449590623	1	29	receptor complex	CC	0.9999999999	CC receptor complex	XLOC_057734
+GO:0007601	0.0307727550589096	0.9995918714514	1	24	visual perception	BP	0.9999999999	BP visual perception	XLOC_057734
+GO:0030278	0.0317421532141144	0.999568254375761	1	21	regulation of ossification	BP	0.9999999999	BP regulation of ossification	XLOC_057734
+GO:0006140	0.0336894050827723	0.999513281735719	1	21	regulation of nucleotide metabolic process	BP	0.9999999999	BP regulation of nucleotide metabolic process	XLOC_057734
+GO:1900542	0.0336894050827723	0.999513281735719	1	21	regulation of purine nucleotide metabolic process	BP	0.9999999999	BP regulation of purine nucleotide metabolic process	XLOC_057734
+GO:0050953	0.0343745435932215	0.999488332705545	1	26	sensory perception of light stimulus	BP	0.9999999999	BP sensory perception of light stimulus	XLOC_057734
+GO:0098858	0.0345778608454406	0.999488357153042	1	20	actin-based cell projection	CC	0.9999999999	CC actin-based cell projection	XLOC_057734
+GO:0071241	0.0345913740005112	0.999478511964661	1	31	cellular response to inorganic substance	BP	0.9999999999	BP cellular response to inorganic substance	XLOC_057734
+GO:0009612	0.0430705972806476	0.999187987946643	1	32	response to mechanical stimulus	BP	0.9999999999	BP response to mechanical stimulus	XLOC_057734
+GO:0007605	0.0436728152363623	0.999172347148551	1	25	sensory perception of sound	BP	0.9999999999	BP sensory perception of sound	XLOC_057734
+GO:0004930	0.0460045861949212	0.999059620896237	1	57	G protein-coupled receptor activity	MF	0.9999999999	MF G protein-coupled receptor activity	XLOC_057734
+GO:0051606	0.0462676382265435	0.999059234337669	1	35	detection of stimulus	BP	0.9999999999	BP detection of stimulus	XLOC_057734
+GO:0050954	0.0464984653248708	0.999057878725458	1	27	sensory perception of mechanical stimulus	BP	0.9999999999	BP sensory perception of mechanical stimulus	XLOC_057734
+GO:0031647	0.048126445949278	0.998983163363532	1	33	regulation of protein stability	BP	0.9999999999	BP regulation of protein stability	XLOC_057734

@@ -1,0 +1,148 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0005488	0.000712013647547482	0.999931110403758	8	1638	binding	MF	0.9999999999	MF binding	XLOC_004694, XLOC_018570, XLOC_034934, XLOC_044352, XLOC_052241, XLOC_056501, XLOC_064390, XLOC_069166
+GO:0005506	0.00080210562444337	0.999991316970305	2	23	iron ion binding	MF	0.9999999999	MF iron ion binding	XLOC_044352, XLOC_044352, XLOC_064390
+GO:0046906	0.00128578327969161	0.999981887915927	2	35	tetrapyrrole binding	MF	0.9999999999	MF tetrapyrrole binding	XLOC_034934, XLOC_044352
+GO:0003674	0.00269425350998131	0.999668824934965	8	1959	molecular_function	MF	0.9999999999	MF molecular_function	XLOC_004694, XLOC_018570, XLOC_034934, XLOC_044352, XLOC_052241, XLOC_056501, XLOC_064390, XLOC_069166
+GO:1901363	0.00418782894769027	0.99950329974532	5	796	heterocyclic compound binding	MF	0.9999999999	MF heterocyclic compound binding	XLOC_004694, XLOC_034934, XLOC_044352, XLOC_064390, XLOC_069166
+GO:0030122	0.00436801209265958	1	1	1	AP-2 adaptor complex	CC	0.9999999999	CC AP-2 adaptor complex	XLOC_052241
+GO:0035615	0.00436801209265958	1	1	1	clathrin adaptor activity	MF	0.9999999999	MF clathrin adaptor activity	XLOC_052241
+GO:0098748	0.00436801209265958	1	1	1	endocytic adaptor activity	MF	0.9999999999	MF endocytic adaptor activity	XLOC_052241
+GO:0097159	0.00453803747528051	0.999451011818775	5	804	organic cyclic compound binding	MF	0.9999999999	MF organic cyclic compound binding	XLOC_004694, XLOC_034934, XLOC_044352, XLOC_064390, XLOC_069166
+GO:0018479	0.00466070299313097	1	1	1	benzaldehyde dehydrogenase (NAD+) activity	MF	0.9999999999	MF benzaldehyde dehydrogenase (NAD+) activity	XLOC_064390
+GO:0102797	0.00466070299313097	1	1	1	geranial:oxygen oxidoreductase activity	MF	0.9999999999	MF geranial:oxygen oxidoreductase activity	XLOC_064390
+GO:0102798	0.00466070299313097	1	1	1	heptaldehyde:oxygen oxidoreductase activity	MF	0.9999999999	MF heptaldehyde:oxygen oxidoreductase activity	XLOC_064390
+GO:0110096	0.00466070299313097	1	1	1	cellular response to aldehyde	BP	0.9999999999	BP cellular response to aldehyde	XLOC_064390
+GO:0016143	0.00531598305135014	0.999993559873466	1	2	S-glycoside metabolic process	BP	0.9999999999	BP S-glycoside metabolic process	XLOC_064390
+GO:0019757	0.00531598305135014	0.999993559873466	1	2	glycosinolate metabolic process	BP	0.9999999999	BP glycosinolate metabolic process	XLOC_064390
+GO:0019760	0.00531598305135014	0.999993559873466	1	2	glucosinolate metabolic process	BP	0.9999999999	BP glucosinolate metabolic process	XLOC_064390
+GO:1904813	0.00634095973784942	0.99998473154658	1	6	ficolin-1-rich granule lumen	CC	0.9999999999	CC ficolin-1-rich granule lumen	XLOC_004694
+GO:0010881	0.0067132549901794	0.999986301042866	1	3	regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion	BP	0.9999999999	BP regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion	XLOC_056501
+GO:0048488	0.00715112581109004	0.999981349395984	1	5	synaptic vesicle endocytosis	BP	0.9999999999	BP synaptic vesicle endocytosis	XLOC_052241
+GO:0010880	0.00736149059034202	0.999981467019609	1	4	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	BP	0.9999999999	BP regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	XLOC_056501
+GO:0004031	0.00763933391112806	0.999986683462206	1	2	aldehyde oxidase activity	MF	0.9999999999	MF aldehyde oxidase activity	XLOC_064390
+GO:0006714	0.00763933391112806	0.999986683462206	1	2	sesquiterpenoid metabolic process	BP	0.9999999999	BP sesquiterpenoid metabolic process	XLOC_064390
+GO:0009687	0.00763933391112806	0.999986683462206	1	2	abscisic acid metabolic process	BP	0.9999999999	BP abscisic acid metabolic process	XLOC_064390
+GO:0009688	0.00763933391112806	0.999986683462206	1	2	abscisic acid biosynthetic process	BP	0.9999999999	BP abscisic acid biosynthetic process	XLOC_064390
+GO:0009850	0.00763933391112806	0.999986683462206	1	2	auxin metabolic process	BP	0.9999999999	BP auxin metabolic process	XLOC_064390
+GO:0009851	0.00763933391112806	0.999986683462206	1	2	auxin biosynthetic process	BP	0.9999999999	BP auxin biosynthetic process	XLOC_064390
+GO:0016106	0.00763933391112806	0.999986683462206	1	2	sesquiterpenoid biosynthetic process	BP	0.9999999999	BP sesquiterpenoid biosynthetic process	XLOC_064390
+GO:0016114	0.00763933391112806	0.999986683462206	1	2	terpenoid biosynthetic process	BP	0.9999999999	BP terpenoid biosynthetic process	XLOC_064390
+GO:0016623	0.00763933391112806	0.999986683462206	1	2	oxidoreductase activity, acting on the aldehyde or oxo group of donors, oxygen as acceptor	MF	0.9999999999	MF oxidoreductase activity, acting on the aldehyde or oxo group of donors, oxygen as acceptor	XLOC_064390
+GO:0018488	0.00763933391112806	0.999986683462206	1	2	aryl-aldehyde oxidase activity	MF	0.9999999999	MF aryl-aldehyde oxidase activity	XLOC_064390
+GO:0043288	0.00763933391112806	0.999986683462206	1	2	apocarotenoid metabolic process	BP	0.9999999999	BP apocarotenoid metabolic process	XLOC_064390
+GO:0043289	0.00763933391112806	0.999986683462206	1	2	apocarotenoid biosynthetic process	BP	0.9999999999	BP apocarotenoid biosynthetic process	XLOC_064390
+GO:0050302	0.00763933391112806	0.999986683462206	1	2	indole-3-acetaldehyde oxidase activity	MF	0.9999999999	MF indole-3-acetaldehyde oxidase activity	XLOC_064390
+GO:1902644	0.00763933391112806	0.999986683462206	1	2	tertiary alcohol metabolic process	BP	0.9999999999	BP tertiary alcohol metabolic process	XLOC_064390
+GO:1902645	0.00763933391112806	0.999986683462206	1	2	tertiary alcohol biosynthetic process	BP	0.9999999999	BP tertiary alcohol biosynthetic process	XLOC_064390
+GO:0072583	0.00779913491179039	0.999976887444663	1	6	clathrin-dependent endocytosis	BP	0.9999999999	BP clathrin-dependent endocytosis	XLOC_052241
+GO:0033018	0.00783111687410453	0.999977627163802	1	5	sarcoplasmic reticulum lumen	CC	0.9999999999	CC sarcoplasmic reticulum lumen	XLOC_056501
+GO:0004029	0.0081382237164697	0.999984883248143	1	2	aldehyde dehydrogenase (NAD) activity	MF	0.9999999999	MF aldehyde dehydrogenase (NAD) activity	XLOC_064390
+GO:0008299	0.00848144905145099	0.999978115543667	1	3	isoprenoid biosynthetic process	BP	0.9999999999	BP isoprenoid biosynthetic process	XLOC_064390
+GO:0010882	0.00865385960019291	0.999972669336591	1	5	regulation of cardiac muscle contraction by calcium ion signaling	BP	0.9999999999	BP regulation of cardiac muscle contraction by calcium ion signaling	XLOC_056501
+GO:0009414	0.00897477489085617	0.999981607285371	1	2	response to water deprivation	BP	0.9999999999	BP response to water deprivation	XLOC_064390
+GO:0009415	0.00897477489085617	0.999981607285371	1	2	response to water	BP	0.9999999999	BP response to water	XLOC_064390
+GO:0015889	0.00933029850625887	0.999968220241757	1	5	cobalamin transport	BP	0.9999999999	BP cobalamin transport	XLOC_034934
+GO:0006284	0.00953465791964656	0.999964446239426	1	7	base-excision repair	BP	0.9999999999	BP base-excision repair	XLOC_004694
+GO:1903214	0.00973658027338893	0.999963948177625	1	6	regulation of protein targeting to mitochondrion	BP	0.9999999999	BP regulation of protein targeting to mitochondrion	XLOC_004694
+GO:1903749	0.00973658027338893	0.999963948177625	1	6	positive regulation of establishment of protein localization to mitochondrion	BP	0.9999999999	BP positive regulation of establishment of protein localization to mitochondrion	XLOC_004694
+GO:1903955	0.00973658027338893	0.999963948177625	1	6	positive regulation of protein targeting to mitochondrion	BP	0.9999999999	BP positive regulation of protein targeting to mitochondrion	XLOC_004694
+GO:0016574	0.0100228588212762	0.999960704097314	1	7	histone ubiquitination	BP	0.9999999999	BP histone ubiquitination	XLOC_004694
+GO:0006513	0.0106626998355256	0.99995551488163	1	7	protein monoubiquitination	BP	0.9999999999	BP protein monoubiquitination	XLOC_004694
+GO:0031419	0.0110342465314579	0.999952353244795	1	7	cobalamin binding	MF	0.9999999999	MF cobalamin binding	XLOC_034934
+GO:0030117	0.0126065717310884	0.999937765937645	1	7	membrane coat	CC	0.9999999999	CC membrane coat	XLOC_052241
+GO:0030131	0.0128726024566759	0.999949480352752	1	3	clathrin adaptor complex	CC	0.9999999999	CC clathrin adaptor complex	XLOC_052241
+GO:1903747	0.0130789719527456	0.999933001139693	1	7	regulation of establishment of protein localization to mitochondrion	BP	0.9999999999	BP regulation of establishment of protein localization to mitochondrion	XLOC_004694
+GO:0030674	0.0134555205168046	0.999933786166114	1	5	protein binding, bridging	MF	0.9999999999	MF protein binding, bridging	XLOC_052241
+GO:0060341	0.0138684484959502	0.999314475429577	2	115	regulation of cellular localization	BP	0.9999999999	BP regulation of cellular localization	XLOC_004694, XLOC_056501
+GO:0010822	0.0139356821898165	0.999921103678643	1	9	positive regulation of mitochondrion organization	BP	0.9999999999	BP positive regulation of mitochondrion organization	XLOC_004694
+GO:0031369	0.0140367425500343	0.999921197059594	1	8	translation initiation factor binding	MF	0.9999999999	MF translation initiation factor binding	XLOC_069166
+GO:0055117	0.0148222990321343	0.999909602285537	1	10	regulation of cardiac muscle contraction	BP	0.9999999999	BP regulation of cardiac muscle contraction	XLOC_056501
+GO:0051279	0.0150717070664227	0.999909109094056	1	8	regulation of release of sequestered calcium ion into cytosol	BP	0.9999999999	BP regulation of release of sequestered calcium ion into cytosol	XLOC_056501
+GO:0031974	0.0152690679080855	0.999205645977419	2	119	membrane-enclosed lumen	CC	0.9999999999	CC membrane-enclosed lumen	XLOC_004694, XLOC_056501
+GO:0043233	0.0152690679080855	0.999205645977419	2	119	organelle lumen	CC	0.9999999999	CC organelle lumen	XLOC_004694, XLOC_056501
+GO:0070013	0.0152690679080855	0.999205645977419	2	119	intracellular organelle lumen	CC	0.9999999999	CC intracellular organelle lumen	XLOC_004694, XLOC_056501
+GO:0008150	0.0156282468235988	0.997127042394586	7	1941	biological_process	BP	0.9999999999	BP biological_process	XLOC_004694, XLOC_034934, XLOC_044352, XLOC_052241, XLOC_056501, XLOC_064390, XLOC_069166
+GO:0051180	0.0157698872536779	0.999900464471132	1	8	vitamin transport	BP	0.9999999999	BP vitamin transport	XLOC_034934
+GO:0030119	0.0159488151931892	0.999906871607529	1	5	AP-type membrane coat adaptor complex	CC	0.9999999999	CC AP-type membrane coat adaptor complex	XLOC_052241
+GO:0030276	0.016202294776968	0.999897046080959	1	7	clathrin binding	MF	0.9999999999	MF clathrin binding	XLOC_052241
+GO:0006942	0.0169048022775543	0.99987931712207	1	13	regulation of striated muscle contraction	BP	0.9999999999	BP regulation of striated muscle contraction	XLOC_056501
+GO:0032922	0.0176192012095317	0.99986976958964	1	12	circadian regulation of gene expression	BP	0.9999999999	BP circadian regulation of gene expression	XLOC_004694
+GO:0016620	0.0179142209871787	0.9998775293965	1	6	oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor	MF	0.9999999999	MF oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor	XLOC_064390
+GO:0055114	0.0181130969185113	0.998967963039753	2	125	oxidation-reduction process	BP	0.9999999999	BP oxidation-reduction process	XLOC_044352, XLOC_064390
+GO:0042542	0.0183473351686168	0.999862997243781	1	9	response to hydrogen peroxide	BP	0.9999999999	BP response to hydrogen peroxide	XLOC_064390
+GO:1901657	0.0195899658572441	0.999840203054636	1	11	glycosyl compound metabolic process	BP	0.9999999999	BP glycosyl compound metabolic process	XLOC_064390
+GO:0008016	0.0204811646506377	0.999819147235397	1	17	regulation of heart contraction	BP	0.9999999999	BP regulation of heart contraction	XLOC_056501
+GO:0090279	0.0206407328072944	0.999822525911125	1	11	regulation of calcium ion import	BP	0.9999999999	BP regulation of calcium ion import	XLOC_056501
+GO:0010522	0.0206701679422446	0.999818230204276	1	14	regulation of calcium ion transport into cytosol	BP	0.9999999999	BP regulation of calcium ion transport into cytosol	XLOC_056501
+GO:0019748	0.0207863043952696	0.999823976026404	1	9	secondary metabolic process	BP	0.9999999999	BP secondary metabolic process	XLOC_064390
+GO:0072330	0.021379483352979	0.999806629048754	1	13	monocarboxylic acid biosynthetic process	BP	0.9999999999	BP monocarboxylic acid biosynthetic process	XLOC_064390
+GO:0016903	0.0215145133958768	0.999814297299367	1	8	oxidoreductase activity, acting on the aldehyde or oxo group of donors	MF	0.9999999999	MF oxidoreductase activity, acting on the aldehyde or oxo group of donors	XLOC_064390
+GO:0006937	0.0217151785233239	0.999795271416594	1	19	regulation of muscle contraction	BP	0.9999999999	BP regulation of muscle contraction	XLOC_056501
+GO:0071949	0.021731395584867	0.999800182821288	1	13	FAD binding	MF	0.9999999999	MF FAD binding	XLOC_064390
+GO:0042446	0.0218277616013087	0.999808825447192	1	8	hormone biosynthetic process	BP	0.9999999999	BP hormone biosynthetic process	XLOC_064390
+GO:0044433	0.022396154395172	0.998568833075231	2	147	cytoplasmic vesicle part	CC	0.9999999999	CC cytoplasmic vesicle part	XLOC_004694, XLOC_052241
+GO:0005852	0.022514836455658	0.999790772876692	1	10	eukaryotic translation initiation factor 3 complex	CC	0.9999999999	CC eukaryotic translation initiation factor 3 complex	XLOC_069166
+GO:0016282	0.022514836455658	0.999790772876692	1	10	eukaryotic 43S preinitiation complex	CC	0.9999999999	CC eukaryotic 43S preinitiation complex	XLOC_069166
+GO:0033290	0.022514836455658	0.999790772876692	1	10	eukaryotic 48S preinitiation complex	CC	0.9999999999	CC eukaryotic 48S preinitiation complex	XLOC_069166
+GO:0070993	0.022514836455658	0.999790772876692	1	10	translation preinitiation complex	CC	0.9999999999	CC translation preinitiation complex	XLOC_069166
+GO:0001732	0.0231973428630126	0.999775607397018	1	11	formation of cytoplasmic translation initiation complex	BP	0.9999999999	BP formation of cytoplasmic translation initiation complex	XLOC_069166
+GO:0060090	0.0232221395843937	0.999777356651438	1	10	molecular adaptor activity	MF	0.9999999999	MF molecular adaptor activity	XLOC_052241
+GO:1903169	0.0238382725707173	0.999759358088764	1	13	regulation of calcium ion transmembrane transport	BP	0.9999999999	BP regulation of calcium ion transmembrane transport	XLOC_056501
+GO:0046165	0.0243374322990549	0.999752895130174	1	11	alcohol biosynthetic process	BP	0.9999999999	BP alcohol biosynthetic process	XLOC_064390
+GO:0006721	0.0243426576545312	0.999750745282928	1	12	terpenoid metabolic process	BP	0.9999999999	BP terpenoid metabolic process	XLOC_064390
+GO:0007623	0.0246955882496806	0.999735720755709	1	18	circadian rhythm	BP	0.9999999999	BP circadian rhythm	XLOC_004694
+GO:1903522	0.0249092907032101	0.999728253923831	1	22	regulation of blood circulation	BP	0.9999999999	BP regulation of blood circulation	XLOC_056501
+GO:0031398	0.0249839046899395	0.999733991164207	1	14	positive regulation of protein ubiquitination	BP	0.9999999999	BP positive regulation of protein ubiquitination	XLOC_004694
+GO:0006720	0.0251718785799222	0.999731537444478	1	13	isoprenoid metabolic process	BP	0.9999999999	BP isoprenoid metabolic process	XLOC_064390
+GO:0019722	0.0252571435060557	0.99972120158718	1	21	calcium-mediated signaling	BP	0.9999999999	BP calcium-mediated signaling	XLOC_056501
+GO:0010821	0.0268125976350368	0.999691844876742	1	15	regulation of mitochondrion organization	BP	0.9999999999	BP regulation of mitochondrion organization	XLOC_004694
+GO:0016491	0.0274488810903592	0.998042341742503	2	159	oxidoreductase activity	MF	0.9999999999	MF oxidoreductase activity	XLOC_044352, XLOC_064390
+GO:1901617	0.0287844203584752	0.999644577182613	1	15	organic hydroxy compound biosynthetic process	BP	0.9999999999	BP organic hydroxy compound biosynthetic process	XLOC_064390
+GO:0051537	0.0289043704533039	0.999647929480847	1	12	2 iron, 2 sulfur cluster binding	MF	0.9999999999	MF 2 iron, 2 sulfur cluster binding	XLOC_064390
+GO:1903322	0.0289871227918312	0.999636526021649	1	17	positive regulation of protein modification by small protein conjugation or removal	BP	0.9999999999	BP positive regulation of protein modification by small protein conjugation or removal	XLOC_004694
+GO:0005905	0.029205693116039	0.999638018141389	1	13	clathrin-coated pit	CC	0.9999999999	CC clathrin-coated pit	XLOC_052241
+GO:0051282	0.0300540354670839	0.999607770298967	1	18	regulation of sequestering of calcium ion	BP	0.9999999999	BP regulation of sequestering of calcium ion	XLOC_056501
+GO:0099003	0.0311426073139639	0.999578662384404	1	18	vesicle-mediated transport in synapse	BP	0.9999999999	BP vesicle-mediated transport in synapse	XLOC_052241
+GO:0061630	0.0314875555510508	0.999562954034447	1	24	ubiquitin protein ligase activity	MF	0.9999999999	MF ubiquitin protein ligase activity	XLOC_004694
+GO:0061659	0.0314875555510508	0.999562954034447	1	24	ubiquitin-like protein ligase activity	MF	0.9999999999	MF ubiquitin-like protein ligase activity	XLOC_004694
+GO:0051049	0.0318477936906271	0.99753666295431	2	176	regulation of transport	BP	0.9999999999	BP regulation of transport	XLOC_004694, XLOC_056501
+GO:0000302	0.0325241277141343	0.999541774996912	1	17	response to reactive oxygen species	BP	0.9999999999	BP response to reactive oxygen species	XLOC_064390
+GO:0006413	0.0325489599960931	0.999542843049996	1	16	translational initiation	BP	0.9999999999	BP translational initiation	XLOC_069166
+GO:0051536	0.0327207407819675	0.999540003874078	1	15	iron-sulfur cluster binding	MF	0.9999999999	MF iron-sulfur cluster binding	XLOC_064390
+GO:0051540	0.0327207407819675	0.999540003874078	1	15	metal cluster binding	MF	0.9999999999	MF metal cluster binding	XLOC_064390
+GO:0051924	0.0328923695663341	0.999522826935631	1	24	regulation of calcium ion transport	BP	0.9999999999	BP regulation of calcium ion transport	XLOC_056501
+GO:0090257	0.0339853487850366	0.999487939959212	1	27	regulation of muscle system process	BP	0.9999999999	BP regulation of muscle system process	XLOC_056501
+GO:1903533	0.0343254950621322	0.999481022152527	1	23	regulation of protein targeting	BP	0.9999999999	BP regulation of protein targeting	XLOC_004694
+GO:0016192	0.0358937054019739	0.997036118300163	2	186	vesicle-mediated transport	BP	0.9999999999	BP vesicle-mediated transport	XLOC_004694, XLOC_052241
+GO:0004497	0.036347424482721	0.999420112087705	1	21	monooxygenase activity	MF	0.9999999999	MF monooxygenase activity	XLOC_044352
+GO:0090316	0.0365270744557172	0.999411810972867	1	23	positive regulation of intracellular protein transport	BP	0.9999999999	BP positive regulation of intracellular protein transport	XLOC_004694
+GO:0000209	0.0366467159842336	0.999406817148171	1	24	protein polyubiquitination	BP	0.9999999999	BP protein polyubiquitination	XLOC_004694
+GO:0046914	0.0368610582514892	0.99691018478683	2	200	transition metal ion binding	MF	0.9999999999	MF transition metal ion binding	XLOC_044352, XLOC_064390
+GO:0042445	0.0374384407305778	0.999384514934187	1	21	hormone metabolic process	BP	0.9999999999	BP hormone metabolic process	XLOC_064390
+GO:0005788	0.037903927407933	0.999361218849111	1	28	endoplasmic reticulum lumen	CC	0.9999999999	CC endoplasmic reticulum lumen	XLOC_056501
+GO:0098793	0.0393617786550351	0.999314943144278	1	24	presynapse	CC	0.9999999999	CC presynapse	XLOC_052241
+GO:0006898	0.0398100594328755	0.999297926403104	1	25	receptor-mediated endocytosis	BP	0.9999999999	BP receptor-mediated endocytosis	XLOC_052241
+GO:0019932	0.0398466175225098	0.999289623197106	1	33	second-messenger-mediated signaling	BP	0.9999999999	BP second-messenger-mediated signaling	XLOC_056501
+GO:0003743	0.040083723976057	0.999290707516953	1	23	translation initiation factor activity	MF	0.9999999999	MF translation initiation factor activity	XLOC_069166
+GO:0098797	0.0402506478516179	0.999293645126148	1	18	plasma membrane protein complex	CC	0.9999999999	CC plasma membrane protein complex	XLOC_052241
+GO:0016705	0.0405065254039843	0.999270737819868	1	27	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	MF	0.9999999999	MF oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	XLOC_044352
+GO:0016570	0.0408089727309347	0.999253307627106	1	35	histone modification	BP	0.9999999999	BP histone modification	XLOC_004694
+GO:2000021	0.0408279351708914	0.999258023466466	1	28	NA	NA	0.9999999999	none	XLOC_056501
+GO:0016569	0.0414370662973699	0.999229340069583	1	36	covalent chromatin modification	BP	0.9999999999	BP covalent chromatin modification	XLOC_004694
+GO:0006810	0.0420453017458071	0.99366782694951	3	507	transport	BP	0.9999999999	BP transport	XLOC_004694, XLOC_034934, XLOC_052241
+GO:0020037	0.0428170304647363	0.999183335884925	1	28	heme binding	MF	0.9999999999	MF heme binding	XLOC_044352, XLOC_044352
+GO:0031396	0.0432607732048969	0.999172787845481	1	23	regulation of protein ubiquitination	BP	0.9999999999	BP regulation of protein ubiquitination	XLOC_004694
+GO:1904062	0.0441325845158455	0.99913573502824	1	25	regulation of cation transmembrane transport	BP	0.9999999999	BP regulation of cation transmembrane transport	XLOC_056501
+GO:0051234	0.0450413427834596	0.993025114502081	3	522	establishment of localization	BP	0.9999999999	BP establishment of localization	XLOC_004694, XLOC_034934, XLOC_052241
+GO:0050660	0.045384465803187	0.999076474813377	1	33	flavin adenine dinucleotide binding	MF	0.9999999999	MF flavin adenine dinucleotide binding	XLOC_064390
+GO:0034774	0.045674311036864	0.999069671096869	1	28	secretory granule lumen	CC	0.9999999999	CC secretory granule lumen	XLOC_004694
+GO:0030018	0.048387638583475	0.998953438412438	1	29	Z disc	CC	0.9999999999	CC Z disc	XLOC_056501
+GO:0071705	0.0485349519522343	0.995263424115958	2	233	nitrogen compound transport	BP	0.9999999999	BP nitrogen compound transport	XLOC_034934, XLOC_052241
+GO:1903320	0.048692963670944	0.998942818448757	1	27	regulation of protein modification by small protein conjugation or removal	BP	0.9999999999	BP regulation of protein modification by small protein conjugation or removal	XLOC_004694
+GO:0009055	0.0488326578406272	0.998941709184477	1	24	electron transfer activity	MF	0.9999999999	MF electron transfer activity	XLOC_064390
+GO:0032388	0.0489207992659669	0.998927604137151	1	31	positive regulation of intracellular transport	BP	0.9999999999	BP positive regulation of intracellular transport	XLOC_004694
+GO:0008135	0.0491608330370351	0.998920753628719	1	28	translation factor activity, RNA binding	MF	0.9999999999	MF translation factor activity, RNA binding	XLOC_069166
+GO:0048511	0.0492259024458078	0.998914057322594	1	31	rhythmic process	BP	0.9999999999	BP rhythmic process	XLOC_004694
+GO:0031983	0.0492764523049171	0.998912992209382	1	30	vesicle lumen	CC	0.9999999999	CC vesicle lumen	XLOC_004694
+GO:0060205	0.0492764523049171	0.998912992209382	1	30	cytoplasmic vesicle lumen	CC	0.9999999999	CC cytoplasmic vesicle lumen	XLOC_004694
+GO:0043312	0.0498392808876225	0.998887775558369	1	30	neutrophil degranulation	BP	0.9999999999	BP neutrophil degranulation	XLOC_004694

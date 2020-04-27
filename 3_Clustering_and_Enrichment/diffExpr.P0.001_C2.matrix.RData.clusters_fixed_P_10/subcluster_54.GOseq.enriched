@@ -1,0 +1,52 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0004064	0.00773143656887162	1	1	1	arylesterase activity	MF	0.9999999999	MF arylesterase activity	XLOC_004284
+GO:0090088	0.00773143656887162	1	1	1	regulation of oligopeptide transport	BP	0.9999999999	BP regulation of oligopeptide transport	XLOC_004284
+GO:0090089	0.00773143656887162	1	1	1	regulation of dipeptide transport	BP	0.9999999999	BP regulation of dipeptide transport	XLOC_004284
+GO:2000878	0.00773143656887162	1	1	1	positive regulation of oligopeptide transport	BP	0.9999999999	BP positive regulation of oligopeptide transport	XLOC_004284
+GO:2000880	0.00773143656887162	1	1	1	positive regulation of dipeptide transport	BP	0.9999999999	BP positive regulation of dipeptide transport	XLOC_004284
+GO:2001148	0.00773143656887162	1	1	1	regulation of dipeptide transmembrane transport	BP	0.9999999999	BP regulation of dipeptide transmembrane transport	XLOC_004284
+GO:2001150	0.00773143656887162	1	1	1	positive regulation of dipeptide transmembrane transport	BP	0.9999999999	BP positive regulation of dipeptide transmembrane transport	XLOC_004284
+GO:0099078	0.00809204270796533	0.999984195844903	1	2	BORC complex	CC	0.9999999999	CC BORC complex	XLOC_019650
+GO:0032418	0.0113453899385514	0.999950267711127	1	5	lysosome localization	BP	0.9999999999	BP lysosome localization	XLOC_019650
+GO:0000002	0.0133248476900713	0.999931343072056	1	5	mitochondrial genome maintenance	BP	0.9999999999	BP mitochondrial genome maintenance	XLOC_062966
+GO:0004089	0.0141042478783756	0.999951836051491	1	2	carbonate dehydratase activity	MF	0.9999999999	MF carbonate dehydratase activity	XLOC_004284
+GO:0043139	0.0168213335838113	0.999897241679633	1	4	5'-3' DNA helicase activity	MF	0.9999999999	MF 5'-3' DNA helicase activity	XLOC_062966
+GO:0038166	0.0173111747049305	0.999927321298527	1	2	angiotensin-activated signaling pathway	BP	0.9999999999	BP angiotensin-activated signaling pathway	XLOC_004284
+GO:0005579	0.0176191720498551	0.999924699916716	1	2	membrane attack complex	CC	0.9999999999	CC membrane attack complex	XLOC_020078
+GO:0046930	0.0176191720498551	0.999924699916716	1	2	pore complex	CC	0.9999999999	CC pore complex	XLOC_020078
+GO:0005657	0.0184410273190866	0.999862754160853	1	6	replication fork	CC	0.9999999999	CC replication fork	XLOC_062966
+GO:0006957	0.0225911635004947	0.999834725212161	1	3	complement activation, alternative pathway	BP	0.9999999999	BP complement activation, alternative pathway	XLOC_020078
+GO:0001674	0.0228027392111054	0.999831598260001	1	3	female germ cell nucleus	CC	0.9999999999	CC female germ cell nucleus	XLOC_070361
+GO:0005534	0.0228027392111054	0.999831598260001	1	3	galactose binding	MF	0.9999999999	MF galactose binding	XLOC_070361
+GO:0033296	0.0228027392111054	0.999831598260001	1	3	rhamnose binding	MF	0.9999999999	MF rhamnose binding	XLOC_070361
+GO:0043073	0.0228027392111054	0.999831598260001	1	3	germ cell nucleus	CC	0.9999999999	CC germ cell nucleus	XLOC_070361
+GO:0048030	0.0228027392111054	0.999831598260001	1	3	disaccharide binding	MF	0.9999999999	MF disaccharide binding	XLOC_070361
+GO:0070492	0.0228027392111054	0.999831598260001	1	3	oligosaccharide binding	MF	0.9999999999	MF oligosaccharide binding	XLOC_070361
+GO:1903777	0.0228027392111054	0.999831598260001	1	3	melibiose binding	MF	0.9999999999	MF melibiose binding	XLOC_070361
+GO:0019835	0.0231593195777206	0.999776965975789	1	7	cytolysis	BP	0.9999999999	BP cytolysis	XLOC_020078
+GO:0010575	0.0234545851297709	0.999799637505265	1	4	positive regulation of vascular endothelial growth factor production	BP	0.9999999999	BP positive regulation of vascular endothelial growth factor production	XLOC_020078
+GO:0006958	0.0239243013161064	0.999791488871727	1	4	complement activation, classical pathway	BP	0.9999999999	BP complement activation, classical pathway	XLOC_020078
+GO:0010574	0.0243036088246277	0.999770539040927	1	5	regulation of vascular endothelial growth factor production	BP	0.9999999999	BP regulation of vascular endothelial growth factor production	XLOC_020078
+GO:0001965	0.026296257211437	0.999712090583031	1	7	G-protein alpha-subunit binding	MF	0.9999999999	MF G-protein alpha-subunit binding	XLOC_030146
+GO:0090196	0.0266890429364793	0.999740195993106	1	4	regulation of chemokine secretion	BP	0.9999999999	BP regulation of chemokine secretion	XLOC_020078
+GO:0090197	0.0266890429364793	0.999740195993106	1	4	positive regulation of chemokine secretion	BP	0.9999999999	BP positive regulation of chemokine secretion	XLOC_020078
+GO:0002689	0.0270590133718519	0.999762389632462	1	3	negative regulation of leukocyte chemotaxis	BP	0.9999999999	BP negative regulation of leukocyte chemotaxis	XLOC_020078
+GO:0010758	0.0270590133718519	0.999762389632462	1	3	regulation of macrophage chemotaxis	BP	0.9999999999	BP regulation of macrophage chemotaxis	XLOC_020078
+GO:0010760	0.0270590133718519	0.999762389632462	1	3	negative regulation of macrophage chemotaxis	BP	0.9999999999	BP negative regulation of macrophage chemotaxis	XLOC_020078
+GO:1905522	0.0270590133718519	0.999762389632462	1	3	negative regulation of macrophage migration	BP	0.9999999999	BP negative regulation of macrophage migration	XLOC_020078
+GO:1905521	0.027861198105047	0.999716727721468	1	4	regulation of macrophage migration	BP	0.9999999999	BP regulation of macrophage migration	XLOC_020078
+GO:0002686	0.0278690944004371	0.99971656614309	1	4	negative regulation of leukocyte migration	BP	0.9999999999	BP negative regulation of leukocyte migration	XLOC_020078
+GO:0042564	0.0312331631024059	0.999643480097973	1	4	NLS-dependent protein nuclear import complex	CC	0.9999999999	CC NLS-dependent protein nuclear import complex	XLOC_070361
+GO:0060473	0.033517646659727	0.999543784985844	1	6	cortical granule	CC	0.9999999999	CC cortical granule	XLOC_070361
+GO:0016836	0.033784856739796	0.99951349286367	1	8	hydro-lyase activity	MF	0.9999999999	MF hydro-lyase activity	XLOC_004284
+GO:0006956	0.0348646691066558	0.999506103774792	1	6	complement activation	BP	0.9999999999	BP complement activation	XLOC_020078
+GO:0072376	0.0356605402863935	0.999468518220789	1	7	protein activation cascade	BP	0.9999999999	BP protein activation cascade	XLOC_020078
+GO:0050922	0.0360630847462515	0.999523670364531	1	4	negative regulation of chemotaxis	BP	0.9999999999	BP negative regulation of chemotaxis	XLOC_020078
+GO:0030246	0.0360967936986295	0.996785577781851	2	66	carbohydrate binding	MF	0.9999999999	MF carbohydrate binding	XLOC_030146, XLOC_070361
+GO:0002688	0.0390053610060002	0.999380760270219	1	6	regulation of leukocyte chemotaxis	BP	0.9999999999	BP regulation of leukocyte chemotaxis	XLOC_020078
+GO:0090087	0.0395806640733645	0.996278803018801	2	82	regulation of peptide transport	BP	0.9999999999	BP regulation of peptide transport	XLOC_004284, XLOC_020078
+GO:0031074	0.0405309790758232	0.999357404453127	1	5	nucleocytoplasmic transport complex	CC	0.9999999999	CC nucleocytoplasmic transport complex	XLOC_070361
+GO:0032642	0.041685470613613	0.999271975669155	1	7	regulation of chemokine production	BP	0.9999999999	BP regulation of chemokine production	XLOC_020078
+GO:0032722	0.041685470613613	0.999271975669155	1	7	positive regulation of chemokine production	BP	0.9999999999	BP positive regulation of chemokine production	XLOC_020078
+GO:0006959	0.0457421041469545	0.999078667562395	1	10	humoral immune response	BP	0.9999999999	BP humoral immune response	XLOC_020078
+GO:0050982	0.0484227313082603	0.998919901494016	1	17	detection of mechanical stimulus	BP	0.9999999999	BP detection of mechanical stimulus	XLOC_030146

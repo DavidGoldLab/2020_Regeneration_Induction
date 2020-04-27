@@ -1,0 +1,3 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	under_represented_FDR	go_term
+GO:0044238	0.997692961005814	0.0177868285565839	1	914	primary metabolic process	BP	0.9999999999	0.9999999999	BP primary metabolic process
+GO:0043170	0.993261883419417	0.043328429752136	1	765	macromolecule metabolic process	BP	0.9999999999	0.9999999999	BP macromolecule metabolic process

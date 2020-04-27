@@ -1,0 +1,303 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0005891	3.75982676867374e-05	0.999999933924517	2	5	voltage-gated calcium channel complex	CC	0.310269682784605	CC voltage-gated calcium channel complex	XLOC_026510, XLOC_060861
+GO:0034704	5.80540149283571e-05	0.999999861902432	2	6	calcium channel complex	CC	0.310269682784605	CC calcium channel complex	XLOC_026510, XLOC_060861
+GO:0005245	0.000130197434590114	0.999999509176501	2	7	voltage-gated calcium channel activity	MF	0.463893459444576	MF voltage-gated calcium channel activity	XLOC_026510, XLOC_060861
+GO:0034703	0.000600189554949651	0.999994281027962	2	16	cation channel complex	CC	0.736334370791329	CC cation channel complex	XLOC_026510, XLOC_060861
+GO:0030003	0.000608276073957118	0.999979573735181	3	65	cellular cation homeostasis	BP	0.736334370791329	BP cellular cation homeostasis	XLOC_026510, XLOC_031698, XLOC_060861
+GO:0006873	0.000619326061774738	0.999979062689388	3	66	cellular ion homeostasis	BP	0.736334370791329	BP cellular ion homeostasis	XLOC_026510, XLOC_031698, XLOC_060861
+GO:0055082	0.000712051203514125	0.999974691029148	3	70	cellular chemical homeostasis	BP	0.736334370791329	BP cellular chemical homeostasis	XLOC_026510, XLOC_031698, XLOC_060861
+GO:0010952	0.000759981684928128	0.999991788458616	2	17	positive regulation of peptidase activity	BP	0.736334370791329	BP positive regulation of peptidase activity	XLOC_008058, XLOC_031698
+GO:0055080	0.000789486468035273	0.999970880392015	3	73	cation homeostasis	BP	0.736334370791329	BP cation homeostasis	XLOC_026510, XLOC_031698, XLOC_060861
+GO:0098771	0.000789486468035273	0.999970880392015	3	73	inorganic ion homeostasis	BP	0.736334370791329	BP inorganic ion homeostasis	XLOC_026510, XLOC_031698, XLOC_060861
+GO:0050801	0.000901434077025429	0.999965144591046	3	76	ion homeostasis	BP	0.736334370791329	BP ion homeostasis	XLOC_026510, XLOC_031698, XLOC_060861
+GO:0022843	0.000984245986005597	0.999987877557115	2	17	voltage-gated cation channel activity	MF	0.736334370791329	MF voltage-gated cation channel activity	XLOC_026510, XLOC_060861
+GO:0005262	0.00117339426264705	0.999983787977796	2	23	calcium channel activity	MF	0.736334370791329	MF calcium channel activity	XLOC_026510, XLOC_060861
+GO:0006812	0.00128569960333568	0.999943526549055	3	88	cation transport	BP	0.736334370791329	BP cation transport	XLOC_026510, XLOC_060861, XLOC_070363
+GO:0008324	0.0014592752615199	0.999932944971344	3	91	cation transmembrane transporter activity	MF	0.736334370791329	MF cation transmembrane transporter activity	XLOC_026510, XLOC_060861, XLOC_070363
+GO:0005244	0.00153259051324327	0.999975915229361	2	21	voltage-gated ion channel activity	MF	0.736334370791329	MF voltage-gated ion channel activity	XLOC_026510, XLOC_060861
+GO:0022832	0.00153259051324327	0.999975915229361	2	21	voltage-gated channel activity	MF	0.736334370791329	MF voltage-gated channel activity	XLOC_026510, XLOC_060861
+GO:0034702	0.00156310761950608	0.999974943569322	2	24	ion channel complex	CC	0.736334370791329	CC ion channel complex	XLOC_026510, XLOC_060861
+GO:0015085	0.00168884363084258	0.999971694311028	2	26	calcium ion transmembrane transporter activity	MF	0.736334370791329	MF calcium ion transmembrane transporter activity	XLOC_026510, XLOC_060861
+GO:0048878	0.0019869721330559	0.999898028426226	3	100	chemical homeostasis	BP	0.736334370791329	BP chemical homeostasis	XLOC_026510, XLOC_031698, XLOC_060861
+GO:0050678	0.00201284114250855	0.999963110950894	2	26	regulation of epithelial cell proliferation	BP	0.736334370791329	BP regulation of epithelial cell proliferation	XLOC_008058, XLOC_031698
+GO:0019725	0.00207559629396871	0.999891915761985	3	96	cellular homeostasis	BP	0.736334370791329	BP cellular homeostasis	XLOC_026510, XLOC_031698, XLOC_060861
+GO:0072509	0.00208891120700394	0.999960812993294	2	28	divalent inorganic cation transmembrane transporter activity	MF	0.736334370791329	MF divalent inorganic cation transmembrane transporter activity	XLOC_026510, XLOC_060861
+GO:0052547	0.00209025962067303	0.999960697212525	2	29	regulation of peptidase activity	BP	0.736334370791329	BP regulation of peptidase activity	XLOC_008058, XLOC_031698
+GO:1902495	0.00237196725963161	0.999952429958161	2	29	transmembrane transporter complex	CC	0.736334370791329	CC transmembrane transporter complex	XLOC_026510, XLOC_060861
+GO:1990351	0.00237196725963161	0.999952429958161	2	29	transporter complex	CC	0.736334370791329	CC transporter complex	XLOC_026510, XLOC_060861
+GO:0055085	0.00253339157567444	0.999857983177104	3	114	transmembrane transport	BP	0.736334370791329	BP transmembrane transport	XLOC_026510, XLOC_060861, XLOC_070363
+GO:0015075	0.00267246583262105	0.999847297381205	3	115	ion transmembrane transporter activity	MF	0.736334370791329	MF ion transmembrane transporter activity	XLOC_026510, XLOC_060861, XLOC_070363
+GO:0008332	0.00300538252950631	1	1	1	low voltage-gated calcium channel activity	MF	0.736334370791329	MF low voltage-gated calcium channel activity	XLOC_060861
+GO:0014824	0.00300538252950631	1	1	1	artery smooth muscle contraction	BP	0.736334370791329	BP artery smooth muscle contraction	XLOC_060861
+GO:0045956	0.00300538252950631	1	1	1	positive regulation of calcium ion-dependent exocytosis	BP	0.736334370791329	BP positive regulation of calcium ion-dependent exocytosis	XLOC_060861
+GO:0086015	0.00300538252950631	1	1	1	SA node cell action potential	BP	0.736334370791329	BP SA node cell action potential	XLOC_060861
+GO:0086016	0.00300538252950631	1	1	1	AV node cell action potential	BP	0.736334370791329	BP AV node cell action potential	XLOC_060861
+GO:0086018	0.00300538252950631	1	1	1	SA node cell to atrial cardiac muscle cell signaling	BP	0.736334370791329	BP SA node cell to atrial cardiac muscle cell signaling	XLOC_060861
+GO:0086019	0.00300538252950631	1	1	1	cell-cell signaling involved in cardiac conduction	BP	0.736334370791329	BP cell-cell signaling involved in cardiac conduction	XLOC_060861
+GO:0086027	0.00300538252950631	1	1	1	AV node cell to bundle of His cell signaling	BP	0.736334370791329	BP AV node cell to bundle of His cell signaling	XLOC_060861
+GO:0086046	0.00300538252950631	1	1	1	membrane depolarization during SA node cell action potential	BP	0.736334370791329	BP membrane depolarization during SA node cell action potential	XLOC_060861
+GO:0086059	0.00300538252950631	1	1	1	voltage-gated calcium channel activity involved SA node cell action potential	MF	0.736334370791329	MF voltage-gated calcium channel activity involved SA node cell action potential	XLOC_060861
+GO:0086067	0.00300538252950631	1	1	1	AV node cell to bundle of His cell communication	BP	0.736334370791329	BP AV node cell to bundle of His cell communication	XLOC_060861
+GO:0086070	0.00300538252950631	1	1	1	SA node cell to atrial cardiac muscle cell communication	BP	0.736334370791329	BP SA node cell to atrial cardiac muscle cell communication	XLOC_060861
+GO:0022891	0.0031421308374209	0.999809614381142	3	123	NA	NA	0.736334370791329	none	XLOC_026510, XLOC_060861, XLOC_070363
+GO:0045862	0.00321098908960572	0.999924320869304	2	33	positive regulation of proteolysis	BP	0.736334370791329	BP positive regulation of proteolysis	XLOC_008058, XLOC_031698
+GO:0007204	0.00321582728981312	0.999924261814738	2	32	positive regulation of cytosolic calcium ion concentration	BP	0.736334370791329	BP positive regulation of cytosolic calcium ion concentration	XLOC_026510, XLOC_060861
+GO:0006816	0.00341005020438045	0.999916888607322	2	35	calcium ion transport	BP	0.736334370791329	BP calcium ion transport	XLOC_026510, XLOC_060861
+GO:0009435	0.00363436119747708	1	1	1	NAD biosynthetic process	BP	0.736334370791329	BP NAD biosynthetic process	XLOC_070363
+GO:0019359	0.00363436119747708	1	1	1	nicotinamide nucleotide biosynthetic process	BP	0.736334370791329	BP nicotinamide nucleotide biosynthetic process	XLOC_070363
+GO:0019363	0.00363436119747708	1	1	1	pyridine nucleotide biosynthetic process	BP	0.736334370791329	BP pyridine nucleotide biosynthetic process	XLOC_070363
+GO:0034356	0.00363436119747708	1	1	1	NAD biosynthesis via nicotinamide riboside salvage pathway	BP	0.736334370791329	BP NAD biosynthesis via nicotinamide riboside salvage pathway	XLOC_070363
+GO:0072525	0.00363436119747708	1	1	1	pyridine-containing compound biosynthetic process	BP	0.736334370791329	BP pyridine-containing compound biosynthetic process	XLOC_070363
+GO:0021882	0.00391210858828596	1	1	1	regulation of transcription from RNA polymerase II promoter involved in forebrain neuron fate commitment	BP	0.736334370791329	BP regulation of transcription from RNA polymerase II promoter involved in forebrain neuron fate commitment	XLOC_056281
+GO:0061337	0.00403589686566374	0.99999617490719	1	2	cardiac conduction	BP	0.736334370791329	BP cardiac conduction	XLOC_060861
+GO:0086002	0.00403589686566374	0.99999617490719	1	2	cardiac muscle cell action potential involved in contraction	BP	0.736334370791329	BP cardiac muscle cell action potential involved in contraction	XLOC_060861
+GO:0086007	0.00403589686566374	0.99999617490719	1	2	voltage-gated calcium channel activity involved in cardiac muscle cell action potential	MF	0.736334370791329	MF voltage-gated calcium channel activity involved in cardiac muscle cell action potential	XLOC_060861
+GO:0086010	0.00403589686566374	0.99999617490719	1	2	membrane depolarization during action potential	BP	0.736334370791329	BP membrane depolarization during action potential	XLOC_060861
+GO:0086012	0.00403589686566374	0.99999617490719	1	2	membrane depolarization during cardiac muscle cell action potential	BP	0.736334370791329	BP membrane depolarization during cardiac muscle cell action potential	XLOC_060861
+GO:0086045	0.00403589686566374	0.99999617490719	1	2	membrane depolarization during AV node cell action potential	BP	0.736334370791329	BP membrane depolarization during AV node cell action potential	XLOC_060861
+GO:0086056	0.00403589686566374	0.99999617490719	1	2	voltage-gated calcium channel activity involved in AV node cell action potential	MF	0.736334370791329	MF voltage-gated calcium channel activity involved in AV node cell action potential	XLOC_060861
+GO:0086091	0.00403589686566374	0.99999617490719	1	2	regulation of heart rate by cardiac conduction	BP	0.736334370791329	BP regulation of heart rate by cardiac conduction	XLOC_060861
+GO:0051480	0.00406433977703138	0.999891475368557	2	36	regulation of cytosolic calcium ion concentration	BP	0.736334370791329	BP regulation of cytosolic calcium ion concentration	XLOC_026510, XLOC_060861
+GO:0070838	0.00414369386563267	0.999887996987447	2	38	divalent metal ion transport	BP	0.738199062162461	BP divalent metal ion transport	XLOC_026510, XLOC_060861
+GO:0072511	0.004475427013669	0.999874014667232	2	39	divalent inorganic cation transport	BP	0.755552574944225	BP divalent inorganic cation transport	XLOC_026510, XLOC_060861
+GO:0022857	0.00450831196862297	0.999688578627433	3	140	transmembrane transporter activity	MF	0.755552574944225	MF transmembrane transporter activity	XLOC_026510, XLOC_060861, XLOC_070363
+GO:0044765	0.00452329549343739	0.999515793583972	4	276	NA	NA	0.755552574944225	none	XLOC_008058, XLOC_031698, XLOC_060861, XLOC_070363
+GO:0005575	0.00457982722652382	0.999085886076204	11	1993	cellular_component	CC	0.755552574944225	CC cellular_component	XLOC_008058, XLOC_011620, XLOC_026510, XLOC_031698, XLOC_032325, XLOC_037767, XLOC_056281, XLOC_056488, XLOC_060861, XLOC_065245, XLOC_070363
+GO:0005930	0.00465051004163273	0.99986634372229	2	40	axoneme	CC	0.755552574944225	CC axoneme	XLOC_008058, XLOC_056488
+GO:0019674	0.00466521376614453	0.999994887296125	1	2	NAD metabolic process	BP	0.755552574944225	BP NAD metabolic process	XLOC_070363
+GO:0022892	0.00503474538952301	0.999638141237822	3	139	NA	NA	0.774379394140042	none	XLOC_026510, XLOC_060861, XLOC_070363
+GO:0014820	0.00506366703081097	0.999993975373897	1	2	tonic smooth muscle contraction	BP	0.774379394140042	BP tonic smooth muscle contraction	XLOC_060861
+GO:0086065	0.00514726332850668	0.999991701904895	1	3	cell communication involved in cardiac conduction	BP	0.774379394140042	BP cell communication involved in cardiac conduction	XLOC_060861
+GO:0015747	0.00521613961811985	0.999993606575347	1	2	urate transport	BP	0.774379394140042	BP urate transport	XLOC_070363
+GO:0090416	0.00521613961811985	0.999993606575347	1	2	nicotinate transmembrane transporter activity	MF	0.774379394140042	MF nicotinate transmembrane transporter activity	XLOC_070363
+GO:2001142	0.00521613961811985	0.999993606575347	1	2	nicotinate transport	BP	0.774379394140042	BP nicotinate transport	XLOC_070363
+GO:0060972	0.00560619463004512	0.999992613106339	1	2	left/right pattern formation	BP	0.820885128774688	BP left/right pattern formation	XLOC_008058
+GO:0034765	0.00581283027277018	0.999812409037345	2	41	regulation of ion transmembrane transport	BP	0.830845018648875	BP regulation of ion transmembrane transport	XLOC_026510, XLOC_060861
+GO:1902578	0.00582967315919783	0.999328577828351	4	293	NA	NA	0.830845018648875	none	XLOC_008058, XLOC_031698, XLOC_060861, XLOC_070363
+GO:0034762	0.00620060935908205	0.999792922474507	2	42	regulation of transmembrane transport	BP	0.869831934948654	BP regulation of transmembrane transport	XLOC_026510, XLOC_060861
+GO:0005261	0.00626597988502633	0.999788122819323	2	52	cation channel activity	MF	0.869831934948654	MF cation channel activity	XLOC_026510, XLOC_060861
+GO:0044464	0.00640946849888647	0.998620893366034	10	1751	cell part	CC	0.873476056684634	CC cell part	XLOC_008058, XLOC_026510, XLOC_031698, XLOC_032325, XLOC_037767, XLOC_056281, XLOC_056488, XLOC_060861, XLOC_065245, XLOC_070363
+GO:0022836	0.00645566549519002	0.999778858514613	2	48	gated channel activity	MF	0.873476056684634	MF gated channel activity	XLOC_026510, XLOC_060861
+GO:0006811	0.00664681379031201	0.999471027551013	3	154	ion transport	BP	0.882448261227919	BP ion transport	XLOC_026510, XLOC_060861, XLOC_070363
+GO:0014829	0.00691546934253894	0.999988752076478	1	2	vascular smooth muscle contraction	BP	0.882448261227919	BP vascular smooth muscle contraction	XLOC_060861
+GO:0006874	0.00693476040257697	0.999753323692285	2	49	cellular calcium ion homeostasis	BP	0.882448261227919	BP cellular calcium ion homeostasis	XLOC_026510, XLOC_060861
+GO:0055074	0.00693476040257697	0.999753323692285	2	49	calcium ion homeostasis	BP	0.882448261227919	BP calcium ion homeostasis	XLOC_026510, XLOC_060861
+GO:0072503	0.00693476040257697	0.999753323692285	2	49	cellular divalent inorganic cation homeostasis	BP	0.882448261227919	BP cellular divalent inorganic cation homeostasis	XLOC_026510, XLOC_060861
+GO:0044292	0.0071846095628748	0.999981798304353	1	4	dendrite terminus	CC	0.887902016087833	CC dendrite terminus	XLOC_008058
+GO:0005215	0.00726404654885078	0.999402677674958	3	159	transporter activity	MF	0.887902016087833	MF transporter activity	XLOC_026510, XLOC_060861, XLOC_070363
+GO:0043065	0.00730988655774435	0.999733525877146	2	45	positive regulation of apoptotic process	BP	0.887902016087833	BP positive regulation of apoptotic process	XLOC_008058, XLOC_031698
+GO:0043068	0.00730988655774435	0.999733525877146	2	45	positive regulation of programmed cell death	BP	0.887902016087833	BP positive regulation of programmed cell death	XLOC_008058, XLOC_031698
+GO:0072507	0.00746901083744997	0.999723570220238	2	51	divalent inorganic cation homeostasis	BP	0.89703659372475	BP divalent inorganic cation homeostasis	XLOC_026510, XLOC_060861
+GO:0060850	0.00781159876303829	0.999985641244097	1	2	regulation of transcription involved in cell fate commitment	BP	0.913345938032273	BP regulation of transcription involved in cell fate commitment	XLOC_056281
+GO:0019228	0.00794083701215515	0.999980224206972	1	3	neuronal action potential	BP	0.913345938032273	BP neuronal action potential	XLOC_060861
+GO:0086001	0.00794215142593756	0.999980217647269	1	3	cardiac muscle cell action potential	BP	0.913345938032273	BP cardiac muscle cell action potential	XLOC_060861
+GO:0006810	0.00801192327817947	0.998724051131531	5	507	transport	BP	0.913345938032273	BP transport	XLOC_008058, XLOC_026510, XLOC_031698, XLOC_060861, XLOC_070363
+GO:0006875	0.00803204398681201	0.999690964944142	2	53	cellular metal ion homeostasis	BP	0.913345938032273	BP cellular metal ion homeostasis	XLOC_026510, XLOC_060861
+GO:0046873	0.00817560787145826	0.99968189912778	2	57	metal ion transmembrane transporter activity	MF	0.919884974084393	MF metal ion transmembrane transporter activity	XLOC_026510, XLOC_060861
+GO:0042592	0.00834517128048226	0.999277766039843	3	165	homeostatic process	BP	0.929182664761196	BP homeostatic process	XLOC_026510, XLOC_031698, XLOC_060861
+GO:0051345	0.008432996482055	0.99966687990377	2	55	positive regulation of hydrolase activity	BP	0.929281437079236	BP positive regulation of hydrolase activity	XLOC_008058, XLOC_031698
+GO:0015101	0.00886693467318272	0.999975331685673	1	3	organic cation transmembrane transporter activity	MF	0.958516795145774	MF organic cation transmembrane transporter activity	XLOC_070363
+GO:0010942	0.00887764643272819	0.999640810069196	2	50	positive regulation of cell death	BP	0.958516795145774	BP positive regulation of cell death	XLOC_008058, XLOC_031698
+GO:0051234	0.0090544987790911	0.998513063673233	5	522	establishment of localization	BP	0.967835374497048	BP establishment of localization	XLOC_008058, XLOC_026510, XLOC_031698, XLOC_060861, XLOC_070363
+GO:0005886	0.00969312454944445	0.998704066508933	4	341	plasma membrane	CC	0.999020524072728	CC plasma membrane	XLOC_026510, XLOC_031698, XLOC_060861, XLOC_070363
+GO:0055065	0.00994170230969948	0.999571009601807	2	61	metal ion homeostasis	BP	0.999020524072728	BP metal ion homeostasis	XLOC_026510, XLOC_060861
+GO:0071549	0.00998761765388744	0.999962440207177	1	5	cellular response to dexamethasone stimulus	BP	0.999020524072728	BP cellular response to dexamethasone stimulus	XLOC_060861
+GO:0005216	0.0100004861143027	0.999566491008451	2	65	ion channel activity	MF	0.999020524072728	MF ion channel activity	XLOC_026510, XLOC_060861
+GO:0015267	0.0100004861143027	0.999566491008451	2	65	channel activity	MF	0.999020524072728	MF channel activity	XLOC_026510, XLOC_060861
+GO:0022803	0.0100004861143027	0.999566491008451	2	65	passive transmembrane transporter activity	MF	0.999020524072728	MF passive transmembrane transporter activity	XLOC_026510, XLOC_060861
+GO:0022838	0.0100004861143027	0.999566491008451	2	65	substrate-specific channel activity	MF	0.999020524072728	MF substrate-specific channel activity	XLOC_026510, XLOC_060861
+GO:0045921	0.0108060722630832	0.999963328491529	1	3	positive regulation of exocytosis	BP	0.9999999999	BP positive regulation of exocytosis	XLOC_060861
+GO:1903307	0.0108060722630832	0.999963328491529	1	3	positive regulation of regulated secretory pathway	BP	0.9999999999	BP positive regulation of regulated secretory pathway	XLOC_060861
+GO:0051899	0.0108719059213711	0.999953628842037	1	6	membrane depolarization	BP	0.9999999999	BP membrane depolarization	XLOC_060861
+GO:0035637	0.0110807391159121	0.999956629237935	1	4	multicellular organismal signaling	BP	0.9999999999	BP multicellular organismal signaling	XLOC_060861
+GO:0030001	0.0110933913599654	0.999492545966261	2	64	metal ion transport	BP	0.9999999999	BP metal ion transport	XLOC_026510, XLOC_060861
+GO:0006337	0.0114636046156596	0.999958716985884	1	3	nucleosome disassembly	BP	0.9999999999	BP nucleosome disassembly	XLOC_056281
+GO:0032986	0.0114636046156596	0.999958716985884	1	3	protein-DNA complex disassembly	BP	0.9999999999	BP protein-DNA complex disassembly	XLOC_056281
+GO:0071385	0.0118391079223602	0.999944989004212	1	6	cellular response to glucocorticoid stimulus	BP	0.9999999999	BP cellular response to glucocorticoid stimulus	XLOC_060861
+GO:0044763	0.0124213790479774	0.997240987196052	7	1029	NA	NA	0.9999999999	none	XLOC_008058, XLOC_026510, XLOC_031698, XLOC_056281, XLOC_056488, XLOC_060861, XLOC_070363
+GO:0030162	0.0130008337136719	0.99935354567852	2	65	regulation of proteolysis	BP	0.9999999999	BP regulation of proteolysis	XLOC_008058, XLOC_031698
+GO:0097542	0.0131189398059831	0.999935109721803	1	5	ciliary tip	CC	0.9999999999	CC ciliary tip	XLOC_008058
+GO:1905515	0.0131927110884431	0.99993846285454	1	4	non-motile cilium assembly	BP	0.9999999999	BP non-motile cilium assembly	XLOC_008058
+GO:0015695	0.0133926227393938	0.999929559226501	1	6	organic cation transport	BP	0.9999999999	BP organic cation transport	XLOC_070363
+GO:0001774	0.0135840712781562	0.999930412899747	1	5	microglial cell activation	BP	0.9999999999	BP microglial cell activation	XLOC_031698
+GO:0002282	0.0135840712781562	0.999930412899747	1	5	microglial cell activation involved in immune response	BP	0.9999999999	BP microglial cell activation involved in immune response	XLOC_031698
+GO:0007042	0.0135840712781562	0.999930412899747	1	5	lysosomal lumen acidification	BP	0.9999999999	BP lysosomal lumen acidification	XLOC_031698
+GO:0060266	0.0135840712781562	0.999930412899747	1	5	negative regulation of respiratory burst involved in inflammatory response	BP	0.9999999999	BP negative regulation of respiratory burst involved in inflammatory response	XLOC_031698
+GO:0060268	0.0135840712781562	0.999930412899747	1	5	negative regulation of respiratory burst	BP	0.9999999999	BP negative regulation of respiratory burst	XLOC_031698
+GO:0106016	0.0135840712781562	0.999930412899747	1	5	positive regulation of inflammatory response to wounding	BP	0.9999999999	BP positive regulation of inflammatory response to wounding	XLOC_031698
+GO:1902564	0.0135840712781562	0.999930412899747	1	5	negative regulation of neutrophil activation	BP	0.9999999999	BP negative regulation of neutrophil activation	XLOC_031698
+GO:1903332	0.0135840712781562	0.999930412899747	1	5	regulation of protein folding	BP	0.9999999999	BP regulation of protein folding	XLOC_031698
+GO:1903334	0.0135840712781562	0.999930412899747	1	5	positive regulation of protein folding	BP	0.9999999999	BP positive regulation of protein folding	XLOC_031698
+GO:1903979	0.0135840712781562	0.999930412899747	1	5	negative regulation of microglial cell activation	BP	0.9999999999	BP negative regulation of microglial cell activation	XLOC_031698
+GO:1905245	0.0135840712781562	0.999930412899747	1	5	regulation of aspartic-type peptidase activity	BP	0.9999999999	BP regulation of aspartic-type peptidase activity	XLOC_031698
+GO:1905247	0.0135840712781562	0.999930412899747	1	5	positive regulation of aspartic-type peptidase activity	BP	0.9999999999	BP positive regulation of aspartic-type peptidase activity	XLOC_031698
+GO:1905671	0.0135840712781562	0.999930412899747	1	5	regulation of lysosome organization	BP	0.9999999999	BP regulation of lysosome organization	XLOC_031698
+GO:1905673	0.0135840712781562	0.999930412899747	1	5	positive regulation of lysosome organization	BP	0.9999999999	BP positive regulation of lysosome organization	XLOC_031698
+GO:0051179	0.0136038794496628	0.997521637950569	5	581	localization	BP	0.9999999999	BP localization	XLOC_008058, XLOC_026510, XLOC_031698, XLOC_060861, XLOC_070363
+GO:0006919	0.0136275103617343	0.999927059548673	1	6	activation of cysteine-type endopeptidase activity involved in apoptotic process	BP	0.9999999999	BP activation of cysteine-type endopeptidase activity involved in apoptotic process	XLOC_008058
+GO:0043269	0.0143840453185938	0.999245239763122	2	67	regulation of ion transport	BP	0.9999999999	BP regulation of ion transport	XLOC_026510, XLOC_060861
+GO:0016514	0.0144312736645546	0.999926325177895	1	4	SWI/SNF complex	CC	0.9999999999	CC SWI/SNF complex	XLOC_056281
+GO:0071564	0.0144312736645546	0.999926325177895	1	4	npBAF complex	CC	0.9999999999	CC npBAF complex	XLOC_056281
+GO:0071565	0.0144312736645546	0.999926325177895	1	4	nBAF complex	CC	0.9999999999	CC nBAF complex	XLOC_056281
+GO:0090544	0.0144312736645546	0.999926325177895	1	4	NA	NA	0.9999999999	none	XLOC_056281
+GO:0007224	0.0145645163829611	0.999919971666055	1	5	smoothened signaling pathway	BP	0.9999999999	BP smoothened signaling pathway	XLOC_008058
+GO:1903978	0.0146038752460455	0.999916199113486	1	6	regulation of microglial cell activation	BP	0.9999999999	BP regulation of microglial cell activation	XLOC_031698
+GO:0043031	0.0148753168643463	0.999913045100004	1	6	negative regulation of macrophage activation	BP	0.9999999999	BP negative regulation of macrophage activation	XLOC_031698
+GO:0006928	0.015303467871896	0.998338252198384	3	203	movement of cell or subcellular component	BP	0.9999999999	BP movement of cell or subcellular component	XLOC_008058, XLOC_056488, XLOC_060861
+GO:0022890	0.0156716358378492	0.999137241464266	2	77	inorganic cation transmembrane transporter activity	MF	0.9999999999	MF inorganic cation transmembrane transporter activity	XLOC_026510, XLOC_060861
+GO:0035751	0.0157087742069568	0.999900235981917	1	7	regulation of lysosomal lumen pH	BP	0.9999999999	BP regulation of lysosomal lumen pH	XLOC_031698
+GO:0044458	0.0158471619890208	0.999905203135175	1	5	motile cilium assembly	BP	0.9999999999	BP motile cilium assembly	XLOC_008058
+GO:0060263	0.0160359035055264	0.9998988981623	1	6	regulation of respiratory burst	BP	0.9999999999	BP regulation of respiratory burst	XLOC_031698
+GO:0060264	0.0160359035055264	0.9998988981623	1	6	regulation of respiratory burst involved in inflammatory response	BP	0.9999999999	BP regulation of respiratory burst involved in inflammatory response	XLOC_031698
+GO:1900426	0.0161379366707048	0.999897603121969	1	6	positive regulation of defense response to bacterium	BP	0.9999999999	BP positive regulation of defense response to bacterium	XLOC_031698
+GO:0001508	0.0167285383132637	0.999889943949508	1	6	action potential	BP	0.9999999999	BP action potential	XLOC_060861
+GO:0071384	0.016735412678085	0.999884374590456	1	8	cellular response to corticosteroid stimulus	BP	0.9999999999	BP cellular response to corticosteroid stimulus	XLOC_060861
+GO:0035735	0.0171004699433137	0.999881708664843	1	7	intraciliary transport involved in cilium assembly	BP	0.9999999999	BP intraciliary transport involved in cilium assembly	XLOC_008058
+GO:0002027	0.0173700097870395	0.999877936748826	1	7	regulation of heart rate	BP	0.9999999999	BP regulation of heart rate	XLOC_060861
+GO:1902563	0.0174552308625859	0.999880138108071	1	6	regulation of neutrophil activation	BP	0.9999999999	BP regulation of neutrophil activation	XLOC_031698
+GO:0002265	0.0174552336092176	0.999880138070212	1	6	astrocyte activation involved in immune response	BP	0.9999999999	BP astrocyte activation involved in immune response	XLOC_031698
+GO:0048143	0.0174552336092176	0.999880138070212	1	6	astrocyte activation	BP	0.9999999999	BP astrocyte activation	XLOC_031698
+GO:0048680	0.0174552336092176	0.999880138070212	1	6	positive regulation of axon regeneration	BP	0.9999999999	BP positive regulation of axon regeneration	XLOC_031698
+GO:0070572	0.0174552336092176	0.999880138070212	1	6	positive regulation of neuron projection regeneration	BP	0.9999999999	BP positive regulation of neuron projection regeneration	XLOC_031698
+GO:0007035	0.0174552468070794	0.999880137888296	1	6	vacuolar acidification	BP	0.9999999999	BP vacuolar acidification	XLOC_031698
+GO:0071548	0.0176318139481368	0.999874216002628	1	7	response to dexamethasone	BP	0.9999999999	BP response to dexamethasone	XLOC_060861
+GO:0036157	0.0180019840028767	0.999872482427183	1	6	outer dynein arm	CC	0.9999999999	CC outer dynein arm	XLOC_056488
+GO:0043030	0.0183403195324001	0.999861044607616	1	8	regulation of macrophage activation	BP	0.9999999999	BP regulation of macrophage activation	XLOC_031698
+GO:0006939	0.0186061061343818	0.999856972616704	1	8	smooth muscle contraction	BP	0.9999999999	BP smooth muscle contraction	XLOC_060861
+GO:0051336	0.0188250900697167	0.998856610649115	2	83	regulation of hydrolase activity	BP	0.9999999999	BP regulation of hydrolase activity	XLOC_008058, XLOC_031698
+GO:0003996	0.0192244057616422	0.99986028981464	1	5	acyl-CoA ligase activity	MF	0.9999999999	MF acyl-CoA ligase activity	XLOC_065245
+GO:0004467	0.0192244057616422	0.99986028981464	1	5	long-chain fatty acid-CoA ligase activity	MF	0.9999999999	MF long-chain fatty acid-CoA ligase activity	XLOC_065245
+GO:0015645	0.0192244057616422	0.99986028981464	1	5	fatty acid ligase activity	MF	0.9999999999	MF fatty acid ligase activity	XLOC_065245
+GO:0016405	0.0192244057616422	0.99986028981464	1	5	CoA-ligase activity	MF	0.9999999999	MF CoA-ligase activity	XLOC_065245
+GO:0016878	0.0192244057616422	0.99986028981464	1	5	acid-thiol ligase activity	MF	0.9999999999	MF acid-thiol ligase activity	XLOC_065245
+GO:0102391	0.0192244057616422	0.99986028981464	1	5	decanoate-CoA ligase activity	MF	0.9999999999	MF decanoate-CoA ligase activity	XLOC_065245
+GO:0043280	0.0195081954602802	0.999840228979888	1	9	positive regulation of cysteine-type endopeptidase activity involved in apoptotic process	BP	0.9999999999	BP positive regulation of cysteine-type endopeptidase activity involved in apoptotic process	XLOC_008058
+GO:1900424	0.0198816807903761	0.99983991951636	1	7	regulation of defense response to bacterium	BP	0.9999999999	BP regulation of defense response to bacterium	XLOC_031698
+GO:0048679	0.0205154752585313	0.999823232846202	1	9	regulation of axon regeneration	BP	0.9999999999	BP regulation of axon regeneration	XLOC_031698
+GO:0070570	0.0205154752585313	0.999823232846202	1	9	regulation of neuron projection regeneration	BP	0.9999999999	BP regulation of neuron projection regeneration	XLOC_031698
+GO:0071383	0.0205950243848857	0.99982185369479	1	9	cellular response to steroid hormone stimulus	BP	0.9999999999	BP cellular response to steroid hormone stimulus	XLOC_060861
+GO:0007018	0.0208589801858972	0.998660581939557	2	89	microtubule-based movement	BP	0.9999999999	BP microtubule-based movement	XLOC_008058, XLOC_056488
+GO:0002833	0.0210142411907634	0.999817375849691	1	8	positive regulation of response to biotic stimulus	BP	0.9999999999	BP positive regulation of response to biotic stimulus	XLOC_031698
+GO:0045851	0.0213104261247577	0.999815977337444	1	7	pH reduction	BP	0.9999999999	BP pH reduction	XLOC_031698
+GO:0051452	0.0213104261247577	0.999815977337444	1	7	intracellular pH reduction	BP	0.9999999999	BP intracellular pH reduction	XLOC_031698
+GO:0044090	0.0214882991322586	0.999809006697951	1	8	positive regulation of vacuole organization	BP	0.9999999999	BP positive regulation of vacuole organization	XLOC_031698
+GO:0043044	0.0219635436865014	0.999804472228616	1	7	ATP-dependent chromatin remodeling	BP	0.9999999999	BP ATP-dependent chromatin remodeling	XLOC_056281
+GO:0035578	0.0220805835681009	0.999792562171063	1	10	azurophil granule lumen	CC	0.9999999999	CC azurophil granule lumen	XLOC_031698
+GO:0030992	0.0223633051927999	0.999789800830705	1	9	intraciliary transport particle B	CC	0.9999999999	CC intraciliary transport particle B	XLOC_008058
+GO:0051173	0.0225699453747732	0.997156420494672	3	242	positive regulation of nitrogen compound metabolic process	BP	0.9999999999	BP positive regulation of nitrogen compound metabolic process	XLOC_008058, XLOC_031698, XLOC_056281
+GO:1901655	0.0232534614387148	0.999767525310253	1	11	cellular response to ketone	BP	0.9999999999	BP cellular response to ketone	XLOC_060861
+GO:0002281	0.0237460202470681	0.999766550637715	1	8	macrophage activation involved in immune response	BP	0.9999999999	BP macrophage activation involved in immune response	XLOC_031698
+GO:0042116	0.0237460202470681	0.999766550637715	1	8	macrophage activation	BP	0.9999999999	BP macrophage activation	XLOC_031698
+GO:0044441	0.0245908365668651	0.99827609762036	2	89	ciliary part	CC	0.9999999999	CC ciliary part	XLOC_008058, XLOC_056488
+GO:0001947	0.0247362293955549	0.999742582337423	1	9	heart looping	BP	0.9999999999	BP heart looping	XLOC_008058
+GO:0003143	0.0247362293955549	0.999742582337423	1	9	embryonic heart tube morphogenesis	BP	0.9999999999	BP embryonic heart tube morphogenesis	XLOC_008058
+GO:0060294	0.0247841563572061	0.999741578907232	1	9	cilium movement involved in cell motility	BP	0.9999999999	BP cilium movement involved in cell motility	XLOC_056488
+GO:0008083	0.025366295559486	0.999723130456142	1	11	growth factor activity	MF	0.9999999999	MF growth factor activity	XLOC_031698
+GO:0005794	0.0255799018377407	0.998168184482604	2	90	Golgi apparatus	CC	0.9999999999	CC Golgi apparatus	XLOC_008058, XLOC_031698
+GO:0030317	0.0256466374159738	0.999723184383832	1	9	flagellated sperm motility	BP	0.9999999999	BP flagellated sperm motility	XLOC_060861
+GO:0097722	0.0256466374159738	0.999723184383832	1	9	sperm motility	BP	0.9999999999	BP sperm motility	XLOC_060861
+GO:0051384	0.0259534203279223	0.999710098409287	1	11	response to glucocorticoid	BP	0.9999999999	BP response to glucocorticoid	XLOC_060861
+GO:0044459	0.026257813782796	0.996491629286961	3	263	plasma membrane part	CC	0.9999999999	CC plasma membrane part	XLOC_026510, XLOC_060861, XLOC_070363
+GO:0002698	0.0263137318291614	0.999704906070756	1	10	negative regulation of immune effector process	BP	0.9999999999	BP negative regulation of immune effector process	XLOC_031698
+GO:0032991	0.0263835205924365	0.994274787465602	5	658	protein-containing complex	CC	0.9999999999	CC protein-containing complex	XLOC_008058, XLOC_026510, XLOC_056281, XLOC_056488, XLOC_060861
+GO:0001843	0.0269229787702784	0.999687914670999	1	11	neural tube closure	BP	0.9999999999	BP neural tube closure	XLOC_008058
+GO:0042310	0.0271188180097395	0.999690309730128	1	9	vasoconstriction	BP	0.9999999999	BP vasoconstriction	XLOC_060861
+GO:0097756	0.0271188180097395	0.999690309730128	1	9	negative regulation of blood vessel diameter	BP	0.9999999999	BP negative regulation of blood vessel diameter	XLOC_060861
+GO:0010595	0.0272375663816322	0.999683705769192	1	10	positive regulation of endothelial cell migration	BP	0.9999999999	BP positive regulation of endothelial cell migration	XLOC_031698
+GO:0010604	0.0273163477546771	0.996294122438337	3	262	positive regulation of macromolecule metabolic process	BP	0.9999999999	BP positive regulation of macromolecule metabolic process	XLOC_008058, XLOC_031698, XLOC_056281
+GO:0044088	0.0273503694797938	0.999677873372421	1	11	regulation of vacuole organization	BP	0.9999999999	BP regulation of vacuole organization	XLOC_031698
+GO:0048522	0.0273884271703417	0.994972959215547	4	459	positive regulation of cellular process	BP	0.9999999999	BP positive regulation of cellular process	XLOC_008058, XLOC_031698, XLOC_056281, XLOC_060861
+GO:0036158	0.0275216046252383	0.999680990418864	1	9	outer dynein arm assembly	BP	0.9999999999	BP outer dynein arm assembly	XLOC_056488
+GO:0031325	0.0277497129194056	0.996212714397877	3	258	positive regulation of cellular metabolic process	BP	0.9999999999	BP positive regulation of cellular metabolic process	XLOC_008058, XLOC_031698, XLOC_056281
+GO:0010950	0.0279569336855003	0.999660566868275	1	12	positive regulation of endopeptidase activity	BP	0.9999999999	BP positive regulation of endopeptidase activity	XLOC_008058
+GO:2001056	0.0279569336855003	0.999660566868275	1	12	positive regulation of cysteine-type endopeptidase activity	BP	0.9999999999	BP positive regulation of cysteine-type endopeptidase activity	XLOC_008058
+GO:0045824	0.0280385040569972	0.999658572342687	1	12	negative regulation of innate immune response	BP	0.9999999999	BP negative regulation of innate immune response	XLOC_031698
+GO:1903036	0.0281685927542226	0.999661588124359	1	10	positive regulation of response to wounding	BP	0.9999999999	BP positive regulation of response to wounding	XLOC_031698
+GO:0032879	0.0284341278353197	0.996081988918819	3	263	regulation of localization	BP	0.9999999999	BP regulation of localization	XLOC_026510, XLOC_031698, XLOC_060861
+GO:0005125	0.0286444764093892	0.999646488564237	1	11	cytokine activity	MF	0.9999999999	MF cytokine activity	XLOC_031698
+GO:0060606	0.0289375601500462	0.999633677797222	1	13	tube closure	BP	0.9999999999	BP tube closure	XLOC_008058
+GO:0007040	0.0290389174659469	0.999633629972352	1	12	lysosome organization	BP	0.9999999999	BP lysosome organization	XLOC_031698
+GO:0080171	0.0290389174659469	0.999633629972352	1	12	lytic vacuole organization	BP	0.9999999999	BP lytic vacuole organization	XLOC_031698
+GO:0050777	0.0290457962773967	0.999630916788673	1	13	negative regulation of immune response	BP	0.9999999999	BP negative regulation of immune response	XLOC_031698
+GO:0050789	0.029326340822964	0.992684020898958	6	962	regulation of biological process	BP	0.9999999999	BP regulation of biological process	XLOC_008058, XLOC_011620, XLOC_026510, XLOC_031698, XLOC_056281, XLOC_060861
+GO:0060562	0.02941938835026	0.999626988967722	1	11	epithelial tube morphogenesis	BP	0.9999999999	BP epithelial tube morphogenesis	XLOC_008058
+GO:0043085	0.0299046820594014	0.997663757936072	2	112	positive regulation of catalytic activity	BP	0.9999999999	BP positive regulation of catalytic activity	XLOC_008058, XLOC_031698
+GO:0044699	0.030098433042444	0.99189518826282	7	1215	NA	NA	0.9999999999	none	XLOC_008058, XLOC_026510, XLOC_031698, XLOC_056281, XLOC_056488, XLOC_060861, XLOC_070363
+GO:0043281	0.0301258870523146	0.999600449485717	1	14	regulation of cysteine-type endopeptidase activity involved in apoptotic process	BP	0.9999999999	BP regulation of cysteine-type endopeptidase activity involved in apoptotic process	XLOC_008058
+GO:0007218	0.0308629126983457	0.999589251842701	1	11	neuropeptide signaling pathway	BP	0.9999999999	BP neuropeptide signaling pathway	XLOC_011620
+GO:0050679	0.0314646720789727	0.999566475742937	1	13	positive regulation of epithelial cell proliferation	BP	0.9999999999	BP positive regulation of epithelial cell proliferation	XLOC_031698
+GO:0032391	0.0317872711377197	0.999564120088962	1	11	photoreceptor connecting cilium	CC	0.9999999999	CC photoreceptor connecting cilium	XLOC_008058
+GO:0043525	0.0330845126425998	0.999527575362364	1	11	positive regulation of neuron apoptotic process	BP	0.9999999999	BP positive regulation of neuron apoptotic process	XLOC_031698
+GO:0005858	0.0331221591624068	0.999522589707192	1	12	axonemal dynein complex	CC	0.9999999999	CC axonemal dynein complex	XLOC_056488
+GO:0050728	0.03349346311914	0.999511754844243	1	12	negative regulation of inflammatory response	BP	0.9999999999	BP negative regulation of inflammatory response	XLOC_031698
+GO:0050680	0.0337912833712472	0.999502975245487	1	12	negative regulation of epithelial cell proliferation	BP	0.9999999999	BP negative regulation of epithelial cell proliferation	XLOC_008058
+GO:0002695	0.0338797508809399	0.999504435611588	1	11	negative regulation of leukocyte activation	BP	0.9999999999	BP negative regulation of leukocyte activation	XLOC_031698
+GO:0070603	0.0347195281146124	0.999475102242996	1	12	SWI/SNF superfamily-type complex	CC	0.9999999999	CC SWI/SNF superfamily-type complex	XLOC_056281
+GO:0019362	0.0347427405931011	0.999474395348492	1	12	pyridine nucleotide metabolic process	BP	0.9999999999	BP pyridine nucleotide metabolic process	XLOC_070363
+GO:0046496	0.0347427405931011	0.999474395348492	1	12	nicotinamide nucleotide metabolic process	BP	0.9999999999	BP nicotinamide nucleotide metabolic process	XLOC_070363
+GO:0072524	0.0347427405931011	0.999474395348492	1	12	pyridine-containing compound metabolic process	BP	0.9999999999	BP pyridine-containing compound metabolic process	XLOC_070363
+GO:0006885	0.0348589053475993	0.999470850513872	1	12	regulation of pH	BP	0.9999999999	BP regulation of pH	XLOC_031698
+GO:0030641	0.0348589053475993	0.999470850513872	1	12	regulation of cellular pH	BP	0.9999999999	BP regulation of cellular pH	XLOC_031698
+GO:0051453	0.0348589053475993	0.999470850513872	1	12	regulation of intracellular pH	BP	0.9999999999	BP regulation of intracellular pH	XLOC_031698
+GO:0009893	0.0349955276960145	0.994768041947086	3	286	positive regulation of metabolic process	BP	0.9999999999	BP positive regulation of metabolic process	XLOC_008058, XLOC_031698, XLOC_056281
+GO:0042981	0.0358054579183309	0.996916286009757	2	113	regulation of apoptotic process	BP	0.9999999999	BP regulation of apoptotic process	XLOC_008058, XLOC_031698
+GO:0009108	0.0359550626740014	0.999436805707566	1	12	coenzyme biosynthetic process	BP	0.9999999999	BP coenzyme biosynthetic process	XLOC_070363
+GO:0035869	0.0362706701165245	0.999419449946587	1	14	ciliary transition zone	CC	0.9999999999	CC ciliary transition zone	XLOC_008058
+GO:0043067	0.0377017853926827	0.996659506124857	2	116	regulation of programmed cell death	BP	0.9999999999	BP regulation of programmed cell death	XLOC_008058, XLOC_031698
+GO:0043902	0.037796488386557	0.9993632151915	1	16	positive regulation of multi-organism process	BP	0.9999999999	BP positive regulation of multi-organism process	XLOC_031698
+GO:0009165	0.0378219359076567	0.999362351167189	1	16	nucleotide biosynthetic process	BP	0.9999999999	BP nucleotide biosynthetic process	XLOC_070363
+GO:0070509	0.03845297697812	0.99934362735577	1	15	calcium ion import	BP	0.9999999999	BP calcium ion import	XLOC_060861
+GO:0051087	0.0384694731685106	0.999354641983411	1	12	chaperone binding	MF	0.9999999999	MF chaperone binding	XLOC_031698
+GO:0006733	0.0385094830615354	0.999348824105268	1	13	oxidoreduction coenzyme metabolic process	BP	0.9999999999	BP oxidoreduction coenzyme metabolic process	XLOC_070363
+GO:0017158	0.0385812511457546	0.999342535902827	1	14	regulation of calcium ion-dependent exocytosis	BP	0.9999999999	BP regulation of calcium ion-dependent exocytosis	XLOC_060861
+GO:0031960	0.0389621671982844	0.999318078290801	1	18	response to corticosteroid	BP	0.9999999999	BP response to corticosteroid	XLOC_060861
+GO:0060401	0.0390472293293414	0.999323027282354	1	15	cytosolic calcium ion transport	BP	0.9999999999	BP cytosolic calcium ion transport	XLOC_060861
+GO:0060402	0.0390472293293414	0.999323027282354	1	15	calcium ion transport into cytosol	BP	0.9999999999	BP calcium ion transport into cytosol	XLOC_060861
+GO:0042127	0.0391090639462575	0.996462186521195	2	124	regulation of cell proliferation	BP	0.9999999999	BP regulation of cell proliferation	XLOC_008058, XLOC_031698
+GO:0009987	0.0396084333993636	0.988195303471146	8	1596	cellular process	BP	0.9999999999	BP cellular process	XLOC_008058, XLOC_011620, XLOC_026510, XLOC_031698, XLOC_056281, XLOC_056488, XLOC_060861, XLOC_070363
+GO:0048518	0.0400567884202415	0.991697091206428	4	513	positive regulation of biological process	BP	0.9999999999	BP positive regulation of biological process	XLOC_008058, XLOC_031698, XLOC_056281, XLOC_060861
+GO:0050866	0.0401867344729118	0.999286232343884	1	14	negative regulation of cell activation	BP	0.9999999999	BP negative regulation of cell activation	XLOC_031698
+GO:0008022	0.0402607849186182	0.999273986346761	1	17	protein C-terminus binding	MF	0.9999999999	MF protein C-terminus binding	XLOC_026510
+GO:0042073	0.0403914893580512	0.999269227923588	1	17	intraciliary transport	BP	0.9999999999	BP intraciliary transport	XLOC_008058
+GO:0044424	0.0407160113495769	0.987791158387907	8	1581	intracellular part	CC	0.9999999999	CC intracellular part	XLOC_008058, XLOC_031698, XLOC_032325, XLOC_037767, XLOC_056281, XLOC_056488, XLOC_060861, XLOC_065245
+GO:0032270	0.0407204124160532	0.996232090494908	2	131	positive regulation of cellular protein metabolic process	BP	0.9999999999	BP positive regulation of cellular protein metabolic process	XLOC_008058, XLOC_031698
+GO:0030004	0.0407229369285376	0.99926319657527	1	15	cellular monovalent inorganic cation homeostasis	BP	0.9999999999	BP cellular monovalent inorganic cation homeostasis	XLOC_031698
+GO:0035148	0.0408697220788798	0.999251682823664	1	17	tube formation	BP	0.9999999999	BP tube formation	XLOC_008058
+GO:0007033	0.0410110173320939	0.999243878676884	1	18	vacuole organization	BP	0.9999999999	BP vacuole organization	XLOC_031698
+GO:0070286	0.0410216231932807	0.999256024417698	1	14	axonemal dynein complex assembly	BP	0.9999999999	BP axonemal dynein complex assembly	XLOC_056488
+GO:0008016	0.041072339782722	0.999244185545662	1	17	regulation of heart contraction	BP	0.9999999999	BP regulation of heart contraction	XLOC_060861
+GO:0016877	0.0411231826725933	0.999267780888807	1	11	ligase activity, forming carbon-sulfur bonds	MF	0.9999999999	MF ligase activity, forming carbon-sulfur bonds	XLOC_065245
+GO:0032984	0.0418636807447299	0.999224912575957	1	14	protein-containing complex disassembly	BP	0.9999999999	BP protein-containing complex disassembly	XLOC_056281
+GO:0065007	0.0419448526461037	0.988556914101172	6	1044	biological regulation	BP	0.9999999999	BP biological regulation	XLOC_008058, XLOC_011620, XLOC_026510, XLOC_031698, XLOC_056281, XLOC_060861
+GO:2000116	0.0422682613491982	0.999196419599255	1	18	regulation of cysteine-type endopeptidase activity	BP	0.9999999999	BP regulation of cysteine-type endopeptidase activity	XLOC_008058
+GO:0007017	0.0423491751187039	0.995995800275249	2	133	microtubule-based process	BP	0.9999999999	BP microtubule-based process	XLOC_008058, XLOC_056488
+GO:0098840	0.0423749919860024	0.999189858731757	1	19	protein transport along microtubule	BP	0.9999999999	BP protein transport along microtubule	XLOC_008058
+GO:0099118	0.0423749919860024	0.999189858731757	1	19	microtubule-based protein transport	BP	0.9999999999	BP microtubule-based protein transport	XLOC_008058
+GO:1901654	0.0425235206327082	0.999186604643847	1	18	response to ketone	BP	0.9999999999	BP response to ketone	XLOC_060861
+GO:1901216	0.0426031040949899	0.999192999935862	1	15	positive regulation of neuron death	BP	0.9999999999	BP positive regulation of neuron death	XLOC_031698
+GO:0048545	0.0427399175928914	0.999175729549679	1	19	response to steroid hormone	BP	0.9999999999	BP response to steroid hormone	XLOC_060861
+GO:0010941	0.0435487098275123	0.99582208673985	2	124	regulation of cell death	BP	0.9999999999	BP regulation of cell death	XLOC_008058, XLOC_031698
+GO:0003674	0.0444585381076062	0.986193862468058	9	1959	molecular_function	MF	0.9999999999	MF molecular_function	XLOC_008058, XLOC_026510, XLOC_027280, XLOC_031698, XLOC_032325, XLOC_056281, XLOC_060861, XLOC_065245, XLOC_070363
+GO:0051247	0.0445482663840581	0.995667739720054	2	138	positive regulation of protein metabolic process	BP	0.9999999999	BP positive regulation of protein metabolic process	XLOC_008058, XLOC_031698
+GO:0005775	0.0447428177508058	0.999095968811865	1	19	vacuolar lumen	CC	0.9999999999	CC vacuolar lumen	XLOC_031698
+GO:0007286	0.0448251077972569	0.999110344844706	1	14	spermatid development	BP	0.9999999999	BP spermatid development	XLOC_056488
+GO:0031503	0.0451518467688039	0.999079219457822	1	19	protein-containing complex localization	BP	0.9999999999	BP protein-containing complex localization	XLOC_008058
+GO:0070062	0.0451657660177554	0.99557861714404	2	126	extracellular exosome	CC	0.9999999999	CC extracellular exosome	XLOC_031698, XLOC_070363
+GO:1903561	0.0451657660177554	0.99557861714404	2	126	extracellular vesicle	CC	0.9999999999	CC extracellular vesicle	XLOC_031698, XLOC_070363
+GO:0055067	0.0458754537959735	0.999052093820072	1	18	monovalent inorganic cation homeostasis	BP	0.9999999999	BP monovalent inorganic cation homeostasis	XLOC_031698
+GO:0070588	0.0461593956472775	0.999043487260278	1	17	calcium ion transmembrane transport	BP	0.9999999999	BP calcium ion transmembrane transport	XLOC_026510
+GO:0042393	0.046165424117994	0.999037040099617	1	19	histone binding	MF	0.9999999999	MF histone binding	XLOC_056281
+GO:0043230	0.0465729925813854	0.995362530420225	2	128	extracellular organelle	CC	0.9999999999	CC extracellular organelle	XLOC_031698, XLOC_070363
+GO:0002831	0.0469105244760497	0.999008440456026	1	18	regulation of response to biotic stimulus	BP	0.9999999999	BP regulation of response to biotic stimulus	XLOC_031698
+GO:0035239	0.0470762237757401	0.998990852083563	1	22	tube morphogenesis	BP	0.9999999999	BP tube morphogenesis	XLOC_008058
+GO:0044093	0.0471224204020404	0.995273057609673	2	140	positive regulation of molecular function	BP	0.9999999999	BP positive regulation of molecular function	XLOC_008058, XLOC_031698
+GO:0044447	0.04720839808418	0.998992633372333	1	19	axoneme part	CC	0.9999999999	CC axoneme part	XLOC_056488
+GO:0051188	0.0473089618427274	0.998994803813277	1	17	cofactor biosynthetic process	BP	0.9999999999	BP cofactor biosynthetic process	XLOC_070363
+GO:0034728	0.0473548667230158	0.998996705337242	1	16	nucleosome organization	BP	0.9999999999	BP nucleosome organization	XLOC_056281
+GO:0043524	0.047407029728002	0.998987145555515	1	18	negative regulation of neuron apoptotic process	BP	0.9999999999	BP negative regulation of neuron apoptotic process	XLOC_031698
+GO:0045766	0.0484875909093562	0.998936776834833	1	19	positive regulation of angiogenesis	BP	0.9999999999	BP positive regulation of angiogenesis	XLOC_031698
+GO:1901293	0.0490097844930653	0.998913533616611	1	19	nucleoside phosphate biosynthetic process	BP	0.9999999999	BP nucleoside phosphate biosynthetic process	XLOC_070363
+GO:1901215	0.0493905789674621	0.998893409225681	1	20	negative regulation of neuron death	BP	0.9999999999	BP negative regulation of neuron death	XLOC_031698
+GO:0017157	0.0498114209619728	0.998884566820508	1	17	regulation of exocytosis	BP	0.9999999999	BP regulation of exocytosis	XLOC_060861
+GO:1903305	0.0498114209619728	0.998884566820508	1	17	regulation of regulated secretory pathway	BP	0.9999999999	BP regulation of regulated secretory pathway	XLOC_060861
+GO:0010594	0.0499077628669437	0.998880205957162	1	17	regulation of endothelial cell migration	BP	0.9999999999	BP regulation of endothelial cell migration	XLOC_031698

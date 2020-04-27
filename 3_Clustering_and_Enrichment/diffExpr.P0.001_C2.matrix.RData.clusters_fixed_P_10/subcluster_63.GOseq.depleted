@@ -1,0 +1,7 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	under_represented_FDR	go_term
+GO:0005575	1	0.0172826834632593	0	1993	cellular_component	CC	0.9999999999	0.99937341565206	CC cellular_component
+GO:0008150	1	0.0215852169258449	0	1941	biological_process	BP	0.9999999999	0.99937341565206	BP biological_process
+GO:0003674	1	0.022780945031288	0	1959	molecular_function	MF	0.9999999999	0.99937341565206	MF molecular_function
+GO:0044464	1	0.0295594915439662	0	1751	cell part	CC	0.9999999999	0.99937341565206	CC cell part
+GO:0044424	1	0.0423836582033625	0	1581	intracellular part	CC	0.9999999999	0.99937341565206	CC intracellular part
+GO:0005488	1	0.0462288914503209	0	1638	binding	MF	0.9999999999	0.99937341565206	MF binding

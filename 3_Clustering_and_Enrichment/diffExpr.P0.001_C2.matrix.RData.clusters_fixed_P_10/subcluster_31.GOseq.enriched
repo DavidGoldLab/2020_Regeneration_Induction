@@ -1,0 +1,93 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0072345	0.0234992058923145	1	1	1	NAADP-sensitive calcium-release channel activity	MF	0.9999999999	MF NAADP-sensitive calcium-release channel activity	XLOC_011680
+GO:0003956	0.0235174878756999	1	1	1	NAD(P)+-protein-arginine ADP-ribosyltransferase activity	MF	0.9999999999	MF NAD(P)+-protein-arginine ADP-ribosyltransferase activity	XLOC_033164
+GO:0018120	0.0235174878756999	1	1	1	peptidyl-arginine ADP-ribosylation	BP	0.9999999999	BP peptidyl-arginine ADP-ribosylation	XLOC_033164
+GO:0018195	0.0235174878756999	1	1	1	peptidyl-arginine modification	BP	0.9999999999	BP peptidyl-arginine modification	XLOC_033164
+GO:0044194	0.0235174878756999	1	1	1	cytolytic granule	CC	0.9999999999	CC cytolytic granule	XLOC_033164
+GO:0004126	0.023552289162612	1	1	1	cytidine deaminase activity	MF	0.9999999999	MF cytidine deaminase activity	XLOC_015701
+GO:0005154	0.023552289162612	1	1	1	epidermal growth factor receptor binding	MF	0.9999999999	MF epidermal growth factor receptor binding	XLOC_071803
+GO:0006216	0.023552289162612	1	1	1	cytidine catabolic process	BP	0.9999999999	BP cytidine catabolic process	XLOC_015701
+GO:0006217	0.023552289162612	1	1	1	deoxycytidine catabolic process	BP	0.9999999999	BP deoxycytidine catabolic process	XLOC_015701
+GO:0007176	0.023552289162612	1	1	1	regulation of epidermal growth factor-activated receptor activity	BP	0.9999999999	BP regulation of epidermal growth factor-activated receptor activity	XLOC_071803
+GO:0008832	0.023552289162612	1	1	1	dGTPase activity	MF	0.9999999999	MF dGTPase activity	XLOC_011308
+GO:0009120	0.023552289162612	1	1	1	deoxyribonucleoside metabolic process	BP	0.9999999999	BP deoxyribonucleoside metabolic process	XLOC_015701
+GO:0009972	0.023552289162612	1	1	1	cytidine deamination	BP	0.9999999999	BP cytidine deamination	XLOC_015701
+GO:0016153	0.023552289162612	1	1	1	urocanate hydratase activity	MF	0.9999999999	MF urocanate hydratase activity	XLOC_011630
+GO:0016793	0.023552289162612	1	1	1	triphosphoric monoester hydrolase activity	MF	0.9999999999	MF triphosphoric monoester hydrolase activity	XLOC_011308
+GO:0021936	0.023552289162612	1	1	1	regulation of cerebellar granule cell precursor proliferation	BP	0.9999999999	BP regulation of cerebellar granule cell precursor proliferation	XLOC_071803
+GO:0021940	0.023552289162612	1	1	1	positive regulation of cerebellar granule cell precursor proliferation	BP	0.9999999999	BP positive regulation of cerebellar granule cell precursor proliferation	XLOC_071803
+GO:0032372	0.023552289162612	1	1	1	negative regulation of sterol transport	BP	0.9999999999	BP negative regulation of sterol transport	XLOC_071803
+GO:0032375	0.023552289162612	1	1	1	negative regulation of cholesterol transport	BP	0.9999999999	BP negative regulation of cholesterol transport	XLOC_071803
+GO:0032554	0.023552289162612	1	1	1	purine deoxyribonucleotide binding	MF	0.9999999999	MF purine deoxyribonucleotide binding	XLOC_011308
+GO:0032560	0.023552289162612	1	1	1	guanyl deoxyribonucleotide binding	MF	0.9999999999	MF guanyl deoxyribonucleotide binding	XLOC_011308
+GO:0032567	0.023552289162612	1	1	1	dGTP binding	MF	0.9999999999	MF dGTP binding	XLOC_011308
+GO:0038128	0.023552289162612	1	1	1	ERBB2 signaling pathway	BP	0.9999999999	BP ERBB2 signaling pathway	XLOC_071803
+GO:0045741	0.023552289162612	1	1	1	positive regulation of epidermal growth factor-activated receptor activity	BP	0.9999999999	BP positive regulation of epidermal growth factor-activated receptor activity	XLOC_071803
+GO:0046087	0.023552289162612	1	1	1	cytidine metabolic process	BP	0.9999999999	BP cytidine metabolic process	XLOC_015701
+GO:0046092	0.023552289162612	1	1	1	deoxycytidine metabolic process	BP	0.9999999999	BP deoxycytidine metabolic process	XLOC_015701
+GO:0046121	0.023552289162612	1	1	1	deoxyribonucleoside catabolic process	BP	0.9999999999	BP deoxyribonucleoside catabolic process	XLOC_015701
+GO:0046125	0.023552289162612	1	1	1	pyrimidine deoxyribonucleoside metabolic process	BP	0.9999999999	BP pyrimidine deoxyribonucleoside metabolic process	XLOC_015701
+GO:0046127	0.023552289162612	1	1	1	pyrimidine deoxyribonucleoside catabolic process	BP	0.9999999999	BP pyrimidine deoxyribonucleoside catabolic process	XLOC_015701
+GO:0046133	0.023552289162612	1	1	1	pyrimidine ribonucleoside catabolic process	BP	0.9999999999	BP pyrimidine ribonucleoside catabolic process	XLOC_015701
+GO:0046135	0.023552289162612	1	1	1	pyrimidine nucleoside catabolic process	BP	0.9999999999	BP pyrimidine nucleoside catabolic process	XLOC_015701
+GO:0060749	0.023552289162612	1	1	1	mammary gland alveolus development	BP	0.9999999999	BP mammary gland alveolus development	XLOC_071803
+GO:0090370	0.023552289162612	1	1	1	negative regulation of cholesterol efflux	BP	0.9999999999	BP negative regulation of cholesterol efflux	XLOC_071803
+GO:0090385	0.023552289162612	1	1	1	phagosome-lysosome fusion	BP	0.9999999999	BP phagosome-lysosome fusion	XLOC_020601
+GO:0110025	0.023552289162612	1	1	1	DNA strand resection involved in replication fork processing	BP	0.9999999999	BP DNA strand resection involved in replication fork processing	XLOC_011308
+GO:1902965	0.023552289162612	1	1	1	regulation of protein localization to early endosome	BP	0.9999999999	BP regulation of protein localization to early endosome	XLOC_071803
+GO:1902966	0.023552289162612	1	1	1	positive regulation of protein localization to early endosome	BP	0.9999999999	BP positive regulation of protein localization to early endosome	XLOC_071803
+GO:1905666	0.023552289162612	1	1	1	regulation of protein localization to endosome	BP	0.9999999999	BP regulation of protein localization to endosome	XLOC_071803
+GO:1905668	0.023552289162612	1	1	1	positive regulation of protein localization to endosome	BP	0.9999999999	BP positive regulation of protein localization to endosome	XLOC_071803
+GO:0016934	0.023552289162612	1	1	1	extracellularly glycine-gated chloride channel activity	MF	0.9999999999	MF extracellularly glycine-gated chloride channel activity	XLOC_008014
+GO:0016935	0.023552289162612	1	1	1	glycine-gated chloride channel complex	CC	0.9999999999	CC glycine-gated chloride channel complex	XLOC_008014
+GO:0071361	0.023552289162612	1	1	1	cellular response to ethanol	BP	0.9999999999	BP cellular response to ethanol	XLOC_008014
+GO:0098690	0.023552289162612	1	1	1	glycinergic synapse	CC	0.9999999999	CC glycinergic synapse	XLOC_008014
+GO:0098656	0.0255720361418386	0.998214716286934	2	13	anion transmembrane transport	BP	0.9999999999	BP anion transmembrane transport	XLOC_008014, XLOC_023846
+GO:0002065	0.0294245638529783	0.999782892254048	1	2	columnar/cuboidal epithelial cell differentiation	BP	0.9999999999	BP columnar/cuboidal epithelial cell differentiation	XLOC_011680
+GO:0042491	0.0294245638529783	0.999782892254048	1	2	inner ear auditory receptor cell differentiation	BP	0.9999999999	BP inner ear auditory receptor cell differentiation	XLOC_011680
+GO:0060563	0.0294245638529783	0.999782892254048	1	2	neuroepithelial cell differentiation	BP	0.9999999999	BP neuroepithelial cell differentiation	XLOC_011680
+GO:0010799	0.0302591938853426	0.999770301819583	1	2	regulation of peptidyl-threonine phosphorylation	BP	0.9999999999	BP regulation of peptidyl-threonine phosphorylation	XLOC_071803
+GO:0010800	0.0302591938853426	0.999770301819583	1	2	positive regulation of peptidyl-threonine phosphorylation	BP	0.9999999999	BP positive regulation of peptidyl-threonine phosphorylation	XLOC_071803
+GO:1900125	0.0321417578587909	0.99974057867246	1	2	regulation of hyaluronan biosynthetic process	BP	0.9999999999	BP regulation of hyaluronan biosynthetic process	XLOC_071803
+GO:1900127	0.0321417578587909	0.99974057867246	1	2	positive regulation of hyaluronan biosynthetic process	BP	0.9999999999	BP positive regulation of hyaluronan biosynthetic process	XLOC_071803
+GO:0010874	0.0329302271280733	0.999727583461584	1	2	regulation of cholesterol efflux	BP	0.9999999999	BP regulation of cholesterol efflux	XLOC_071803
+GO:0000138	0.0330239088122363	0.99972601797066	1	2	Golgi trans cisterna	CC	0.9999999999	CC Golgi trans cisterna	XLOC_013238
+GO:0032552	0.037467191498247	0.999646515571436	1	2	deoxyribonucleotide binding	MF	0.9999999999	MF deoxyribonucleotide binding	XLOC_011308
+GO:0072529	0.037467191498247	0.999646515571436	1	2	pyrimidine-containing compound catabolic process	BP	0.9999999999	BP pyrimidine-containing compound catabolic process	XLOC_015701
+GO:0000408	0.0378257741015535	0.999639649821098	1	2	EKC/KEOPS complex	CC	0.9999999999	CC EKC/KEOPS complex	XLOC_040820
+GO:0034389	0.0378257741015535	0.999639649821098	1	2	lipid droplet organization	BP	0.9999999999	BP lipid droplet organization	XLOC_040820
+GO:0070525	0.0378257741015535	0.999639649821098	1	2	tRNA threonylcarbamoyladenosine metabolic process	BP	0.9999999999	BP tRNA threonylcarbamoyladenosine metabolic process	XLOC_040820
+GO:0005797	0.0378629548435317	0.999519621433314	1	3	Golgi medial cisterna	CC	0.9999999999	CC Golgi medial cisterna	XLOC_013238
+GO:0032371	0.0379738542277867	0.999516778504346	1	3	regulation of sterol transport	BP	0.9999999999	BP regulation of sterol transport	XLOC_071803
+GO:0032374	0.0379738542277867	0.999516778504346	1	3	regulation of cholesterol transport	BP	0.9999999999	BP regulation of cholesterol transport	XLOC_071803
+GO:1990126	0.0382292097957382	0.999631844756523	1	2	retrograde transport, endosome to plasma membrane	BP	0.9999999999	BP retrograde transport, endosome to plasma membrane	XLOC_070731
+GO:0015278	0.0413296549685813	0.999569011016481	1	2	calcium-release channel activity	MF	0.9999999999	MF calcium-release channel activity	XLOC_011680
+GO:0032369	0.0431947805521587	0.999295786162836	1	4	negative regulation of lipid transport	BP	0.9999999999	BP negative regulation of lipid transport	XLOC_071803
+GO:1905953	0.0431947805521587	0.999295786162836	1	4	negative regulation of lipid localization	BP	0.9999999999	BP negative regulation of lipid localization	XLOC_071803
+GO:0006547	0.045142517905267	0.999484794932404	1	2	histidine metabolic process	BP	0.9999999999	BP histidine metabolic process	XLOC_011630
+GO:0006548	0.045142517905267	0.999484794932404	1	2	histidine catabolic process	BP	0.9999999999	BP histidine catabolic process	XLOC_011630
+GO:0015942	0.045142517905267	0.999484794932404	1	2	formate metabolic process	BP	0.9999999999	BP formate metabolic process	XLOC_011630
+GO:0019556	0.045142517905267	0.999484794932404	1	2	histidine catabolic process to glutamate and formamide	BP	0.9999999999	BP histidine catabolic process to glutamate and formamide	XLOC_011630
+GO:0019557	0.045142517905267	0.999484794932404	1	2	histidine catabolic process to glutamate and formate	BP	0.9999999999	BP histidine catabolic process to glutamate and formate	XLOC_011630
+GO:0043606	0.045142517905267	0.999484794932404	1	2	formamide metabolic process	BP	0.9999999999	BP formamide metabolic process	XLOC_011630
+GO:0010008	0.0453735798113957	0.991973895549397	3	43	endosome membrane	CC	0.9999999999	CC endosome membrane	XLOC_011680, XLOC_013238, XLOC_020601
+GO:2000273	0.0462396568249309	0.999459136806724	1	2	positive regulation of signaling receptor activity	BP	0.9999999999	BP positive regulation of signaling receptor activity	XLOC_071803
+GO:0005237	0.0464209170108293	0.999454836312058	1	2	inhibitory extracellular ligand-gated ion channel activity	MF	0.9999999999	MF inhibitory extracellular ligand-gated ion channel activity	XLOC_008014
+GO:0016933	0.0464209170108293	0.999454836312058	1	2	extracellularly glycine-gated ion channel activity	MF	0.9999999999	MF extracellularly glycine-gated ion channel activity	XLOC_008014
+GO:0022852	0.0464209170108293	0.999454836312058	1	2	glycine-gated chloride ion channel activity	MF	0.9999999999	MF glycine-gated chloride ion channel activity	XLOC_008014
+GO:0060012	0.0464209170108293	0.999454836312058	1	2	synaptic transmission, glycinergic	BP	0.9999999999	BP synaptic transmission, glycinergic	XLOC_008014
+GO:0008655	0.0464811440718521	0.999453403531855	1	2	pyrimidine-containing compound salvage	BP	0.9999999999	BP pyrimidine-containing compound salvage	XLOC_015701
+GO:0009405	0.0465222183477951	0.999452425284788	1	2	pathogenesis	BP	0.9999999999	BP pathogenesis	XLOC_033164
+GO:0015495	0.046556209191144	0.999451615063057	1	2	gamma-aminobutyric acid:proton symporter activity	MF	0.9999999999	MF gamma-aminobutyric acid:proton symporter activity	XLOC_023846
+GO:0098700	0.046556209191144	0.999451615063057	1	2	neurotransmitter loading into synaptic vesicle	BP	0.9999999999	BP neurotransmitter loading into synaptic vesicle	XLOC_023846
+GO:1903564	0.046556209191144	0.999451615063057	1	2	regulation of protein localization to cilium	BP	0.9999999999	BP regulation of protein localization to cilium	XLOC_070731
+GO:1903566	0.046556209191144	0.999451615063057	1	2	positive regulation of protein localization to cilium	BP	0.9999999999	BP positive regulation of protein localization to cilium	XLOC_070731
+GO:0006203	0.046556209191144	0.999451615063057	1	2	dGTP catabolic process	BP	0.9999999999	BP dGTP catabolic process	XLOC_011308
+GO:0009146	0.046556209191144	0.999451615063057	1	2	purine nucleoside triphosphate catabolic process	BP	0.9999999999	BP purine nucleoside triphosphate catabolic process	XLOC_011308
+GO:0009155	0.046556209191144	0.999451615063057	1	2	purine deoxyribonucleotide catabolic process	BP	0.9999999999	BP purine deoxyribonucleotide catabolic process	XLOC_011308
+GO:0009217	0.046556209191144	0.999451615063057	1	2	purine deoxyribonucleoside triphosphate catabolic process	BP	0.9999999999	BP purine deoxyribonucleoside triphosphate catabolic process	XLOC_011308
+GO:0042813	0.046556209191144	0.999451615063057	1	2	Wnt-activated receptor activity	MF	0.9999999999	MF Wnt-activated receptor activity	XLOC_071803
+GO:0046060	0.046556209191144	0.999451615063057	1	2	dATP metabolic process	BP	0.9999999999	BP dATP metabolic process	XLOC_011308
+GO:0046061	0.046556209191144	0.999451615063057	1	2	dATP catabolic process	BP	0.9999999999	BP dATP catabolic process	XLOC_011308
+GO:0046070	0.046556209191144	0.999451615063057	1	2	dGTP metabolic process	BP	0.9999999999	BP dGTP metabolic process	XLOC_011308
+GO:0018345	0.0485950499251254	0.999204751851234	1	3	protein palmitoylation	BP	0.9999999999	BP protein palmitoylation	XLOC_052830

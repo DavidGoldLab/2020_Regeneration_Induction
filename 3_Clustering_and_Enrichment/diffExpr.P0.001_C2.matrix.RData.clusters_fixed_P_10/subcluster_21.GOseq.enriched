@@ -1,0 +1,81 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0001676	0.000576450777954321	0.999995296622384	2	6	long-chain fatty acid metabolic process	BP	0.9999999999	BP long-chain fatty acid metabolic process	XLOC_048653, XLOC_063624
+GO:0002538	0.00421784817764241	1	1	1	arachidonic acid metabolite production involved in inflammatory response	BP	0.9999999999	BP arachidonic acid metabolite production involved in inflammatory response	XLOC_063624
+GO:0002540	0.00421784817764241	1	1	1	leukotriene production involved in inflammatory response	BP	0.9999999999	BP leukotriene production involved in inflammatory response	XLOC_063624
+GO:0004051	0.00421784817764241	1	1	1	arachidonate 5-lipoxygenase activity	MF	0.9999999999	MF arachidonate 5-lipoxygenase activity	XLOC_063624
+GO:0019372	0.00421784817764241	1	1	1	lipoxygenase pathway	BP	0.9999999999	BP lipoxygenase pathway	XLOC_063624
+GO:0035655	0.00421784817764241	1	1	1	interleukin-18-mediated signaling pathway	BP	0.9999999999	BP interleukin-18-mediated signaling pathway	XLOC_063624
+GO:0042759	0.00421784817764241	1	1	1	long-chain fatty acid biosynthetic process	BP	0.9999999999	BP long-chain fatty acid biosynthetic process	XLOC_063624
+GO:2001300	0.00421784817764241	1	1	1	lipoxin metabolic process	BP	0.9999999999	BP lipoxin metabolic process	XLOC_063624
+GO:2001301	0.00421784817764241	1	1	1	lipoxin biosynthetic process	BP	0.9999999999	BP lipoxin biosynthetic process	XLOC_063624
+GO:0002532	0.00813617014646668	0.999983644719286	1	2	production of molecular mediator involved in inflammatory response	BP	0.9999999999	BP production of molecular mediator involved in inflammatory response	XLOC_063624
+GO:0044455	0.0105558206305711	0.998947902797392	3	34	mitochondrial membrane part	CC	0.9999999999	CC mitochondrial membrane part	XLOC_001311, XLOC_004503, XLOC_072086
+GO:0005641	0.0125230451672201	0.999948258026574	1	3	nuclear envelope lumen	CC	0.9999999999	CC nuclear envelope lumen	XLOC_063624
+GO:0006631	0.0177063892246716	0.998928693033086	2	24	fatty acid metabolic process	BP	0.9999999999	BP fatty acid metabolic process	XLOC_048653, XLOC_063624
+GO:0015078	0.018443071201929	0.998890960127073	2	17	proton transmembrane transporter activity	MF	0.9999999999	MF proton transmembrane transporter activity	XLOC_001311, XLOC_004503
+GO:0019370	0.0184754211207216	0.9999152167395	1	2	leukotriene biosynthetic process	BP	0.9999999999	BP leukotriene biosynthetic process	XLOC_063624
+GO:0000313	0.0186265142563639	1	1	1	organellar ribosome	CC	0.9999999999	CC organellar ribosome	XLOC_072086
+GO:0005761	0.0186265142563639	1	1	1	mitochondrial ribosome	CC	0.9999999999	CC mitochondrial ribosome	XLOC_072086
+GO:0016233	0.0194580242477328	1	1	1	telomere capping	BP	0.9999999999	BP telomere capping	XLOC_070395
+GO:0017151	0.0194580242477328	1	1	1	DEAD/H-box RNA helicase binding	MF	0.9999999999	MF DEAD/H-box RNA helicase binding	XLOC_070395
+GO:0032202	0.0194580242477328	1	1	1	telomere assembly	BP	0.9999999999	BP telomere assembly	XLOC_070395
+GO:0043047	0.0194580242477328	1	1	1	single-stranded telomeric DNA binding	MF	0.9999999999	MF single-stranded telomeric DNA binding	XLOC_070395
+GO:0051095	0.0194580242477328	1	1	1	regulation of helicase activity	BP	0.9999999999	BP regulation of helicase activity	XLOC_070395
+GO:0051096	0.0194580242477328	1	1	1	positive regulation of helicase activity	BP	0.9999999999	BP positive regulation of helicase activity	XLOC_070395
+GO:0060382	0.0194580242477328	1	1	1	regulation of DNA strand elongation	BP	0.9999999999	BP regulation of DNA strand elongation	XLOC_070395
+GO:0060383	0.0194580242477328	1	1	1	positive regulation of DNA strand elongation	BP	0.9999999999	BP positive regulation of DNA strand elongation	XLOC_070395
+GO:0070187	0.0194580242477328	1	1	1	shelterin complex	CC	0.9999999999	CC shelterin complex	XLOC_070395
+GO:0070199	0.0194580242477328	1	1	1	establishment of protein localization to chromosome	BP	0.9999999999	BP establishment of protein localization to chromosome	XLOC_070395
+GO:0070200	0.0194580242477328	1	1	1	establishment of protein localization to telomere	BP	0.9999999999	BP establishment of protein localization to telomere	XLOC_070395
+GO:0098505	0.0194580242477328	1	1	1	G-rich strand telomeric DNA binding	MF	0.9999999999	MF G-rich strand telomeric DNA binding	XLOC_070395
+GO:0098847	0.0194580242477328	1	1	1	sequence-specific single stranded DNA binding	MF	0.9999999999	MF sequence-specific single stranded DNA binding	XLOC_070395
+GO:1905462	0.0194580242477328	1	1	1	regulation of DNA duplex unwinding	BP	0.9999999999	BP regulation of DNA duplex unwinding	XLOC_070395
+GO:1905464	0.0194580242477328	1	1	1	positive regulation of DNA duplex unwinding	BP	0.9999999999	BP positive regulation of DNA duplex unwinding	XLOC_070395
+GO:1905774	0.0194580242477328	1	1	1	regulation of DNA helicase activity	BP	0.9999999999	BP regulation of DNA helicase activity	XLOC_070395
+GO:1905776	0.0194580242477328	1	1	1	positive regulation of DNA helicase activity	BP	0.9999999999	BP positive regulation of DNA helicase activity	XLOC_070395
+GO:1990955	0.0194580242477328	1	1	1	G-rich single-stranded DNA binding	MF	0.9999999999	MF G-rich single-stranded DNA binding	XLOC_070395
+GO:0042758	0.0196544156510196	0.999903992422206	1	2	long-chain fatty acid catabolic process	BP	0.9999999999	BP long-chain fatty acid catabolic process	XLOC_048653
+GO:0017062	0.0197947772516652	1	1	1	respiratory chain complex III assembly	BP	0.9999999999	BP respiratory chain complex III assembly	XLOC_004503
+GO:0034551	0.0197947772516652	1	1	1	mitochondrial respiratory chain complex III assembly	BP	0.9999999999	BP mitochondrial respiratory chain complex III assembly	XLOC_004503
+GO:0097033	0.0197947772516652	1	1	1	NA	NA	0.9999999999	none	XLOC_004503
+GO:0022904	0.0218494935813885	0.99858097275687	2	15	respiratory electron transport chain	BP	0.9999999999	BP respiratory electron transport chain	XLOC_004503, XLOC_072086
+GO:0006691	0.022679148482715	0.999829512133001	1	3	leukotriene metabolic process	BP	0.9999999999	BP leukotriene metabolic process	XLOC_063624
+GO:0022900	0.0227100571478675	0.998483881095759	2	16	electron transport chain	BP	0.9999999999	BP electron transport chain	XLOC_004503, XLOC_072086
+GO:0032357	0.0235821479507034	0.999861505486228	1	2	oxidized purine DNA binding	MF	0.9999999999	MF oxidized purine DNA binding	XLOC_070395
+GO:0061821	0.0235821479507034	0.999861505486228	1	2	telomeric D-loop binding	MF	0.9999999999	MF telomeric D-loop binding	XLOC_070395
+GO:1905773	0.0235821479507034	0.999861505486228	1	2	8-hydroxy-2'-deoxyguanosine DNA binding	MF	0.9999999999	MF 8-hydroxy-2'-deoxyguanosine DNA binding	XLOC_070395
+GO:0016491	0.0250961101960825	0.993842928777155	5	159	oxidoreductase activity	MF	0.9999999999	MF oxidoreductase activity	XLOC_001311, XLOC_004503, XLOC_054200, XLOC_063624, XLOC_072086
+GO:0032356	0.0278576391089809	0.999742152563111	1	3	oxidized DNA binding	MF	0.9999999999	MF oxidized DNA binding	XLOC_070395
+GO:0016701	0.029081188935905	0.999649142103236	1	6	oxidoreductase activity, acting on single donors with incorporation of molecular oxygen	MF	0.9999999999	MF oxidoreductase activity, acting on single donors with incorporation of molecular oxygen	XLOC_063624
+GO:0006636	0.0298306990909771	0.999704065119423	1	3	unsaturated fatty acid biosynthetic process	BP	0.9999999999	BP unsaturated fatty acid biosynthetic process	XLOC_063624
+GO:0098803	0.0299559552107536	0.997632658973869	2	20	respiratory chain complex	CC	0.9999999999	CC respiratory chain complex	XLOC_004503, XLOC_072086
+GO:0018996	0.0300532490605307	0.999774313618796	1	2	molting cycle, collagen and cuticulin-based cuticle	BP	0.9999999999	BP molting cycle, collagen and cuticulin-based cuticle	XLOC_017515
+GO:0042303	0.0300532490605307	0.999774313618796	1	2	molting cycle	BP	0.9999999999	BP molting cycle	XLOC_017515
+GO:0000118	0.0308977931707388	0.999619368303996	1	5	histone deacetylase complex	CC	0.9999999999	CC histone deacetylase complex	XLOC_071749
+GO:0061820	0.0344691740676736	0.999604030117783	1	3	telomeric D-loop disassembly	BP	0.9999999999	BP telomeric D-loop disassembly	XLOC_070395
+GO:0090657	0.0344691740676736	0.999604030117783	1	3	telomeric loop disassembly	BP	0.9999999999	BP telomeric loop disassembly	XLOC_070395
+GO:0010521	0.0353188399895429	0.999532591349984	1	4	telomerase inhibitor activity	MF	0.9999999999	MF telomerase inhibitor activity	XLOC_070395
+GO:0000782	0.0354202386393517	0.999685631451625	1	2	telomere cap complex	CC	0.9999999999	CC telomere cap complex	XLOC_070395
+GO:0000783	0.0354202386393517	0.999685631451625	1	2	nuclear telomere cap complex	CC	0.9999999999	CC nuclear telomere cap complex	XLOC_070395
+GO:0097250	0.0386776318783399	0.99962451297821	1	2	mitochondrial respiratory chain supercomplex assembly	BP	0.9999999999	BP mitochondrial respiratory chain supercomplex assembly	XLOC_001311
+GO:0032211	0.0391964617730214	0.999385325604796	1	5	negative regulation of telomere maintenance via telomerase	BP	0.9999999999	BP negative regulation of telomere maintenance via telomerase	XLOC_070395
+GO:0046456	0.0396439325769283	0.999474955125753	1	3	icosanoid biosynthetic process	BP	0.9999999999	BP icosanoid biosynthetic process	XLOC_063624
+GO:0005750	0.0399164674999651	0.999599814871261	1	2	mitochondrial respiratory chain complex III	CC	0.9999999999	CC mitochondrial respiratory chain complex III	XLOC_004503, XLOC_004503
+GO:0006122	0.0399164674999651	0.999599814871261	1	2	mitochondrial electron transport, ubiquinol to cytochrome c	BP	0.9999999999	BP mitochondrial electron transport, ubiquinol to cytochrome c	XLOC_004503, XLOC_004503
+GO:0045275	0.0399164674999651	0.999599814871261	1	2	respiratory chain complex III	CC	0.9999999999	CC respiratory chain complex III	XLOC_004503
+GO:0051974	0.0406455647820041	0.999338635605301	1	5	negative regulation of telomerase activity	BP	0.9999999999	BP negative regulation of telomerase activity	XLOC_070395
+GO:0010269	0.041575047336537	0.999350571012563	1	4	response to selenium ion	BP	0.9999999999	BP response to selenium ion	XLOC_054200
+GO:1990204	0.0429129638910947	0.995824683324683	2	24	oxidoreductase complex	CC	0.9999999999	CC oxidoreductase complex	XLOC_004503, XLOC_072086
+GO:1904813	0.0432567146325473	0.99921925553665	1	6	ficolin-1-rich granule lumen	CC	0.9999999999	CC ficolin-1-rich granule lumen	XLOC_063624
+GO:0098800	0.0433641809071365	0.995745766491987	2	25	inner mitochondrial membrane protein complex	CC	0.9999999999	CC inner mitochondrial membrane protein complex	XLOC_004503, XLOC_072086
+GO:0033559	0.0434040771082417	0.999213879769546	1	6	unsaturated fatty acid metabolic process	BP	0.9999999999	BP unsaturated fatty acid metabolic process	XLOC_063624
+GO:0006278	0.0438885915068236	0.999196072393563	1	6	RNA-dependent DNA biosynthetic process	BP	0.9999999999	BP RNA-dependent DNA biosynthetic process	XLOC_070395
+GO:0007004	0.0438885915068236	0.999196072393563	1	6	telomere maintenance via telomerase	BP	0.9999999999	BP telomere maintenance via telomerase	XLOC_070395
+GO:0010833	0.0438885915068236	0.999196072393563	1	6	telomere maintenance via telomere lengthening	BP	0.9999999999	BP telomere maintenance via telomere lengthening	XLOC_070395
+GO:2000279	0.0445021146919763	0.999173232189558	1	6	negative regulation of DNA biosynthetic process	BP	0.9999999999	BP negative regulation of DNA biosynthetic process	XLOC_070395
+GO:0055114	0.0458275894338529	0.9889859784697	4	125	oxidation-reduction process	BP	0.9999999999	BP oxidation-reduction process	XLOC_004503, XLOC_054200, XLOC_063624, XLOC_072086
+GO:0016702	0.0459524606067257	0.999093084143701	1	7	oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen	MF	0.9999999999	MF oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen	XLOC_063624, XLOC_063624
+GO:0009154	0.0465121695789997	0.999185415361573	1	4	purine ribonucleotide catabolic process	BP	0.9999999999	BP purine ribonucleotide catabolic process	XLOC_071749
+GO:0009261	0.0465121695789997	0.999185415361573	1	4	ribonucleotide catabolic process	BP	0.9999999999	BP ribonucleotide catabolic process	XLOC_071749
+GO:0042773	0.0485189669908783	0.999210297393407	1	3	ATP synthesis coupled electron transport	BP	0.9999999999	BP ATP synthesis coupled electron transport	XLOC_072086
+GO:0006690	0.0490809031556639	0.999032220112193	1	5	icosanoid metabolic process	BP	0.9999999999	BP icosanoid metabolic process	XLOC_063624

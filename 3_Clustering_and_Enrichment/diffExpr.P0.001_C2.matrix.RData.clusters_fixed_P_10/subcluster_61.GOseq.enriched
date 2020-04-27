@@ -1,0 +1,82 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0010498	0.0019729165411374	0.999964757109122	2	31	proteasomal protein catabolic process	BP	0.9999999999	BP proteasomal protein catabolic process	XLOC_018261, XLOC_047624
+GO:0043161	0.0019729165411374	0.999964757109122	2	31	proteasome-mediated ubiquitin-dependent protein catabolic process	BP	0.9999999999	BP proteasome-mediated ubiquitin-dependent protein catabolic process	XLOC_018261, XLOC_047624
+GO:0030163	0.00401332948142703	0.999894988180983	2	49	protein catabolic process	BP	0.9999999999	BP protein catabolic process	XLOC_018261, XLOC_047624
+GO:0005838	0.00416434025730981	1	1	1	proteasome regulatory particle	CC	0.9999999999	CC proteasome regulatory particle	XLOC_018261
+GO:0008541	0.00416434025730981	1	1	1	proteasome regulatory particle, lid subcomplex	CC	0.9999999999	CC proteasome regulatory particle, lid subcomplex	XLOC_018261
+GO:0031595	0.00416434025730981	1	1	1	nuclear proteasome complex	CC	0.9999999999	CC nuclear proteasome complex	XLOC_018261
+GO:0019961	0.0049605315013019	1	1	1	interferon binding	MF	0.9999999999	MF interferon binding	XLOC_047624
+GO:0019964	0.0049605315013019	1	1	1	interferon-gamma binding	MF	0.9999999999	MF interferon-gamma binding	XLOC_047624
+GO:0031208	0.0049605315013019	1	1	1	POZ domain binding	MF	0.9999999999	MF POZ domain binding	XLOC_047624
+GO:1990390	0.0049605315013019	1	1	1	protein K33-linked ubiquitination	BP	0.9999999999	BP protein K33-linked ubiquitination	XLOC_047624
+GO:0035497	0.00547887238703113	0.99999305356106	1	2	cAMP response element binding	MF	0.9999999999	MF cAMP response element binding	XLOC_020073
+GO:0040037	0.00547887238703113	0.99999305356106	1	2	negative regulation of fibroblast growth factor receptor signaling pathway	BP	0.9999999999	BP negative regulation of fibroblast growth factor receptor signaling pathway	XLOC_020073
+GO:0070278	0.00547887238703113	0.99999305356106	1	2	extracellular matrix constituent secretion	BP	0.9999999999	BP extracellular matrix constituent secretion	XLOC_020073
+GO:0006511	0.00597143233129494	0.999807255666231	2	59	ubiquitin-dependent protein catabolic process	BP	0.9999999999	BP ubiquitin-dependent protein catabolic process	XLOC_018261, XLOC_047624
+GO:0010714	0.00624298125987181	0.999987974048684	1	3	positive regulation of collagen metabolic process	BP	0.9999999999	BP positive regulation of collagen metabolic process	XLOC_020073
+GO:0032967	0.00624298125987181	0.999987974048684	1	3	positive regulation of collagen biosynthetic process	BP	0.9999999999	BP positive regulation of collagen biosynthetic process	XLOC_020073
+GO:0044253	0.00624298125987181	0.999987974048684	1	3	NA	NA	0.9999999999	none	XLOC_020073
+GO:0019941	0.00657762329943942	0.999776618376024	2	61	modification-dependent protein catabolic process	BP	0.9999999999	BP modification-dependent protein catabolic process	XLOC_018261, XLOC_047624
+GO:0043632	0.00709577172275256	0.999749175017385	2	63	modification-dependent macromolecule catabolic process	BP	0.9999999999	BP modification-dependent macromolecule catabolic process	XLOC_018261, XLOC_047624
+GO:0043066	0.00766410875459466	0.999718041842606	2	63	negative regulation of apoptotic process	BP	0.9999999999	BP negative regulation of apoptotic process	XLOC_020073, XLOC_047624
+GO:0051603	0.00773028313562869	0.999714026065605	2	66	proteolysis involved in cellular protein catabolic process	BP	0.9999999999	BP proteolysis involved in cellular protein catabolic process	XLOC_018261, XLOC_047624
+GO:0040036	0.00810399391420608	0.999979717452574	1	3	regulation of fibroblast growth factor receptor signaling pathway	BP	0.9999999999	BP regulation of fibroblast growth factor receptor signaling pathway	XLOC_020073
+GO:1990440	0.0082237817687267	0.999979112209983	1	3	positive regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress	BP	0.9999999999	BP positive regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress	XLOC_020073
+GO:0022624	0.00823740365451446	0.999984274334546	1	2	proteasome accessory complex	CC	0.9999999999	CC proteasome accessory complex	XLOC_018261
+GO:0010712	0.00838244101697258	0.999973966661643	1	5	regulation of collagen metabolic process	BP	0.9999999999	BP regulation of collagen metabolic process	XLOC_020073
+GO:0032965	0.00838244101697258	0.999973966661643	1	5	regulation of collagen biosynthetic process	BP	0.9999999999	BP regulation of collagen biosynthetic process	XLOC_020073
+GO:0044246	0.00838244101697258	0.999973966661643	1	5	NA	NA	0.9999999999	none	XLOC_020073
+GO:0043069	0.00844421083836874	0.999672836054211	2	67	negative regulation of programmed cell death	BP	0.9999999999	BP negative regulation of programmed cell death	XLOC_020073, XLOC_047624
+GO:0032839	0.00894255949980582	0.999970364110072	1	5	dendrite cytoplasm	CC	0.9999999999	CC dendrite cytoplasm	XLOC_047624
+GO:0031463	0.00968420090940998	0.999971014385596	1	3	Cul3-RING ubiquitin ligase complex	CC	0.9999999999	CC Cul3-RING ubiquitin ligase complex	XLOC_047624
+GO:1902236	0.010995020277707	0.999957953435189	1	4	negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway	BP	0.9999999999	BP negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway	XLOC_020073
+GO:0060548	0.0116527235380787	0.999464654599849	2	75	negative regulation of cell death	BP	0.9999999999	BP negative regulation of cell death	XLOC_020073, XLOC_047624
+GO:1902235	0.0116908575364213	0.999949288667265	1	5	regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway	BP	0.9999999999	BP regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway	XLOC_020073
+GO:1903573	0.0118833002489697	0.99994760103154	1	5	negative regulation of response to endoplasmic reticulum stress	BP	0.9999999999	BP negative regulation of response to endoplasmic reticulum stress	XLOC_020073
+GO:0000502	0.0128957691155714	0.99993826460896	1	5	proteasome complex	CC	0.9999999999	CC proteasome complex	XLOC_018261
+GO:1905897	0.0132721763114886	0.999929944963545	1	7	regulation of response to endoplasmic reticulum stress	BP	0.9999999999	BP regulation of response to endoplasmic reticulum stress	XLOC_020073
+GO:0044265	0.0134397720753619	0.999332638198994	2	88	cellular macromolecule catabolic process	BP	0.9999999999	BP cellular macromolecule catabolic process	XLOC_018261, XLOC_047624
+GO:1903671	0.0135161485011282	0.99992934858094	1	6	negative regulation of sprouting angiogenesis	BP	0.9999999999	BP negative regulation of sprouting angiogenesis	XLOC_020073
+GO:1905369	0.0135797129934854	0.999928680574495	1	6	endopeptidase complex	CC	0.9999999999	CC endopeptidase complex	XLOC_018261
+GO:0044431	0.0142755033029237	0.999266517998825	2	103	Golgi apparatus part	CC	0.9999999999	CC Golgi apparatus part	XLOC_020073, XLOC_047624
+GO:0036003	0.015116611061857	0.999911566268919	1	6	positive regulation of transcription from RNA polymerase II promoter in response to stress	BP	0.9999999999	BP positive regulation of transcription from RNA polymerase II promoter in response to stress	XLOC_020073
+GO:1903670	0.017748160895244	0.999868253852436	1	10	regulation of sprouting angiogenesis	BP	0.9999999999	BP regulation of sprouting angiogenesis	XLOC_020073
+GO:0046332	0.0179261567006084	0.999862162664265	1	13	SMAD binding	MF	0.9999999999	MF SMAD binding	XLOC_020073
+GO:0016605	0.0184228741633743	0.999861929435226	1	8	PML body	CC	0.9999999999	CC PML body	XLOC_047624
+GO:0090288	0.0186043923472471	0.999849856099491	1	15	negative regulation of cellular response to growth factor stimulus	BP	0.9999999999	BP negative regulation of cellular response to growth factor stimulus	XLOC_020073
+GO:1905368	0.0190999163785007	0.999847338688952	1	10	peptidase complex	CC	0.9999999999	CC peptidase complex	XLOC_018261
+GO:0019955	0.0195105764513834	0.999845075579019	1	8	cytokine binding	MF	0.9999999999	MF cytokine binding	XLOC_047624
+GO:0001227	0.0195155855830746	0.999837662342368	1	12	DNA-binding transcription repressor activity, RNA polymerase II-specific	MF	0.9999999999	MF DNA-binding transcription repressor activity, RNA polymerase II-specific	XLOC_020073
+GO:0001649	0.0200972427409635	0.999823914887356	1	16	osteoblast differentiation	BP	0.9999999999	BP osteoblast differentiation	XLOC_020073
+GO:1901565	0.0202361043763524	0.99874769187726	2	115	organonitrogen compound catabolic process	BP	0.9999999999	BP organonitrogen compound catabolic process	XLOC_018261, XLOC_047624
+GO:0042981	0.020418494801047	0.998730641598767	2	113	regulation of apoptotic process	BP	0.9999999999	BP regulation of apoptotic process	XLOC_020073, XLOC_047624
+GO:0006895	0.020906109114588	0.99982201869283	1	8	Golgi to endosome transport	BP	0.9999999999	BP Golgi to endosome transport	XLOC_047624
+GO:0043067	0.0214912889303591	0.998626572947164	2	116	regulation of programmed cell death	BP	0.9999999999	BP regulation of programmed cell death	XLOC_020073, XLOC_047624
+GO:0043618	0.0226657921813278	0.999787346241882	1	9	regulation of transcription from RNA polymerase II promoter in response to stress	BP	0.9999999999	BP regulation of transcription from RNA polymerase II promoter in response to stress	XLOC_020073
+GO:0043620	0.0226657921813278	0.999787346241882	1	9	regulation of DNA-templated transcription in response to stress	BP	0.9999999999	BP regulation of DNA-templated transcription in response to stress	XLOC_020073
+GO:0030176	0.0231261160492965	0.999768771680027	1	14	integral component of endoplasmic reticulum membrane	CC	0.9999999999	CC integral component of endoplasmic reticulum membrane	XLOC_020073
+GO:0009057	0.0233370177595648	0.998440790937421	2	121	macromolecule catabolic process	BP	0.9999999999	BP macromolecule catabolic process	XLOC_018261, XLOC_047624
+GO:0031227	0.0238108551833242	0.999753563244724	1	15	intrinsic component of endoplasmic reticulum membrane	CC	0.9999999999	CC intrinsic component of endoplasmic reticulum membrane	XLOC_020073
+GO:2001243	0.0247002096149802	0.999739416602798	1	12	negative regulation of intrinsic apoptotic signaling pathway	BP	0.9999999999	BP negative regulation of intrinsic apoptotic signaling pathway	XLOC_020073
+GO:0031461	0.0256251580317421	0.999721731497888	1	11	cullin-RING ubiquitin ligase complex	CC	0.9999999999	CC cullin-RING ubiquitin ligase complex	XLOC_047624
+GO:0030968	0.0260026962432091	0.999713428433444	1	11	endoplasmic reticulum unfolded protein response	BP	0.9999999999	BP endoplasmic reticulum unfolded protein response	XLOC_020073
+GO:0010941	0.0261974317953204	0.998137347358928	2	124	regulation of cell death	BP	0.9999999999	BP regulation of cell death	XLOC_020073, XLOC_047624
+GO:0060090	0.0276956189669879	0.999677902900577	1	10	molecular adaptor activity	MF	0.9999999999	MF molecular adaptor activity	XLOC_047624
+GO:1902494	0.0290240179291657	0.997815293413239	2	149	catalytic complex	CC	0.9999999999	CC catalytic complex	XLOC_018261, XLOC_047624
+GO:2001242	0.0317452127549256	0.999558662349869	1	16	regulation of intrinsic apoptotic signaling pathway	BP	0.9999999999	BP regulation of intrinsic apoptotic signaling pathway	XLOC_020073
+GO:0001228	0.0322785835786619	0.999541842486235	1	17	DNA-binding transcription activator activity, RNA polymerase II-specific	MF	0.9999999999	MF DNA-binding transcription activator activity, RNA polymerase II-specific	XLOC_020073
+GO:0016482	0.0324251886090019	0.999541455410797	1	15	cytosolic transport	BP	0.9999999999	BP cytosolic transport	XLOC_047624
+GO:0032838	0.0345761976669361	0.999470406592375	1	19	plasma membrane bounded cell projection cytoplasm	CC	0.9999999999	CC plasma membrane bounded cell projection cytoplasm	XLOC_047624
+GO:0090287	0.039857984764615	0.99928336080834	1	27	regulation of cellular response to growth factor stimulus	BP	0.9999999999	BP regulation of cellular response to growth factor stimulus	XLOC_020073
+GO:0016525	0.0401695498126856	0.999291010901468	1	16	negative regulation of angiogenesis	BP	0.9999999999	BP negative regulation of angiogenesis	XLOC_020073
+GO:0000151	0.0401819578229992	0.999277851296478	1	22	ubiquitin ligase complex	CC	0.9999999999	CC ubiquitin ligase complex	XLOC_047624
+GO:0045211	0.0406855359828137	0.999248632634469	1	32	postsynaptic membrane	CC	0.9999999999	CC postsynaptic membrane	XLOC_047624
+GO:1901343	0.0408356148087001	0.999264278727651	1	17	negative regulation of vasculature development	BP	0.9999999999	BP negative regulation of vasculature development	XLOC_020073
+GO:2000181	0.0408356148087001	0.999264278727651	1	17	negative regulation of blood vessel morphogenesis	BP	0.9999999999	BP negative regulation of blood vessel morphogenesis	XLOC_020073
+GO:0030278	0.0423480642034832	0.999199016388657	1	21	regulation of ossification	BP	0.9999999999	BP regulation of ossification	XLOC_020073
+GO:0000209	0.0425578960591502	0.999186012420049	1	24	protein polyubiquitination	BP	0.9999999999	BP protein polyubiquitination	XLOC_047624
+GO:2001234	0.0426895450260551	0.999187943846457	1	20	negative regulation of apoptotic signaling pathway	BP	0.9999999999	BP negative regulation of apoptotic signaling pathway	XLOC_020073
+GO:0006892	0.0431160816268018	0.999159228802602	1	28	post-Golgi vesicle-mediated transport	BP	0.9999999999	BP post-Golgi vesicle-mediated transport	XLOC_047624
+GO:0044428	0.0438323108500283	0.993053580839672	3	465	nuclear part	CC	0.9999999999	CC nuclear part	XLOC_018261, XLOC_020073, XLOC_047624
+GO:0014069	0.0461861534065862	0.999030689864524	1	31	postsynaptic density	CC	0.9999999999	CC postsynaptic density	XLOC_047624
+GO:0099572	0.0461861534065862	0.999030689864524	1	31	postsynaptic specialization	CC	0.9999999999	CC postsynaptic specialization	XLOC_047624

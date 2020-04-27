@@ -1,0 +1,38 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0070545	0.00359704856758253	0.999997119504392	1	2	PeBoW complex	CC	0.9999999999	CC PeBoW complex	XLOC_062357
+GO:0000774	0.00517259234539579	0.999994038266627	1	2	adenyl-nucleotide exchange factor activity	MF	0.9999999999	MF adenyl-nucleotide exchange factor activity	XLOC_036878
+GO:0030687	0.00655993328499751	0.999984019621371	1	6	preribosome, large subunit precursor	CC	0.9999999999	CC preribosome, large subunit precursor	XLOC_062357
+GO:0000460	0.00715166483112477	0.999981760042235	1	5	maturation of 5.8S rRNA	BP	0.9999999999	BP maturation of 5.8S rRNA	XLOC_062357
+GO:0000466	0.00715166483112477	0.999981760042235	1	5	maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	BP	0.9999999999	BP maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	XLOC_062357
+GO:0000463	0.00771909748720884	0.999977861921343	1	6	maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	BP	0.9999999999	BP maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	XLOC_062357
+GO:1903214	0.00786008782032598	0.999977044419548	1	6	regulation of protein targeting to mitochondrion	BP	0.9999999999	BP regulation of protein targeting to mitochondrion	XLOC_004946
+GO:1903749	0.00786008782032598	0.999977044419548	1	6	positive regulation of establishment of protein localization to mitochondrion	BP	0.9999999999	BP positive regulation of establishment of protein localization to mitochondrion	XLOC_004946
+GO:1903955	0.00786008782032598	0.999977044419548	1	6	positive regulation of protein targeting to mitochondrion	BP	0.9999999999	BP positive regulation of protein targeting to mitochondrion	XLOC_004946
+GO:0000470	0.00942623943727883	0.999966021487945	1	7	maturation of LSU-rRNA	BP	0.9999999999	BP maturation of LSU-rRNA	XLOC_062357
+GO:1903747	0.0105463786746389	0.999957445887457	1	7	regulation of establishment of protein localization to mitochondrion	BP	0.9999999999	BP regulation of establishment of protein localization to mitochondrion	XLOC_004946
+GO:0010822	0.0112012918636564	0.999950211487079	1	9	positive regulation of mitochondrion organization	BP	0.9999999999	BP positive regulation of mitochondrion organization	XLOC_004946
+GO:0060590	0.0113204346183028	0.999952311512865	1	6	ATPase regulator activity	MF	0.9999999999	MF ATPase regulator activity	XLOC_036878
+GO:0042254	0.0120975522914912	0.999945520962897	1	6	ribosome biogenesis	BP	0.9999999999	BP ribosome biogenesis	XLOC_062357
+GO:0070006	0.0126985663622955	0.999936967968658	1	8	metalloaminopeptidase activity	MF	0.9999999999	MF metalloaminopeptidase activity	XLOC_004946
+GO:0043171	0.0142685443228735	0.999919108024095	1	9	peptide catabolic process	BP	0.9999999999	BP peptide catabolic process	XLOC_004946
+GO:0044452	0.017125423510666	0.999876086169648	1	18	nucleolar part	CC	0.9999999999	CC nucleolar part	XLOC_062357
+GO:0004177	0.0171693952325822	0.999878248124936	1	13	aminopeptidase activity	MF	0.9999999999	MF aminopeptidase activity	XLOC_004946
+GO:0071456	0.0195026073732649	0.999843845580342	1	12	cellular response to hypoxia	BP	0.9999999999	BP cellular response to hypoxia	XLOC_004946
+GO:0022613	0.0213355474849325	0.999810563703667	1	14	ribonucleoprotein complex biogenesis	BP	0.9999999999	BP ribonucleoprotein complex biogenesis	XLOC_062357
+GO:0010821	0.0217589392516462	0.999801934073473	1	15	regulation of mitochondrion organization	BP	0.9999999999	BP regulation of mitochondrion organization	XLOC_004946
+GO:0036294	0.0253261091589623	0.999731283979611	1	15	cellular response to decreased oxygen levels	BP	0.9999999999	BP cellular response to decreased oxygen levels	XLOC_004946
+GO:0071453	0.0253261091589623	0.999731283979611	1	15	cellular response to oxygen levels	BP	0.9999999999	BP cellular response to oxygen levels	XLOC_004946
+GO:1903533	0.0272124847177793	0.999681889455046	1	23	regulation of protein targeting	BP	0.9999999999	BP regulation of protein targeting	XLOC_004946
+GO:0030684	0.0285314732370036	0.999648863441791	1	25	preribosome	CC	0.9999999999	CC preribosome	XLOC_062357
+GO:0090316	0.0289945381026093	0.999638607497273	1	23	positive regulation of intracellular protein transport	BP	0.9999999999	BP positive regulation of intracellular protein transport	XLOC_004946
+GO:0000209	0.0301138948658134	0.999609262323005	1	24	protein polyubiquitination	BP	0.9999999999	BP protein polyubiquitination	XLOC_004946
+GO:0008235	0.0304467794696653	0.999612798060617	1	14	metalloexopeptidase activity	MF	0.9999999999	MF metalloexopeptidase activity	XLOC_004946
+GO:0060589	0.0312662445586557	0.999576006753044	1	28	nucleoside-triphosphatase regulator activity	MF	0.9999999999	MF nucleoside-triphosphatase regulator activity	XLOC_036878
+GO:0001666	0.0368235691113083	0.999409167732355	1	30	response to hypoxia	BP	0.9999999999	BP response to hypoxia	XLOC_004946
+GO:0043021	0.0382219825030408	0.999365497231037	1	27	ribonucleoprotein complex binding	MF	0.9999999999	MF ribonucleoprotein complex binding	XLOC_062357
+GO:0032388	0.0394688523398644	0.999319780679153	1	31	positive regulation of intracellular transport	BP	0.9999999999	BP positive regulation of intracellular transport	XLOC_004946
+GO:0008238	0.0399895936491589	0.999305982252345	1	26	exopeptidase activity	MF	0.9999999999	MF exopeptidase activity	XLOC_004946
+GO:0044085	0.0405984276224554	0.999284516454271	1	26	cellular component biogenesis	BP	0.9999999999	BP cellular component biogenesis	XLOC_062357
+GO:0036293	0.0425555110421472	0.999206691761261	1	33	response to decreased oxygen levels	BP	0.9999999999	BP response to decreased oxygen levels	XLOC_004946
+GO:0070482	0.0435475002239861	0.999168200055388	1	34	response to oxygen levels	BP	0.9999999999	BP response to oxygen levels	XLOC_004946
+GO:0033157	0.0473996197597689	0.999012197576389	1	35	regulation of intracellular protein transport	BP	0.9999999999	BP regulation of intracellular protein transport	XLOC_004946

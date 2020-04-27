@@ -1,0 +1,42 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0021853	0.00918798594740382	1	1	1	cerebral cortex GABAergic interneuron migration	BP	0.9999999999	BP cerebral cortex GABAergic interneuron migration	XLOC_067618
+GO:0022010	0.00918798594740382	1	1	1	central nervous system myelination	BP	0.9999999999	BP central nervous system myelination	XLOC_067618
+GO:0031133	0.00918798594740382	1	1	1	regulation of axon diameter	BP	0.9999999999	BP regulation of axon diameter	XLOC_067618
+GO:0032291	0.00918798594740382	1	1	1	axon ensheathment in central nervous system	BP	0.9999999999	BP axon ensheathment in central nervous system	XLOC_067618
+GO:0060167	0.00918798594740382	1	1	1	regulation of adenosine receptor signaling pathway	BP	0.9999999999	BP regulation of adenosine receptor signaling pathway	XLOC_067618
+GO:0060168	0.00918798594740382	1	1	1	positive regulation of adenosine receptor signaling pathway	BP	0.9999999999	BP positive regulation of adenosine receptor signaling pathway	XLOC_067618
+GO:0060305	0.00918798594740382	1	1	1	regulation of cell diameter	BP	0.9999999999	BP regulation of cell diameter	XLOC_067618
+GO:0071206	0.00918798594740382	1	1	1	establishment of protein localization to juxtaparanode region of axon	BP	0.9999999999	BP establishment of protein localization to juxtaparanode region of axon	XLOC_067618
+GO:1904936	0.00918798594740382	1	1	1	interneuron migration	BP	0.9999999999	BP interneuron migration	XLOC_067618
+GO:0007413	0.0100373533226561	0.999975502918022	1	2	axonal fasciculation	BP	0.9999999999	BP axonal fasciculation	XLOC_067618
+GO:0021826	0.0124648897159197	0.999962173022867	1	2	substrate-independent telencephalic tangential migration	BP	0.9999999999	BP substrate-independent telencephalic tangential migration	XLOC_067618
+GO:0021830	0.0124648897159197	0.999962173022867	1	2	interneuron migration from the subpallium to the cortex	BP	0.9999999999	BP interneuron migration from the subpallium to the cortex	XLOC_067618
+GO:0021843	0.0124648897159197	0.999962173022867	1	2	substrate-independent telencephalic tangential interneuron migration	BP	0.9999999999	BP substrate-independent telencephalic tangential interneuron migration	XLOC_067618
+GO:0045745	0.014799434039612	0.999946611990914	1	2	positive regulation of G protein-coupled receptor signaling pathway	BP	0.9999999999	BP positive regulation of G protein-coupled receptor signaling pathway	XLOC_067618
+GO:0021885	0.0160433583839242	0.999899718348466	1	5	forebrain cell migration	BP	0.9999999999	BP forebrain cell migration	XLOC_067618
+GO:0022029	0.0160433583839242	0.999899718348466	1	5	telencephalon cell migration	BP	0.9999999999	BP telencephalon cell migration	XLOC_067618
+GO:0016208	0.0162035031407949	0.99991468570491	1	3	AMP binding	MF	0.9999999999	MF AMP binding	XLOC_020444
+GO:0032536	0.0175110310386639	0.999900300914149	1	3	regulation of cell projection size	BP	0.9999999999	BP regulation of cell projection size	XLOC_067618
+GO:0033268	0.0175755855201401	0.999899561463904	1	3	node of Ranvier	CC	0.9999999999	CC node of Ranvier	XLOC_067618
+GO:0045163	0.0180576901434862	0.999920380867184	1	2	clustering of voltage-gated potassium channels	BP	0.9999999999	BP clustering of voltage-gated potassium channels	XLOC_067618
+GO:0048710	0.0186667529516062	0.999914892260693	1	2	regulation of astrocyte differentiation	BP	0.9999999999	BP regulation of astrocyte differentiation	XLOC_067618
+GO:0043209	0.0188107338886929	0.999861979097813	1	5	myelin sheath	CC	0.9999999999	CC myelin sheath	XLOC_067618
+GO:0048168	0.0195142015458695	0.999876070725751	1	3	regulation of neuronal synaptic plasticity	BP	0.9999999999	BP regulation of neuronal synaptic plasticity	XLOC_067618
+GO:0044224	0.0214146039614295	0.999850625378978	1	3	juxtaparanode region of axon	CC	0.9999999999	CC juxtaparanode region of axon	XLOC_067618
+GO:0071205	0.0214146039614295	0.999850625378978	1	3	protein localization to juxtaparanode region of axon	BP	0.9999999999	BP protein localization to juxtaparanode region of axon	XLOC_067618
+GO:0099025	0.0221063535395911	0.999880422690348	1	2	anchored component of postsynaptic membrane	CC	0.9999999999	CC anchored component of postsynaptic membrane	XLOC_067618
+GO:0045161	0.0231853053202798	0.999802983916886	1	4	neuronal ion channel clustering	BP	0.9999999999	BP neuronal ion channel clustering	XLOC_067618
+GO:0043621	0.0250151499914928	0.999755279831241	1	5	protein self-association	MF	0.9999999999	MF protein self-association	XLOC_067618
+GO:0007628	0.0278536489907921	0.999696228896073	1	5	adult walking behavior	BP	0.9999999999	BP adult walking behavior	XLOC_067618
+GO:0099612	0.0288713929887413	0.999693737503886	1	4	protein localization to axon	BP	0.9999999999	BP protein localization to axon	XLOC_067618
+GO:0097090	0.03097129682288	0.999623927133258	1	5	presynaptic membrane organization	BP	0.9999999999	BP presynaptic membrane organization	XLOC_067618
+GO:0008038	0.032896795273328	0.999545334654073	1	7	neuron recognition	BP	0.9999999999	BP neuron recognition	XLOC_067618
+GO:0010954	0.0362134612078092	0.999448297182056	1	7	positive regulation of protein processing	BP	0.9999999999	BP positive regulation of protein processing	XLOC_067618
+GO:1903319	0.0362134612078092	0.999448297182056	1	7	positive regulation of protein maturation	BP	0.9999999999	BP positive regulation of protein maturation	XLOC_067618
+GO:0042552	0.0381622259367424	0.99936439924435	1	9	myelination	BP	0.9999999999	BP myelination	XLOC_067618
+GO:0090659	0.0383373416087147	0.999381155476841	1	7	walking behavior	BP	0.9999999999	BP walking behavior	XLOC_067618
+GO:0045665	0.0405454034098589	0.999265752734356	1	11	negative regulation of neuron differentiation	BP	0.9999999999	BP negative regulation of neuron differentiation	XLOC_067618
+GO:0045685	0.0409963189310171	0.999311017123231	1	6	regulation of glial cell differentiation	BP	0.9999999999	BP regulation of glial cell differentiation	XLOC_067618
+GO:0031623	0.0435887579278771	0.999251096027465	1	5	receptor internalization	BP	0.9999999999	BP receptor internalization	XLOC_067618
+GO:0042151	0.0437406122349939	0.999163164539571	1	9	nematocyst	CC	0.9999999999	CC nematocyst	XLOC_012684
+GO:0046658	0.0446179448167806	0.999159647789034	1	7	anchored component of plasma membrane	CC	0.9999999999	CC anchored component of plasma membrane	XLOC_067618

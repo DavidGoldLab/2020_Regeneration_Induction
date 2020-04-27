@@ -1,0 +1,223 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0001516	0.00105075788155595	1	1	1	prostaglandin biosynthetic process	BP	0.500618517908162	BP prostaglandin biosynthetic process	XLOC_018085
+GO:0002905	0.00105075788155595	1	1	1	regulation of mature B cell apoptotic process	BP	0.500618517908162	BP regulation of mature B cell apoptotic process	XLOC_018085
+GO:0002906	0.00105075788155595	1	1	1	negative regulation of mature B cell apoptotic process	BP	0.500618517908162	BP negative regulation of mature B cell apoptotic process	XLOC_018085
+GO:0004167	0.00105075788155595	1	1	1	dopachrome isomerase activity	MF	0.500618517908162	MF dopachrome isomerase activity	XLOC_018085
+GO:0006692	0.00105075788155595	1	1	1	prostanoid metabolic process	BP	0.500618517908162	BP prostanoid metabolic process	XLOC_018085
+GO:0006693	0.00105075788155595	1	1	1	prostaglandin metabolic process	BP	0.500618517908162	BP prostaglandin metabolic process	XLOC_018085
+GO:0016862	0.00105075788155595	1	1	1	intramolecular oxidoreductase activity, interconverting keto- and enol-groups	MF	0.500618517908162	MF intramolecular oxidoreductase activity, interconverting keto- and enol-groups	XLOC_018085
+GO:0016863	0.00105075788155595	1	1	1	intramolecular oxidoreductase activity, transposing C=C bonds	MF	0.500618517908162	MF intramolecular oxidoreductase activity, transposing C=C bonds	XLOC_018085
+GO:0031666	0.00105075788155595	1	1	1	positive regulation of lipopolysaccharide-mediated signaling pathway	BP	0.500618517908162	BP positive regulation of lipopolysaccharide-mediated signaling pathway	XLOC_018085
+GO:0033032	0.00105075788155595	1	1	1	regulation of myeloid cell apoptotic process	BP	0.500618517908162	BP regulation of myeloid cell apoptotic process	XLOC_018085
+GO:0033033	0.00105075788155595	1	1	1	negative regulation of myeloid cell apoptotic process	BP	0.500618517908162	BP negative regulation of myeloid cell apoptotic process	XLOC_018085
+GO:0042056	0.00105075788155595	1	1	1	chemoattractant activity	MF	0.500618517908162	MF chemoattractant activity	XLOC_018085
+GO:0046457	0.00105075788155595	1	1	1	prostanoid biosynthetic process	BP	0.500618517908162	BP prostanoid biosynthetic process	XLOC_018085
+GO:0050178	0.00105075788155595	1	1	1	phenylpyruvate tautomerase activity	MF	0.500618517908162	MF phenylpyruvate tautomerase activity	XLOC_018085
+GO:0061078	0.00105075788155595	1	1	1	positive regulation of prostaglandin secretion involved in immune response	BP	0.500618517908162	BP positive regulation of prostaglandin secretion involved in immune response	XLOC_018085
+GO:0071157	0.00105075788155595	1	1	1	negative regulation of cell cycle arrest	BP	0.500618517908162	BP negative regulation of cell cycle arrest	XLOC_018085
+GO:0090238	0.00105075788155595	1	1	1	positive regulation of arachidonic acid secretion	BP	0.500618517908162	BP positive regulation of arachidonic acid secretion	XLOC_018085
+GO:0090344	0.00139031852203222	0.999999677597635	1	2	negative regulation of cell aging	BP	0.500618517908162	BP negative regulation of cell aging	XLOC_018085
+GO:0030890	0.00139031852209183	0.999999677597635	1	2	positive regulation of B cell proliferation	BP	0.500618517908162	BP positive regulation of B cell proliferation	XLOC_018085
+GO:0002902	0.0013903185221133	0.999999677597635	1	2	regulation of B cell apoptotic process	BP	0.500618517908162	BP regulation of B cell apoptotic process	XLOC_018085
+GO:0002903	0.0013903185221133	0.999999677597635	1	2	negative regulation of B cell apoptotic process	BP	0.500618517908162	BP negative regulation of B cell apoptotic process	XLOC_018085
+GO:0033138	0.00139682662377091	0.999999674570817	1	2	positive regulation of peptidyl-serine phosphorylation	BP	0.500618517908162	BP positive regulation of peptidyl-serine phosphorylation	XLOC_018085
+GO:0043518	0.00140329267718043	0.999999671549536	1	2	negative regulation of DNA damage response, signal transduction by p53 class mediator	BP	0.500618517908162	BP negative regulation of DNA damage response, signal transduction by p53 class mediator	XLOC_018085
+GO:1901797	0.00140329267718043	0.999999671549536	1	2	negative regulation of signal transduction by p53 class mediator	BP	0.500618517908162	BP negative regulation of signal transduction by p53 class mediator	XLOC_018085
+GO:1902165	0.00140329267718043	0.999999671549536	1	2	regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	BP	0.500618517908162	BP regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	XLOC_018085
+GO:1902166	0.00140329267718043	0.999999671549536	1	2	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	BP	0.500618517908162	BP negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	XLOC_018085
+GO:1902229	0.00140329267718043	0.999999671549536	1	2	regulation of intrinsic apoptotic signaling pathway in response to DNA damage	BP	0.500618517908162	BP regulation of intrinsic apoptotic signaling pathway in response to DNA damage	XLOC_018085
+GO:1902230	0.00140329267718043	0.999999671549536	1	2	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage	BP	0.500618517908162	BP negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage	XLOC_018085
+GO:1902254	0.00140329267718043	0.999999671549536	1	2	negative regulation of intrinsic apoptotic signaling pathway by p53 class mediator	BP	0.500618517908162	BP negative regulation of intrinsic apoptotic signaling pathway by p53 class mediator	XLOC_018085
+GO:0090237	0.00169591945640412	0.999999520190726	1	2	regulation of arachidonic acid secretion	BP	0.500618517908162	BP regulation of arachidonic acid secretion	XLOC_018085
+GO:2000341	0.00170575686729893	0.999999514604996	1	2	regulation of chemokine (C-X-C motif) ligand 2 production	BP	0.500618517908162	BP regulation of chemokine (C-X-C motif) ligand 2 production	XLOC_018085
+GO:2000343	0.00170575686729893	0.999999514604996	1	2	positive regulation of chemokine (C-X-C motif) ligand 2 production	BP	0.500618517908162	BP positive regulation of chemokine (C-X-C motif) ligand 2 production	XLOC_018085
+GO:0006636	0.00172980368648464	0.999999334505168	1	3	unsaturated fatty acid biosynthetic process	BP	0.500618517908162	BP unsaturated fatty acid biosynthetic process	XLOC_018085
+GO:0061081	0.00173050296636067	0.999999333966725	1	3	positive regulation of myeloid leukocyte cytokine production involved in immune response	BP	0.500618517908162	BP positive regulation of myeloid leukocyte cytokine production involved in immune response	XLOC_018085
+GO:0046456	0.00187137709248328	0.99999922104897	1	3	icosanoid biosynthetic process	BP	0.500618517908162	BP icosanoid biosynthetic process	XLOC_018085
+GO:0030888	0.00191608882801504	0.999999183360581	1	3	regulation of B cell proliferation	BP	0.500618517908162	BP regulation of B cell proliferation	XLOC_018085
+GO:0070229	0.00201636946892571	0.999999095590457	1	3	negative regulation of lymphocyte apoptotic process	BP	0.500618517908162	BP negative regulation of lymphocyte apoptotic process	XLOC_018085
+GO:2000107	0.00201636946892571	0.999999095590457	1	3	negative regulation of leukocyte apoptotic process	BP	0.500618517908162	BP negative regulation of leukocyte apoptotic process	XLOC_018085
+GO:0002718	0.00206990956174508	0.999998927837435	1	4	regulation of cytokine production involved in immune response	BP	0.500618517908162	BP regulation of cytokine production involved in immune response	XLOC_018085
+GO:0002720	0.00206990956174508	0.999998927837435	1	4	positive regulation of cytokine production involved in immune response	BP	0.500618517908162	BP positive regulation of cytokine production involved in immune response	XLOC_018085
+GO:0071156	0.0020760868524266	0.999999041192682	1	3	regulation of cell cycle arrest	BP	0.500618517908162	BP regulation of cell cycle arrest	XLOC_018085
+GO:0031664	0.00212596385974998	0.999998994539726	1	3	regulation of lipopolysaccharide-mediated signaling pathway	BP	0.500618517908162	BP regulation of lipopolysaccharide-mediated signaling pathway	XLOC_018085
+GO:0043516	0.00226296439840315	0.999998860684716	1	3	regulation of DNA damage response, signal transduction by p53 class mediator	BP	0.500618517908162	BP regulation of DNA damage response, signal transduction by p53 class mediator	XLOC_018085
+GO:0033135	0.0023672938459538	0.999998597399104	1	4	regulation of peptidyl-serine phosphorylation	BP	0.500618517908162	BP regulation of peptidyl-serine phosphorylation	XLOC_018085
+GO:1902253	0.00239081161279866	0.999998728219517	1	3	regulation of intrinsic apoptotic signaling pathway by p53 class mediator	BP	0.500618517908162	BP regulation of intrinsic apoptotic signaling pathway by p53 class mediator	XLOC_018085
+GO:0032305	0.00248110881960138	0.999998356560757	1	5	positive regulation of icosanoid secretion	BP	0.500618517908162	BP positive regulation of icosanoid secretion	XLOC_018085
+GO:0032308	0.00248110881960138	0.999998356560757	1	5	positive regulation of prostaglandin secretion	BP	0.500618517908162	BP positive regulation of prostaglandin secretion	XLOC_018085
+GO:2000193	0.00248110881960138	0.999998356560757	1	5	positive regulation of fatty acid transport	BP	0.500618517908162	BP positive regulation of fatty acid transport	XLOC_018085
+GO:0002689	0.0025442353450301	0.999998559625027	1	3	negative regulation of leukocyte chemotaxis	BP	0.500618517908162	BP negative regulation of leukocyte chemotaxis	XLOC_018085
+GO:0010758	0.0025442353450301	0.999998559625027	1	3	regulation of macrophage chemotaxis	BP	0.500618517908162	BP regulation of macrophage chemotaxis	XLOC_018085
+GO:0010760	0.0025442353450301	0.999998559625027	1	3	negative regulation of macrophage chemotaxis	BP	0.500618517908162	BP negative regulation of macrophage chemotaxis	XLOC_018085
+GO:1905522	0.0025442353450301	0.999998559625027	1	3	negative regulation of macrophage migration	BP	0.500618517908162	BP negative regulation of macrophage migration	XLOC_018085
+GO:0006690	0.0025642035380919	0.999998244558738	1	5	icosanoid metabolic process	BP	0.500618517908162	BP icosanoid metabolic process	XLOC_018085
+GO:0048146	0.00269852784109144	0.999998055686488	1	5	positive regulation of fibroblast proliferation	BP	0.500618517908162	BP positive regulation of fibroblast proliferation	XLOC_018085
+GO:0033559	0.00276194534791267	0.999997878376419	1	6	unsaturated fatty acid metabolic process	BP	0.500618517908162	BP unsaturated fatty acid metabolic process	XLOC_018085
+GO:2001021	0.00277448846989217	0.999997859048389	1	6	negative regulation of response to DNA damage stimulus	BP	0.500618517908162	BP negative regulation of response to DNA damage stimulus	XLOC_018085
+GO:0090342	0.00277862474364708	0.999997938464218	1	5	regulation of cell aging	BP	0.500618517908162	BP regulation of cell aging	XLOC_018085
+GO:1905521	0.00288345762762418	0.999997918474618	1	4	regulation of macrophage migration	BP	0.500618517908162	BP regulation of macrophage migration	XLOC_018085
+GO:0002686	0.00288346818034359	0.99999791845937	1	4	negative regulation of leukocyte migration	BP	0.500618517908162	BP negative regulation of leukocyte migration	XLOC_018085
+GO:0007569	0.00293573865960179	0.999997602756341	1	6	cell aging	BP	0.500618517908162	BP cell aging	XLOC_018085
+GO:0010739	0.00300447511928297	0.999997589424536	1	5	positive regulation of protein kinase A signaling	BP	0.500618517908162	BP positive regulation of protein kinase A signaling	XLOC_018085
+GO:0050871	0.00305330295136883	0.999997406753952	1	6	positive regulation of B cell activation	BP	0.500618517908162	BP positive regulation of B cell activation	XLOC_018085
+GO:0016860	0.00306355429211053	0.999997389297373	1	6	intramolecular oxidoreductase activity	MF	0.500618517908162	MF intramolecular oxidoreductase activity	XLOC_018085
+GO:0070228	0.00310670358945604	0.999997315177234	1	6	regulation of lymphocyte apoptotic process	BP	0.500618517908162	BP regulation of lymphocyte apoptotic process	XLOC_018085
+GO:2000106	0.00310670358945604	0.999997315177234	1	6	regulation of leukocyte apoptotic process	BP	0.500618517908162	BP regulation of leukocyte apoptotic process	XLOC_018085
+GO:0070207	0.00311003429948747	0.999997232630018	1	7	protein homotrimerization	BP	0.500618517908162	BP protein homotrimerization	XLOC_018085
+GO:0032946	0.00323160985458538	0.999997210835745	1	5	positive regulation of mononuclear cell proliferation	BP	0.500618517908162	BP positive regulation of mononuclear cell proliferation	XLOC_018085
+GO:0050671	0.00323160985458538	0.999997210835745	1	5	positive regulation of lymphocyte proliferation	BP	0.500618517908162	BP positive regulation of lymphocyte proliferation	XLOC_018085
+GO:0070665	0.00323160985458538	0.999997210835745	1	5	positive regulation of leukocyte proliferation	BP	0.500618517908162	BP positive regulation of leukocyte proliferation	XLOC_018085
+GO:0010738	0.00334359288896155	0.999996889743219	1	6	regulation of protein kinase A signaling	BP	0.506391458401713	BP regulation of protein kinase A signaling	XLOC_018085
+GO:0050922	0.00337678389577432	0.99999714451153	1	4	negative regulation of chemotaxis	BP	0.506391458401713	BP negative regulation of chemotaxis	XLOC_018085
+GO:0006633	0.00348290124176279	0.999996528624069	1	7	fatty acid biosynthetic process	BP	0.506391458401713	BP fatty acid biosynthetic process	XLOC_018085
+GO:0032892	0.00353128859065903	0.999996431411656	1	7	positive regulation of organic acid transport	BP	0.506391458401713	BP positive regulation of organic acid transport	XLOC_018085
+GO:0002702	0.00361302944119349	0.99999618641465	1	8	positive regulation of production of molecular mediator of immune response	BP	0.506391458401713	BP positive regulation of production of molecular mediator of immune response	XLOC_018085
+GO:0032760	0.00362198614715151	0.999996349722454	1	6	positive regulation of tumor necrosis factor production	BP	0.506391458401713	BP positive regulation of tumor necrosis factor production	XLOC_018085
+GO:1903557	0.00362198614715151	0.999996349722454	1	6	positive regulation of tumor necrosis factor superfamily cytokine production	BP	0.506391458401713	BP positive regulation of tumor necrosis factor superfamily cytokine production	XLOC_018085
+GO:0032306	0.00364787560079819	0.999996297302759	1	6	regulation of prostaglandin secretion	BP	0.506391458401713	BP regulation of prostaglandin secretion	XLOC_018085
+GO:1901570	0.00371695932655614	0.999996155592807	1	6	fatty acid derivative biosynthetic process	BP	0.50936638771229	BP fatty acid derivative biosynthetic process	XLOC_018085
+GO:0030330	0.00394863090513507	0.999995660904931	1	6	DNA damage response, signal transduction by p53 class mediator	BP	0.528870445003589	BP DNA damage response, signal transduction by p53 class mediator	XLOC_018085
+GO:1903793	0.0040623750975777	0.999995177765004	1	8	positive regulation of anion transport	BP	0.528870445003589	BP positive regulation of anion transport	XLOC_018085
+GO:0002688	0.00421226735462023	0.999995061472318	1	6	regulation of leukocyte chemotaxis	BP	0.528870445003589	BP regulation of leukocyte chemotaxis	XLOC_018085
+GO:0050864	0.00425659022492176	0.999994621238319	1	9	regulation of B cell activation	BP	0.528870445003589	BP regulation of B cell activation	XLOC_018085
+GO:0042770	0.00428753453755101	0.999994737251574	1	7	signal transduction in response to DNA damage	BP	0.528870445003589	BP signal transduction in response to DNA damage	XLOC_018085
+GO:0032303	0.00429191835094007	0.999994726472439	1	7	regulation of icosanoid secretion	BP	0.528870445003589	BP regulation of icosanoid secretion	XLOC_018085
+GO:2000191	0.00429191835094007	0.999994726472439	1	7	regulation of fatty acid transport	BP	0.528870445003589	BP regulation of fatty acid transport	XLOC_018085
+GO:0032642	0.00430458683836769	0.999994695260427	1	7	regulation of chemokine production	BP	0.528870445003589	BP regulation of chemokine production	XLOC_018085
+GO:0032722	0.00430458683836769	0.999994695260427	1	7	positive regulation of chemokine production	BP	0.528870445003589	BP positive regulation of chemokine production	XLOC_018085
+GO:0002700	0.00436966171229528	0.999994260630191	1	10	regulation of production of molecular mediator of immune response	BP	0.530039206906791	BP regulation of production of molecular mediator of immune response	XLOC_018085
+GO:0002833	0.00441327433948025	0.99999430771523	1	8	positive regulation of response to biotic stimulus	BP	0.530039206906791	BP positive regulation of response to biotic stimulus	XLOC_018085
+GO:1901568	0.00474773064081057	0.999993306759207	1	9	fatty acid derivative metabolic process	BP	0.563872142440269	BP fatty acid derivative metabolic process	XLOC_018085
+GO:1901796	0.00521326837315016	0.999991927934327	1	9	regulation of signal transduction by p53 class mediator	BP	0.612358523523099	BP regulation of signal transduction by p53 class mediator	XLOC_018085
+GO:0032370	0.00550145040488226	0.999991149733553	1	8	positive regulation of lipid transport	BP	0.632473776457799	BP positive regulation of lipid transport	XLOC_018085
+GO:0005126	0.00552714983226167	0.999990812068987	1	10	cytokine receptor binding	MF	0.632473776457799	MF cytokine receptor binding	XLOC_018085
+GO:0048145	0.00556202965544327	0.999990695580415	1	10	regulation of fibroblast proliferation	BP	0.632473776457799	BP regulation of fibroblast proliferation	XLOC_018085
+GO:0005125	0.00577085920900946	0.999989881810332	1	11	cytokine activity	MF	0.64931277984318	MF cytokine activity	XLOC_018085
+GO:1905954	0.00593915863921931	0.999989519772718	1	9	positive regulation of lipid localization	BP	0.659756606609641	BP positive regulation of lipid localization	XLOC_018085
+GO:0032890	0.00601792548413043	0.99998899556567	1	11	regulation of organic acid transport	BP	0.659756606609641	BP regulation of organic acid transport	XLOC_018085
+GO:2001243	0.00604884904553698	0.999988789592711	1	12	negative regulation of intrinsic apoptotic signaling pathway	BP	0.659756606609641	BP negative regulation of intrinsic apoptotic signaling pathway	XLOC_018085
+GO:0072331	0.00630739255659733	0.999988030352325	1	10	signal transduction by p53 class mediator	BP	0.66757493189211	BP signal transduction by p53 class mediator	XLOC_018085
+GO:0002685	0.00643611086218605	0.999987410467335	1	11	regulation of leukocyte migration	BP	0.66757493189211	BP regulation of leukocyte migration	XLOC_018085
+GO:0070206	0.00650283698963393	0.999986747110389	1	16	protein trimerization	BP	0.66757493189211	BP protein trimerization	XLOC_018085
+GO:0032944	0.00653613962492654	0.999987144970221	1	10	regulation of mononuclear cell proliferation	BP	0.66757493189211	BP regulation of mononuclear cell proliferation	XLOC_018085
+GO:0050670	0.00653613962492654	0.999987144970221	1	10	regulation of lymphocyte proliferation	BP	0.66757493189211	BP regulation of lymphocyte proliferation	XLOC_018085
+GO:0070663	0.00653613962492654	0.999987144970221	1	10	regulation of leukocyte proliferation	BP	0.66757493189211	BP regulation of leukocyte proliferation	XLOC_018085
+GO:0072330	0.00661210141328928	0.999986507529223	1	13	monocarboxylic acid biosynthetic process	BP	0.66757493189211	BP monocarboxylic acid biosynthetic process	XLOC_018085
+GO:0050715	0.00673128792114171	0.999985932919909	1	14	positive regulation of cytokine secretion	BP	0.66757493189211	BP positive regulation of cytokine secretion	XLOC_018085
+GO:0051251	0.00675217273112966	0.999986026321192	1	12	positive regulation of lymphocyte activation	BP	0.66757493189211	BP positive regulation of lymphocyte activation	XLOC_018085
+GO:0032680	0.00680752807336889	0.999985611936225	1	14	regulation of tumor necrosis factor production	BP	0.66757493189211	BP regulation of tumor necrosis factor production	XLOC_018085
+GO:1903555	0.00680752807336889	0.999985611936225	1	14	regulation of tumor necrosis factor superfamily cytokine production	BP	0.66757493189211	BP regulation of tumor necrosis factor superfamily cytokine production	XLOC_018085
+GO:0050731	0.00698748867635346	0.999984929310068	1	13	positive regulation of peptidyl-tyrosine phosphorylation	BP	0.678993331468564	BP positive regulation of peptidyl-tyrosine phosphorylation	XLOC_018085
+GO:0002699	0.00708664058459973	0.99998425632936	1	16	positive regulation of immune effector process	BP	0.682424335214293	BP positive regulation of immune effector process	XLOC_018085
+GO:0070374	0.00728285288795661	0.999983528795344	1	14	positive regulation of ERK1 and ERK2 cascade	BP	0.695057272494359	BP positive regulation of ERK1 and ERK2 cascade	XLOC_018085
+GO:0044070	0.00764891715888766	0.999981828184096	1	14	regulation of anion transport	BP	0.718585889293129	BP regulation of anion transport	XLOC_018085
+GO:0050730	0.00766384052571959	0.999981663821898	1	15	regulation of peptidyl-tyrosine phosphorylation	BP	0.718585889293129	BP regulation of peptidyl-tyrosine phosphorylation	XLOC_018085
+GO:0043902	0.00778989797584478	0.999980970220919	1	16	positive regulation of multi-organism process	BP	0.724054082293955	BP positive regulation of multi-organism process	XLOC_018085
+GO:2001242	0.00804777305747417	0.999979686963615	1	16	regulation of intrinsic apoptotic signaling pathway	BP	0.741574536304668	BP regulation of intrinsic apoptotic signaling pathway	XLOC_018085
+GO:0050707	0.00816456250881298	0.999978937618559	1	18	regulation of cytokine secretion	BP	0.745906056894888	BP regulation of cytokine secretion	XLOC_018085
+GO:0002696	0.00835063424166385	0.999978223049284	1	15	positive regulation of leukocyte activation	BP	0.750083440412982	BP positive regulation of leukocyte activation	XLOC_018085
+GO:0050867	0.00835063424166385	0.999978223049284	1	15	positive regulation of cell activation	BP	0.750083440412982	BP positive regulation of cell activation	XLOC_018085
+GO:0050920	0.00862583890794583	0.999976657607	1	16	regulation of chemotaxis	BP	0.762187720993155	BP regulation of chemotaxis	XLOC_018085
+GO:0002831	0.00862800208065972	0.999976473510382	1	18	regulation of response to biotic stimulus	BP	0.762187720993155	BP regulation of response to biotic stimulus	XLOC_018085
+GO:2001020	0.00895466571697392	0.999974654410617	1	18	regulation of response to DNA damage stimulus	BP	0.773369492405515	BP regulation of response to DNA damage stimulus	XLOC_018085
+GO:0043406	0.0091140409145976	0.999973588343994	1	20	positive regulation of MAP kinase activity	BP	0.773369492405515	BP positive regulation of MAP kinase activity	XLOC_018085
+GO:0030336	0.00918869169571526	0.999973504858395	1	16	negative regulation of cell migration	BP	0.773369492405515	BP negative regulation of cell migration	XLOC_018085
+GO:0040013	0.00918869169571526	0.999973504858395	1	16	negative regulation of locomotion	BP	0.773369492405515	BP negative regulation of locomotion	XLOC_018085
+GO:0051271	0.00918869169571526	0.999973504858395	1	16	negative regulation of cellular component movement	BP	0.773369492405515	BP negative regulation of cellular component movement	XLOC_018085
+GO:2000146	0.00918869169571526	0.999973504858395	1	16	negative regulation of cell motility	BP	0.773369492405515	BP negative regulation of cell motility	XLOC_018085
+GO:0032368	0.00929491299522776	0.999973302899625	1	13	regulation of lipid transport	BP	0.776197851609293	BP regulation of lipid transport	XLOC_018085
+GO:0002020	0.00941614216695853	0.999972173930423	1	16	protease binding	MF	0.780225919555192	MF protease binding	XLOC_018085
+GO:0016853	0.00971726511655282	0.999970142860824	1	18	isomerase activity	MF	0.794046429218603	MF isomerase activity	XLOC_018085
+GO:1905952	0.00973150736529488	0.999970556318293	1	14	regulation of lipid localization	BP	0.794046429218603	BP regulation of lipid localization	XLOC_018085
+GO:0010948	0.0102510290673705	0.999966341175023	1	23	negative regulation of cell cycle process	BP	0.830100376523665	BP negative regulation of cell cycle process	XLOC_018085
+GO:2001234	0.0104285612181884	0.999965398827155	1	20	negative regulation of apoptotic signaling pathway	BP	0.838126998956506	BP negative regulation of apoptotic signaling pathway	XLOC_018085
+GO:0070372	0.0105238519816682	0.999964674104295	1	21	regulation of ERK1 and ERK2 cascade	BP	0.839473536060083	BP regulation of ERK1 and ERK2 cascade	XLOC_018085
+GO:0006631	0.0108637820150932	0.999962114902405	1	24	fatty acid metabolic process	BP	0.860170118217265	BP fatty acid metabolic process	XLOC_018085
+GO:0043405	0.0113035352986113	0.99995897731723	1	24	regulation of MAP kinase activity	BP	0.888408005932765	BP regulation of MAP kinase activity	XLOC_018085
+GO:0071902	0.0113876814584352	0.999958362643356	1	24	positive regulation of protein serine/threonine kinase activity	BP	0.888488519045355	BP positive regulation of protein serine/threonine kinase activity	XLOC_018085
+GO:0032103	0.0118791497897239	0.999954858947306	1	22	positive regulation of response to external stimulus	BP	0.917147247848915	BP positive regulation of response to external stimulus	XLOC_018085
+GO:0032845	0.0119541177368239	0.99995395260428	1	26	NA	NA	0.917147247848915	none	XLOC_018085
+GO:0050714	0.0120968115183518	0.999952918651473	1	25	positive regulation of protein secretion	BP	0.917147247848915	BP positive regulation of protein secretion	XLOC_018085
+GO:0051249	0.0120982095562445	0.999953173923743	1	22	regulation of lymphocyte activation	BP	0.917147247848915	BP regulation of lymphocyte activation	XLOC_018085
+GO:0043270	0.012668080165755	0.999948353083243	1	25	positive regulation of ion transport	BP	0.951422887241191	BP positive regulation of ion transport	XLOC_018085
+GO:0007568	0.0127283630718954	0.99994785890845	1	25	aging	BP	0.951422887241191	BP aging	XLOC_018085
+GO:0002793	0.0129552181715681	0.999945812224462	1	27	positive regulation of peptide secretion	BP	0.961655048860358	BP positive regulation of peptide secretion	XLOC_018085
+GO:0006954	0.0140637283950726	0.999935940969178	1	29	inflammatory response	BP	0.9999999999	BP inflammatory response	XLOC_018085
+GO:0045786	0.0147091441191822	0.999929539629435	1	34	negative regulation of cell cycle	BP	0.9999999999	BP negative regulation of cell cycle	XLOC_018085
+GO:0032102	0.015134427022345	0.999925778881976	1	29	negative regulation of response to external stimulus	BP	0.9999999999	BP negative regulation of response to external stimulus	XLOC_018085
+GO:0001819	0.0156127301100689	0.999920583749942	1	34	positive regulation of cytokine production	BP	0.9999999999	BP positive regulation of cytokine production	XLOC_018085
+GO:1903532	0.0160131542488256	0.999916518596856	1	33	positive regulation of secretion by cell	BP	0.9999999999	BP positive regulation of secretion by cell	XLOC_018085
+GO:2001233	0.0160797066644823	0.999915989174149	1	31	regulation of apoptotic signaling pathway	BP	0.9999999999	BP regulation of apoptotic signaling pathway	XLOC_018085
+GO:0043900	0.016483756019379	0.999911363560894	1	35	regulation of multi-organism process	BP	0.9999999999	BP regulation of multi-organism process	XLOC_018085
+GO:0002694	0.0166858190914498	0.999909510893236	1	31	regulation of leukocyte activation	BP	0.9999999999	BP regulation of leukocyte activation	XLOC_018085
+GO:0071900	0.0167247671229823	0.999908742505555	1	35	regulation of protein serine/threonine kinase activity	BP	0.9999999999	BP regulation of protein serine/threonine kinase activity	XLOC_018085
+GO:0016053	0.017447257377445	0.999900654552319	1	35	organic acid biosynthetic process	BP	0.9999999999	BP organic acid biosynthetic process	XLOC_018085
+GO:0046394	0.017447257377445	0.999900654552319	1	35	carboxylic acid biosynthetic process	BP	0.9999999999	BP carboxylic acid biosynthetic process	XLOC_018085
+GO:0050708	0.0175107862471115	0.99989962725516	1	39	regulation of protein secretion	BP	0.9999999999	BP regulation of protein secretion	XLOC_018085
+GO:0043410	0.0177367697644256	0.999896941862352	1	40	positive regulation of MAPK cascade	BP	0.9999999999	BP positive regulation of MAPK cascade	XLOC_018085
+GO:0050865	0.0180628195781729	0.999893490452285	1	35	regulation of cell activation	BP	0.9999999999	BP regulation of cell activation	XLOC_018085
+GO:0002683	0.0184956875669408	0.999887967752525	1	39	negative regulation of immune system process	BP	0.9999999999	BP negative regulation of immune system process	XLOC_018085
+GO:0045787	0.018968826504732	0.999881986826415	1	41	positive regulation of cell cycle	BP	0.9999999999	BP positive regulation of cell cycle	XLOC_018085
+GO:0045087	0.0189992881390394	0.999881679206617	1	40	innate immune response	BP	0.9999999999	BP innate immune response	XLOC_018085
+GO:1902532	0.0192403287367834	0.999878363934196	1	44	negative regulation of intracellular signal transduction	BP	0.9999999999	BP negative regulation of intracellular signal transduction	XLOC_018085
+GO:0051260	0.0194498419728814	0.999875975073507	1	40	protein homooligomerization	BP	0.9999999999	BP protein homooligomerization	XLOC_018085
+GO:0050778	0.0196244577223225	0.9998735040195	1	43	positive regulation of immune response	BP	0.9999999999	BP positive regulation of immune response	XLOC_018085
+GO:0051047	0.0200672335820476	0.999867856775938	1	41	positive regulation of secretion	BP	0.9999999999	BP positive regulation of secretion	XLOC_018085
+GO:0045860	0.0207173532983862	0.999858734301937	1	46	positive regulation of protein kinase activity	BP	0.9999999999	BP positive regulation of protein kinase activity	XLOC_018085
+GO:0002791	0.0208161256756614	0.999857447378876	1	45	regulation of peptide secretion	BP	0.9999999999	BP regulation of peptide secretion	XLOC_018085
+GO:0008610	0.0219681619360729	0.999841228865514	1	44	lipid biosynthetic process	BP	0.9999999999	BP lipid biosynthetic process	XLOC_018085
+GO:0002697	0.0227110037175676	0.999830081626262	1	46	regulation of immune effector process	BP	0.9999999999	BP regulation of immune effector process	XLOC_018085
+GO:0043408	0.0230943927290419	0.999823819243905	1	52	regulation of MAPK cascade	BP	0.9999999999	BP regulation of MAPK cascade	XLOC_018085
+GO:0008283	0.0232709360841895	0.999821035292093	1	53	cell proliferation	BP	0.9999999999	BP cell proliferation	XLOC_018085
+GO:0051222	0.0233465784281947	0.99982014353952	1	49	positive regulation of protein transport	BP	0.9999999999	BP positive regulation of protein transport	XLOC_018085
+GO:0032787	0.0236273853778707	0.999815846238795	1	48	monocarboxylic acid metabolic process	BP	0.9999999999	BP monocarboxylic acid metabolic process	XLOC_018085
+GO:0033674	0.0239243348255016	0.999810856576941	1	52	positive regulation of kinase activity	BP	0.9999999999	BP positive regulation of kinase activity	XLOC_018085
+GO:0006955	0.0245024867180246	0.999801627064594	1	51	immune response	BP	0.9999999999	BP immune response	XLOC_018085
+GO:0044283	0.0246962903148373	0.999798707727591	1	48	small molecule biosynthetic process	BP	0.9999999999	BP small molecule biosynthetic process	XLOC_018085
+GO:0001817	0.0249572611579338	0.999793788280234	1	56	regulation of cytokine production	BP	0.9999999999	BP regulation of cytokine production	XLOC_018085
+GO:1904951	0.0251449408608363	0.999790946595407	1	52	positive regulation of establishment of protein localization	BP	0.9999999999	BP positive regulation of establishment of protein localization	XLOC_018085
+GO:0051347	0.0272208987624367	0.999754204327997	1	59	positive regulation of transferase activity	BP	0.9999999999	BP positive regulation of transferase activity	XLOC_018085
+GO:0080135	0.0273001579674427	0.999752909592659	1	57	regulation of cellular response to stress	BP	0.9999999999	BP regulation of cellular response to stress	XLOC_018085
+GO:0032844	0.0283448167139178	0.99973334987474	1	59	NA	NA	0.9999999999	none	XLOC_018085
+GO:0002684	0.0286222162239244	0.999727993177734	1	60	positive regulation of immune system process	BP	0.9999999999	BP positive regulation of immune system process	XLOC_018085
+GO:0009986	0.0288241099607416	0.999724275780147	1	58	cell surface	CC	0.9999999999	CC cell surface	XLOC_018085
+GO:0051259	0.0293129392452825	0.999714317072132	1	64	protein complex oligomerization	BP	0.9999999999	BP protein complex oligomerization	XLOC_018085
+GO:0045859	0.0300090780544225	0.999700280664207	1	67	regulation of protein kinase activity	BP	0.9999999999	BP regulation of protein kinase activity	XLOC_018085
+GO:1903530	0.0305693988618148	0.999688834864177	1	68	regulation of secretion by cell	BP	0.9999999999	BP regulation of secretion by cell	XLOC_018085
+GO:0010564	0.0310458140279137	0.999678921432646	1	69	regulation of cell cycle process	BP	0.9999999999	BP regulation of cell cycle process	XLOC_018085
+GO:0043066	0.0320013334627317	0.999659173862742	1	63	negative regulation of apoptotic process	BP	0.9999999999	BP negative regulation of apoptotic process	XLOC_018085
+GO:0008284	0.0320263321339102	0.999658470231407	1	65	positive regulation of cell proliferation	BP	0.9999999999	BP positive regulation of cell proliferation	XLOC_018085
+GO:0043269	0.0323075548584052	0.999652241007725	1	67	regulation of ion transport	BP	0.9999999999	BP regulation of ion transport	XLOC_018085
+GO:1902533	0.0330040490722544	0.999636663115161	1	71	positive regulation of intracellular signal transduction	BP	0.9999999999	BP positive regulation of intracellular signal transduction	XLOC_018085
+GO:0043549	0.033195731003444	0.999632256186487	1	73	regulation of kinase activity	BP	0.9999999999	BP regulation of kinase activity	XLOC_018085
+GO:0043069	0.0337931575414262	0.999619262246413	1	67	negative regulation of programmed cell death	BP	0.9999999999	BP negative regulation of programmed cell death	XLOC_018085
+GO:0001934	0.0344465142106988	0.999603511346791	1	77	positive regulation of protein phosphorylation	BP	0.9999999999	BP positive regulation of protein phosphorylation	XLOC_018085
+GO:0051046	0.0352821661224972	0.999583743831745	1	79	regulation of secretion	BP	0.9999999999	BP regulation of secretion	XLOC_018085
+GO:0051223	0.0354425386049292	0.999580202646446	1	75	regulation of protein transport	BP	0.9999999999	BP regulation of protein transport	XLOC_018085
+GO:0030334	0.0357375571675313	0.999573363175929	1	72	regulation of cell migration	BP	0.9999999999	BP regulation of cell migration	XLOC_018085
+GO:2000145	0.0357375571675313	0.999573363175929	1	72	regulation of cell motility	BP	0.9999999999	BP regulation of cell motility	XLOC_018085
+GO:0032269	0.0367764675721175	0.999547425398135	1	79	negative regulation of cellular protein metabolic process	BP	0.9999999999	BP negative regulation of cellular protein metabolic process	XLOC_018085
+GO:0070201	0.0375573300263551	0.999527832109047	1	79	regulation of establishment of protein localization	BP	0.9999999999	BP regulation of establishment of protein localization	XLOC_018085
+GO:0051093	0.0376357266290967	0.999525996881744	1	77	negative regulation of developmental process	BP	0.9999999999	BP negative regulation of developmental process	XLOC_018085
+GO:0051338	0.0378524386733854	0.999519957470078	1	84	regulation of transferase activity	BP	0.9999999999	BP regulation of transferase activity	XLOC_018085
+GO:0050776	0.0379739974589507	0.999517204281947	1	79	regulation of immune response	BP	0.9999999999	BP regulation of immune response	XLOC_018085
+GO:0006952	0.0386914155563486	0.999498467210309	1	81	defense response	BP	0.9999999999	BP defense response	XLOC_018085
+GO:0060548	0.0389799572485011	0.999491391120717	1	75	negative regulation of cell death	BP	0.9999999999	BP negative regulation of cell death	XLOC_018085
+GO:0042327	0.0392010671820772	0.999484748520238	1	85	positive regulation of phosphorylation	BP	0.9999999999	BP positive regulation of phosphorylation	XLOC_018085
+GO:0090087	0.0392755084580756	0.999482993240297	1	82	regulation of peptide transport	BP	0.9999999999	BP regulation of peptide transport	XLOC_018085
+GO:0051248	0.0393952586269322	0.999479806900318	1	82	negative regulation of protein metabolic process	BP	0.9999999999	BP negative regulation of protein metabolic process	XLOC_018085
+GO:0040012	0.0396948878278391	0.99947171345881	1	83	regulation of locomotion	BP	0.9999999999	BP regulation of locomotion	XLOC_018085
+GO:0009968	0.0397655448589589	0.999469192584651	1	92	negative regulation of signal transduction	BP	0.9999999999	BP negative regulation of signal transduction	XLOC_018085
+GO:0032101	0.04000736707273	0.999463697679798	1	78	regulation of response to external stimulus	BP	0.9999999999	BP regulation of response to external stimulus	XLOC_018085
+GO:0051270	0.0407095634363705	0.99944394239965	1	85	regulation of cellular component movement	BP	0.9999999999	BP regulation of cellular component movement	XLOC_018085
+GO:0044255	0.0423133044906449	0.999398659709027	1	87	cellular lipid metabolic process	BP	0.9999999999	BP cellular lipid metabolic process	XLOC_018085
+GO:0010562	0.0426931914167088	0.999387326260153	1	92	positive regulation of phosphorus metabolic process	BP	0.9999999999	BP positive regulation of phosphorus metabolic process	XLOC_018085
+GO:0045937	0.0426931914167088	0.999387326260153	1	92	positive regulation of phosphate metabolic process	BP	0.9999999999	BP positive regulation of phosphate metabolic process	XLOC_018085
+GO:0051726	0.0433482939643097	0.999367771082721	1	98	regulation of cell cycle	BP	0.9999999999	BP regulation of cell cycle	XLOC_018085
+GO:0010648	0.0452808812716507	0.999309120364377	1	104	negative regulation of cell communication	BP	0.9999999999	BP negative regulation of cell communication	XLOC_018085
+GO:0023057	0.0452808812716507	0.999309120364377	1	104	negative regulation of signaling	BP	0.9999999999	BP negative regulation of signaling	XLOC_018085
+GO:0031401	0.0454542977217052	0.999304096693374	1	99	positive regulation of protein modification process	BP	0.9999999999	BP positive regulation of protein modification process	XLOC_018085
+GO:0051050	0.0485159273725255	0.999205830525788	1	102	positive regulation of transport	BP	0.9999999999	BP positive regulation of transport	XLOC_018085
+GO:0043085	0.0491190309555846	0.999185030886358	1	112	positive regulation of catalytic activity	BP	0.9999999999	BP positive regulation of catalytic activity	XLOC_018085
+GO:0006974	0.0498920526414055	0.999159149381322	1	108	cellular response to DNA damage stimulus	BP	0.9999999999	BP cellular response to DNA damage stimulus	XLOC_018085

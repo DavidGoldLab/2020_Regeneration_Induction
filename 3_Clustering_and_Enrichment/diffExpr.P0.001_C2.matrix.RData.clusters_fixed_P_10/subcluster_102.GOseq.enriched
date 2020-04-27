@@ -1,0 +1,8 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0016712	0.0045531434056867	0.999993508372202	1	6	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen	MF	0.9999999999	MF oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen	XLOC_065670
+GO:0070330	0.0045531434056867	0.999993508372202	1	6	aromatase activity	MF	0.9999999999	MF aromatase activity	XLOC_065670
+GO:0004497	0.0145543046712529	0.999923876884581	1	21	monooxygenase activity	MF	0.9999999999	MF monooxygenase activity	XLOC_065670
+GO:0005506	0.0169532231600519	0.999896158846074	1	23	iron ion binding	MF	0.9999999999	MF iron ion binding	XLOC_065670, XLOC_065670
+GO:0016705	0.0176470291628962	0.999886698725907	1	27	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	MF	0.9999999999	MF oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	XLOC_065670
+GO:0020037	0.01807380135418	0.999880968061885	1	28	heme binding	MF	0.9999999999	MF heme binding	XLOC_065670
+GO:0046906	0.022649069362597	0.999811326480767	1	35	tetrapyrrole binding	MF	0.9999999999	MF tetrapyrrole binding	XLOC_065670

@@ -1,0 +1,6 @@
+3mL_27hr	3mL_27hr_0	
+3mL_27hr	3mL_27hr_1	
+NoFood_27hr	NoFood_27hr_0	
+NoFood_27hr	NoFood_27hr_1	
+WT	WT_0	
+WT	WT_1

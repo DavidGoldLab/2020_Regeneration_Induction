@@ -1,0 +1,19 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0015988	0.000729898965604474	1	1	1	energy coupled proton transmembrane transport, against electrochemical gradient	BP	0.9999999999	BP energy coupled proton transmembrane transport, against electrochemical gradient	XLOC_044376
+GO:0015990	0.000729898965604474	1	1	1	electron transport coupled proton transport	BP	0.9999999999	BP electron transport coupled proton transport	XLOC_044376
+GO:0045277	0.0016075108115495	0.999999387575872	1	2	respiratory chain complex IV	CC	0.9999999999	CC respiratory chain complex IV	XLOC_044376
+GO:0006119	0.00828313000173219	0.999978253333946	1	3	oxidative phosphorylation	BP	0.9999999999	BP oxidative phosphorylation	XLOC_044376
+GO:0070069	0.020497288670783	0.999839429581604	1	5	cytochrome complex	CC	0.9999999999	CC cytochrome complex	XLOC_044376
+GO:0004129	0.0209604523392483	0.999825103437202	1	6	cytochrome-c oxidase activity	MF	0.9999999999	MF cytochrome-c oxidase activity	XLOC_044376
+GO:0015002	0.0209604523392483	0.999825103437202	1	6	heme-copper terminal oxidase activity	MF	0.9999999999	MF heme-copper terminal oxidase activity	XLOC_044376
+GO:0016675	0.0209604523392483	0.999825103437202	1	6	oxidoreductase activity, acting on a heme group of donors	MF	0.9999999999	MF oxidoreductase activity, acting on a heme group of donors	XLOC_044376
+GO:0016676	0.0209604523392483	0.999825103437202	1	6	oxidoreductase activity, acting on a heme group of donors, oxygen as acceptor	MF	0.9999999999	MF oxidoreductase activity, acting on a heme group of donors, oxygen as acceptor	XLOC_044376
+GO:0006818	0.0266233128840633	0.999698471190435	1	9	NA	NA	0.9999999999	none	XLOC_044376
+GO:0015992	0.0266233128840633	0.999698471190435	1	9	NA	NA	0.9999999999	none	XLOC_044376
+GO:1902600	0.0266233128840633	0.999698471190435	1	9	proton transmembrane transport	BP	0.9999999999	BP proton transmembrane transport	XLOC_044376
+GO:0009060	0.0352200172170545	0.99947867609644	1	8	aerobic respiration	BP	0.9999999999	BP aerobic respiration	XLOC_044376
+GO:0045333	0.0451135931396658	0.999108238555023	1	11	cellular respiration	BP	0.9999999999	BP cellular respiration	XLOC_044376
+GO:0046034	0.0468430933876118	0.999004475288272	1	17	ATP metabolic process	BP	0.9999999999	BP ATP metabolic process	XLOC_044376
+GO:0009199	0.0475405724929574	0.998970829710418	1	18	ribonucleoside triphosphate metabolic process	BP	0.9999999999	BP ribonucleoside triphosphate metabolic process	XLOC_044376
+GO:0009205	0.0475405724929574	0.998970829710418	1	18	purine ribonucleoside triphosphate metabolic process	BP	0.9999999999	BP purine ribonucleoside triphosphate metabolic process	XLOC_044376
+GO:0009144	0.0489340814824186	0.998902718536121	1	20	purine nucleoside triphosphate metabolic process	BP	0.9999999999	BP purine nucleoside triphosphate metabolic process	XLOC_044376

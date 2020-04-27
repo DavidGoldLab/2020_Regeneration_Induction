@@ -1,0 +1,164 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0070062	0.00155265085086664	0.999813098313132	5	126	extracellular exosome	CC	0.9999999999	CC extracellular exosome	XLOC_011757, XLOC_039144, XLOC_055135, XLOC_057733, XLOC_064430
+GO:1903561	0.00155265085086664	0.999813098313132	5	126	extracellular vesicle	CC	0.9999999999	CC extracellular vesicle	XLOC_011757, XLOC_039144, XLOC_055135, XLOC_057733, XLOC_064430
+GO:0030799	0.00164399302175741	0.999974729898914	2	9	NA	NA	0.9999999999	none	XLOC_027568, XLOC_057733
+GO:0030802	0.00164399302175741	0.999974729898914	2	9	NA	NA	0.9999999999	none	XLOC_027568, XLOC_057733
+GO:0030814	0.00164399302175741	0.999974729898914	2	9	NA	NA	0.9999999999	none	XLOC_027568, XLOC_057733
+GO:0030817	0.00164399302175741	0.999974729898914	2	9	NA	NA	0.9999999999	none	XLOC_027568, XLOC_057733
+GO:0031279	0.00164399302175741	0.999974729898914	2	9	regulation of cyclase activity	BP	0.9999999999	BP regulation of cyclase activity	XLOC_027568, XLOC_057733
+GO:0045761	0.00164399302175741	0.999974729898914	2	9	regulation of adenylate cyclase activity	BP	0.9999999999	BP regulation of adenylate cyclase activity	XLOC_027568, XLOC_057733
+GO:0051339	0.00164399302175741	0.999974729898914	2	9	regulation of lyase activity	BP	0.9999999999	BP regulation of lyase activity	XLOC_027568, XLOC_057733
+GO:0043230	0.00166240529041234	0.999796664667805	5	128	extracellular organelle	CC	0.9999999999	CC extracellular organelle	XLOC_011757, XLOC_039144, XLOC_055135, XLOC_057733, XLOC_064430
+GO:0030808	0.00297736401374129	0.999934671413581	2	12	regulation of nucleotide biosynthetic process	BP	0.9999999999	BP regulation of nucleotide biosynthetic process	XLOC_027568, XLOC_057733
+GO:1900371	0.00297736401374129	0.999934671413581	2	12	regulation of purine nucleotide biosynthetic process	BP	0.9999999999	BP regulation of purine nucleotide biosynthetic process	XLOC_027568, XLOC_057733
+GO:0060001	0.006416786778146	1	1	1	minus-end directed microfilament motor activity	MF	0.9999999999	MF minus-end directed microfilament motor activity	XLOC_011757
+GO:0036148	0.00682699955367019	1	1	1	phosphatidylglycerol acyl-chain remodeling	BP	0.9999999999	BP phosphatidylglycerol acyl-chain remodeling	XLOC_018939
+GO:0036149	0.00682699955367019	1	1	1	phosphatidylinositol acyl-chain remodeling	BP	0.9999999999	BP phosphatidylinositol acyl-chain remodeling	XLOC_018939
+GO:0036150	0.00682699955367019	1	1	1	phosphatidylserine acyl-chain remodeling	BP	0.9999999999	BP phosphatidylserine acyl-chain remodeling	XLOC_018939
+GO:0036152	0.00682699955367019	1	1	1	phosphatidylethanolamine acyl-chain remodeling	BP	0.9999999999	BP phosphatidylethanolamine acyl-chain remodeling	XLOC_018939
+GO:0047498	0.00682699955367019	1	1	1	calcium-dependent phospholipase A2 activity	MF	0.9999999999	MF calcium-dependent phospholipase A2 activity	XLOC_018939
+GO:0016716	0.00691655204340499	1	1	1	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen	MF	0.9999999999	MF oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen	XLOC_053798
+GO:0042438	0.00691655204340499	1	1	1	melanin biosynthetic process	BP	0.9999999999	BP melanin biosynthetic process	XLOC_053798
+GO:0045545	0.00707670896143079	1	1	1	syndecan binding	MF	0.9999999999	MF syndecan binding	XLOC_027568
+GO:1903292	0.00707670896143079	1	1	1	protein localization to Golgi membrane	BP	0.9999999999	BP protein localization to Golgi membrane	XLOC_019649
+GO:0098858	0.00785043077666254	0.999699351459395	2	20	actin-based cell projection	CC	0.9999999999	CC actin-based cell projection	XLOC_011757, XLOC_057733
+GO:0006140	0.00886596394575852	0.99963690467791	2	21	regulation of nucleotide metabolic process	BP	0.9999999999	BP regulation of nucleotide metabolic process	XLOC_027568, XLOC_057733
+GO:1900542	0.00886596394575852	0.99963690467791	2	21	regulation of purine nucleotide metabolic process	BP	0.9999999999	BP regulation of purine nucleotide metabolic process	XLOC_027568, XLOC_057733
+GO:0007601	0.0117626661540388	0.999436377197297	2	24	visual perception	BP	0.9999999999	BP visual perception	XLOC_011757, XLOC_057733
+GO:0007605	0.0122424257165298	0.999399399672187	2	25	sensory perception of sound	BP	0.9999999999	BP sensory perception of sound	XLOC_011757, XLOC_057733
+GO:0016591	0.0124249917949862	0.999962242630733	1	2	RNA polymerase II, holoenzyme	CC	0.9999999999	CC RNA polymerase II, holoenzyme	XLOC_011757
+GO:0036151	0.0130684156659364	0.999958216926258	1	2	phosphatidylcholine acyl-chain remodeling	BP	0.9999999999	BP phosphatidylcholine acyl-chain remodeling	XLOC_018939
+GO:0004339	0.0132473852609569	0.99995706067786	1	2	glucan 1,4-alpha-glucosidase activity	MF	0.9999999999	MF glucan 1,4-alpha-glucosidase activity	XLOC_064430
+GO:0005982	0.0132473852609569	0.99995706067786	1	2	starch metabolic process	BP	0.9999999999	BP starch metabolic process	XLOC_064430
+GO:0005983	0.0132473852609569	0.99995706067786	1	2	starch catabolic process	BP	0.9999999999	BP starch catabolic process	XLOC_064430
+GO:0016160	0.0132473852609569	0.99995706067786	1	2	amylase activity	MF	0.9999999999	MF amylase activity	XLOC_064430
+GO:0090103	0.0134493391832513	0.999955736854213	1	2	cochlea morphogenesis	BP	0.9999999999	BP cochlea morphogenesis	XLOC_011757
+GO:0050953	0.0136473604917931	0.999289518465359	2	26	sensory perception of light stimulus	BP	0.9999999999	BP sensory perception of light stimulus	XLOC_011757, XLOC_057733
+GO:0007406	0.0136547281004478	0.999954369753922	1	2	negative regulation of neuroblast proliferation	BP	0.9999999999	BP negative regulation of neuroblast proliferation	XLOC_027568
+GO:0014002	0.0136547281004478	0.999954369753922	1	2	astrocyte development	BP	0.9999999999	BP astrocyte development	XLOC_027568
+GO:0014044	0.0136547281004478	0.999954369753922	1	2	Schwann cell development	BP	0.9999999999	BP Schwann cell development	XLOC_027568
+GO:0021897	0.0136547281004478	0.999954369753922	1	2	forebrain astrocyte development	BP	0.9999999999	BP forebrain astrocyte development	XLOC_027568
+GO:0030325	0.0136547281004478	0.999954369753922	1	2	adrenal gland development	BP	0.9999999999	BP adrenal gland development	XLOC_027568
+GO:0045686	0.0136547281004478	0.999954369753922	1	2	negative regulation of glial cell differentiation	BP	0.9999999999	BP negative regulation of glial cell differentiation	XLOC_027568
+GO:0048485	0.0136547281004478	0.999954369753922	1	2	sympathetic nervous system development	BP	0.9999999999	BP sympathetic nervous system development	XLOC_027568
+GO:0048593	0.0136547281004478	0.999954369753922	1	2	camera-type eye morphogenesis	BP	0.9999999999	BP camera-type eye morphogenesis	XLOC_027568
+GO:0048715	0.0136547281004478	0.999954369753922	1	2	negative regulation of oligodendrocyte differentiation	BP	0.9999999999	BP negative regulation of oligodendrocyte differentiation	XLOC_027568
+GO:0048745	0.0136547281004478	0.999954369753922	1	2	smooth muscle tissue development	BP	0.9999999999	BP smooth muscle tissue development	XLOC_027568
+GO:0048853	0.0136547281004478	0.999954369753922	1	2	forebrain morphogenesis	BP	0.9999999999	BP forebrain morphogenesis	XLOC_027568
+GO:0046471	0.0138438187517029	0.999953092622582	1	2	phosphatidylglycerol metabolic process	BP	0.9999999999	BP phosphatidylglycerol metabolic process	XLOC_018939
+GO:0006658	0.0138564206662532	0.999953006877359	1	2	phosphatidylserine metabolic process	BP	0.9999999999	BP phosphatidylserine metabolic process	XLOC_018939
+GO:0005589	0.0141047192705111	0.99995130133152	1	2	collagen type VI trimer	CC	0.9999999999	CC collagen type VI trimer	XLOC_055135
+GO:0050954	0.0142541974278003	0.999239076728548	2	27	sensory perception of mechanical stimulus	BP	0.9999999999	BP sensory perception of mechanical stimulus	XLOC_011757, XLOC_057733
+GO:0046470	0.0190658720585	0.999881181409391	1	3	phosphatidylcholine metabolic process	BP	0.9999999999	BP phosphatidylcholine metabolic process	XLOC_018939
+GO:0009611	0.0191962089652795	0.998792119925896	2	31	response to wounding	BP	0.9999999999	BP response to wounding	XLOC_027568, XLOC_055135
+GO:0031941	0.0194161923593423	0.999876754898492	1	3	filamentous actin	CC	0.9999999999	CC filamentous actin	XLOC_011757
+GO:0008429	0.0200629530621342	0.999868368015173	1	3	phosphatidylethanolamine binding	MF	0.9999999999	MF phosphatidylethanolamine binding	XLOC_027568
+GO:0044245	0.0201035694380461	0.99986783202328	1	3	polysaccharide digestion	BP	0.9999999999	BP polysaccharide digestion	XLOC_064430
+GO:0004558	0.0201254632907196	0.99986754264624	1	3	alpha-1,4-glucosidase activity	MF	0.9999999999	MF alpha-1,4-glucosidase activity	XLOC_064430
+GO:0032450	0.0201254632907196	0.99986754264624	1	3	maltose alpha-glucosidase activity	MF	0.9999999999	MF maltose alpha-glucosidase activity	XLOC_064430
+GO:0090599	0.0201254632907196	0.99986754264624	1	3	alpha-glucosidase activity	MF	0.9999999999	MF alpha-glucosidase activity	XLOC_064430
+GO:0101003	0.0202329245119034	0.999866117670465	1	3	ficolin-1-rich granule membrane	CC	0.9999999999	CC ficolin-1-rich granule membrane	XLOC_064430
+GO:0032426	0.0204334881741016	0.999863437535118	1	3	stereocilium tip	CC	0.9999999999	CC stereocilium tip	XLOC_011757
+GO:0021510	0.0205399945177884	0.999862003388782	1	3	spinal cord development	BP	0.9999999999	BP spinal cord development	XLOC_027568
+GO:0014014	0.0205429273140641	0.999861963790631	1	3	negative regulation of gliogenesis	BP	0.9999999999	BP negative regulation of gliogenesis	XLOC_027568
+GO:0031210	0.0205679105926196	0.999861626237861	1	3	phosphatidylcholine binding	MF	0.9999999999	MF phosphatidylcholine binding	XLOC_027568
+GO:0050997	0.0205679105926196	0.999861626237861	1	3	quaternary ammonium group binding	MF	0.9999999999	MF quaternary ammonium group binding	XLOC_027568
+GO:2000647	0.0206374631764848	0.999860684310575	1	3	negative regulation of stem cell proliferation	BP	0.9999999999	BP negative regulation of stem cell proliferation	XLOC_027568
+GO:2000178	0.0206374631764848	0.999860684310575	1	3	negative regulation of neural precursor cell proliferation	BP	0.9999999999	BP negative regulation of neural precursor cell proliferation	XLOC_027568
+GO:0044550	0.0209263969140892	0.999856736840726	1	3	secondary metabolite biosynthetic process	BP	0.9999999999	BP secondary metabolite biosynthetic process	XLOC_053798
+GO:1990089	0.0210843565405775	0.999854555221538	1	3	response to nerve growth factor	BP	0.9999999999	BP response to nerve growth factor	XLOC_027568
+GO:1990090	0.0210843565405775	0.999854555221538	1	3	cellular response to nerve growth factor stimulus	BP	0.9999999999	BP cellular response to nerve growth factor stimulus	XLOC_027568
+GO:0030234	0.0263808748331646	0.99624626285958	3	94	enzyme regulator activity	MF	0.9999999999	MF enzyme regulator activity	XLOC_027568, XLOC_055135, XLOC_057733
+GO:0006654	0.0264448654329189	0.999742152505398	1	4	phosphatidic acid biosynthetic process	BP	0.9999999999	BP phosphatidic acid biosynthetic process	XLOC_018939
+GO:0046473	0.0264448654329189	0.999742152505398	1	4	phosphatidic acid metabolic process	BP	0.9999999999	BP phosphatidic acid metabolic process	XLOC_018939
+GO:0016461	0.0265718392759318	0.999739656044711	1	4	unconventional myosin complex	CC	0.9999999999	CC unconventional myosin complex	XLOC_011757
+GO:0046189	0.0269218689944688	0.999732711023281	1	4	phenol-containing compound biosynthetic process	BP	0.9999999999	BP phenol-containing compound biosynthetic process	XLOC_053798
+GO:0070821	0.0270223344922333	0.999730700579424	1	4	tertiary granule membrane	CC	0.9999999999	CC tertiary granule membrane	XLOC_064430
+GO:0015926	0.0270636534356047	0.999729871522311	1	4	glucosidase activity	MF	0.9999999999	MF glucosidase activity	XLOC_064430
+GO:0043407	0.0270752443711288	0.999729638720726	1	4	negative regulation of MAP kinase activity	BP	0.9999999999	BP negative regulation of MAP kinase activity	XLOC_027568
+GO:0021782	0.0272441382001176	0.999726235011456	1	4	glial cell development	BP	0.9999999999	BP glial cell development	XLOC_027568
+GO:0010851	0.0274212302485175	0.999722642942701	1	4	cyclase regulator activity	MF	0.9999999999	MF cyclase regulator activity	XLOC_057733
+GO:0010854	0.0274212302485175	0.999722642942701	1	4	adenylate cyclase regulator activity	MF	0.9999999999	MF adenylate cyclase regulator activity	XLOC_057733
+GO:0010855	0.0274212302485175	0.999722642942701	1	4	adenylate cyclase inhibitor activity	MF	0.9999999999	MF adenylate cyclase inhibitor activity	XLOC_057733
+GO:0097264	0.0274212302485175	0.999722642942701	1	4	self proteolysis	BP	0.9999999999	BP self proteolysis	XLOC_057733
+GO:0007194	0.0274212302485175	0.999722642942701	1	4	negative regulation of adenylate cyclase activity	BP	0.9999999999	BP negative regulation of adenylate cyclase activity	XLOC_057733
+GO:0030800	0.0274212302485175	0.999722642942701	1	4	NA	NA	0.9999999999	none	XLOC_057733
+GO:0030803	0.0274212302485175	0.999722642942701	1	4	NA	NA	0.9999999999	none	XLOC_057733
+GO:0030815	0.0274212302485175	0.999722642942701	1	4	NA	NA	0.9999999999	none	XLOC_057733
+GO:0030818	0.0274212302485175	0.999722642942701	1	4	NA	NA	0.9999999999	none	XLOC_057733
+GO:0031280	0.0274212302485175	0.999722642942701	1	4	negative regulation of cyclase activity	BP	0.9999999999	BP negative regulation of cyclase activity	XLOC_057733
+GO:0050910	0.0274212302485175	0.999722642942701	1	4	detection of mechanical stimulus involved in sensory perception of sound	BP	0.9999999999	BP detection of mechanical stimulus involved in sensory perception of sound	XLOC_057733
+GO:0051350	0.0274212302485175	0.999722642942701	1	4	negative regulation of lyase activity	BP	0.9999999999	BP negative regulation of lyase activity	XLOC_057733
+GO:0030801	0.0275721279926071	0.999719563492664	1	4	NA	NA	0.9999999999	none	XLOC_027568
+GO:0030804	0.0275721279926071	0.999719563492664	1	4	NA	NA	0.9999999999	none	XLOC_027568
+GO:0030810	0.0275721279926071	0.999719563492664	1	4	positive regulation of nucleotide biosynthetic process	BP	0.9999999999	BP positive regulation of nucleotide biosynthetic process	XLOC_027568
+GO:0030816	0.0275721279926071	0.999719563492664	1	4	NA	NA	0.9999999999	none	XLOC_027568
+GO:0030819	0.0275721279926071	0.999719563492664	1	4	NA	NA	0.9999999999	none	XLOC_027568
+GO:0031281	0.0275721279926071	0.999719563492664	1	4	positive regulation of cyclase activity	BP	0.9999999999	BP positive regulation of cyclase activity	XLOC_027568
+GO:0045762	0.0275721279926071	0.999719563492664	1	4	positive regulation of adenylate cyclase activity	BP	0.9999999999	BP positive regulation of adenylate cyclase activity	XLOC_027568
+GO:0051349	0.0275721279926071	0.999719563492664	1	4	positive regulation of lyase activity	BP	0.9999999999	BP positive regulation of lyase activity	XLOC_027568
+GO:1900373	0.0275721279926071	0.999719563492664	1	4	positive regulation of purine nucleotide biosynthetic process	BP	0.9999999999	BP positive regulation of purine nucleotide biosynthetic process	XLOC_027568
+GO:1902692	0.0275721279926071	0.999719563492664	1	4	regulation of neuroblast proliferation	BP	0.9999999999	BP regulation of neuroblast proliferation	XLOC_027568
+GO:0014065	0.0275721279926071	0.999719563492664	1	4	phosphatidylinositol 3-kinase signaling	BP	0.9999999999	BP phosphatidylinositol 3-kinase signaling	XLOC_027568
+GO:0046148	0.0276147864478744	0.999718689819366	1	4	pigment biosynthetic process	BP	0.9999999999	BP pigment biosynthetic process	XLOC_053798
+GO:0034067	0.0277976448143466	0.999714929176126	1	4	protein localization to Golgi apparatus	BP	0.9999999999	BP protein localization to Golgi apparatus	XLOC_019649
+GO:0014037	0.0280159442714228	0.999710406556399	1	4	Schwann cell differentiation	BP	0.9999999999	BP Schwann cell differentiation	XLOC_027568
+GO:0050877	0.0310599613286984	0.995288484414437	3	100	nervous system process	BP	0.9999999999	BP nervous system process	XLOC_011757, XLOC_027568, XLOC_057733
+GO:0006582	0.0326837732183859	0.99957897108238	1	5	melanin metabolic process	BP	0.9999999999	BP melanin metabolic process	XLOC_053798
+GO:0010739	0.0332434628501047	0.999564325263085	1	5	positive regulation of protein kinase A signaling	BP	0.9999999999	BP positive regulation of protein kinase A signaling	XLOC_057733
+GO:0000428	0.0332545347414333	0.999564032975478	1	5	DNA-directed RNA polymerase complex	CC	0.9999999999	CC DNA-directed RNA polymerase complex	XLOC_011757
+GO:0055029	0.0332545347414333	0.999564032975478	1	5	nuclear DNA-directed RNA polymerase complex	CC	0.9999999999	CC nuclear DNA-directed RNA polymerase complex	XLOC_011757
+GO:0048147	0.0333064386098282	0.999562661436681	1	5	negative regulation of fibroblast proliferation	BP	0.9999999999	BP negative regulation of fibroblast proliferation	XLOC_027568
+GO:0048713	0.0333876456569595	0.999560511190923	1	5	regulation of oligodendrocyte differentiation	BP	0.9999999999	BP regulation of oligodendrocyte differentiation	XLOC_027568
+GO:0000146	0.0340669939837917	0.999542313485297	1	5	microfilament motor activity	MF	0.9999999999	MF microfilament motor activity	XLOC_011757
+GO:0036156	0.0340798764700148	0.999541964784373	1	5	inner dynein arm	CC	0.9999999999	CC inner dynein arm	XLOC_026777
+GO:0002139	0.0343086542378099	0.999535749829538	1	5	stereocilia coupling link	CC	0.9999999999	CC stereocilia coupling link	XLOC_057733
+GO:0002141	0.0343086542378099	0.999535749829538	1	5	stereocilia ankle link	CC	0.9999999999	CC stereocilia ankle link	XLOC_057733
+GO:0002142	0.0343086542378099	0.999535749829538	1	5	stereocilia ankle link complex	CC	0.9999999999	CC stereocilia ankle link complex	XLOC_057733
+GO:0048496	0.0343086542378099	0.999535749829538	1	5	maintenance of animal organ identity	BP	0.9999999999	BP maintenance of animal organ identity	XLOC_057733
+GO:1990696	0.0343086542378099	0.999535749829538	1	5	USH2 complex	CC	0.9999999999	CC USH2 complex	XLOC_057733
+GO:0090036	0.0343091844764715	0.999535735375775	1	5	regulation of protein kinase C signaling	BP	0.9999999999	BP regulation of protein kinase C signaling	XLOC_057733
+GO:0090037	0.0343091844764715	0.999535735375775	1	5	positive regulation of protein kinase C signaling	BP	0.9999999999	BP positive regulation of protein kinase C signaling	XLOC_057733
+GO:0007422	0.0344590440828755	0.999531641207377	1	5	peripheral nervous system development	BP	0.9999999999	BP peripheral nervous system development	XLOC_027568
+GO:0071549	0.0348998038625562	0.999519493935079	1	5	cellular response to dexamethasone stimulus	BP	0.9999999999	BP cellular response to dexamethasone stimulus	XLOC_027568
+GO:0043086	0.0356091423082061	0.996838606734189	2	43	negative regulation of catalytic activity	BP	0.9999999999	BP negative regulation of catalytic activity	XLOC_027568, XLOC_057733
+GO:0010563	0.0372091902371004	0.996614279889598	2	44	negative regulation of phosphorus metabolic process	BP	0.9999999999	BP negative regulation of phosphorus metabolic process	XLOC_027568, XLOC_057733
+GO:0045936	0.0372091902371004	0.996614279889598	2	44	negative regulation of phosphate metabolic process	BP	0.9999999999	BP negative regulation of phosphate metabolic process	XLOC_027568, XLOC_057733
+GO:0030330	0.0390428121431606	0.999372770637612	1	6	DNA damage response, signal transduction by p53 class mediator	BP	0.9999999999	BP DNA damage response, signal transduction by p53 class mediator	XLOC_011757
+GO:0045685	0.0398685034502923	0.999345738328314	1	6	regulation of glial cell differentiation	BP	0.9999999999	BP regulation of glial cell differentiation	XLOC_027568
+GO:0010738	0.0400913226435503	0.999338344121521	1	6	regulation of protein kinase A signaling	BP	0.9999999999	BP regulation of protein kinase A signaling	XLOC_057733
+GO:0030880	0.0401023182724627	0.999337978140414	1	6	RNA polymerase complex	CC	0.9999999999	CC RNA polymerase complex	XLOC_011757
+GO:0007632	0.0405605160638157	0.999322635908544	1	6	visual behavior	BP	0.9999999999	BP visual behavior	XLOC_027568
+GO:0008542	0.0405605160638157	0.999322635908544	1	6	visual learning	BP	0.9999999999	BP visual learning	XLOC_027568
+GO:0045184	0.0407289192136602	0.990772805283292	4	190	establishment of protein localization	BP	0.9999999999	BP establishment of protein localization	XLOC_011757, XLOC_019649, XLOC_035767, XLOC_057733
+GO:0009251	0.0407418620448879	0.999316514386116	1	6	glucan catabolic process	BP	0.9999999999	BP glucan catabolic process	XLOC_064430
+GO:0044247	0.0407418620448879	0.999316514386116	1	6	cellular polysaccharide catabolic process	BP	0.9999999999	BP cellular polysaccharide catabolic process	XLOC_064430
+GO:0060171	0.0411491769568154	0.999302662960477	1	6	stereocilium membrane	CC	0.9999999999	CC stereocilium membrane	XLOC_057733
+GO:0050974	0.0411497046004781	0.999302644925425	1	6	detection of mechanical stimulus involved in sensory perception	BP	0.9999999999	BP detection of mechanical stimulus involved in sensory perception	XLOC_057733
+GO:0030809	0.0411497046004781	0.999302644925425	1	6	negative regulation of nucleotide biosynthetic process	BP	0.9999999999	BP negative regulation of nucleotide biosynthetic process	XLOC_057733
+GO:1900372	0.0411497046004781	0.999302644925425	1	6	negative regulation of purine nucleotide biosynthetic process	BP	0.9999999999	BP negative regulation of purine nucleotide biosynthetic process	XLOC_057733
+GO:0010001	0.041186953962868	0.999301371129286	1	6	glial cell differentiation	BP	0.9999999999	BP glial cell differentiation	XLOC_027568
+GO:0022011	0.0412985308935339	0.999297548520197	1	6	myelination in peripheral nervous system	BP	0.9999999999	BP myelination in peripheral nervous system	XLOC_027568
+GO:0032292	0.0412985308935339	0.999297548520197	1	6	peripheral nervous system axon ensheathment	BP	0.9999999999	BP peripheral nervous system axon ensheathment	XLOC_027568
+GO:0071385	0.041736254626522	0.999282449721915	1	6	cellular response to glucocorticoid stimulus	BP	0.9999999999	BP cellular response to glucocorticoid stimulus	XLOC_027568
+GO:0005884	0.0457463575701347	0.99911217849223	1	7	actin filament	CC	0.9999999999	CC actin filament	XLOC_011757
+GO:0042770	0.0458507273698435	0.999108085109394	1	7	signal transduction in response to DNA damage	BP	0.9999999999	BP signal transduction in response to DNA damage	XLOC_011757
+GO:0005902	0.0460835471626054	0.999098919359309	1	7	microvillus	CC	0.9999999999	CC microvillus	XLOC_011757
+GO:0031253	0.0463298196811283	0.995230180844199	2	50	cell projection membrane	CC	0.9999999999	CC cell projection membrane	XLOC_011757, XLOC_057733
+GO:0071901	0.0463819752485042	0.999087100902886	1	7	negative regulation of protein serine/threonine kinase activity	BP	0.9999999999	BP negative regulation of protein serine/threonine kinase activity	XLOC_027568
+GO:0034707	0.0464938432081263	0.999082650451304	1	7	chloride channel complex	CC	0.9999999999	CC chloride channel complex	XLOC_039144
+GO:0048844	0.0468937969885051	0.999066648866611	1	7	artery morphogenesis	BP	0.9999999999	BP artery morphogenesis	XLOC_027568
+GO:0031982	0.0470703281001344	0.986681520695441	5	289	vesicle	CC	0.9999999999	CC vesicle	XLOC_011757, XLOC_039144, XLOC_055135, XLOC_057733, XLOC_064430
+GO:0048678	0.0470834687395951	0.999059011079469	1	7	response to axon injury	BP	0.9999999999	BP response to axon injury	XLOC_055135
+GO:0032420	0.0472854927658181	0.999050840998449	1	7	stereocilium	CC	0.9999999999	CC stereocilium	XLOC_057733
+GO:0045980	0.0476939103288091	0.999034214176712	1	7	negative regulation of nucleotide metabolic process	BP	0.9999999999	BP negative regulation of nucleotide metabolic process	XLOC_057733
+GO:1900543	0.0476939103288091	0.999034214176712	1	7	negative regulation of purine nucleotide metabolic process	BP	0.9999999999	BP negative regulation of purine nucleotide metabolic process	XLOC_057733
+GO:0001965	0.0478207564454636	0.999029020274676	1	7	G-protein alpha-subunit binding	MF	0.9999999999	MF G-protein alpha-subunit binding	XLOC_057733
+GO:1990075	0.0479289530024829	0.999024578784729	1	7	periciliary membrane compartment	CC	0.9999999999	CC periciliary membrane compartment	XLOC_057733
+GO:0043473	0.0479935873603171	0.999021920601724	1	7	pigmentation	BP	0.9999999999	BP pigmentation	XLOC_027568
+GO:0001539	0.0479991347216517	0.999021692286504	1	7	cilium or flagellum-dependent cell motility	BP	0.9999999999	BP cilium or flagellum-dependent cell motility	XLOC_026777
+GO:0060285	0.0479991347216517	0.999021692286504	1	7	cilium-dependent cell motility	BP	0.9999999999	BP cilium-dependent cell motility	XLOC_026777
+GO:0001656	0.0480818534211565	0.999018284573528	1	7	metanephros development	BP	0.9999999999	BP metanephros development	XLOC_027568
+GO:0072091	0.0480909057960748	0.999017911281543	1	7	regulation of stem cell proliferation	BP	0.9999999999	BP regulation of stem cell proliferation	XLOC_027568
+GO:0030020	0.0483487602682264	0.999007247776672	1	7	extracellular matrix structural constituent conferring tensile strength	MF	0.9999999999	MF extracellular matrix structural constituent conferring tensile strength	XLOC_055135
+GO:0071548	0.0484694019142479	0.999002238511296	1	7	response to dexamethasone	BP	0.9999999999	BP response to dexamethasone	XLOC_027568

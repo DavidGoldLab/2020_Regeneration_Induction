@@ -1,0 +1,150 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0032781	0.00201568525706639	0.999892682486897	3	18	positive regulation of ATPase activity	BP	0.9999999999	BP positive regulation of ATPase activity	XLOC_022871, XLOC_038379, XLOC_056389
+GO:0050482	0.00334575886052703	0.999784070859395	3	20	arachidonic acid secretion	BP	0.9999999999	BP arachidonic acid secretion	XLOC_000875, XLOC_011313, XLOC_061022
+GO:1903963	0.00334575886052703	0.999784070859395	3	20	arachidonate transport	BP	0.9999999999	BP arachidonate transport	XLOC_000875, XLOC_011313, XLOC_061022
+GO:0006203	0.00356170433502524	0.999920897695065	2	7	dGTP catabolic process	BP	0.9999999999	BP dGTP catabolic process	XLOC_011308, XLOC_014555
+GO:0009146	0.00356170433502524	0.999920897695065	2	7	purine nucleoside triphosphate catabolic process	BP	0.9999999999	BP purine nucleoside triphosphate catabolic process	XLOC_011308, XLOC_014555
+GO:0009155	0.00356170433502524	0.999920897695065	2	7	purine deoxyribonucleotide catabolic process	BP	0.9999999999	BP purine deoxyribonucleotide catabolic process	XLOC_011308, XLOC_014555
+GO:0009217	0.00356170433502524	0.999920897695065	2	7	purine deoxyribonucleoside triphosphate catabolic process	BP	0.9999999999	BP purine deoxyribonucleoside triphosphate catabolic process	XLOC_011308, XLOC_014555
+GO:0046061	0.00356170433502524	0.999920897695065	2	7	dATP catabolic process	BP	0.9999999999	BP dATP catabolic process	XLOC_011308, XLOC_014555
+GO:0046070	0.00356170433502524	0.999920897695065	2	7	dGTP metabolic process	BP	0.9999999999	BP dGTP metabolic process	XLOC_011308, XLOC_014555
+GO:0071472	0.00694837242412513	0.999767396512895	2	9	cellular response to salt stress	BP	0.9999999999	BP cellular response to salt stress	XLOC_019322, XLOC_072339
+GO:0048016	0.00772092008390182	0.99972110728265	2	10	inositol phosphate-mediated signaling	BP	0.9999999999	BP inositol phosphate-mediated signaling	XLOC_013265, XLOC_061022
+GO:0009204	0.00816552126278842	0.999696341590248	2	10	deoxyribonucleoside triphosphate catabolic process	BP	0.9999999999	BP deoxyribonucleoside triphosphate catabolic process	XLOC_011308, XLOC_014555
+GO:0009264	0.00851299574086647	0.999670961425792	2	11	deoxyribonucleotide catabolic process	BP	0.9999999999	BP deoxyribonucleotide catabolic process	XLOC_011308, XLOC_014555
+GO:0046060	0.0088871713803874	0.999648725006191	2	11	dATP metabolic process	BP	0.9999999999	BP dATP metabolic process	XLOC_011308, XLOC_014555
+GO:1904385	0.0092416807289973	0.999633444167441	2	10	cellular response to angiotensin	BP	0.9999999999	BP cellular response to angiotensin	XLOC_000827, XLOC_040827
+GO:0046386	0.00998367566396416	0.999574920517843	2	12	deoxyribose phosphate catabolic process	BP	0.9999999999	BP deoxyribose phosphate catabolic process	XLOC_011308, XLOC_014555
+GO:0043462	0.0113917905071085	0.99880495514989	3	33	regulation of ATPase activity	BP	0.9999999999	BP regulation of ATPase activity	XLOC_022871, XLOC_038379, XLOC_056389
+GO:0009143	0.0123471559795662	0.999412516958561	2	12	nucleoside triphosphate catabolic process	BP	0.9999999999	BP nucleoside triphosphate catabolic process	XLOC_011308, XLOC_014555
+GO:0032309	0.0126346317845125	0.998622981907503	3	33	icosanoid secretion	BP	0.9999999999	BP icosanoid secretion	XLOC_000875, XLOC_011313, XLOC_061022
+GO:0071715	0.0126346317845125	0.998622981907503	3	33	icosanoid transport	BP	0.9999999999	BP icosanoid transport	XLOC_000875, XLOC_011313, XLOC_061022
+GO:1901571	0.0126346317845125	0.998622981907503	3	33	fatty acid derivative transport	BP	0.9999999999	BP fatty acid derivative transport	XLOC_000875, XLOC_011313, XLOC_061022
+GO:0009238	0.0126957154133901	1	1	1	enterobactin metabolic process	BP	0.9999999999	BP enterobactin metabolic process	XLOC_051084
+GO:0009239	0.0126957154133901	1	1	1	enterobactin biosynthetic process	BP	0.9999999999	BP enterobactin biosynthetic process	XLOC_051084
+GO:0009366	0.0126957154133901	1	1	1	enterobactin synthetase complex	CC	0.9999999999	CC enterobactin synthetase complex	XLOC_051084
+GO:0019540	0.0126957154133901	1	1	1	siderophore biosynthetic process from catechol	BP	0.9999999999	BP siderophore biosynthetic process from catechol	XLOC_051084
+GO:0047527	0.0126957154133901	1	1	1	2,3-dihydroxybenzoate-serine ligase activity	MF	0.9999999999	MF 2,3-dihydroxybenzoate-serine ligase activity	XLOC_051084
+GO:0008413	0.0133791260703944	1	1	1	8-oxo-7,8-dihydroguanosine triphosphate pyrophosphatase activity	MF	0.9999999999	MF 8-oxo-7,8-dihydroguanosine triphosphate pyrophosphatase activity	XLOC_014555
+GO:0035539	0.0133791260703944	1	1	1	8-oxo-7,8-dihydrodeoxyguanosine triphosphate pyrophosphatase activity	MF	0.9999999999	MF 8-oxo-7,8-dihydrodeoxyguanosine triphosphate pyrophosphatase activity	XLOC_014555
+GO:0036219	0.0133791260703944	1	1	1	GTP diphosphatase activity	MF	0.9999999999	MF GTP diphosphatase activity	XLOC_014555
+GO:0047693	0.0133791260703944	1	1	1	ATP diphosphatase activity	MF	0.9999999999	MF ATP diphosphatase activity	XLOC_014555
+GO:0003097	0.0137606730320323	1	1	1	renal water transport	BP	0.9999999999	BP renal water transport	XLOC_019322
+GO:0030184	0.0137606730320323	1	1	1	nitric oxide transmembrane transporter activity	MF	0.9999999999	MF nitric oxide transmembrane transporter activity	XLOC_019322
+GO:0030185	0.0137606730320323	1	1	1	nitric oxide transport	BP	0.9999999999	BP nitric oxide transport	XLOC_019322
+GO:0035378	0.0137606730320323	1	1	1	carbon dioxide transmembrane transport	BP	0.9999999999	BP carbon dioxide transmembrane transport	XLOC_019322
+GO:0046878	0.0137606730320323	1	1	1	positive regulation of saliva secretion	BP	0.9999999999	BP positive regulation of saliva secretion	XLOC_019322
+GO:0071288	0.0137606730320323	1	1	1	cellular response to mercury ion	BP	0.9999999999	BP cellular response to mercury ion	XLOC_019322
+GO:0085018	0.0137606730320323	1	1	1	maintenance of symbiont-containing vacuole by host	BP	0.9999999999	BP maintenance of symbiont-containing vacuole by host	XLOC_019322
+GO:0003342	0.0138518685394397	1	1	1	proepicardium development	BP	0.9999999999	BP proepicardium development	XLOC_072339
+GO:0097403	0.0138518685394397	1	1	1	cellular response to raffinose	BP	0.9999999999	BP cellular response to raffinose	XLOC_072339
+GO:1901545	0.0138518685394397	1	1	1	response to raffinose	BP	0.9999999999	BP response to raffinose	XLOC_072339
+GO:1902172	0.0138518685394397	1	1	1	regulation of keratinocyte apoptotic process	BP	0.9999999999	BP regulation of keratinocyte apoptotic process	XLOC_072339
+GO:0001993	0.0143996887882016	1	1	1	regulation of systemic arterial blood pressure by norepinephrine-epinephrine	BP	0.9999999999	BP regulation of systemic arterial blood pressure by norepinephrine-epinephrine	XLOC_022871
+GO:0003059	0.0143996887882016	1	1	1	positive regulation of the force of heart contraction by epinephrine	BP	0.9999999999	BP positive regulation of the force of heart contraction by epinephrine	XLOC_022871
+GO:0031713	0.0143996887882016	1	1	1	B2 bradykinin receptor binding	MF	0.9999999999	MF B2 bradykinin receptor binding	XLOC_022871
+GO:1905664	0.0143996887882016	1	1	1	regulation of calcium ion import across plasma membrane	BP	0.9999999999	BP regulation of calcium ion import across plasma membrane	XLOC_022871
+GO:1905665	0.0143996887882016	1	1	1	positive regulation of calcium ion import across plasma membrane	BP	0.9999999999	BP positive regulation of calcium ion import across plasma membrane	XLOC_022871
+GO:0032960	0.0149694991775508	1	1	1	regulation of inositol trisphosphate biosynthetic process	BP	0.9999999999	BP regulation of inositol trisphosphate biosynthetic process	XLOC_013265
+GO:0032962	0.0149694991775508	1	1	1	positive regulation of inositol trisphosphate biosynthetic process	BP	0.9999999999	BP positive regulation of inositol trisphosphate biosynthetic process	XLOC_013265
+GO:0048245	0.0149694991775508	1	1	1	eosinophil chemotaxis	BP	0.9999999999	BP eosinophil chemotaxis	XLOC_013265
+GO:0051930	0.015242971302246	0.998207131783341	3	37	regulation of sensory perception of pain	BP	0.9999999999	BP regulation of sensory perception of pain	XLOC_022871, XLOC_056389, XLOC_061022
+GO:0071260	0.0184978068579176	0.997646223419797	3	42	cellular response to mechanical stimulus	BP	0.9999999999	BP cellular response to mechanical stimulus	XLOC_000827, XLOC_019322, XLOC_040827
+GO:0015909	0.019452118216188	0.997489983987128	3	38	long-chain fatty acid transport	BP	0.9999999999	BP long-chain fatty acid transport	XLOC_000875, XLOC_011313, XLOC_061022
+GO:0009215	0.019681671889243	0.998758786125531	2	16	purine deoxyribonucleoside triphosphate metabolic process	BP	0.9999999999	BP purine deoxyribonucleoside triphosphate metabolic process	XLOC_011308, XLOC_014555
+GO:1990573	0.0217449915788014	0.998545269040265	2	17	potassium ion import across plasma membrane	BP	0.9999999999	BP potassium ion import across plasma membrane	XLOC_038379, XLOC_071024
+GO:0016935	0.0221753502262655	0.999875989919761	1	2	glycine-gated chloride channel complex	CC	0.9999999999	CC glycine-gated chloride channel complex	XLOC_008014
+GO:0009151	0.0222641130563822	0.998491724674748	2	17	purine deoxyribonucleotide metabolic process	BP	0.9999999999	BP purine deoxyribonucleotide metabolic process	XLOC_011308, XLOC_014555
+GO:0005890	0.0223706737937119	0.99987378313559	1	2	sodium:potassium-exchanging ATPase complex	CC	0.9999999999	CC sodium:potassium-exchanging ATPase complex	XLOC_038379
+GO:0090533	0.0223706737937119	0.99987378313559	1	2	cation-transporting ATPase complex	CC	0.9999999999	CC cation-transporting ATPase complex	XLOC_038379
+GO:1903275	0.0223706737937119	0.99987378313559	1	2	NA	NA	0.9999999999	none	XLOC_038379
+GO:1903278	0.0223706737937119	0.99987378313559	1	2	positive regulation of sodium ion export across plasma membrane	BP	0.9999999999	BP positive regulation of sodium ion export across plasma membrane	XLOC_038379
+GO:0005174	0.0250235764105652	0.999841858448776	1	2	CD40 receptor binding	MF	0.9999999999	MF CD40 receptor binding	XLOC_012140
+GO:0097057	0.0250235764105652	0.999841858448776	1	2	TRAF2-GSTP1 complex	CC	0.9999999999	CC TRAF2-GSTP1 complex	XLOC_012140
+GO:1903719	0.0250235764105652	0.999841858448776	1	2	regulation of I-kappaB phosphorylation	BP	0.9999999999	BP regulation of I-kappaB phosphorylation	XLOC_012140
+GO:1903721	0.0250235764105652	0.999841858448776	1	2	positive regulation of I-kappaB phosphorylation	BP	0.9999999999	BP positive regulation of I-kappaB phosphorylation	XLOC_012140
+GO:0009651	0.0254673679828381	0.998136537322294	2	18	response to salt stress	BP	0.9999999999	BP response to salt stress	XLOC_019322, XLOC_072339
+GO:0051931	0.0255639779525591	0.996312663657913	3	45	regulation of sensory perception	BP	0.9999999999	BP regulation of sensory perception	XLOC_022871, XLOC_056389, XLOC_061022
+GO:0043041	0.0255999402661267	0.999834440906507	1	2	amino acid activation for nonribosomal peptide biosynthetic process	BP	0.9999999999	BP amino acid activation for nonribosomal peptide biosynthetic process	XLOC_051084
+GO:0018120	0.0261350849330204	0.999827399610143	1	2	peptidyl-arginine ADP-ribosylation	BP	0.9999999999	BP peptidyl-arginine ADP-ribosylation	XLOC_033164
+GO:0044194	0.0261350849330204	0.999827399610143	1	2	cytolytic granule	CC	0.9999999999	CC cytolytic granule	XLOC_033164
+GO:0031711	0.026476740733964	0.999822826460616	1	2	bradykinin receptor binding	MF	0.9999999999	MF bradykinin receptor binding	XLOC_022871
+GO:0110053	0.0266659986630258	0.999820267108746	1	2	regulation of actin filament organization	BP	0.9999999999	BP regulation of actin filament organization	XLOC_030886
+GO:1904582	0.0268792473219071	0.999817361035354	1	2	positive regulation of intracellular mRNA localization	BP	0.9999999999	BP positive regulation of intracellular mRNA localization	XLOC_072339
+GO:0035240	0.0272849231588101	0.999811767397794	1	2	dopamine binding	MF	0.9999999999	MF dopamine binding	XLOC_022871
+GO:0031086	0.0277453056153273	0.999805315785707	1	2	nuclear-transcribed mRNA catabolic process, deadenylation-independent decay	BP	0.9999999999	BP nuclear-transcribed mRNA catabolic process, deadenylation-independent decay	XLOC_072339
+GO:0039020	0.0277453056153273	0.999805315785707	1	2	pronephric nephron tubule development	BP	0.9999999999	BP pronephric nephron tubule development	XLOC_072339
+GO:0060732	0.0278440778368631	0.999803917266937	1	2	positive regulation of inositol phosphate biosynthetic process	BP	0.9999999999	BP positive regulation of inositol phosphate biosynthetic process	XLOC_013265
+GO:0002019	0.0284108732323876	0.999795793816638	1	2	regulation of renal output by angiotensin	BP	0.9999999999	BP regulation of renal output by angiotensin	XLOC_040827
+GO:0003083	0.0284108732323876	0.999795793816638	1	2	negative regulation of renal output by angiotensin	BP	0.9999999999	BP negative regulation of renal output by angiotensin	XLOC_040827
+GO:0003106	0.0284108732323876	0.999795793816638	1	2	negative regulation of glomerular filtration by angiotensin	BP	0.9999999999	BP negative regulation of glomerular filtration by angiotensin	XLOC_040827
+GO:0014805	0.0284108732323876	0.999795793816638	1	2	smooth muscle adaptation	BP	0.9999999999	BP smooth muscle adaptation	XLOC_040827
+GO:0014895	0.0284108732323876	0.999795793816638	1	2	smooth muscle hypertrophy	BP	0.9999999999	BP smooth muscle hypertrophy	XLOC_040827
+GO:0035379	0.0290406421637603	0.999786571567679	1	2	carbon dioxide transmembrane transporter activity	MF	0.9999999999	MF carbon dioxide transmembrane transporter activity	XLOC_019322
+GO:0002023	0.0290890468077653	0.99978585418234	1	2	reduction of food intake in response to dietary excess	BP	0.9999999999	BP reduction of food intake in response to dietary excess	XLOC_061022
+GO:0032431	0.0290890468077653	0.99978585418234	1	2	activation of phospholipase A2 activity	BP	0.9999999999	BP activation of phospholipase A2 activity	XLOC_061022
+GO:0043006	0.0290890468077653	0.99978585418234	1	2	activation of phospholipase A2 activity by calcium-mediated signaling	BP	0.9999999999	BP activation of phospholipase A2 activity by calcium-mediated signaling	XLOC_061022
+GO:0050459	0.029139176934586	0.999785109936628	1	2	ethanolamine-phosphate phospho-lyase activity	MF	0.9999999999	MF ethanolamine-phosphate phospho-lyase activity	XLOC_057896
+GO:0002086	0.0293058159349033	0.999782626549953	1	2	diaphragm contraction	BP	0.9999999999	BP diaphragm contraction	XLOC_022871
+GO:0003009	0.0293058159349033	0.999782626549953	1	2	skeletal muscle contraction	BP	0.9999999999	BP skeletal muscle contraction	XLOC_022871
+GO:0003011	0.0293058159349033	0.999782626549953	1	2	involuntary skeletal muscle contraction	BP	0.9999999999	BP involuntary skeletal muscle contraction	XLOC_022871
+GO:0045657	0.029416855192459	0.999780963714372	1	2	positive regulation of monocyte differentiation	BP	0.9999999999	BP positive regulation of monocyte differentiation	XLOC_072339
+GO:0016980	0.0294611049284875	0.999780299273342	1	2	creatinase activity	MF	0.9999999999	MF creatinase activity	XLOC_029957
+GO:1903286	0.0299244596392992	0.999698217908192	1	3	regulation of potassium ion import	BP	0.9999999999	BP regulation of potassium ion import	XLOC_038379
+GO:1903288	0.0299244596392992	0.999698217908192	1	3	positive regulation of potassium ion import	BP	0.9999999999	BP positive regulation of potassium ion import	XLOC_038379
+GO:0035377	0.0302207888527121	0.999768732718723	1	2	transepithelial water transport	BP	0.9999999999	BP transepithelial water transport	XLOC_019322
+GO:0006883	0.0305825593979791	0.999684703838996	1	3	cellular sodium ion homeostasis	BP	0.9999999999	BP cellular sodium ion homeostasis	XLOC_038379
+GO:0072677	0.0306658589977677	0.999761816305518	1	2	eosinophil migration	BP	0.9999999999	BP eosinophil migration	XLOC_013265
+GO:0003044	0.0313485210181958	0.997412690126278	2	20	regulation of systemic arterial blood pressure mediated by a chemical signal	BP	0.9999999999	BP regulation of systemic arterial blood pressure mediated by a chemical signal	XLOC_022871, XLOC_040827
+GO:1990776	0.0313491685124439	0.997423433726257	2	19	response to angiotensin	BP	0.9999999999	BP response to angiotensin	XLOC_000827, XLOC_040827
+GO:0005391	0.0320113718629334	0.999654329362341	1	3	sodium:potassium-exchanging ATPase activity	MF	0.9999999999	MF sodium:potassium-exchanging ATPase activity	XLOC_038379
+GO:0008556	0.0320113718629334	0.999654329362341	1	3	potassium-transporting ATPase activity	MF	0.9999999999	MF potassium-transporting ATPase activity	XLOC_038379
+GO:0097250	0.0322827660730554	0.999735817678602	1	2	mitochondrial respiratory chain supercomplex assembly	BP	0.9999999999	BP mitochondrial respiratory chain supercomplex assembly	XLOC_001311
+GO:0051480	0.0326712276255528	0.989807011974828	6	179	regulation of cytosolic calcium ion concentration	BP	0.9999999999	BP regulation of cytosolic calcium ion concentration	XLOC_022871, XLOC_039744, XLOC_045796, XLOC_051665, XLOC_061022, XLOC_067642
+GO:1905271	0.0329713752547498	0.999724329641277	1	2	regulation of proton-transporting ATP synthase activity, rotational mechanism	BP	0.9999999999	BP regulation of proton-transporting ATP synthase activity, rotational mechanism	XLOC_056389
+GO:1905273	0.0329713752547498	0.999724329641277	1	2	positive regulation of proton-transporting ATP synthase activity, rotational mechanism	BP	0.9999999999	BP positive regulation of proton-transporting ATP synthase activity, rotational mechanism	XLOC_056389
+GO:1905706	0.0329713752547498	0.999724329641277	1	2	regulation of mitochondrial ATP synthesis coupled proton transport	BP	0.9999999999	BP regulation of mitochondrial ATP synthesis coupled proton transport	XLOC_056389
+GO:0048633	0.0355732741309256	0.999572429110982	1	3	positive regulation of skeletal muscle tissue growth	BP	0.9999999999	BP positive regulation of skeletal muscle tissue growth	XLOC_022871
+GO:0022852	0.036115749075913	0.999559179813776	1	3	glycine-gated chloride ion channel activity	MF	0.9999999999	MF glycine-gated chloride ion channel activity	XLOC_008014
+GO:0032414	0.0383338411713743	0.993479985489794	3	57	positive regulation of ion transmembrane transporter activity	BP	0.9999999999	BP positive regulation of ion transmembrane transporter activity	XLOC_022871, XLOC_038379, XLOC_056389
+GO:0060710	0.0387250132991666	0.999492576772859	1	3	chorio-allantoic fusion	BP	0.9999999999	BP chorio-allantoic fusion	XLOC_072339
+GO:0008302	0.0388040095532055	0.999490485995668	1	3	female germline ring canal formation, actin assembly	BP	0.9999999999	BP female germline ring canal formation, actin assembly	XLOC_062056
+GO:0035182	0.0388040095532055	0.999490485995668	1	3	female germline ring canal outer rim	CC	0.9999999999	CC female germline ring canal outer rim	XLOC_062056
+GO:0035324	0.0388040095532055	0.999490485995668	1	3	female germline ring canal	CC	0.9999999999	CC female germline ring canal	XLOC_062056
+GO:0042262	0.0391226953445062	0.999482006972827	1	3	DNA protection	BP	0.9999999999	BP DNA protection	XLOC_014555
+GO:0015168	0.0398373064894253	0.99946273485778	1	3	glycerol transmembrane transporter activity	MF	0.9999999999	MF glycerol transmembrane transporter activity	XLOC_019322
+GO:0015793	0.0398373064894253	0.99946273485778	1	3	glycerol transport	BP	0.9999999999	BP glycerol transport	XLOC_019322
+GO:0071356	0.0398879603289093	0.993126385793791	3	53	cellular response to tumor necrosis factor	BP	0.9999999999	BP cellular response to tumor necrosis factor	XLOC_000827, XLOC_040827, XLOC_072339
+GO:0019932	0.040603220834962	0.986669767461027	6	183	second-messenger-mediated signaling	BP	0.9999999999	BP second-messenger-mediated signaling	XLOC_000020, XLOC_013265, XLOC_019322, XLOC_043795, XLOC_045796, XLOC_061022
+GO:0071421	0.0410068465277678	0.999430420150694	1	3	manganese ion transmembrane transport	BP	0.9999999999	BP manganese ion transmembrane transport	XLOC_013265
+GO:0003073	0.041037851327529	0.996040835068676	2	23	regulation of systemic arterial blood pressure	BP	0.9999999999	BP regulation of systemic arterial blood pressure	XLOC_022871, XLOC_040827
+GO:0035811	0.041088738199638	0.999428121443623	1	3	negative regulation of urine volume	BP	0.9999999999	BP negative regulation of urine volume	XLOC_022871
+GO:0003956	0.0411427516874916	0.999426602698331	1	3	NAD(P)+-protein-arginine ADP-ribosyltransferase activity	MF	0.9999999999	MF NAD(P)+-protein-arginine ADP-ribosyltransferase activity	XLOC_033164
+GO:0002028	0.0412870000400476	0.992771170656724	3	57	regulation of sodium ion transport	BP	0.9999999999	BP regulation of sodium ion transport	XLOC_022871, XLOC_038379, XLOC_045796
+GO:0009200	0.0418414525293596	0.995920416060827	2	23	deoxyribonucleoside triphosphate metabolic process	BP	0.9999999999	BP deoxyribonucleoside triphosphate metabolic process	XLOC_011308, XLOC_014555
+GO:0044304	0.0419112243722932	0.999404772498083	1	3	main axon	CC	0.9999999999	CC main axon	XLOC_030886
+GO:0042924	0.0428696329611534	0.999376963976794	1	3	neuromedin U binding	MF	0.9999999999	MF neuromedin U binding	XLOC_061022
+GO:0002016	0.0433235598214896	0.999363567182613	1	3	regulation of blood volume by renin-angiotensin	BP	0.9999999999	BP regulation of blood volume by renin-angiotensin	XLOC_040827
+GO:0046717	0.0433943799268565	0.992261409371811	3	55	acid secretion	BP	0.9999999999	BP acid secretion	XLOC_000875, XLOC_011313, XLOC_061022
+GO:0009237	0.0434760640938011	0.999359033685815	1	3	siderophore metabolic process	BP	0.9999999999	BP siderophore metabolic process	XLOC_051084
+GO:0019290	0.0434760640938011	0.999359033685815	1	3	siderophore biosynthetic process	BP	0.9999999999	BP siderophore biosynthetic process	XLOC_051084
+GO:0010765	0.0440951327625419	0.995552127358208	2	25	positive regulation of sodium ion transport	BP	0.9999999999	BP positive regulation of sodium ion transport	XLOC_022871, XLOC_038379
+GO:0003871	0.0441700709631032	0.999338195587304	1	3	5-methyltetrahydropteroyltriglutamate-homocysteine S-methyltransferase activity	MF	0.9999999999	MF 5-methyltetrahydropteroyltriglutamate-homocysteine S-methyltransferase activity	XLOC_024090
+GO:0042085	0.0441700709631032	0.999338195587304	1	3	5-methyltetrahydropteroyltri-L-glutamate-dependent methyltransferase activity	MF	0.9999999999	MF 5-methyltetrahydropteroyltri-L-glutamate-dependent methyltransferase activity	XLOC_024090
+GO:0036376	0.0444139464957527	0.999248091577939	1	4	sodium ion export across plasma membrane	BP	0.9999999999	BP sodium ion export across plasma membrane	XLOC_038379
+GO:0071436	0.0444139464957527	0.999248091577939	1	4	NA	NA	0.9999999999	none	XLOC_038379
+GO:0016499	0.0445702276461164	0.999242739678954	1	4	orexin receptor activity	MF	0.9999999999	MF orexin receptor activity	XLOC_039744
+GO:0005223	0.0454337013513836	0.999299380164024	1	3	intracellular cGMP-activated cation channel activity	MF	0.9999999999	MF intracellular cGMP-activated cation channel activity	XLOC_019322
+GO:0060456	0.04601940082466	0.999281005890613	1	3	positive regulation of digestive system process	BP	0.9999999999	BP positive regulation of digestive system process	XLOC_019322
+GO:0070314	0.0460580558608538	0.999279784679987	1	3	G1 to G0 transition	BP	0.9999999999	BP G1 to G0 transition	XLOC_019356
+GO:1901618	0.0462047696009425	0.995230764078507	2	24	organic hydroxy compound transmembrane transporter activity	MF	0.9999999999	MF organic hydroxy compound transmembrane transporter activity	XLOC_019322, XLOC_051665
+GO:0009394	0.0464331457233877	0.995182003791728	2	25	2'-deoxyribonucleotide metabolic process	BP	0.9999999999	BP 2'-deoxyribonucleotide metabolic process	XLOC_011308, XLOC_014555
+GO:0045083	0.0465167066073038	0.999265213951289	1	3	negative regulation of interleukin-12 biosynthetic process	BP	0.9999999999	BP negative regulation of interleukin-12 biosynthetic process	XLOC_000827
+GO:0071316	0.0465167066073038	0.999265213951289	1	3	cellular response to nicotine	BP	0.9999999999	BP cellular response to nicotine	XLOC_000827
+GO:0022841	0.0468110380305185	0.995109771425968	2	26	potassium ion leak channel activity	MF	0.9999999999	MF potassium ion leak channel activity	XLOC_020601, XLOC_071024
+GO:0016934	0.0476573824252059	0.999133048301232	1	4	extracellularly glycine-gated chloride channel activity	MF	0.9999999999	MF extracellularly glycine-gated chloride channel activity	XLOC_008014
+GO:0071456	0.0485563789642588	0.990928107724736	3	59	cellular response to hypoxia	BP	0.9999999999	BP cellular response to hypoxia	XLOC_019322, XLOC_022871, XLOC_072339
+GO:0045913	0.048814594112919	0.990851544265428	3	61	positive regulation of carbohydrate metabolic process	BP	0.9999999999	BP positive regulation of carbohydrate metabolic process	XLOC_000827, XLOC_013265, XLOC_045796
+GO:0032809	0.0491472412532362	0.99470482016581	2	28	neuronal cell body membrane	CC	0.9999999999	CC neuronal cell body membrane	XLOC_022871, XLOC_051665
+GO:1903273	0.0493581132264834	0.999069382552644	1	4	NA	NA	0.9999999999	none	XLOC_038379
+GO:1903276	0.0493581132264834	0.999069382552644	1	4	regulation of sodium ion export across plasma membrane	BP	0.9999999999	BP regulation of sodium ion export across plasma membrane	XLOC_038379

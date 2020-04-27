@@ -1,0 +1,43 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	under_represented_FDR	go_term
+GO:0004518	0.999831131840102	0.00111869398252372	2	70	nuclease activity	MF	0.9999999999	0.9999999999	MF nuclease activity
+GO:0070001	1	0.00143959203188621	0	39	aspartic-type peptidase activity	MF	0.9999999999	0.9999999999	MF aspartic-type peptidase activity
+GO:0004190	1	0.0018523989555123	0	37	aspartic-type endopeptidase activity	MF	0.9999999999	0.9999999999	MF aspartic-type endopeptidase activity
+GO:0033993	0.999810423699232	0.00195611722024042	1	57	response to lipid	BP	0.9999999999	0.9999999999	BP response to lipid
+GO:0070011	0.997908475878793	0.00490133374459138	11	175	peptidase activity, acting on L-amino acid peptides	MF	0.9999999999	0.9999999999	MF peptidase activity, acting on L-amino acid peptides
+GO:0042623	1	0.0056979369576204	0	35	ATPase activity, coupled	MF	0.9999999999	0.9999999999	MF ATPase activity, coupled
+GO:0071310	0.99794052804411	0.00572476693311238	7	125	cellular response to organic substance	BP	0.9999999999	0.9999999999	BP cellular response to organic substance
+GO:0004519	0.998918585355841	0.00596589729937224	2	56	endonuclease activity	MF	0.9999999999	0.9999999999	MF endonuclease activity
+GO:0010959	1	0.00709024879549795	0	36	regulation of metal ion transport	BP	0.9999999999	0.9999999999	BP regulation of metal ion transport
+GO:0004175	0.996694462843009	0.00803483843298817	9	146	endopeptidase activity	MF	0.9999999999	0.9999999999	MF endopeptidase activity
+GO:0008233	0.996129878802298	0.00843403146668639	12	178	peptidase activity	MF	0.9999999999	0.9999999999	MF peptidase activity
+GO:0009611	1	0.00851997015927257	0	31	response to wounding	BP	0.9999999999	0.9999999999	BP response to wounding
+GO:0003678	1	0.0114827684244569	0	28	DNA helicase activity	MF	0.9999999999	0.9999999999	MF DNA helicase activity
+GO:0048468	0.997008239546997	0.0116767957945277	3	80	cell development	BP	0.9999999999	0.9999999999	BP cell development
+GO:0071345	1	0.0137558009923457	0	33	cellular response to cytokine stimulus	BP	0.9999999999	0.9999999999	BP cellular response to cytokine stimulus
+GO:0043603	0.994861439169498	0.0165289225472246	4	87	cellular amide metabolic process	BP	0.9999999999	0.9999999999	BP cellular amide metabolic process
+GO:0070887	0.991421913123224	0.0176107221125124	12	163	cellular response to chemical stimulus	BP	0.9999999999	0.9999999999	BP cellular response to chemical stimulus
+GO:0048589	0.9973532641204	0.0195242471672083	1	45	developmental growth	BP	0.9999999999	0.9999999999	BP developmental growth
+GO:0006259	0.988189747807075	0.0219104738155067	16	181	DNA metabolic process	BP	0.9999999999	0.9999999999	BP DNA metabolic process
+GO:0034061	0.993962664633319	0.0220535098126134	3	55	DNA polymerase activity	MF	0.9999999999	0.9999999999	MF DNA polymerase activity
+GO:0042327	0.991282071922482	0.0242198882037507	5	85	positive regulation of phosphorylation	BP	0.9999999999	0.9999999999	BP positive regulation of phosphorylation
+GO:0051716	0.984597859685209	0.0246282058838148	28	310	cellular response to stimulus	BP	0.9999999999	0.9999999999	BP cellular response to stimulus
+GO:0042325	0.986812678627552	0.0284960400933893	9	124	regulation of phosphorylation	BP	0.9999999999	0.9999999999	BP regulation of phosphorylation
+GO:0016779	0.990234830163634	0.029573937751898	4	62	nucleotidyltransferase activity	MF	0.9999999999	0.9999999999	MF nucleotidyltransferase activity
+GO:0051924	1	0.0305510703119597	0	24	regulation of calcium ion transport	BP	0.9999999999	0.9999999999	BP regulation of calcium ion transport
+GO:0042060	1	0.0323376551430582	0	22	wound healing	BP	0.9999999999	0.9999999999	BP wound healing
+GO:0071396	0.995226988988521	0.0324025416180742	1	36	cellular response to lipid	BP	0.9999999999	0.9999999999	BP cellular response to lipid
+GO:1901701	0.986553612418806	0.0333097185042387	6	88	cellular response to oxygen-containing compound	BP	0.9999999999	0.9999999999	BP cellular response to oxygen-containing compound
+GO:0010562	0.986240757190894	0.033927908501087	6	92	positive regulation of phosphorus metabolic process	BP	0.9999999999	0.9999999999	BP positive regulation of phosphorus metabolic process
+GO:0045937	0.986240757190894	0.033927908501087	6	92	positive regulation of phosphate metabolic process	BP	0.9999999999	0.9999999999	BP positive regulation of phosphate metabolic process
+GO:0005770	1	0.0342014472603385	0	25	late endosome	CC	0.9999999999	0.9999999999	CC late endosome
+GO:0016788	0.981965973181946	0.036682256180372	10	126	hydrolase activity, acting on ester bonds	MF	0.9999999999	0.9999999999	MF hydrolase activity, acting on ester bonds
+GO:0000981	0.991231094205379	0.0369115105491766	2	46	DNA-binding transcription factor activity, RNA polymerase II-specific	MF	0.9999999999	0.9999999999	MF DNA-binding transcription factor activity, RNA polymerase II-specific
+GO:0031253	0.99104746435832	0.0373892561381739	2	50	cell projection membrane	CC	0.9999999999	0.9999999999	CC cell projection membrane
+GO:0015074	0.988444564838537	0.0387845219532589	3	51	DNA integration	BP	0.9999999999	0.9999999999	BP DNA integration
+GO:0001934	0.985062120009446	0.0390882438609556	5	77	positive regulation of protein phosphorylation	BP	0.9999999999	0.9999999999	BP positive regulation of protein phosphorylation
+GO:1901565	0.981453008069577	0.0401350184010395	8	115	organonitrogen compound catabolic process	BP	0.9999999999	0.9999999999	BP organonitrogen compound catabolic process
+GO:0003964	0.985360338233302	0.0421109251784594	4	60	RNA-directed DNA polymerase activity	MF	0.9999999999	0.9999999999	MF RNA-directed DNA polymerase activity
+GO:0045944	0.98516139957433	0.0423332819869931	4	68	positive regulation of transcription by RNA polymerase II	BP	0.9999999999	0.9999999999	BP positive regulation of transcription by RNA polymerase II
+GO:0009887	0.982798608295796	0.04424314295515	5	76	animal organ morphogenesis	BP	0.9999999999	0.9999999999	BP animal organ morphogenesis
+GO:0001932	0.975982889419013	0.0489777291539928	9	112	regulation of protein phosphorylation	BP	0.9999999999	0.9999999999	BP regulation of protein phosphorylation
+GO:0009719	0.976640615512634	0.0493967279224539	8	108	response to endogenous stimulus	BP	0.9999999999	0.9999999999	BP response to endogenous stimulus

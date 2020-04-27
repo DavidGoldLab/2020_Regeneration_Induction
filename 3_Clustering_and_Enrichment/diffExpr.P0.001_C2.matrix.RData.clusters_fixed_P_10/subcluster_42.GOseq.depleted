@@ -1,0 +1,6 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	under_represented_FDR	go_term
+GO:0044260	0.993645092817546	0.0277758946016913	2	639	cellular macromolecule metabolic process	BP	0.9999999999	0.9999999999	BP cellular macromolecule metabolic process
+GO:0006725	0.994091585308216	0.0378412546556162	1	462	cellular aromatic compound metabolic process	BP	0.9999999999	0.9999999999	BP cellular aromatic compound metabolic process
+GO:0048522	0.993881838341711	0.0389493155759358	1	459	positive regulation of cellular process	BP	0.9999999999	0.9999999999	BP positive regulation of cellular process
+GO:0046483	0.993737962078523	0.0397048748345708	1	457	heterocycle metabolic process	BP	0.9999999999	0.9999999999	BP heterocycle metabolic process
+GO:0044267	1	0.0477277631894733	0	279	cellular protein metabolic process	BP	0.9999999999	0.9999999999	BP cellular protein metabolic process

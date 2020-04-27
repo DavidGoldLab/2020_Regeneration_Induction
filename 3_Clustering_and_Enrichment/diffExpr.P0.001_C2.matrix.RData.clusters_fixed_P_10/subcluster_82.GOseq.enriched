@@ -1,0 +1,23 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0033059	0.00349886896072496	0.999996083726937	1	3	cellular pigmentation	BP	0.9999999999	BP cellular pigmentation	XLOC_025022
+GO:0043476	0.00349886896072496	0.999996083726937	1	3	pigment accumulation	BP	0.9999999999	BP pigment accumulation	XLOC_025022
+GO:0043482	0.00349886896072496	0.999996083726937	1	3	cellular pigment accumulation	BP	0.9999999999	BP cellular pigment accumulation	XLOC_025022
+GO:0048757	0.00349886896072496	0.999996083726937	1	3	pigment granule maturation	BP	0.9999999999	BP pigment granule maturation	XLOC_025022
+GO:0097487	0.00349886896072496	0.999996083726937	1	3	multivesicular body, internal vesicle	CC	0.9999999999	CC multivesicular body, internal vesicle	XLOC_025022
+GO:2001044	0.00349886896072496	0.999996083726937	1	3	regulation of integrin-mediated signaling pathway	BP	0.9999999999	BP regulation of integrin-mediated signaling pathway	XLOC_025022
+GO:2001046	0.00349886896072496	0.999996083726937	1	3	positive regulation of integrin-mediated signaling pathway	BP	0.9999999999	BP positive regulation of integrin-mediated signaling pathway	XLOC_025022
+GO:1900746	0.00421445210946974	0.999993606427403	1	4	regulation of vascular endothelial growth factor signaling pathway	BP	0.9999999999	BP regulation of vascular endothelial growth factor signaling pathway	XLOC_025022
+GO:1902547	0.00421445210946974	0.999993606427403	1	4	regulation of cellular response to vascular endothelial growth factor stimulus	BP	0.9999999999	BP regulation of cellular response to vascular endothelial growth factor stimulus	XLOC_025022
+GO:0035646	0.00421445210946974	0.999993606427403	1	4	endosome to melanosome transport	BP	0.9999999999	BP endosome to melanosome transport	XLOC_025022
+GO:0043485	0.00421445210946974	0.999993606427403	1	4	endosome to pigment granule transport	BP	0.9999999999	BP endosome to pigment granule transport	XLOC_025022
+GO:0002090	0.00564471935457627	0.999987250210928	1	6	regulation of receptor internalization	BP	0.9999999999	BP regulation of receptor internalization	XLOC_025022
+GO:0002092	0.00564471935457627	0.999987250210928	1	6	positive regulation of receptor internalization	BP	0.9999999999	BP positive regulation of receptor internalization	XLOC_025022
+GO:0032585	0.00588929074995866	0.999987505921656	1	4	multivesicular body membrane	CC	0.9999999999	CC multivesicular body membrane	XLOC_025022
+GO:0048260	0.00848921020086567	0.99996968960564	1	8	positive regulation of receptor-mediated endocytosis	BP	0.9999999999	BP positive regulation of receptor-mediated endocytosis	XLOC_025022
+GO:0048259	0.0113935225760652	0.999943218141053	1	11	regulation of receptor-mediated endocytosis	BP	0.9999999999	BP regulation of receptor-mediated endocytosis	XLOC_025022
+GO:0043473	0.0123133444203478	0.999937433605936	1	7	pigmentation	BP	0.9999999999	BP pigmentation	XLOC_025022
+GO:0045807	0.0299550344652179	0.999589475991161	1	18	positive regulation of endocytosis	BP	0.9999999999	BP positive regulation of endocytosis	XLOC_025022
+GO:0042470	0.0409315238032741	0.99921916638262	1	24	melanosome	CC	0.9999999999	CC melanosome	XLOC_025022
+GO:0048770	0.0409315238032741	0.99921916638262	1	24	pigment granule	CC	0.9999999999	CC pigment granule	XLOC_025022
+GO:0007160	0.0425105569913942	0.999160547014137	1	22	cell-matrix adhesion	BP	0.9999999999	BP cell-matrix adhesion	XLOC_025022
+GO:0090287	0.0460282779693762	0.999006020244699	1	27	regulation of cellular response to growth factor stimulus	BP	0.9999999999	BP regulation of cellular response to growth factor stimulus	XLOC_025022

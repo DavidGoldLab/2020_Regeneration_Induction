@@ -1,0 +1,41 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	under_represented_FDR	go_term
+GO:0008324	0.999094320080973	0.00258092850128799	7	654	cation transmembrane transporter activity	MF	0.9999999999	0.9999999999	MF cation transmembrane transporter activity
+GO:0055085	0.998662728607154	0.00295198278299746	13	966	transmembrane transport	BP	0.9999999999	0.9999999999	BP transmembrane transport
+GO:0098660	0.999437924771871	0.00313300233756395	2	358	inorganic ion transmembrane transport	BP	0.9999999999	0.9999999999	BP inorganic ion transmembrane transport
+GO:0015077	0.999318795183451	0.00372334658659429	2	352	monovalent inorganic cation transmembrane transporter activity	MF	0.9999999999	0.9999999999	MF monovalent inorganic cation transmembrane transporter activity
+GO:0098655	0.999310677440721	0.00376331446035848	2	350	cation transmembrane transport	BP	0.9999999999	0.9999999999	BP cation transmembrane transport
+GO:0015075	0.997549435260476	0.0053418719083838	12	864	ion transmembrane transporter activity	MF	0.9999999999	0.9999999999	MF ion transmembrane transporter activity
+GO:0046873	0.998423772689254	0.00550187009675529	4	437	metal ion transmembrane transporter activity	MF	0.9999999999	0.9999999999	MF metal ion transmembrane transporter activity
+GO:0098662	0.998891827140359	0.00575417432081668	2	330	inorganic cation transmembrane transport	BP	0.9999999999	0.9999999999	BP inorganic cation transmembrane transport
+GO:0022891	0.997232537977678	0.0058342017865378	13	909	NA	NA	0.9999999999	0.9999999999	none
+GO:0022890	0.997768925520746	0.0063129978532874	6	546	inorganic cation transmembrane transporter activity	MF	0.9999999999	0.9999999999	MF inorganic cation transmembrane transporter activity
+GO:0022857	0.996558673410163	0.00672684999596783	16	1048	transmembrane transporter activity	MF	0.9999999999	0.9999999999	MF transmembrane transporter activity
+GO:0003735	1	0.00825039063468894	0	184	structural constituent of ribosome	MF	0.9999999999	0.9999999999	MF structural constituent of ribosome
+GO:1901566	0.995872510107661	0.00891773960305928	11	821	organonitrogen compound biosynthetic process	BP	0.9999999999	0.9999999999	BP organonitrogen compound biosynthetic process
+GO:0015081	1	0.0100107389960186	0	164	sodium ion transmembrane transporter activity	MF	0.9999999999	0.9999999999	MF sodium ion transmembrane transporter activity
+GO:0022892	0.994393457400498	0.0104516172510076	17	1051	NA	NA	0.9999999999	0.9999999999	none
+GO:0034703	1	0.0107464722676203	0	155	cation channel complex	CC	0.9999999999	0.9999999999	CC cation channel complex
+GO:0034220	0.994715146252815	0.0138476283062367	6	513	ion transmembrane transport	BP	0.9999999999	0.9999999999	BP ion transmembrane transport
+GO:0006812	0.994026318937849	0.0139392325870936	8	608	cation transport	BP	0.9999999999	0.9999999999	BP cation transport
+GO:0048639	1	0.0149209114318323	0	141	positive regulation of developmental growth	BP	0.9999999999	0.9999999999	BP positive regulation of developmental growth
+GO:1990351	0.997889151198312	0.0153576669228066	1	216	transporter complex	CC	0.9999999999	0.9999999999	CC transporter complex
+GO:1902495	0.997718528268533	0.0164179095482302	1	213	transmembrane transporter complex	CC	0.9999999999	0.9999999999	CC transmembrane transporter complex
+GO:0005215	0.99000436248187	0.0170453533930649	21	1198	transporter activity	MF	0.9999999999	0.9999999999	MF transporter activity
+GO:0099600	0.990342056367375	0.0195518048822816	11	715	NA	NA	0.9999999999	0.9999999999	none
+GO:0034702	0.996605053314189	0.0230523786232881	1	198	ion channel complex	CC	0.9999999999	0.9999999999	CC ion channel complex
+GO:0030111	0.99317356565768	0.0284088535153758	2	238	regulation of Wnt signaling pathway	BP	0.9999999999	0.9999999999	BP regulation of Wnt signaling pathway
+GO:0004888	0.985234933146536	0.0288461706935915	11	687	transmembrane signaling receptor activity	MF	0.9999999999	0.9999999999	MF transmembrane signaling receptor activity
+GO:0006813	1	0.0314678938360948	0	124	potassium ion transport	BP	0.9999999999	0.9999999999	BP potassium ion transport
+GO:1905114	0.990141065102679	0.0321983658139485	3	276	cell surface receptor signaling pathway involved in cell-cell signaling	BP	0.9999999999	0.9999999999	BP cell surface receptor signaling pathway involved in cell-cell signaling
+GO:0005261	0.988156163262642	0.0334398268989561	4	339	cation channel activity	MF	0.9999999999	0.9999999999	MF cation channel activity
+GO:0043043	0.991219517484932	0.0352196540523146	2	259	peptide biosynthetic process	BP	0.9999999999	0.9999999999	BP peptide biosynthetic process
+GO:0032535	0.990848250654341	0.0365397738558022	2	226	regulation of cellular component size	BP	0.9999999999	0.9999999999	BP regulation of cellular component size
+GO:0022804	0.986770368489598	0.0368288893277109	4	359	active transmembrane transporter activity	MF	0.9999999999	0.9999999999	MF active transmembrane transporter activity
+GO:0008361	0.990427898396405	0.0379700266680196	2	224	regulation of cell size	BP	0.9999999999	0.9999999999	BP regulation of cell size
+GO:0045165	1	0.0380041583502683	0	114	cell fate commitment	BP	0.9999999999	0.9999999999	BP cell fate commitment
+GO:0005244	0.993530064503487	0.0396698413064728	1	175	voltage-gated ion channel activity	MF	0.9999999999	0.9999999999	MF voltage-gated ion channel activity
+GO:0022832	0.993530064503487	0.0396698413064728	1	175	voltage-gated channel activity	MF	0.9999999999	0.9999999999	MF voltage-gated channel activity
+GO:0044441	0.98180448520647	0.0399351589630609	7	489	ciliary part	CC	0.9999999999	0.9999999999	CC ciliary part
+GO:0071804	1	0.0406194115827929	0	115	cellular potassium ion transport	BP	0.9999999999	0.9999999999	BP cellular potassium ion transport
+GO:0071805	1	0.0406194115827929	0	115	potassium ion transmembrane transport	BP	0.9999999999	0.9999999999	BP potassium ion transmembrane transport
+GO:0016055	0.985533779291684	0.0448995492701149	3	258	Wnt signaling pathway	BP	0.9999999999	0.9999999999	BP Wnt signaling pathway

@@ -1,0 +1,16 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0051260	0.00333785522543992	0.99992033040681	2	40	protein homooligomerization	BP	0.9999999999	BP protein homooligomerization	XLOC_036621, XLOC_036622
+GO:0003993	0.00509041337595774	0.99999396932299	1	2	acid phosphatase activity	MF	0.9999999999	MF acid phosphatase activity	XLOC_021797
+GO:0051259	0.00783647731470771	0.999705419499459	2	64	protein complex oligomerization	BP	0.9999999999	BP protein complex oligomerization	XLOC_036621, XLOC_036622
+GO:0005164	0.014362025357835	0.999919727690712	1	6	tumor necrosis factor receptor binding	MF	0.9999999999	MF tumor necrosis factor receptor binding	XLOC_036622
+GO:0032813	0.014362025357835	0.999919727690712	1	6	tumor necrosis factor receptor superfamily binding	MF	0.9999999999	MF tumor necrosis factor receptor superfamily binding	XLOC_036622
+GO:0004725	0.0181427282607528	0.999865320094108	1	8	protein tyrosine phosphatase activity	MF	0.9999999999	MF protein tyrosine phosphatase activity	XLOC_021797
+GO:0008277	0.0229858032582231	0.999783392019173	1	8	regulation of G protein-coupled receptor signaling pathway	BP	0.9999999999	BP regulation of G protein-coupled receptor signaling pathway	XLOC_036622
+GO:0005126	0.0241805658385763	0.999753373522372	1	10	cytokine receptor binding	MF	0.9999999999	MF cytokine receptor binding	XLOC_036622
+GO:0042734	0.0255292952120905	0.99971247057777	1	17	presynaptic membrane	CC	0.9999999999	CC presynaptic membrane	XLOC_036622
+GO:0004721	0.0258713215940385	0.999714658112981	1	11	phosphoprotein phosphatase activity	MF	0.9999999999	MF phosphoprotein phosphatase activity	XLOC_021797
+GO:0016791	0.0332542053402645	0.999517160230786	1	14	phosphatase activity	MF	0.9999999999	MF phosphatase activity	XLOC_021797
+GO:0006461	0.03619313255075	0.996905252678472	2	131	NA	NA	0.9999999999	none	XLOC_036621, XLOC_036622
+GO:0043235	0.0477881994086678	0.998957918628943	1	29	receptor complex	CC	0.9999999999	CC receptor complex	XLOC_036622
+GO:0071822	0.0482962885700682	0.995155918890301	2	154	NA	NA	0.9999999999	none	XLOC_036621, XLOC_036622
+GO:0045211	0.0496863838901982	0.998868963937754	1	32	postsynaptic membrane	CC	0.9999999999	CC postsynaptic membrane	XLOC_036622

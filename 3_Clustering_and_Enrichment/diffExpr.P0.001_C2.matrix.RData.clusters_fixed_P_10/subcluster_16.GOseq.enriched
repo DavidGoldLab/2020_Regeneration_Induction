@@ -1,0 +1,268 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0019898	0.000262622137903825	0.999998607102205	2	27	extrinsic component of membrane	CC	0.566735308325722	CC extrinsic component of membrane	XLOC_050500, XLOC_070972
+GO:0032388	0.000309344258794327	0.99999820429625	2	31	positive regulation of intracellular transport	BP	0.566735308325722	BP positive regulation of intracellular transport	XLOC_050500, XLOC_070972
+GO:0032386	0.00123885282775242	0.99998513343789	2	59	regulation of intracellular transport	BP	0.566735308325722	BP regulation of intracellular transport	XLOC_050500, XLOC_070972
+GO:0001672	0.00241079145037287	0.999998787707453	1	2	regulation of chromatin assembly or disassembly	BP	0.566735308325722	BP regulation of chromatin assembly or disassembly	XLOC_070972
+GO:0006404	0.00241079145037287	0.999998787707453	1	2	RNA import into nucleus	BP	0.566735308325722	BP RNA import into nucleus	XLOC_070972
+GO:0010847	0.00241079145037287	0.999998787707453	1	2	regulation of chromatin assembly	BP	0.566735308325722	BP regulation of chromatin assembly	XLOC_070972
+GO:0031445	0.00241079145037287	0.999998787707453	1	2	regulation of heterochromatin assembly	BP	0.566735308325722	BP regulation of heterochromatin assembly	XLOC_070972
+GO:0031453	0.00241079145037287	0.999998787707453	1	2	positive regulation of heterochromatin assembly	BP	0.566735308325722	BP positive regulation of heterochromatin assembly	XLOC_070972
+GO:0031990	0.00241079145037287	0.999998787707453	1	2	mRNA export from nucleus in response to heat stress	BP	0.566735308325722	BP mRNA export from nucleus in response to heat stress	XLOC_070972
+GO:0032240	0.00241079145037287	0.999998787707453	1	2	negative regulation of nucleobase-containing compound transport	BP	0.566735308325722	BP negative regulation of nucleobase-containing compound transport	XLOC_070972
+GO:0045799	0.00241079145037287	0.999998787707453	1	2	positive regulation of chromatin assembly or disassembly	BP	0.566735308325722	BP positive regulation of chromatin assembly or disassembly	XLOC_070972
+GO:0046832	0.00241079145037287	0.999998787707453	1	2	negative regulation of RNA export from nucleus	BP	0.566735308325722	BP negative regulation of RNA export from nucleus	XLOC_070972
+GO:1902580	0.00275792860037403	0.999949730820187	2	94	NA	NA	0.566735308325722	none	XLOC_050500, XLOC_070972
+GO:0090232	0.00289785960172553	0.999997664265224	1	3	positive regulation of spindle checkpoint	BP	0.566735308325722	BP positive regulation of spindle checkpoint	XLOC_070972
+GO:0090267	0.00289785960172553	0.999997664265224	1	3	positive regulation of mitotic cell cycle spindle assembly checkpoint	BP	0.566735308325722	BP positive regulation of mitotic cell cycle spindle assembly checkpoint	XLOC_070972
+GO:1901978	0.00289785960172553	0.999997664265224	1	3	positive regulation of cell cycle checkpoint	BP	0.566735308325722	BP positive regulation of cell cycle checkpoint	XLOC_070972
+GO:0007094	0.0029410185560007	0.999997594119147	1	3	mitotic spindle assembly checkpoint	BP	0.566735308325722	BP mitotic spindle assembly checkpoint	XLOC_070972
+GO:0031577	0.0029410185560007	0.999997594119147	1	3	spindle checkpoint	BP	0.566735308325722	BP spindle checkpoint	XLOC_070972
+GO:0071173	0.0029410185560007	0.999997594119147	1	3	spindle assembly checkpoint	BP	0.566735308325722	BP spindle assembly checkpoint	XLOC_070972
+GO:0071174	0.0029410185560007	0.999997594119147	1	3	mitotic spindle checkpoint	BP	0.566735308325722	BP mitotic spindle checkpoint	XLOC_070972
+GO:0010893	0.00295907086317406	1	1	1	positive regulation of steroid biosynthetic process	BP	0.566735308325722	BP positive regulation of steroid biosynthetic process	XLOC_050500
+GO:0017127	0.00295907086317406	1	1	1	cholesterol transporter activity	MF	0.566735308325722	MF cholesterol transporter activity	XLOC_050500
+GO:0031315	0.00295907086317406	1	1	1	extrinsic component of mitochondrial outer membrane	CC	0.566735308325722	CC extrinsic component of mitochondrial outer membrane	XLOC_050500
+GO:0032377	0.00295907086317406	1	1	1	regulation of intracellular lipid transport	BP	0.566735308325722	BP regulation of intracellular lipid transport	XLOC_050500
+GO:0032379	0.00295907086317406	1	1	1	positive regulation of intracellular lipid transport	BP	0.566735308325722	BP positive regulation of intracellular lipid transport	XLOC_050500
+GO:0032380	0.00295907086317406	1	1	1	regulation of intracellular sterol transport	BP	0.566735308325722	BP regulation of intracellular sterol transport	XLOC_050500
+GO:0032382	0.00295907086317406	1	1	1	positive regulation of intracellular sterol transport	BP	0.566735308325722	BP positive regulation of intracellular sterol transport	XLOC_050500
+GO:0032383	0.00295907086317406	1	1	1	regulation of intracellular cholesterol transport	BP	0.566735308325722	BP regulation of intracellular cholesterol transport	XLOC_050500
+GO:0032385	0.00295907086317406	1	1	1	positive regulation of intracellular cholesterol transport	BP	0.566735308325722	BP positive regulation of intracellular cholesterol transport	XLOC_050500
+GO:0032957	0.00295907086317406	1	1	1	inositol trisphosphate metabolic process	BP	0.566735308325722	BP inositol trisphosphate metabolic process	XLOC_050500
+GO:0032958	0.00295907086317406	1	1	1	inositol phosphate biosynthetic process	BP	0.566735308325722	BP inositol phosphate biosynthetic process	XLOC_050500
+GO:0032959	0.00295907086317406	1	1	1	inositol trisphosphate biosynthetic process	BP	0.566735308325722	BP inositol trisphosphate biosynthetic process	XLOC_050500
+GO:0036042	0.00295907086317406	1	1	1	long-chain fatty acyl-CoA binding	MF	0.566735308325722	MF long-chain fatty acyl-CoA binding	XLOC_050500
+GO:0043647	0.00295907086317406	1	1	1	inositol phosphate metabolic process	BP	0.566735308325722	BP inositol phosphate metabolic process	XLOC_050500
+GO:0045542	0.00295907086317406	1	1	1	positive regulation of cholesterol biosynthetic process	BP	0.566735308325722	BP positive regulation of cholesterol biosynthetic process	XLOC_050500
+GO:0045940	0.00295907086317406	1	1	1	positive regulation of steroid metabolic process	BP	0.566735308325722	BP positive regulation of steroid metabolic process	XLOC_050500
+GO:0050632	0.00295907086317406	1	1	1	propionyl-CoA C2-trimethyltridecanoyltransferase activity	MF	0.566735308325722	MF propionyl-CoA C2-trimethyltridecanoyltransferase activity	XLOC_050500
+GO:0070538	0.00295907086317406	1	1	1	oleic acid binding	MF	0.566735308325722	MF oleic acid binding	XLOC_050500
+GO:0090205	0.00295907086317406	1	1	1	positive regulation of cholesterol metabolic process	BP	0.566735308325722	BP positive regulation of cholesterol metabolic process	XLOC_050500
+GO:0120013	0.00295907086317406	1	1	1	intermembrane lipid transfer activity	MF	0.566735308325722	MF intermembrane lipid transfer activity	XLOC_050500
+GO:0120015	0.00295907086317406	1	1	1	intermembrane sterol transfer activity	MF	0.566735308325722	MF intermembrane sterol transfer activity	XLOC_050500
+GO:0120020	0.00295907086317406	1	1	1	intermembrane cholesterol transfer activity	MF	0.566735308325722	MF intermembrane cholesterol transfer activity	XLOC_050500
+GO:1901373	0.00295907086317406	1	1	1	lipid hydroperoxide transport	BP	0.566735308325722	BP lipid hydroperoxide transport	XLOC_050500
+GO:1904121	0.00295907086317406	1	1	1	phosphatidylethanolamine transporter activity	MF	0.566735308325722	MF phosphatidylethanolamine transporter activity	XLOC_050500
+GO:0051050	0.00331565554144149	0.999933491757054	2	102	positive regulation of transport	BP	0.566735308325722	BP positive regulation of transport	XLOC_050500, XLOC_070972
+GO:0034399	0.00338472961235416	0.999996414650393	1	4	nuclear periphery	CC	0.566735308325722	CC nuclear periphery	XLOC_070972
+GO:0090231	0.0033850672227306	0.999996413934525	1	4	regulation of spindle checkpoint	BP	0.566735308325722	BP regulation of spindle checkpoint	XLOC_070972
+GO:0090266	0.0033850672227306	0.999996413934525	1	4	regulation of mitotic cell cycle spindle assembly checkpoint	BP	0.566735308325722	BP regulation of mitotic cell cycle spindle assembly checkpoint	XLOC_070972
+GO:1903504	0.0033850672227306	0.999996413934525	1	4	regulation of mitotic spindle checkpoint	BP	0.566735308325722	BP regulation of mitotic spindle checkpoint	XLOC_070972
+GO:0033048	0.00342820860301441	0.999996321868673	1	4	negative regulation of mitotic sister chromatid segregation	BP	0.566735308325722	BP negative regulation of mitotic sister chromatid segregation	XLOC_070972
+GO:0045841	0.00342820860301441	0.999996321868673	1	4	negative regulation of mitotic metaphase/anaphase transition	BP	0.566735308325722	BP negative regulation of mitotic metaphase/anaphase transition	XLOC_070972
+GO:1902100	0.00342820860301441	0.999996321868673	1	4	negative regulation of metaphase/anaphase transition of cell cycle	BP	0.566735308325722	BP negative regulation of metaphase/anaphase transition of cell cycle	XLOC_070972
+GO:1905819	0.00342820860301441	0.999996321868673	1	4	negative regulation of chromosome separation	BP	0.566735308325722	BP negative regulation of chromosome separation	XLOC_070972
+GO:2000816	0.00342820860301441	0.999996321868673	1	4	negative regulation of mitotic sister chromatid separation	BP	0.566735308325722	BP negative regulation of mitotic sister chromatid separation	XLOC_070972
+GO:0006700	0.00344591587952225	0.999997521663165	1	2	C21-steroid hormone biosynthetic process	BP	0.566735308325722	BP C21-steroid hormone biosynthetic process	XLOC_050500
+GO:0006701	0.00344591587952225	0.999997521663165	1	2	progesterone biosynthetic process	BP	0.566735308325722	BP progesterone biosynthetic process	XLOC_050500
+GO:1902932	0.00353524622558446	0.999997391366808	1	2	positive regulation of alcohol biosynthetic process	BP	0.566735308325722	BP positive regulation of alcohol biosynthetic process	XLOC_050500
+GO:0003988	0.00370939651236277	0.999997127735416	1	2	acetyl-CoA C-acyltransferase activity	MF	0.566735308325722	MF acetyl-CoA C-acyltransferase activity	XLOC_050500
+GO:0042803	0.00386570584387828	0.999915979169715	2	112	protein homodimerization activity	MF	0.566735308325722	MF protein homodimerization activity	XLOC_050500, XLOC_070972
+GO:0046827	0.00388787303072764	0.999994953270432	1	5	positive regulation of protein export from nucleus	BP	0.566735308325722	BP positive regulation of protein export from nucleus	XLOC_070972
+GO:0008525	0.00389521420821672	0.999996832418266	1	2	phosphatidylcholine transporter activity	MF	0.566735308325722	MF phosphatidylcholine transporter activity	XLOC_050500
+GO:0008526	0.00389521420821672	0.999996832418266	1	2	phosphatidylinositol transporter activity	MF	0.566735308325722	MF phosphatidylinositol transporter activity	XLOC_050500
+GO:0033046	0.00391486284396106	0.999994882893272	1	5	negative regulation of sister chromatid segregation	BP	0.566735308325722	BP negative regulation of sister chromatid segregation	XLOC_070972
+GO:0051985	0.00391486284396106	0.999994882893272	1	5	negative regulation of chromosome segregation	BP	0.566735308325722	BP negative regulation of chromosome segregation	XLOC_070972
+GO:0045839	0.00391561693835771	0.999994880919926	1	5	negative regulation of mitotic nuclear division	BP	0.566735308325722	BP negative regulation of mitotic nuclear division	XLOC_070972
+GO:0051784	0.00391561693835771	0.999994880919926	1	5	negative regulation of nuclear division	BP	0.566735308325722	BP negative regulation of nuclear division	XLOC_070972
+GO:0045540	0.00394558739209792	0.999995667598155	1	3	regulation of cholesterol biosynthetic process	BP	0.566735308325722	BP regulation of cholesterol biosynthetic process	XLOC_050500
+GO:1901673	0.00396998465330747	0.999994737643903	1	5	regulation of mitotic spindle assembly	BP	0.566735308325722	BP regulation of mitotic spindle assembly	XLOC_070972
+GO:0045947	0.00397509132385677	0.999994724084438	1	5	negative regulation of translational initiation	BP	0.566735308325722	BP negative regulation of translational initiation	XLOC_070972
+GO:0060341	0.00416923947696681	0.999905750611753	2	115	regulation of cellular localization	BP	0.566735308325722	BP regulation of cellular localization	XLOC_050500, XLOC_070972
+GO:0034613	0.00418891367596854	0.999905014987981	2	121	cellular protein localization	BP	0.566735308325722	BP cellular protein localization	XLOC_050500, XLOC_070972
+GO:0036041	0.00421378420242755	0.999996292418728	1	2	long-chain fatty acid binding	MF	0.566735308325722	MF long-chain fatty acid binding	XLOC_050500
+GO:0070727	0.00422806713883893	0.999903656520057	2	122	cellular macromolecule localization	BP	0.566735308325722	BP cellular macromolecule localization	XLOC_050500, XLOC_070972
+GO:0042181	0.0043355917319862	0.999994767728679	1	3	ketone biosynthetic process	BP	0.566735308325722	BP ketone biosynthetic process	XLOC_050500
+GO:0032373	0.00434074126559287	0.999996065349441	1	2	positive regulation of sterol transport	BP	0.566735308325722	BP positive regulation of sterol transport	XLOC_050500
+GO:0032376	0.00434074126559287	0.999996065349441	1	2	positive regulation of cholesterol transport	BP	0.566735308325722	BP positive regulation of cholesterol transport	XLOC_050500
+GO:0060620	0.00434074126559287	0.999996065349441	1	2	regulation of cholesterol import	BP	0.566735308325722	BP regulation of cholesterol import	XLOC_050500
+GO:1904109	0.00434074126559287	0.999996065349441	1	2	positive regulation of cholesterol import	BP	0.566735308325722	BP positive regulation of cholesterol import	XLOC_050500
+GO:2000909	0.00434074126559287	0.999996065349441	1	2	regulation of sterol import	BP	0.566735308325722	BP regulation of sterol import	XLOC_050500
+GO:2000911	0.00434074126559287	0.999996065349441	1	2	positive regulation of sterol import	BP	0.566735308325722	BP positive regulation of sterol import	XLOC_050500
+GO:0046889	0.0044485530239136	0.999994491205618	1	3	positive regulation of lipid biosynthetic process	BP	0.566735308325722	BP positive regulation of lipid biosynthetic process	XLOC_050500
+GO:0031312	0.00447169192292241	0.999993738801824	1	4	extrinsic component of organelle membrane	CC	0.566735308325722	CC extrinsic component of organelle membrane	XLOC_050500
+GO:0046823	0.00451288496543937	0.999993622786569	1	4	negative regulation of nucleocytoplasmic transport	BP	0.566735308325722	BP negative regulation of nucleocytoplasmic transport	XLOC_070972
+GO:0042405	0.00464342454890747	0.999993997393986	1	3	nuclear inclusion body	CC	0.566735308325722	CC nuclear inclusion body	XLOC_070972
+GO:0044615	0.00464342454890747	0.999993997393986	1	3	nuclear pore nuclear basket	CC	0.566735308325722	CC nuclear pore nuclear basket	XLOC_070972
+GO:0051019	0.00469606176577977	0.999993093964122	1	4	mitogen-activated protein kinase binding	MF	0.566735308325722	MF mitogen-activated protein kinase binding	XLOC_070972
+GO:0005504	0.00470011864981098	0.999993849739551	1	3	fatty acid binding	MF	0.566735308325722	MF fatty acid binding	XLOC_050500
+GO:0000062	0.0048152110835559	0.999992738653975	1	4	fatty-acyl-CoA binding	MF	0.566735308325722	MF fatty-acyl-CoA binding	XLOC_050500
+GO:1901567	0.0048152110835559	0.999992738653975	1	4	fatty acid derivative binding	MF	0.566735308325722	MF fatty acid derivative binding	XLOC_050500
+GO:0032371	0.00482702404113767	0.999993512707669	1	3	regulation of sterol transport	BP	0.566735308325722	BP regulation of sterol transport	XLOC_050500
+GO:0032374	0.00482702404113767	0.999993512707669	1	3	regulation of cholesterol transport	BP	0.566735308325722	BP regulation of cholesterol transport	XLOC_050500
+GO:0007031	0.00495901146022011	0.999991785258297	1	5	peroxisome organization	BP	0.566735308325722	BP peroxisome organization	XLOC_050500
+GO:0090181	0.00505118357499061	0.999991476681	1	5	regulation of cholesterol metabolic process	BP	0.566735308325722	BP regulation of cholesterol metabolic process	XLOC_050500
+GO:0008207	0.00507841940172013	0.999992818444919	1	3	C21-steroid hormone metabolic process	BP	0.566735308325722	BP C21-steroid hormone metabolic process	XLOC_050500
+GO:0042448	0.00507841940172013	0.999992818444919	1	3	progesterone metabolic process	BP	0.566735308325722	BP progesterone metabolic process	XLOC_050500
+GO:0032239	0.00514298109342268	0.999990796125089	1	6	regulation of nucleobase-containing compound transport	BP	0.566735308325722	BP regulation of nucleobase-containing compound transport	XLOC_070972
+GO:0046831	0.00514298109342268	0.999990796125089	1	6	regulation of RNA export from nucleus	BP	0.566735308325722	BP regulation of RNA export from nucleus	XLOC_070972
+GO:0005868	0.00526532097739298	0.999990352500764	1	6	cytoplasmic dynein complex	CC	0.574296080891363	CC cytoplasmic dynein complex	XLOC_070972
+GO:0090169	0.00542869231961609	0.999989231906711	1	8	regulation of spindle assembly	BP	0.574884319003339	BP regulation of spindle assembly	XLOC_070972
+GO:0005782	0.00543206251467277	0.999989731014198	1	6	peroxisomal matrix	CC	0.574884319003339	CC peroxisomal matrix	XLOC_050500
+GO:0031907	0.00543206251467277	0.999989731014198	1	6	microbody lumen	CC	0.574884319003339	CC microbody lumen	XLOC_050500
+GO:0046173	0.00557663831231077	0.999990256997858	1	4	polyol biosynthetic process	BP	0.5800880095064	BP polyol biosynthetic process	XLOC_050500
+GO:0033814	0.00558977125822426	0.999993470437529	1	2	propanoyl-CoA C-acyltransferase activity	MF	0.5800880095064	MF propanoyl-CoA C-acyltransferase activity	XLOC_050500
+GO:0042307	0.00589623276206286	0.999987294645253	1	8	positive regulation of protein import into nucleus	BP	0.600236495177999	BP positive regulation of protein import into nucleus	XLOC_070972
+GO:1904591	0.00589623276206286	0.999987294645253	1	8	positive regulation of protein import	BP	0.600236495177999	BP positive regulation of protein import	XLOC_070972
+GO:0015248	0.00623753189072593	0.999989159506547	1	3	sterol transporter activity	MF	0.628990362075184	MF sterol transporter activity	XLOC_050500
+GO:1902930	0.00653422822908028	0.999985133636127	1	6	regulation of alcohol biosynthetic process	BP	0.648478716592046	BP regulation of alcohol biosynthetic process	XLOC_050500
+GO:1901976	0.00655392668308681	0.999985043732749	1	6	regulation of cell cycle checkpoint	BP	0.648478716592046	BP regulation of cell cycle checkpoint	XLOC_070972
+GO:0005548	0.00661279634283217	0.999986293143319	1	4	phospholipid transporter activity	MF	0.648478716592046	MF phospholipid transporter activity	XLOC_050500
+GO:0015914	0.00673191295372931	0.99998421908125	1	6	phospholipid transport	BP	0.654158341476478	BP phospholipid transport	XLOC_050500
+GO:0060236	0.0069003710826303	0.99998191437542	1	11	regulation of mitotic spindle organization	BP	0.657304915093286	BP regulation of mitotic spindle organization	XLOC_070972
+GO:0046824	0.00709283039846925	0.999981080505065	1	10	positive regulation of nucleocytoplasmic transport	BP	0.657304915093286	BP positive regulation of nucleocytoplasmic transport	XLOC_070972
+GO:0010965	0.00712988389917875	0.999980882010294	1	10	regulation of mitotic sister chromatid separation	BP	0.657304915093286	BP regulation of mitotic sister chromatid separation	XLOC_070972
+GO:0030071	0.00712988389917875	0.999980882010294	1	10	regulation of mitotic metaphase/anaphase transition	BP	0.657304915093286	BP regulation of mitotic metaphase/anaphase transition	XLOC_070972
+GO:1902099	0.00712988389917875	0.999980882010294	1	10	regulation of metaphase/anaphase transition of cell cycle	BP	0.657304915093286	BP regulation of metaphase/anaphase transition of cell cycle	XLOC_070972
+GO:0042180	0.00713502823786003	0.999982976923257	1	5	cellular ketone metabolic process	BP	0.657304915093286	BP cellular ketone metabolic process	XLOC_050500
+GO:0015748	0.0072172224846146	0.999981340631709	1	7	organophosphate ester transport	BP	0.657304915093286	BP organophosphate ester transport	XLOC_050500
+GO:0016408	0.00727949935685561	0.999983384551367	1	4	C-acyltransferase activity	MF	0.657304915093286	MF C-acyltransferase activity	XLOC_050500
+GO:0046983	0.0073177364483208	0.999777888736109	2	154	protein dimerization activity	MF	0.657304915093286	MF protein dimerization activity	XLOC_050500, XLOC_070972
+GO:0090224	0.00738561223861328	0.999979104819656	1	12	regulation of spindle organization	BP	0.657873410154478	BP regulation of spindle organization	XLOC_070972
+GO:1905818	0.00761503155644272	0.999977967468468	1	11	regulation of chromosome separation	BP	0.672703076915837	BP regulation of chromosome separation	XLOC_070972
+GO:1900182	0.00795663324487994	0.999975743012887	1	12	positive regulation of protein localization to nucleus	BP	0.692645634986991	BP positive regulation of protein localization to nucleus	XLOC_070972
+GO:1905269	0.00802903323876094	0.999975298802253	1	12	positive regulation of chromatin organization	BP	0.692645634986991	BP positive regulation of chromatin organization	XLOC_070972
+GO:0033045	0.00809998169832293	0.999974859573968	1	12	regulation of sister chromatid segregation	BP	0.692645634986991	BP regulation of sister chromatid segregation	XLOC_070972
+GO:0033047	0.00809998169832293	0.999974859573968	1	12	regulation of mitotic sister chromatid segregation	BP	0.692645634986991	BP regulation of mitotic sister chromatid segregation	XLOC_070972
+GO:0034754	0.00839886555164382	0.999973783395564	1	9	cellular hormone metabolic process	BP	0.711100057403017	BP cellular hormone metabolic process	XLOC_050500
+GO:0032387	0.00846714985601349	0.999973769710428	1	8	negative regulation of intracellular transport	BP	0.711100057403017	BP negative regulation of intracellular transport	XLOC_070972
+GO:0016234	0.00856721211379857	0.999973691392687	1	7	inclusion body	CC	0.711100057403017	CC inclusion body	XLOC_070972
+GO:0034605	0.00869685370122816	0.999972324413225	1	8	cellular response to heat	BP	0.711100057403017	BP cellular response to heat	XLOC_070972
+GO:0007093	0.00872145772154616	0.999971086264409	1	11	mitotic cell cycle checkpoint	BP	0.711100057403017	BP mitotic cell cycle checkpoint	XLOC_070972
+GO:0006406	0.00880214844981966	0.999971200250453	1	9	mRNA export from nucleus	BP	0.711100057403017	BP mRNA export from nucleus	XLOC_070972
+GO:0050810	0.00881324671412156	0.99997157721568	1	8	regulation of steroid biosynthetic process	BP	0.711100057403017	BP regulation of steroid biosynthetic process	XLOC_050500
+GO:0019751	0.0088480033337638	0.99997193507311	1	7	polyol metabolic process	BP	0.711100057403017	BP polyol metabolic process	XLOC_050500
+GO:0015485	0.00893781004999326	0.99997215452217	1	6	cholesterol binding	MF	0.712957101674462	MF cholesterol binding	XLOC_050500
+GO:0051983	0.00906928969310203	0.999968061456445	1	14	regulation of chromosome segregation	BP	0.718086203922723	BP regulation of chromosome segregation	XLOC_070972
+GO:0044438	0.00925738781625006	0.999968137911728	1	9	microbody part	CC	0.722278966189028	CC microbody part	XLOC_050500
+GO:0044439	0.00925738781625006	0.999968137911728	1	9	peroxisomal part	CC	0.722278966189028	CC peroxisomal part	XLOC_050500
+GO:0042802	0.00932579434052378	0.99967827511873	2	181	identical protein binding	MF	0.722343592071439	MF identical protein binding	XLOC_050500, XLOC_070972
+GO:0006694	0.00940209766074469	0.999966387424752	1	11	steroid biosynthetic process	BP	0.72301454601223	BP steroid biosynthetic process	XLOC_050500
+GO:0051049	0.00953066922159918	0.999667519028323	2	176	regulation of transport	BP	0.723238346511003	BP regulation of transport	XLOC_050500, XLOC_070972
+GO:0043178	0.00961994746962282	0.999966812941655	1	7	alcohol binding	MF	0.723238346511003	MF alcohol binding	XLOC_050500
+GO:0046825	0.00964920248775446	0.999965377837487	1	9	regulation of protein export from nucleus	BP	0.723238346511003	BP regulation of protein export from nucleus	XLOC_070972
+GO:0017056	0.00967565567883558	0.99996518734396	1	9	structural constituent of nuclear pore	MF	0.723238346511003	MF structural constituent of nuclear pore	XLOC_070972
+GO:0019218	0.00991433866529157	0.999962989470594	1	10	regulation of steroid metabolic process	BP	0.729195271801388	BP regulation of steroid metabolic process	XLOC_050500
+GO:0045834	0.00997669815705295	0.999963558940708	1	8	positive regulation of lipid metabolic process	BP	0.729195271801388	BP positive regulation of lipid metabolic process	XLOC_050500
+GO:0042306	0.0100282257418659	0.99996093467139	1	14	regulation of protein import into nucleus	BP	0.729195271801388	BP regulation of protein import into nucleus	XLOC_070972
+GO:1904589	0.0100282257418659	0.99996093467139	1	14	regulation of protein import	BP	0.729195271801388	BP regulation of protein import	XLOC_070972
+GO:0070849	0.0103660573435571	0.999960030008125	1	9	response to epidermal growth factor	BP	0.748667479360011	BP response to epidermal growth factor	XLOC_070972
+GO:0000075	0.0109819618040581	0.999953408161146	1	13	cell cycle checkpoint	BP	0.785124596734557	BP cell cycle checkpoint	XLOC_070972
+GO:0006637	0.0112195720743506	0.999952576378178	1	10	acyl-CoA metabolic process	BP	0.785124596734557	BP acyl-CoA metabolic process	XLOC_050500
+GO:0035383	0.0112195720743506	0.999952576378178	1	10	thioester metabolic process	BP	0.785124596734557	BP thioester metabolic process	XLOC_050500
+GO:0032934	0.0112218852807836	0.999954807481509	1	7	sterol binding	MF	0.785124596734557	MF sterol binding	XLOC_050500
+GO:0031072	0.0112381011601073	0.999951541651716	1	12	heat shock protein binding	MF	0.785124596734557	MF heat shock protein binding	XLOC_070972
+GO:0009408	0.0113513193212361	0.999950964932694	1	11	response to heat	BP	0.787884754705796	BP response to heat	XLOC_070972
+GO:0072686	0.011782056233938	0.999945519209497	1	16	mitotic spindle	CC	0.804915669462498	CC mitotic spindle	XLOC_070972
+GO:0042446	0.0118025988922108	0.999948958635125	1	8	hormone biosynthetic process	BP	0.804915669462498	BP hormone biosynthetic process	XLOC_050500
+GO:0032370	0.0118225989433635	0.999948785052692	1	8	positive regulation of lipid transport	BP	0.804915669462498	BP positive regulation of lipid transport	XLOC_050500
+GO:0006446	0.0119074243375037	0.999944596972152	1	15	regulation of translational initiation	BP	0.805559865465681	BP regulation of translational initiation	XLOC_070972
+GO:1901991	0.012446355218999	0.999939185681341	1	16	negative regulation of mitotic cell cycle phase transition	BP	0.836723842364028	BP negative regulation of mitotic cell cycle phase transition	XLOC_070972
+GO:1905954	0.0125831209459122	0.999941047384296	1	9	positive regulation of lipid localization	BP	0.840631123692848	BP positive regulation of lipid localization	XLOC_050500
+GO:0005496	0.0128196701646476	0.999939755743452	1	8	steroid binding	MF	0.851114623539866	MF steroid binding	XLOC_050500
+GO:0046890	0.0129402930470185	0.999934872739779	1	14	regulation of lipid biosynthetic process	BP	0.851763330839242	BP regulation of lipid biosynthetic process	XLOC_050500
+GO:1901988	0.0129888130720176	0.999933495613351	1	17	negative regulation of cell cycle phase transition	BP	0.851763330839242	BP negative regulation of cell cycle phase transition	XLOC_070972
+GO:0000776	0.0135673519742131	0.999927421834471	1	17	kinetochore	CC	0.88427698324612	CC kinetochore	XLOC_070972
+GO:0046165	0.0139459363014163	0.999925904497969	1	11	alcohol biosynthetic process	BP	0.903443109853568	BP alcohol biosynthetic process	XLOC_050500
+GO:2001251	0.0145095721238124	0.999915975259804	1	21	negative regulation of chromosome organization	BP	0.934294074888139	BP negative regulation of chromosome organization	XLOC_070972
+GO:0006405	0.0151200702244891	0.999911001923861	1	14	RNA export from nucleus	BP	0.962055103010139	BP RNA export from nucleus	XLOC_070972
+GO:0006606	0.0152107131077475	0.999909066984489	1	16	protein import into nucleus	BP	0.962055103010139	BP protein import into nucleus	XLOC_070972
+GO:1902593	0.0152107131077475	0.999909066984489	1	16	NA	NA	0.962055103010139	none	XLOC_070972
+GO:1900180	0.0156560496733711	0.999902125987711	1	21	regulation of protein localization to nucleus	BP	0.980690246147252	BP regulation of protein localization to nucleus	XLOC_070972
+GO:0016747	0.0156888419956198	0.999903668661945	1	15	transferase activity, transferring acyl groups other than amino-acyl groups	MF	0.980690246147252	MF transferase activity, transferring acyl groups other than amino-acyl groups	XLOC_050500, XLOC_050500
+GO:1902275	0.0158222659398341	0.999899408806936	1	24	regulation of chromatin organization	BP	0.983280236226087	BP regulation of chromatin organization	XLOC_070972
+GO:0051641	0.0164406244692955	0.999233403657703	2	247	cellular localization	BP	0.9999999999	BP cellular localization	XLOC_050500, XLOC_070972
+GO:1901617	0.0165235941016898	0.9998931075652	1	15	organic hydroxy compound biosynthetic process	BP	0.9999999999	BP organic hydroxy compound biosynthetic process	XLOC_050500
+GO:0008104	0.0165632053364391	0.999224777778858	2	239	protein localization	BP	0.9999999999	BP protein localization	XLOC_050500, XLOC_070972
+GO:0045930	0.0167206508149268	0.999887831151355	1	23	negative regulation of mitotic cell cycle	BP	0.9999999999	BP negative regulation of mitotic cell cycle	XLOC_070972
+GO:0051170	0.0168127288598675	0.999887666569168	1	19	import into nucleus	BP	0.9999999999	BP import into nucleus	XLOC_070972
+GO:0005319	0.0170071502548545	0.999889660788458	1	11	lipid transporter activity	MF	0.9999999999	MF lipid transporter activity	XLOC_050500
+GO:0009266	0.017014021526014	0.999884951017935	1	19	response to temperature stimulus	BP	0.9999999999	BP response to temperature stimulus	XLOC_070972
+GO:0072659	0.0170163007629203	0.999884920082745	1	19	protein localization to plasma membrane	BP	0.9999999999	BP protein localization to plasma membrane	XLOC_050500
+GO:0033036	0.0173097870993093	0.999170442819353	2	246	macromolecule localization	BP	0.9999999999	BP macromolecule localization	XLOC_050500, XLOC_070972
+GO:1902115	0.0174544943257968	0.999877095369156	1	26	regulation of organelle assembly	BP	0.9999999999	BP regulation of organelle assembly	XLOC_070972
+GO:0010948	0.0181186892678815	0.999868214108477	1	23	negative regulation of cell cycle process	BP	0.9999999999	BP negative regulation of cell cycle process	XLOC_070972
+GO:0051168	0.0181893592863498	0.999869296699123	1	17	nuclear export	BP	0.9999999999	BP nuclear export	XLOC_070972
+GO:0046822	0.0191190024952046	0.999853831490209	1	21	regulation of nucleocytoplasmic transport	BP	0.9999999999	BP regulation of nucleocytoplasmic transport	XLOC_070972
+GO:1903533	0.0191705648483812	0.999852404527202	1	23	regulation of protein targeting	BP	0.9999999999	BP regulation of protein targeting	XLOC_070972
+GO:0005643	0.0191839937628229	0.999857328897965	1	13	nuclear pore	CC	0.9999999999	CC nuclear pore	XLOC_070972
+GO:0042579	0.0194154869617325	0.999851583248213	1	16	microbody	CC	0.9999999999	CC microbody	XLOC_050500
+GO:0034504	0.0197772434408414	0.999843198006127	1	22	protein localization to nucleus	BP	0.9999999999	BP protein localization to nucleus	XLOC_070972
+GO:0008202	0.0198854872848555	0.999841144063116	1	23	steroid metabolic process	BP	0.9999999999	BP steroid metabolic process	XLOC_050500
+GO:0032368	0.0201796853678256	0.999842067901257	1	13	regulation of lipid transport	BP	0.9999999999	BP regulation of lipid transport	XLOC_050500
+GO:0090316	0.0202055233336063	0.999835968070312	1	23	positive regulation of intracellular protein transport	BP	0.9999999999	BP positive regulation of intracellular protein transport	XLOC_070972
+GO:0032879	0.0202765639174429	0.998942120213114	2	263	regulation of localization	BP	0.9999999999	BP regulation of localization	XLOC_050500, XLOC_070972
+GO:0017038	0.0205011652641448	0.999831112252783	1	23	protein import	BP	0.9999999999	BP protein import	XLOC_070972
+GO:1905952	0.0209348434837486	0.999828967649132	1	14	regulation of lipid localization	BP	0.9999999999	BP regulation of lipid localization	XLOC_050500
+GO:0033293	0.0211079174048779	0.999820922778726	1	23	monocarboxylic acid binding	MF	0.9999999999	MF monocarboxylic acid binding	XLOC_050500
+GO:0042445	0.0212878850310805	0.999818624886046	1	21	hormone metabolic process	BP	0.9999999999	BP hormone metabolic process	XLOC_050500
+GO:1990778	0.0214604787010282	0.999813900628132	1	26	protein localization to cell periphery	BP	0.9999999999	BP protein localization to cell periphery	XLOC_050500
+GO:0016746	0.0216008108457061	0.99981242373808	1	23	transferase activity, transferring acyl groups	MF	0.9999999999	MF transferase activity, transferring acyl groups	XLOC_050500
+GO:2001252	0.0218861254262185	0.999806127024278	1	27	positive regulation of chromosome organization	BP	0.9999999999	BP positive regulation of chromosome organization	XLOC_070972
+GO:0005819	0.0221273153845522	0.999800629857033	1	32	spindle	CC	0.9999999999	CC spindle	XLOC_070972
+GO:0044765	0.0221846072357704	0.998784995931692	2	276	NA	NA	0.9999999999	none	XLOC_050500, XLOC_070972
+GO:0071702	0.0226486699902561	0.998745752530455	2	273	organic substance transport	BP	0.9999999999	BP organic substance transport	XLOC_050500, XLOC_070972
+GO:0070507	0.0227511425781345	0.999789625729726	1	30	regulation of microtubule cytoskeleton organization	BP	0.9999999999	BP regulation of microtubule cytoskeleton organization	XLOC_070972
+GO:0030286	0.0230616833462802	0.999784343939682	1	28	dynein complex	CC	0.9999999999	CC dynein complex	XLOC_070972
+GO:0017148	0.0233504004493255	0.999779858327126	1	25	negative regulation of translation	BP	0.9999999999	BP negative regulation of translation	XLOC_070972
+GO:0034249	0.0233504004493255	0.999779858327126	1	25	negative regulation of cellular amide metabolic process	BP	0.9999999999	BP negative regulation of cellular amide metabolic process	XLOC_070972
+GO:0019216	0.023404773335418	0.999780072588211	1	22	regulation of lipid metabolic process	BP	0.9999999999	BP regulation of lipid metabolic process	XLOC_050500
+GO:0045931	0.0239072595244426	0.999768159315046	1	28	positive regulation of mitotic cell cycle	BP	0.9999999999	BP positive regulation of mitotic cell cycle	XLOC_070972
+GO:0007568	0.0241738730021788	0.999763977625974	1	25	aging	BP	0.9999999999	BP aging	XLOC_050500
+GO:0005777	0.0245806306249895	0.99975844624927	1	20	peroxisome	CC	0.9999999999	CC peroxisome	XLOC_050500
+GO:0045786	0.0255029723777959	0.999734296346099	1	34	negative regulation of cell cycle	BP	0.9999999999	BP negative regulation of cell cycle	XLOC_070972
+GO:1902578	0.0255137828629342	0.998492740991198	2	293	NA	NA	0.9999999999	none	XLOC_050500, XLOC_070972
+GO:1901990	0.0271306864622802	0.999699370923298	1	33	regulation of mitotic cell cycle phase transition	BP	0.9999999999	BP regulation of mitotic cell cycle phase transition	XLOC_070972
+GO:0000122	0.0273430544006722	0.999693377119585	1	38	negative regulation of transcription by RNA polymerase II	BP	0.9999999999	BP negative regulation of transcription by RNA polymerase II	XLOC_070972
+GO:0009889	0.0274603527912149	0.998311080558804	2	322	regulation of biosynthetic process	BP	0.9999999999	BP regulation of biosynthetic process	XLOC_050500, XLOC_070972
+GO:0010639	0.0278785571161121	0.999681410248493	1	37	negative regulation of organelle organization	BP	0.9999999999	BP negative regulation of organelle organization	XLOC_070972
+GO:0090068	0.0279943307856403	0.999679247991036	1	35	positive regulation of cell cycle process	BP	0.9999999999	BP positive regulation of cell cycle process	XLOC_070972
+GO:1901987	0.0281431865443714	0.999675808126755	1	35	regulation of cell cycle phase transition	BP	0.9999999999	BP regulation of cell cycle phase transition	XLOC_070972
+GO:0006913	0.0292793188366804	0.999650259329629	1	31	nucleocytoplasmic transport	BP	0.9999999999	BP nucleocytoplasmic transport	XLOC_070972
+GO:0051169	0.0292793188366804	0.999650259329629	1	31	nuclear transport	BP	0.9999999999	BP nuclear transport	XLOC_070972
+GO:0051028	0.0295054327160917	0.999646058032028	1	28	mRNA transport	BP	0.9999999999	BP mRNA transport	XLOC_070972
+GO:0007088	0.0296506527361463	0.999638852486739	1	39	regulation of mitotic nuclear division	BP	0.9999999999	BP regulation of mitotic nuclear division	XLOC_070972
+GO:0006066	0.0297813704308893	0.999639365942283	1	28	alcohol metabolic process	BP	0.9999999999	BP alcohol metabolic process	XLOC_050500
+GO:0070848	0.0298343734375517	0.999635734717828	1	34	response to growth factor	BP	0.9999999999	BP response to growth factor	XLOC_070972
+GO:0032886	0.0309066595872468	0.999606677842679	1	42	regulation of microtubule-based process	BP	0.9999999999	BP regulation of microtubule-based process	XLOC_070972
+GO:0090407	0.031415185828597	0.999595502895141	1	35	organophosphate biosynthetic process	BP	0.9999999999	BP organophosphate biosynthetic process	XLOC_050500
+GO:0051783	0.0321799192654497	0.999573381845558	1	42	regulation of nuclear division	BP	0.9999999999	BP regulation of nuclear division	XLOC_070972
+GO:0033157	0.0327295418874203	0.999560711737124	1	35	regulation of intracellular protein transport	BP	0.9999999999	BP regulation of intracellular protein transport	XLOC_070972
+GO:0046982	0.0331636949590844	0.999549693936975	1	33	protein heterodimerization activity	MF	0.9999999999	MF protein heterodimerization activity	XLOC_050500
+GO:0045787	0.0342104328019215	0.999517729116812	1	41	positive regulation of cell cycle	BP	0.9999999999	BP positive regulation of cell cycle	XLOC_070972
+GO:0007009	0.0348061170497613	0.999501998001808	1	37	plasma membrane organization	BP	0.9999999999	BP plasma membrane organization	XLOC_050500
+GO:0006790	0.0349672881689792	0.999495420153721	1	43	sulfur compound metabolic process	BP	0.9999999999	BP sulfur compound metabolic process	XLOC_050500
+GO:0033044	0.0356873151685172	0.999472760198166	1	49	regulation of chromosome organization	BP	0.9999999999	BP regulation of chromosome organization	XLOC_070972
+GO:0050657	0.0376058964232764	0.999417990405412	1	37	nucleic acid transport	BP	0.9999999999	BP nucleic acid transport	XLOC_070972
+GO:0050658	0.0376058964232764	0.999417990405412	1	37	RNA transport	BP	0.9999999999	BP RNA transport	XLOC_070972
+GO:0051236	0.0376058964232764	0.999417990405412	1	37	establishment of RNA localization	BP	0.9999999999	BP establishment of RNA localization	XLOC_070972
+GO:0044455	0.0377175309331325	0.999415917288161	1	34	mitochondrial membrane part	CC	0.9999999999	CC mitochondrial membrane part	XLOC_050500
+GO:0051051	0.0382219763151324	0.999398612607616	1	37	negative regulation of transport	BP	0.9999999999	BP negative regulation of transport	XLOC_070972
+GO:0015931	0.0402313881717904	0.999330997065708	1	42	nucleobase-containing compound transport	BP	0.9999999999	BP nucleobase-containing compound transport	XLOC_070972
+GO:0006732	0.0410932798541258	0.999301778829797	1	42	coenzyme metabolic process	BP	0.9999999999	BP coenzyme metabolic process	XLOC_050500
+GO:1903829	0.0411627481299262	0.999296428957106	1	51	positive regulation of cellular protein localization	BP	0.9999999999	BP positive regulation of cellular protein localization	XLOC_070972
+GO:0008610	0.0412048882580722	0.999297182948538	1	44	lipid biosynthetic process	BP	0.9999999999	BP lipid biosynthetic process	XLOC_050500
+GO:0005875	0.0413545458007523	0.999289801488308	1	51	microtubule associated complex	CC	0.9999999999	CC microtubule associated complex	XLOC_070972
+GO:0031965	0.0415266401124628	0.999285027312467	1	47	nuclear membrane	CC	0.9999999999	CC nuclear membrane	XLOC_070972
+GO:0010817	0.0420612019523914	0.99926703834156	1	45	regulation of hormone levels	BP	0.9999999999	BP regulation of hormone levels	XLOC_050500
+GO:0003729	0.0425848281956098	0.999247799289078	1	47	mRNA binding	MF	0.9999999999	MF mRNA binding	XLOC_070972
+GO:0051222	0.0427064842989927	0.999242797563605	1	49	positive regulation of protein transport	BP	0.9999999999	BP positive regulation of protein transport	XLOC_070972
+GO:0043065	0.0434562746965677	0.999217163267888	1	45	positive regulation of apoptotic process	BP	0.9999999999	BP positive regulation of apoptotic process	XLOC_050500
+GO:0043068	0.0434562746965677	0.999217163267888	1	45	positive regulation of programmed cell death	BP	0.9999999999	BP positive regulation of programmed cell death	XLOC_050500
+GO:1901615	0.043540851583955	0.999214902606513	1	43	organic hydroxy compound metabolic process	BP	0.9999999999	BP organic hydroxy compound metabolic process	XLOC_050500
+GO:0072657	0.0435902439470983	0.999210215370504	1	51	protein localization to membrane	BP	0.9999999999	BP protein localization to membrane	XLOC_050500
+GO:0072594	0.0439781705986524	0.999196613145455	1	49	establishment of protein localization to organelle	BP	0.9999999999	BP establishment of protein localization to organelle	XLOC_070972
+GO:0006869	0.0440276855540128	0.999198496866301	1	40	lipid transport	BP	0.9999999999	BP lipid transport	XLOC_050500
+GO:0050662	0.0444422717997683	0.999177311587574	1	56	coenzyme binding	MF	0.9999999999	MF coenzyme binding	XLOC_050500
+GO:0031406	0.0448374456846948	0.999162218399378	1	57	carboxylic acid binding	MF	0.9999999999	MF carboxylic acid binding	XLOC_050500
+GO:0043177	0.0448374456846948	0.999162218399378	1	57	organic acid binding	MF	0.9999999999	MF organic acid binding	XLOC_050500
+GO:1901681	0.045545302684963	0.999136451698275	1	53	sulfur compound binding	MF	0.9999999999	MF sulfur compound binding	XLOC_050500
+GO:0051129	0.0458655894158521	0.999124148760567	1	53	negative regulation of cellular component organization	BP	0.9999999999	BP negative regulation of cellular component organization	XLOC_070972
+GO:0044089	0.0461095804680318	0.999112290322988	1	62	positive regulation of cellular component biogenesis	BP	0.9999999999	BP positive regulation of cellular component biogenesis	XLOC_070972
+GO:1904951	0.0463336695119967	0.999106333892343	1	52	positive regulation of establishment of protein localization	BP	0.9999999999	BP positive regulation of establishment of protein localization	XLOC_070972
+GO:0051186	0.0469180624168518	0.999084134899058	1	50	cofactor metabolic process	BP	0.9999999999	BP cofactor metabolic process	XLOC_050500
+GO:0044283	0.0469559410960661	0.999083407034237	1	48	small molecule biosynthetic process	BP	0.9999999999	BP small molecule biosynthetic process	XLOC_050500
+GO:0007346	0.0471278167124952	0.999072028116731	1	63	regulation of mitotic cell cycle	BP	0.9999999999	BP regulation of mitotic cell cycle	XLOC_070972
+GO:0019901	0.0471868548502936	0.999072794904482	1	52	protein kinase binding	MF	0.9999999999	MF protein kinase binding	XLOC_070972
+GO:0010942	0.0474012341562988	0.999064988918183	1	50	positive regulation of cell death	BP	0.9999999999	BP positive regulation of cell death	XLOC_050500
+GO:0019900	0.0497826128282993	0.998965459005984	1	56	kinase binding	MF	0.9999999999	MF kinase binding	XLOC_070972

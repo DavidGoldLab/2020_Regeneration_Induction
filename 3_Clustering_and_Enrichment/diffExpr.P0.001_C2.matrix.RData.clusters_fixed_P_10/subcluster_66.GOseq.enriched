@@ -1,0 +1,56 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0031625	0.00877162153140575	0.999637047048618	2	31	ubiquitin protein ligase binding	MF	0.9999999999	MF ubiquitin protein ligase binding	XLOC_046250, XLOC_053298
+GO:0044389	0.00912616323759085	0.999613911831211	2	32	ubiquitin-like protein ligase binding	MF	0.9999999999	MF ubiquitin-like protein ligase binding	XLOC_046250, XLOC_053298
+GO:0000423	0.0108805321473729	0.999971233537172	1	2	mitophagy	BP	0.9999999999	BP mitophagy	XLOC_053298
+GO:0005767	0.0108805321473729	0.999971233537172	1	2	secondary lysosome	CC	0.9999999999	CC secondary lysosome	XLOC_053298
+GO:0016235	0.0108805321473729	0.999971233537172	1	2	aggresome	CC	0.9999999999	CC aggresome	XLOC_053298
+GO:0044753	0.0108805321473729	0.999971233537172	1	2	amphisome	CC	0.9999999999	CC amphisome	XLOC_053298
+GO:0044754	0.0108805321473729	0.999971233537172	1	2	autolysosome	CC	0.9999999999	CC autolysosome	XLOC_053298
+GO:0061635	0.0108805321473729	0.999971233537172	1	2	regulation of protein complex stability	BP	0.9999999999	BP regulation of protein complex stability	XLOC_053298
+GO:0061912	0.0108805321473729	0.999971233537172	1	2	selective autophagy	BP	0.9999999999	BP selective autophagy	XLOC_053298
+GO:0098780	0.0108805321473729	0.999971233537172	1	2	response to mitochondrial depolarisation	BP	0.9999999999	BP response to mitochondrial depolarisation	XLOC_053298
+GO:1900273	0.0108805321473729	0.999971233537172	1	2	positive regulation of long-term synaptic potentiation	BP	0.9999999999	BP positive regulation of long-term synaptic potentiation	XLOC_053298
+GO:1905719	0.0120265006419215	0.999953144423015	1	3	protein localization to perinuclear region of cytoplasm	BP	0.9999999999	BP protein localization to perinuclear region of cytoplasm	XLOC_053298
+GO:0070530	0.0120297601289305	0.999953118950668	1	3	K63-linked polyubiquitin modification-dependent protein binding	MF	0.9999999999	MF K63-linked polyubiquitin modification-dependent protein binding	XLOC_053298
+GO:0035973	0.0120386431174754	0.999953049496263	1	3	aggrephagy	BP	0.9999999999	BP aggrephagy	XLOC_053298
+GO:0044126	0.0120404846580966	0.999953035091136	1	3	regulation of growth of symbiont in host	BP	0.9999999999	BP regulation of growth of symbiont in host	XLOC_053298
+GO:0044130	0.0120404846580966	0.999953035091136	1	3	negative regulation of growth of symbiont in host	BP	0.9999999999	BP negative regulation of growth of symbiont in host	XLOC_053298
+GO:0044144	0.0120404846580966	0.999953035091136	1	3	modulation of growth of symbiont involved in interaction with host	BP	0.9999999999	BP modulation of growth of symbiont involved in interaction with host	XLOC_053298
+GO:0044146	0.0120404846580966	0.999953035091136	1	3	negative regulation of growth of symbiont involved in interaction with host	BP	0.9999999999	BP negative regulation of growth of symbiont involved in interaction with host	XLOC_053298
+GO:0035254	0.0120407155432973	0.99995303328492	1	3	glutamate receptor binding	MF	0.9999999999	MF glutamate receptor binding	XLOC_053298
+GO:0035255	0.0120407155432973	0.99995303328492	1	3	ionotropic glutamate receptor binding	MF	0.9999999999	MF ionotropic glutamate receptor binding	XLOC_053298
+GO:0005080	0.0120409928854568	0.999953031115225	1	3	protein kinase C binding	MF	0.9999999999	MF protein kinase C binding	XLOC_053298
+GO:0000422	0.0120410312592748	0.999953030815017	1	3	autophagy of mitochondrion	BP	0.9999999999	BP autophagy of mitochondrion	XLOC_053298
+GO:0061726	0.0120410312592748	0.999953030815017	1	3	mitochondrion disassembly	BP	0.9999999999	BP mitochondrion disassembly	XLOC_053298
+GO:0042169	0.013123890635284	0.999937220655462	1	4	SH2 domain binding	MF	0.9999999999	MF SH2 domain binding	XLOC_053298
+GO:0000407	0.0143040923142067	0.999920428764225	1	5	phagophore assembly site	CC	0.9999999999	CC phagophore assembly site	XLOC_053298
+GO:0097413	0.0151041745275063	0.999925988921049	1	3	Lewy body	CC	0.9999999999	CC Lewy body	XLOC_053298
+GO:0097225	0.0166775992963925	0.999909700087484	1	3	sperm midpiece	CC	0.9999999999	CC sperm midpiece	XLOC_053298
+GO:0007032	0.0185554531705147	0.999856333968059	1	7	endosome organization	BP	0.9999999999	BP endosome organization	XLOC_053298
+GO:0031386	0.018821870657431	0.999884872485258	1	3	protein tag	MF	0.9999999999	MF protein tag	XLOC_046250
+GO:1900271	0.0190273984184327	0.999882333197484	1	3	regulation of long-term synaptic potentiation	BP	0.9999999999	BP regulation of long-term synaptic potentiation	XLOC_053298
+GO:0005776	0.020077311502041	0.999823337137484	1	10	autophagosome	CC	0.9999999999	CC autophagosome	XLOC_053298
+GO:0016236	0.0201776156713823	0.999834701138471	1	6	macroautophagy	BP	0.9999999999	BP macroautophagy	XLOC_053298
+GO:0016567	0.0227314056762441	0.998409392666542	2	64	protein ubiquitination	BP	0.9999999999	BP protein ubiquitination	XLOC_045622, XLOC_046250
+GO:0031593	0.0231207062546603	0.999782702886949	1	6	polyubiquitin modification-dependent protein binding	MF	0.9999999999	MF polyubiquitin modification-dependent protein binding	XLOC_053298
+GO:0051865	0.0261093879661987	0.999704208855755	1	9	protein autoubiquitination	BP	0.9999999999	BP protein autoubiquitination	XLOC_045622
+GO:0002931	0.0281993712872217	0.999654677635792	1	9	response to ischemia	BP	0.9999999999	BP response to ischemia	XLOC_053298
+GO:0032446	0.0285645788392539	0.997739512066981	2	67	protein modification by small protein conjugation	BP	0.9999999999	BP protein modification by small protein conjugation	XLOC_045622, XLOC_046250
+GO:1903008	0.0298234890833476	0.999637456050023	1	6	organelle disassembly	BP	0.9999999999	BP organelle disassembly	XLOC_053298
+GO:1903076	0.0319922702922779	0.999561764195258	1	8	regulation of protein localization to plasma membrane	BP	0.9999999999	BP regulation of protein localization to plasma membrane	XLOC_053298
+GO:1903078	0.0319922702922779	0.999561764195258	1	8	positive regulation of protein localization to plasma membrane	BP	0.9999999999	BP positive regulation of protein localization to plasma membrane	XLOC_053298
+GO:1904377	0.0330113763007212	0.999525877766421	1	9	positive regulation of protein localization to cell periphery	BP	0.9999999999	BP positive regulation of protein localization to cell periphery	XLOC_053298
+GO:1903729	0.0331267926576344	0.999522535075325	1	9	regulation of plasma membrane organization	BP	0.9999999999	BP regulation of plasma membrane organization	XLOC_053298
+GO:0030017	0.0339616059922893	0.999473181119443	1	15	sarcomere	CC	0.9999999999	CC sarcomere	XLOC_053298
+GO:0070647	0.0372599995587578	0.996585119451169	2	80	protein modification by small protein conjugation or removal	BP	0.9999999999	BP protein modification by small protein conjugation or removal	XLOC_045622, XLOC_046250
+GO:0016605	0.0389876560713535	0.999347351865887	1	8	PML body	CC	0.9999999999	CC PML body	XLOC_053298
+GO:1904375	0.0400864992126606	0.999277296096396	1	12	regulation of protein localization to cell periphery	BP	0.9999999999	BP regulation of protein localization to cell periphery	XLOC_053298
+GO:0016234	0.041358068160771	0.999279700024421	1	7	inclusion body	CC	0.9999999999	CC inclusion body	XLOC_053298
+GO:0043130	0.042709478441792	0.999185491832479	1	11	ubiquitin binding	MF	0.9999999999	MF ubiquitin binding	XLOC_053298
+GO:0000932	0.0430884227416856	0.999153334429185	1	14	P-body	CC	0.9999999999	CC P-body	XLOC_053298
+GO:0097223	0.0433544513992105	0.999131290681019	1	17	sperm part	CC	0.9999999999	CC sperm part	XLOC_053298
+GO:0051291	0.044350496835595	0.99907119495012	1	26	protein heterooligomerization	BP	0.9999999999	BP protein heterooligomerization	XLOC_053298
+GO:0043122	0.0471294039660691	0.998965307330411	1	19	regulation of I-kappaB kinase/NF-kappaB signaling	BP	0.9999999999	BP regulation of I-kappaB kinase/NF-kappaB signaling	XLOC_053298
+GO:1905477	0.0491135158618517	0.998920237310082	1	11	positive regulation of protein localization to membrane	BP	0.9999999999	BP positive regulation of protein localization to membrane	XLOC_053298
+GO:0043903	0.0492044180650998	0.998871312825944	1	19	regulation of symbiosis, encompassing mutualism through parasitism	BP	0.9999999999	BP regulation of symbiosis, encompassing mutualism through parasitism	XLOC_053298
+GO:0006914	0.0497003109681818	0.998848233529415	1	19	autophagy	BP	0.9999999999	BP autophagy	XLOC_053298

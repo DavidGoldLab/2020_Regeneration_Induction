@@ -1,0 +1,30 @@
+############################################
+# Differential expression analysis in EdgeR
+############################################
+
+/usr/local/Cellar/trinity/2.8.3_1/libexec/Analysis/DifferentialExpression/run_DE_analysis.pl \
+--matrix genes.count_table \
+--method edgeR \
+--samples_file samples_file.txt
+
+# Example samples_file.txt
+
+3mL_27hr	3mL_27hr_2	
+3mL_27hr	3mL_27hr_3	
+NoFood_27hr	NoFood_27hr_0	
+NoFood_27hr	NoFood_27hr_1	
+WT	WT_0	
+WT	WT_1
+
+########################################
+# Create differential expression matrix
+########################################
+
+cd edgeR.dir
+/usr/local/Cellar/trinity/2.8.3_1/libexec/Analysis/DifferentialExpression/analyze_diff_expr.pl \
+--matrix ../genes.fpkm_table \
+--samples ../samples_file.txt \
+--examine_GO_enrichment --GO_annots ../GO_annotations.txt --gene_lengths ../Gene_lengths.txt
+
+	# File "diffExpr.P0.001_C2.matrix.RData" not inlcuded in GitHub repository (exceeds file size)
+	# It can be recreated with the commands provided
