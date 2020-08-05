@@ -1,0 +1,177 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                     Starting SMS v1.8.4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Input alignment    : 7_sir2_domains_cd_hit_vetted_muscle_phylip
+Data type          : Protein
+Number of taxa     : 339
+Number of sites    : 404
+Number of branches : 675
+Criterion          : AIC
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Step 1 : Set a fixed topology
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Step 2 : Select the best decoration
+	AIC=129731.07042	decoration : '+G+I'
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Step 3 : Select the best matrix
+	AIC=129731.07042	matrix : 'LG'
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Step 4 : Select the best final decoration
+	AIC=129731.07042	decoration : '+G+I'
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Selected model				: LG +G+I
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Substitution model			: LG
+Equilibrium frequencies			: Model
+Proportion of invariable sites		: estimated (0.003)
+Number of substitution rate categories	: 4
+Gamma shape parameter			: estimated (0.915)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Suggested citations:
+SMS
+ Vincent Lefort, Jean-Emmanuel Longueville, Olivier Gascuel.
+ "SMS: Smart Model Selection in PhyML."
+ Molecular Biology and Evolution, msx149, 2017.
+PhyML
+ S. Guindon, JF. Dufayard,  V. Lefort,  M. Anisimova,
+ W. Hordijk, O. Gascuel
+ "New algorithms and methods to estimate maximum-likelihood
+ phylogenies: assessing the performance of PhyML 3.0."
+ Systematic Biology. 2010. 59(3):307-321.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Additional step : Infer tree with model : 'LG +G+I'
+
+. The NNI option is deprecated. PhyML now uses a mix of SPRs and NNIs.
+
+. Command line: /data/http/www/binaries/phyml/../sms/sms/phyml-src/phyml -i /data/http/www/exec/20200727-014015_Gj13/7_sir2_domains_cd_hit_vetted_muscle_phylip -d aa -o tlr -m LG -c 4 -a 0.915 -v 0.003 -f m -s NNI -b -4 --leave_duplicates --no_memory_check --print_trace --json_trace 
+
+
+
+
+
+  ////////////////////////////////////.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\.//////////////////////////////////////////
+
+        . Sequence filename:				 7_sir2_domains_cd_hit_vetted_muscle_phylip
+        . Data type:					 aa
+        . Alphabet size:				 20
+        . Sequence format:				 interleaved
+        . Number of data sets:				 1
+        . Nb of bootstrapped data sets:			 0
+        . Compute approximate likelihood ratio test:	 yes (SH-like branch supports)
+        . Model name:					 LG
+        . Proportion of invariable sites:		 0.003000
+        . Number of subst. rate catgs:			 4
+        . Gamma distribution parameter:			 0.915000
+        . 'Middle' of each rate class:			 mean
+        . Amino acid equilibrium frequencies:		 model
+        . Optimise tree topology:			 yes
+        . Starting tree:				 BioNJ
+        . Add random input tree:			 no
+        . Optimise branch lengths:			 yes
+        . Minimum length of an edge:			 1e-08
+        . Optimise substitution model parameters:	 no
+        . Run ID:					 none
+        . Random seed:					 1595810002
+        . Subtree patterns aliasing:			 no
+        . Version:					 3.3.20190909
+        . Byte alignment:				 32
+        . AVX enabled:					 yes
+        . SSE enabled:					 yes
+
+  ////////////////////////////////////.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\.//////////////////////////////////////////
+
+
+
+. 396 patterns found (out of a total of 404 sites). 
+
+. 36 sites without polymorphism (8.91%).
+
+
+. Computing pairwise distances...
+
+. Building BioNJ tree...
+
+. WARNING: this analysis requires at least 349 MB of memory space.
+
+
+. Score of initial tree: -65426.27
+
+. Starting first round of SPRs...
+
+	     689s |   1 | lnL=    -63816.2 | depth=   11/   85 | improvements= 331 | delta_lnL=   59.1/ 1000.0   +
+	    1361s |   2 | lnL=    -63667.1 | depth=   22/   51 | improvements= 279 | delta_lnL=  120.8/ 1000.0   +
+	    1948s |   3 | lnL=    -63594.3 | depth=   18/   30 | improvements= 272 | delta_lnL=   69.8/ 1000.0   +
+	    2419s |   4 | lnL=    -63445.4 | depth=   18/   24 | improvements= 287 | delta_lnL=   40.5/ 1000.0   +
+	    2854s |   5 | lnL=    -63514.2 | depth=   15/   24 | improvements= 247 | delta_lnL=   70.5/ 1000.0  
+	    3109s |   6 | lnL=    -63490.6 | depth=   13/   21 | improvements= 232 | delta_lnL=   40.7/  241.6  
+	    3361s |   7 | lnL=    -63480.4 | depth=   18/   19 | improvements= 283 | delta_lnL=  157.8/  241.6  
+	    3673s |   8 | lnL=    -63505.5 | depth=   13/   24 | improvements= 224 | delta_lnL=   93.8/  241.6  
+	    3951s |   9 | lnL=    -63364.6 | depth=   16/   19 | improvements= 200 | delta_lnL=   27.7/  241.6   +
+	    4289s |  10 | lnL=    -63469.0 | depth=   16/   22 | improvements= 192 | delta_lnL=   61.0/  315.5  
+	    4637s |  11 | lnL=    -63249.8 | depth=    9/   22 | improvements= 163 | delta_lnL=   37.5/  315.5   +
+	    4844s |  12 | lnL=    -63252.0 | depth=   11/   15 | improvements= 175 | delta_lnL=   46.4/  315.5  
+	    5085s |  13 | lnL=    -63220.2 | depth=    7/   17 | improvements= 140 | delta_lnL=   26.6/  315.5   +
+	    5210s |  14 | lnL=    -63204.4 | depth=   11/   13 | improvements= 131 | delta_lnL=   33.2/  122.1   +
+	    5348s |  15 | lnL=    -63194.5 | depth=    9/   17 | improvements= 107 | delta_lnL=   29.8/  122.1   +
+	    5471s |  16 | lnL=    -63146.6 | depth=   12/   15 | improvements=  58 | delta_lnL=   15.8/  122.1   +
+	    5610s |  17 | lnL=    -63135.1 | depth=   10/   18 | improvements=  65 | delta_lnL=   17.6/  122.1   +
+	    5698s |  18 | lnL=    -63128.2 | depth=    9/   16 | improvements=  63 | delta_lnL=   24.6/   66.4   +
+	    5784s |  19 | lnL=    -63124.9 | depth=   13/   15 | improvements=  62 | delta_lnL=   19.3/   66.4   +
+	    5882s |  20 | lnL=    -63105.3 | depth=   10/   19 | improvements=  48 | delta_lnL=   10.0/   66.4   +
+	    5976s |  21 | lnL=    -63082.1 | depth=    7/   16 | improvements=  57 | delta_lnL=   18.8/   66.4   +
+	    6045s |  22 | lnL=    -63107.6 | depth=    6/   13 | improvements=  54 | delta_lnL=   17.8/   50.0  
+	    6109s |  23 | lnL=    -63113.6 | depth=   10/   12 | improvements=  47 | delta_lnL=   25.3/   50.0  
+	    6180s |  24 | lnL=    -63096.6 | depth=    3/   16 | improvements=  47 | delta_lnL=    9.1/   50.0  
+	    6238s |  25 | lnL=    -63098.1 | depth=    5/    9 | improvements=  45 | delta_lnL=   18.9/   50.0  
+	    6297s |  26 | lnL=    -63100.0 | depth=    5/   11 | improvements=  31 | delta_lnL=    9.0/   50.5  
+	    6360s |  27 | lnL=    -63079.3 | depth=    5/   11 | improvements=  44 | delta_lnL=   17.4/   50.5   +
+	    6414s |  28 | lnL=    -63062.7 | depth=    4/   11 | improvements=  18 | delta_lnL=   30.0/   50.5   +
+	    6467s |  29 | lnL=    -63083.8 | depth=    1/   10 | improvements=  24 | delta_lnL=    0.0/   50.5  
+	    6516s |  30 | lnL=    -63074.3 | depth=    3/    7 | improvements=  16 | delta_lnL=   16.1/   60.0  
+	    6584s |  31 | lnL=    -63063.5 | depth=    7/    9 | improvements=  30 | delta_lnL=    9.6/   60.0  
+	    6653s |  32 | lnL=    -63098.5 | depth=   12/   13 | improvements=  23 | delta_lnL=   26.0/   60.0  
+	    6731s |  33 | lnL=    -63094.0 | depth=   10/   18 | improvements=  22 | delta_lnL=    8.6/   60.0  
+	    6801s |  34 | lnL=    -63080.3 | depth=   12/   16 | improvements=  29 | delta_lnL=   23.7/   52.1  
+	    6870s |  35 | lnL=    -63077.7 | depth=    2/   18 | improvements=  16 | delta_lnL=    5.2/   52.1  
+	    6928s |  36 | lnL=    -63083.1 | depth=    3/   10 | improvements=  26 | delta_lnL=    9.4/   52.1  
+	    6982s |  37 | lnL=    -63073.1 | depth=    2/    9 | improvements=  22 | delta_lnL=    2.7/   52.1  
+
+. Second round of optimization...
+
+	    7046s |  38 | lnL=    -63090.6 | depth=    4/   12 | improvements=  47 | delta_lnL=   12.1/   50.0  
+	    7103s |  39 | lnL=    -63083.3 | depth=    7/    9 | improvements=  44 | delta_lnL=   10.9/   50.0  
+	    7163s |  40 | lnL=    -63063.2 | depth=    9/   11 | improvements=  38 | delta_lnL=   12.2/   50.0  
+	    7256s |  41 | lnL=    -63053.7 | depth=   10/   13 | improvements=  38 | delta_lnL=   11.2/   50.0   +
+	    7299s |  42 | lnL=    -63063.4 | depth=   11/   14 | improvements=  40 | delta_lnL=    7.3/   24.4  
+	    7346s |  43 | lnL=    -63067.6 | depth=   12/   15 | improvements=  48 | delta_lnL=    9.8/   24.4  
+	    7390s |  44 | lnL=    -63064.1 | depth=   11/   16 | improvements=  44 | delta_lnL=   16.0/   24.4  
+	    7432s |  45 | lnL=    -63057.2 | depth=   13/   15 | improvements=  32 | delta_lnL=    7.1/   24.4  
+	    7484s |  46 | lnL=    -63060.3 | depth=    9/   17 | improvements=  32 | delta_lnL=    4.0/   32.1  
+	    7530s |  47 | lnL=    -63059.4 | depth=    3/   13 | improvements=  24 | delta_lnL=    5.7/   32.1  
+	    7570s |  48 | lnL=    -63057.2 | depth=    2/   10 | improvements=  24 | delta_lnL=    3.0/   32.1  
+	    7610s |  49 | lnL=    -63057.9 | depth=    8/    8 | improvements=  29 | delta_lnL=    7.9/   32.1  
+	    7648s |  50 | lnL=    -63056.8 | depth=    1/   12 | improvements=  34 | delta_lnL=    0.0/   20.0  
+
+. Third round of optimization...
+
+	    7933s |  51 | lnL=    -63033.2 | depth=    2/   10 | improvements=  28 | delta_lnL=    2.2/  100.0 | triple moves=   5   +
+	    8204s |  52 | lnL=    -63032.8 | depth=    1/    8 | improvements=   1 | delta_lnL=    0.0/  100.0 | triple moves=   8   +
+	    8477s |  53 | lnL=    -63032.8 | depth=    0/    6 | improvements=   0 | delta_lnL=    0.0/  100.0 | triple moves=   5   +
+
+. Final optimisation steps...
+
+
+. Log likelihood of the current tree: -63032.071484409956610761583.
+
+. Calculating fast branch supports (using 'SH').
+
+. Printing the most likely tree in file '7_sir2_domains_cd_hit_vetted_muscle_phylip_phyml_tree.txt'.
+
+. Time used 2h32m6s
+
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo

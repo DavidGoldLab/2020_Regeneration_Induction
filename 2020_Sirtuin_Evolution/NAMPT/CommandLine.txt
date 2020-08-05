@@ -1,0 +1,72 @@
+###########################################
+# Extract NAPRTase domains using samtools
+###########################################
+
+xargs samtools faidx 1_NCBI_RefSeq.fasta < 3_NAPRTase_Domains.txt > 4_NAPRTase_Domains.fasta
+
+#######################
+# Cleaning with CD-Hit
+#######################
+
+# create temp directory
+
+mkdir temp
+cd temp
+
+# Format results so each line is one sequence
+
+gsed s/"\(>\)\(.*\)"/"\1\2\t"/g ../4_NAPRTase_Domains.fasta > tmp1
+tr -d '\n' < tmp1  > tmp2
+gsed 's/>/\n>/g' tmp2 > tmp3
+gsed -E 's/^([^|]*)|/\1\t/' <(sort tmp3) > 4_NAPRTase_Domains.txt
+rm tmp*
+
+# split into files by ID
+
+awk -F'\t' '!_[$1]++ { fn && close(fn)
+fn = $1 ".tmp"
+}
+{ print > fn } ' 4_NAPRTase_Domains.txt
+
+# reformat into fasta
+
+for i in *.tmp
+	do
+	gsed -E 's/^([^\t]*)\t/\1/;s/\t([^\t]*)$/\n\1/' $i > ${i%.tmp}.fasta
+done
+
+for i in *.fasta
+	do
+	cd-hit -i $i -o ${i%.fasta}.cd-hit.txt -d 100 -c 0.95
+done
+
+cat *.cd-hit.txt > ../5_NAPRTase_Domains.CD-Hit_Vetted.fasta
+
+cd ../
+rm -r temp
+
+####################
+# Align with MUSCLE
+####################
+
+# Add outgroup sequences from NCBI pfam (cd01567 NAPRTase_PncB): 5_Outgroups.fasta
+
+cat 5_NAPRTase_Domains.CD-Hit_Vetted.fasta 5_Outgroups.fasta > 6_NAPRTase_Domains_plus_Outgroup.fasta
+muscle -in 6_NAPRTase_Domains_plus_Outgroup.fasta -out 6_NAPRTase_Domains.muscle.fasta
+
+#######################
+# Make tree with PhyML
+#######################
+
+# convert from fasta to phylip with biopython (Python 3.7.4)
+
+python
+from Bio import SeqIO
+records = SeqIO.parse("6_NAPRTase_Domains.muscle.fasta", "fasta")
+count = SeqIO.write(records, "7_NAPRTase_Domains.muscle.phylip", "phylip-relaxed")
+print("Converted %i records" % count)
+quit()
+
+phyml -i 7_NAPRTase_Domains.muscle.phylip -d aa \
+-o tlr -m LG -c 4 -a 0.884 -v 0.003 -f m -b -4 \
+--leave_duplicates --no_memory_check
