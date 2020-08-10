@@ -1,0 +1,42 @@
+Starting optimizeGeneTreesSlave
+LibpllModel Results/results/SIR2/libpllModel.txt
+Starting optimizing gene tree
+Number of ranks 1
+Taxa number: 262
+joint: -55076.5  libpll: -54232.7  reconciliation: -843.792  
+Initial ll = -55076.5
+Start SPR round (std::hash=42379, (best ll=-55076.5, radius=2, possible moves: 3182)
+best;; -55073.6 0
+Start SPR round (std::hash=46136, (best ll=-55073.6, radius=2, possible moves: 3190)
+best;; -55071 0
+Start SPR round (std::hash=23475, (best ll=-55071, radius=2, possible moves: 3190)
+best;; -55068.9 0
+Start SPR round (std::hash=12888, (best ll=-55068.9, radius=2, possible moves: 3190)
+best;; -55066.5 0
+Start SPR round (std::hash=19835, (best ll=-55066.5, radius=2, possible moves: 3198)
+best;; -55064.9 0
+Start SPR round (std::hash=11219, (best ll=-55064.9, radius=2, possible moves: 3206)
+best;; -55063.5 0
+Start SPR round (std::hash=52355, (best ll=-55063.5, radius=2, possible moves: 3206)
+best;; -55062.3 0
+Start SPR round (std::hash=39607, (best ll=-55062.3, radius=2, possible moves: 3214)
+best;; -55061.2 0
+Start SPR round (std::hash=83783, (best ll=-55061.2, radius=2, possible moves: 3222)
+best;; -55060.4 0
+Start SPR round (std::hash=27744, (best ll=-55060.4, radius=2, possible moves: 3222)
+best;; -55059.7 0
+Start SPR round (std::hash=163, (best ll=-55059.7, radius=2, possible moves: 3214)
+best;; -55058.8 0
+Start SPR round (std::hash=35663, (best ll=-55058.8, radius=2, possible moves: 3214)
+best;; -55058.6 0
+Start SPR round (std::hash=8955, (best ll=-55058.6, radius=2, possible moves: 3214)
+best;; -55058.5 0
+Start SPR round (std::hash=14451, (best ll=-55058.5, radius=2, possible moves: 3214)
+best;; -55058.4 0
+Start SPR round (std::hash=23879, (best ll=-55058.4, radius=2, possible moves: 3222)
+best;; -55058.4 0
+joint: -55058.4  libpll: -54255.3  reconciliation: -803.105  
+Saving tree in Results/results/SIR2/geneTree.newick
+Finished saving  Results/results/SIR2/geneTree.newick
+End of optimizing gene tree
+End of optimizeGeneTreesSlave

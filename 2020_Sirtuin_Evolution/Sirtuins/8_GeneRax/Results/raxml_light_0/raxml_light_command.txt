@@ -1,0 +1,1 @@
+SIR2 1 262 raxmlLight Results/startingTrees/SIR2.newick 8_Sir2_Domains.LessTaxa.muscle.fasta LG+G Results/results/SIR2/geneTree.newick Results/results/SIR2/libpllModel.txt Results/results/SIR2/raxml_light_stats.txt
