@@ -1,1 +1,0 @@
-SIR2 1 262 optimizeGeneTrees Results/results/SIR2/geneTree.newick Input_Mapping_File.txt 8_Sir2_Domains.LessTaxa.muscle.fasta Results/startingSpeciesTree.newick Results/results/SIR2/libpllModel.txt Results/gene_optimization_2/dtl_rates.txt 1 0 0 1 -1 1 1 1 2 Results/results/SIR2/geneTree.newick Results/results/SIR2/stats.txt
