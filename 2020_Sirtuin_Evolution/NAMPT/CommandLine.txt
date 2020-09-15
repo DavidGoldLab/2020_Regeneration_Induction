@@ -1,12 +1,52 @@
-###########################################
-# Extract NAPRTase domains using samtools
-###########################################
+###################
+# Blast with query 
+###################
 
-xargs samtools faidx 1_NCBI_RefSeq.fasta < 3_NAPRTase_Domains.txt > 4_NAPRTase_Domains.fasta
+# >NAMPT_HUMAN|sp|P43490
+# MNPAAEAEFNILLATDSYKVTHYKQYPPNTSKVYSYFECREKKTENSKLRKVKYEETVFY
+# GLQYILNKYLKGKVVTKEKIQEAKDVYKEHFQDDVFNEKGWNYILEKYDGHLPIEIKAVP
+# EGFVIPRGNVLFTVENTDPECYWLTNWIETILVQSWYPITVATNSREQKKILAKYLLETS
+# GNLDGLEYKLHDFGYRGVSSQETAGIGASAHLVNFKGTDTVAGLALIKKYYGTKDPVPGY
+# SVPAAEHSTITAWGKDHEKDAFEHIVTQFSSVPVSVVSDSYDIYNACEKIWGEDLRHLIV
+# SRSTQAPLIIRPDSGNPLDTVLKVLEILGKKFPVTENSKGYKLLPPYLRVIQGDGVDINT
+# LQEIVEGMKQKMWSIENIAFGSGGGLLQKLTRDLLNCSFKCSYVVTNGLGINVFKDPVAD
+# PNKRSKKGRLSLHRTPAGNFVTLEEGKGDLEEYGQDLLHTVFKNGKVTKSYSFDEIRKNA
+# QLNIELEAAHH
 
-#######################
-# Cleaning with CD-Hit
-#######################
+
+blastp -query 0_Query.fasta \
+-db /Volumes/Gold_USB/Sirtuin_BLAST/0_Sirtuin_BLAST_Database \
+-outfmt 6 -out 1_DB_BLAST_Hits.txt
+
+##############
+# Extract hits
+##############
+
+awk '{print $2}' 1_DB_BLAST_Hits.txt > Temp_BLAST_List
+
+xargs samtools faidx /Volumes/Gold_USB/Sirtuin_BLAST/0_Sirtuin_BLAST_Database.fasta \
+< Temp_BLAST_List > 2_DB_BLAST_Hits.fasta
+
+rm Temp_BLAST_List
+
+#######################################
+# Combine results with NCBI BLAST hits
+#######################################
+
+cat 2_DB_BLAST_Hits.fasta 1_NCBI_BLAST_Hits.fasta > 3_NAMPT_BLAST_Hits.fasta
+
+################################################
+# Identify DOMAIN with hmmer and extract DOMAINS
+################################################
+
+hmmscan --cpu 12 --domtblout 3_HMMER_PNC1PFAM.out Pfam-A.hmm \
+3_NAMPT_BLAST_Hits.fasta > 3_HMMER_NAMPTpfam.log
+
+xargs samtools faidx 3_NAMPT_BLAST_Hits.fasta < 3_HMMER_NAPRTase_Domains.txt > 4_NAPRTase_Domains.fasta
+
+#################################
+# Clean SIR2 domains with CD-Hit
+#################################
 
 # create temp directory
 
@@ -18,7 +58,7 @@ cd temp
 gsed s/"\(>\)\(.*\)"/"\1\2\t"/g ../4_NAPRTase_Domains.fasta > tmp1
 tr -d '\n' < tmp1  > tmp2
 gsed 's/>/\n>/g' tmp2 > tmp3
-gsed -E 's/^([^|]*)|/\1\t/' <(sort tmp3) > 4_NAPRTase_Domains.txt
+gsed -E 's/^([^|]*)|/\1\t/' <(sort tmp3) > 5_NAPRTase_Domains.txt
 rm tmp*
 
 # split into files by ID
@@ -26,18 +66,16 @@ rm tmp*
 awk -F'\t' '!_[$1]++ { fn && close(fn)
 fn = $1 ".tmp"
 }
-{ print > fn } ' 4_NAPRTase_Domains.txt
+{ print > fn } ' 5_NAPRTase_Domains.txt
 
 # reformat into fasta
 
-for i in *.tmp
-	do
-	gsed -E 's/^([^\t]*)\t/\1/;s/\t([^\t]*)$/\n\1/' $i > ${i%.tmp}.fasta
+for i in *.tmp; do
+	gsed -E 's/^([^\t]*)\t/\1/;s/\t([^\t]*)$/\n\1/' $i > ${i%.tmp}.fasta;
 done
 
-for i in *.fasta
-	do
-	cd-hit -i $i -o ${i%.fasta}.cd-hit.txt -d 100 -c 0.95
+for i in *.fasta; do
+	cd-hit -i $i -o ${i%.fasta}.cd-hit.txt -d 100 -c 0.95;
 done
 
 cat *.cd-hit.txt > ../5_NAPRTase_Domains.CD-Hit_Vetted.fasta
@@ -45,28 +83,84 @@ cat *.cd-hit.txt > ../5_NAPRTase_Domains.CD-Hit_Vetted.fasta
 cd ../
 rm -r temp
 
-####################
-# Align with MUSCLE
-####################
+######################################################
+# Remove sequences that are shorter than 90 basepairs
+######################################################
 
-# Add outgroup sequences from NCBI pfam (cd01567 NAPRTase_PncB): 5_Outgroups.fasta
+awk 'BEGIN {RS = ">" ; ORS = ""} length($2) >= 90 {print ">"$0}'  5_NAPRTase_Domains.CD-Hit_Vetted.fasta \
+> 6_NAPRTase_Domains.CD-Hit_Vetted.fasta
 
-cat 5_NAPRTase_Domains.CD-Hit_Vetted.fasta 5_Outgroups.fasta > 6_NAPRTase_Domains_plus_Outgroup.fasta
-muscle -in 6_NAPRTase_Domains_plus_Outgroup.fasta -out 6_NAPRTase_Domains.muscle.fasta
+awk 'BEGIN {RS = ">" ; ORS = ""} length($2) <= 90 {print ">"$0}'  5_NAPRTase_Domains.CD-Hit_Vetted.fasta \
+> 6_ShortSeqs.fasta
 
-#######################
-# Make tree with PhyML
-#######################
+####################################
+# Align with MAFFT (E-INS-i method)
+####################################
 
-# convert from fasta to phylip with biopython (Python 3.7.4)
+cat 6_NAPRTase_Domains.CD-Hit_Vetted.fasta 6_Outgroups.fasta >  6_NAPRTase_Domains.Vetted_Plus_Outgroup.fasta
+
+einsi 6_NAPRTase_Domains.Vetted_Plus_Outgroup.fasta > 7_NAPRTase_Domains.mafft.fasta
+
+#########################
+# Make tree with IQ-TREE
+#########################
+
+iqtree -s 7_NAPRTase_Domains.mafft.fasta -m MFP -alrt 1000 -bb 1000 -nt 16 -bnni
+
+# Remove probable contaminant sequences (output = 8_Sir2_Domains.FewerGenes.fasta)
+
+####################################
+# Realign and create new gene tree
+####################################
+
+einsi 8_Sir2_Domains.FewerGenes.fasta > 8_Sir2_Domains.FewerGenes.mafft.fasta
+
+iqtree -s 8_Sir2_Domains.FewerGenes.mafft.fasta -m MFP -bb 1000 -nt 4
+
+#############################
+# Run PhyML Tree (in Python)
+#############################
 
 python
 from Bio import SeqIO
-records = SeqIO.parse("6_NAPRTase_Domains.muscle.fasta", "fasta")
-count = SeqIO.write(records, "7_NAPRTase_Domains.muscle.phylip", "phylip-relaxed")
+records = SeqIO.parse("8_Sir2_Domains.FewerGenes.mafft.fasta", "fasta")
+count = SeqIO.write(records, "8_Sir2_Domains.FewerGenes.mafft.phylip", "phylip-relaxed")
 print("Converted %i records" % count)
 quit()
 
-phyml -i 7_NAPRTase_Domains.muscle.phylip -d aa \
--o tlr -m LG -c 4 -a 0.884 -v 0.003 -f m -b -4 \
---leave_duplicates --no_memory_check
+# Names shortened to avoid problems
+
+##########
+# GeneRax
+##########
+	
+generax -f 9_Input_Family_File.txt -s 9_Input_Species_Tree.newick --reconcile -p 9_GeneRax
+
+######################################
+# Species tree correction with Notung
+######################################
+ 
+java -jar /Users/davidgold/Documents/bioinformatics/Notung-2/Notung-2.9.1.5.jar \
+-g 9_Notung_Rooted_Gene_Tree.newick -s 9_Notung_Species_Tree.newick \
+--rearrange --threshold 90% --speciestag prefix \
+--nolosses --log  --events --treeoutput newick
+
+
+########################################################
+# Compare GeneRax and Notung trees with Phytools (in R)
+########################################################
+
+	# modified from http://phytools.org/Cordoba2017/ex/15/Plotting-methods.html
+
+# Had to import/export notung results through iTOL (https://itol.embl.de) to create newick parsable by phytools
+
+R
+library(phytools) 
+GeneRaxTree<-read.tree("./9_Output-GeneRax/reconciliations/SIR2_reconciliated.nhx")
+NotungTree<-read.tree("./9_Output-NOTUNG/9_Input_Gene_Tree.nexus.rearrange.iTOL.newick")
+obj<-cophylo(NotungTree,GeneRaxTree,rotate=TRUE)
+plot(obj)
+
+
+plot(obj,link.type="curved",link.lwd=3,link.lty="solid",
+    link.col=make.transparent("blue",0.25),fsize=0.8)
